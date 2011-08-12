@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 19937
+Video Position: 23986
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_05_[04AF3F57].avi
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -35,7 +35,7 @@ Style: ED - Romaji-furigana,Candela Bold,15,&H00090F77,&H00DEDEDE,&H004A5011,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:10.74,Dialogue,,0,0,0,,HEY BUDDY MAKE SURE ALL THE NARRATIVE SECTIONS ARE IN THE SAME TENSE OKAY THANKS MAN.
+Dialogue: 0,0:00:00.00,0:00:10.74,Dialogue,,0,0,0,,HEY BUDDY MAKE SURE ALL THE NARRATIVE SECTIONS ARE IN THE SAME TENSE OKAY THANKS MAN. ALSO MAKE SURE THAT YOU DECIDE WHAT YOU'RE GOING TO END UP DOING WITH HONORIFICS
 Dialogue: 0,0:00:10.74,0:00:13.01,Dialogue,Kyou,0,0,70,,Our parents are no longer here.
 Dialogue: 0,0:00:13.52,0:00:16.83,Dialogue,Kyou,0,0,70,,Because of that, Asu and I have to do our best on our own.
 Dialogue: 0,0:00:17.34,0:00:20.28,Dialogue,Kyou,0,0,70,,Sometimes it's difficult, but the two of us still pull through.
@@ -186,52 +186,54 @@ Dialogue: 0,0:13:41.99,0:13:43.04,Dialogue,,0,0,70,,We should leave.{let's go no
 Dialogue: 0,0:13:43.04,0:13:43.61,Dialogue,,0,0,70,,Ok.
 Dialogue: 0,0:13:51.53,0:13:54.97,Dialogue,,0,0,70,,We need to hurry up and find a new place to live, Asu.{I think we should find a place quickly, Asu.}
 Dialogue: 0,0:13:56.65,0:13:58.56,Dialogue,,0,0,70,,Kyo-chan! Asu-chan!
-Dialogue: 0,0:14:00.10,0:14:01.21,Dialogue,,0,0,70,,Hello.
-Dialogue: 0,0:14:01.21,0:14:03.98,Dialogue,,0,0,70,,Carrying such heavy luggage...
-Dialogue: 0,0:14:03.98,0:14:05.85,Dialogue,,0,0,70,,I heard you're looking for someplace to live.
-Dialogue: 0,0:14:05.85,0:14:08.26,Dialogue,,0,0,70,,Eh? Yeah.
-Dialogue: 0,0:14:08.77,0:14:10.55,Dialogue,,0,0,70,,If so, then don't worry about it.
-Dialogue: 0,0:14:11.69,0:14:14.52,Dialogue,,0,0,70,,It just so happens that the second floor of my house is empty.
-Dialogue: 0,0:14:18.16,0:14:19.44,Dialogue,,0,0,70,,Really?
-Dialogue: 0,0:14:19.54,0:14:21.73,Dialogue,,0,0,70,,No... wait.
-Dialogue: 0,0:14:21.73,0:14:23.38,Dialogue,,0,0,70,,No... wait.
-Dialogue: 0,0:14:23.83,0:14:27.02,Dialogue,,0,0,70,,Kyo-chan and Asu-chan shall live at my place.
-Dialogue: 0,0:14:27.02,0:14:27.73,Dialogue,,0,0,70,,Eh?
-Dialogue: 0,0:14:27.73,0:14:31.68,Dialogue,,0,0,70,,No... my house is pretty big and beautiful.
-Dialogue: 0,0:14:31.83,0:14:32.58,Dialogue,,0,0,70,,Huh?
-Dialogue: 0,0:14:32.77,0:14:36.47,Dialogue,,0,0,70,,Um... that... my house doesn't want renters.
-Dialogue: 0,0:14:36.47,0:14:37.71,Dialogue,,0,0,70,,Huh?
-Dialogue: 0,0:14:38.17,0:14:40.27,Dialogue,,0,0,70,,What? What are you thinking about?
-Dialogue: 0,0:14:40.27,0:14:46.55,Dialogue,,0,0,70,,Haven't we talked about this already?\NUm... Kyo-chan and Asu-chan will live in my house.
-Dialogue: 0,0:14:46.55,0:14:52.15,Dialogue,,0,0,90,,It seems like everyone has heard that we're moving out of the apartment.
-Dialogue: 0,0:14:54.09,0:14:58.01,Dialogue,,0,0,70,,Um... why does everyone know about what happened to us?
-Dialogue: 0,0:14:58.01,0:15:00.79,Dialogue,,0,0,70,,Uh...
-Dialogue: 0,0:15:01.23,0:15:04.31,Dialogue,,0,0,70,,Truthfully, it was Hayashi-san who asked us.
+Dialogue: 0,0:14:00.10,0:14:01.21,Dialogue,,0,0,70,,Hello!
+Dialogue: 0,0:14:01.21,0:14:03.98,Dialogue,,0,0,70,,Carrying all that luggage!
+Dialogue: 0,0:14:03.98,0:14:05.85,Dialogue,,0,0,70,,You're looking for somewhere to live, right?
+Dialogue: 0,0:14:05.85,0:14:08.26,Dialogue,,0,0,70,,Eh? Well, yes.
+Dialogue: 0,0:14:08.77,0:14:10.55,Dialogue,,0,0,70,,If so, then don't worry about a thing.
+Dialogue: 0,0:14:11.69,0:14:14.52,Dialogue,,0,0,70,,It just so happens that the second floor of my house is unoccupied.
+Dialogue: 0,0:14:18.16,0:14:19.44,Dialogue,,0,0,70,,Are you serious?
+Dialogue: 0,0:14:19.54,0:14:21.73,Dialogue,,0,0,70,,Hey now, wait a minute.
+Dialogue: 0,0:14:21.73,0:14:23.38,Dialogue,,0,0,70,,Yeah, hold on now.
+Dialogue: 0,0:14:23.83,0:14:27.02,Dialogue,,0,0,70,,Kyo-chan and Asu-chan are going to live on {\i1}my{\i0} second floor.
+Comment: 0,0:14:27.02,0:14:27.73,Dialogue,,0,0,70,,Huh?
+Dialogue: 0,0:14:27.73,0:14:31.68,Dialogue,,0,0,70,,No way! My house is bigger and cleaner!
+Comment: 0,0:14:31.83,0:14:32.58,Dialogue,,0,0,70,,Huh?
+Dialogue: 0,0:14:32.77,0:14:36.47,Dialogue,,0,0,70,,Well, uhm--I won't even charge you rent!
+Dialogue: 0,0:14:36.47,0:14:37.71,Dialogue,,0,0,70,,Huh?{TIC-FUCKING-TAC-FUCKING-TOE, MOTHERFUCKER}
+Dialogue: 0,0:14:38.17,0:14:40.27,Dialogue,,0,0,70,,What? What's this all about?
+Dialogue: 0,0:14:40.27,0:14:41.92,Dialogue,,0,0,70,,Yeah! Just what are you thinking?
+Dialogue: 0,0:14:42.02,0:14:46.55,Dialogue,,0,0,70,,You listen here, Asu-chan and Kyou-chan will be living on my second floor, and moreover...
+Dialogue: 0,0:14:46.55,0:14:52.15,Dialogue,,0,0,90,,Somehow, it seems like everyone has heard that we have to move out of the apartment.
+Dialogue: 0,0:14:54.09,0:14:58.01,Dialogue,,0,0,70,,Um, everyone, why do you all know that we have to...
+Dialogue: 0,0:14:58.01,0:15:00.79,Dialogue,,0,0,70,,Uhm, eh... well... about that--
+Dialogue: 0,0:15:01.23,0:15:04.31,Dialogue,,0,0,70,,The truth is, I was asked by Hayashi-san.{goddamn honorifics}
 Dialogue: 0,0:15:04.54,0:15:05.64,Dialogue,,0,0,70,,Me too.
-Dialogue: 0,0:15:06.06,0:15:07.36,Dialogue,,0,0,70,,From Owner-san!?
+Dialogue: 0,0:15:06.06,0:15:07.36,Dialogue,,0,0,70,,By the landlord!?
 Dialogue: 0,0:15:07.36,0:15:08.39,Dialogue,,0,0,70,,Me too.
-Dialogue: 0,0:15:08.39,0:15:11.52,Dialogue,,0,0,70,,Why did Owner-san ask for a place for us to live in?
-Dialogue: 0,0:15:12.27,0:15:14.96,Dialogue,,0,0,70,,Hayashi-san didn't say anything,
-Dialogue: 0,0:15:15.91,0:15:19.52,Dialogue,,0,0,70,,but he thinks and worries about you two as his granddaughters.
-Dialogue: 0,0:15:21.16,0:15:24.01,Dialogue,,0,0,70,,Because of the incident with Eriko-san and Mami-chan, right?
-Dialogue: 0,0:15:25.00,0:15:26.28,Dialogue,,0,0,70,,Those names...
-Dialogue: 0,0:15:26.59,0:15:29.05,Dialogue,,0,0,70,,Eriko! Mami!
-Dialogue: 0,0:15:31.68,0:15:34.49,Dialogue,,0,0,70,,They're Hayashi's wife and granddaughter.
-Dialogue: 0,0:15:34.74,0:15:37.66,Dialogue,,0,0,70,,I've always thought Owner-san lives by himself.
-Dialogue: 0,0:15:38.48,0:15:40.08,Dialogue,,0,0,70,,It's been a while.
-Dialogue: 0,0:15:40.08,0:15:41.92,Dialogue,,0,0,70,,This sad tale...
-Dialogue: 0,0:15:51.65,0:15:54.31,Dialogue,,0,0,70,,It's been forty years...
-Dialogue: 0,0:15:54.69,0:15:56.29,Dialogue,,0,0,70,,Such a sad incident.
-Dialogue: 0,0:15:59.69,0:16:01.94,Dialogue,,0,0,70,,The culprit was a huge truck.
-Dialogue: 0,0:16:02.46,0:16:05.47,Dialogue,,0,0,70,,For someone who didn't like to talk a lot in the first place...
-Dialogue: 0,0:16:05.47,0:16:08.45,Dialogue,,0,0,70,,He has never smiled again since that incident.
-Dialogue: 0,0:16:09.69,0:16:15.04,Dialogue,,0,0,70,,He even invited his family over to view the sakura trees he planted.
-Dialogue: 0,0:16:15.55,0:16:16.93,Dialogue,,0,0,70,,Flower viewing...
-Dialogue: 0,0:16:19.66,0:16:24.66,Dialogue,,0,0,70,,That sakura tree must have been a very important thing to the owner.
-Dialogue: 0,0:16:24.89,0:16:29.36,Dialogue,,0,0,70,,That's why the owner always looked at that tree.
-Dialogue: 0,0:16:30.29,0:16:31.57,Dialogue,,0,0,70,,That's why...
-Dialogue: 0,0:16:32.39,0:16:35.41,Dialogue,,0,0,70,,We must figure out a way to stop the apartment from being torn down.
-Dialogue: 0,0:16:36.99,0:16:38.65,Dialogue,,0,0,70,,Onee-chan, let's go.
+Dialogue: 0,0:15:08.39,0:15:11.52,Dialogue,,0,0,70,,Why does the landlord care about where the two of us--
+Dialogue: 0,0:15:12.27,0:15:14.96,Dialogue,,0,0,70,,Hayashi-san might not say anything,{HONORIFICS}
+Dialogue: 0,0:15:15.91,0:15:19.52,Dialogue,,0,0,70,,but he worries about the two of you like you 're his own grandchildren.
+Dialogue: 0,0:15:21.16,0:15:24.01,Dialogue,,0,0,70,,It's all because of what happened to Eriko-san and Mami-chan, I bet.
+Dialogue: 0,0:15:25.00,0:15:26.28,Dialogue,,0,0,70,,Those names...{I'll let nullx decide how to nuke this}
+Dialogue: 0,0:15:26.59,0:15:29.05,Dialogue,,0,0,70,,Eriko...! Mami...!{ADDING SOME UBERLIPSIS}
+Dialogue: 0,0:15:31.68,0:15:34.49,Dialogue,,0,0,70,,They were Hayashi-san's wife and granddaughter.{idgi. why did doremi not use honorifics on this line. DOUSHITE}
+Dialogue: 0,0:15:34.74,0:15:37.66,Dialogue,,0,0,70,,We always thought the landlord lived alone!
+Dialogue: 0,0:15:38.48,0:15:40.08,Dialogue,,0,0,70,,It was a long time ago.
+Dialogue: 0,0:15:40.08,0:15:41.92,Dialogue,,0,0,70,,He lost them in an accident.
+Dialogue: 0,0:15:51.65,0:15:54.31,Dialogue,,0,0,70,,It's been forty years since then.
+Dialogue: 0,0:15:54.69,0:15:56.29,Dialogue,,0,0,70,,It was a terrible accident
+Comment: 0,0:15:59.69,0:16:01.94,Dialogue,,0,0,70,,The culprit was a huge truck.{I really wanted to leave this in here}
+Dialogue: 0,0:15:59.69,0:16:01.94,Dialogue,,0,0,70,,The driver was in a huge truck.
+Dialogue: 0,0:16:02.46,0:16:05.47,Dialogue,,0,0,70,,He was never a man of many words,
+Dialogue: 0,0:16:05.47,0:16:08.45,Dialogue,,0,0,70,,but nobody has seen him so much as laugh or even smile since that day.
+Dialogue: 0,0:16:09.69,0:16:15.04,Dialogue,,0,0,70,,The three of them would always happily watch the sakura bloom.
+Dialogue: 0,0:16:15.55,0:16:16.93,Dialogue,,0,0,70,,Watching the sakura...{gah. I set myself up for this. Is it too late to opt for "cherry blossoms"?}
+Dialogue: 0,0:16:19.66,0:16:24.66,Dialogue,,0,0,70,,That sakura tree must be very important to the landlord.
+Dialogue: 0,0:16:24.89,0:16:29.36,Dialogue,,0,0,70,,That's why the landlord would stare at the sakura tree so intently.
+Dialogue: 0,0:16:30.29,0:16:31.57,Dialogue,,0,0,70,,So that's how it was.
+Dialogue: 0,0:16:32.39,0:16:35.41,Dialogue,,0,0,70,,If we don't do something to stop the new complex from being built...
+Dialogue: 0,0:16:36.99,0:16:38.65,Dialogue,,0,0,70,,Onee-chan, let's go!
 Dialogue: 0,0:16:39.02,0:16:39.78,Dialogue,,0,0,70,,Asu!
 Dialogue: 0,0:16:40.39,0:16:43.98,Dialogue,,0,0,70,,Obasan, can you put these luggage at your house for now?
 Dialogue: 0,0:16:43.98,0:16:45.24,Dialogue,,0,0,70,,I'll come back to retrieve them later.
