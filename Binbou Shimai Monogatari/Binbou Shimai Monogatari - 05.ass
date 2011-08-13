@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 23986
+Video Position: 25920
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_05_[04AF3F57].avi
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -65,8 +65,8 @@ Dialogue: 0,0:01:42.49,0:01:45.69,Dialogue,,0,0,70,,So, we were left behind.
 Dialogue: 0,0:01:46.74,0:01:50.68,Dialogue,,0,0,70,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
 Dialogue: 0,0:01:50.91,0:01:52.87,Dialogue,,0,0,70,,This is our home.
 Dialogue: 0,0:01:53.25,0:01:55.56,Dialogue,,0,0,70,,But, when spring comes...
-Dialogue: 0,0:03:28.17,0:03:32.24,Dialogue,Title,0,0,70,,A Day of the Apartment, Sakura, and Moving {アパートと桜と引越しの日}
-Dialogue: 0,0:03:38.64,0:03:39.67,Dialogue,Kyo,0,0,70,,Mr. Landlord!
+Dialogue: 0,0:03:28.17,0:03:32.24,Dialogue,,0,0,70,,A Day of the Apartment, Sakura, and Moving {アパートと桜と引越しの日}
+Dialogue: 0,0:03:38.64,0:03:39.67,Dialogue,,0,0,70,,Mr. Landlord!
 Dialogue: 0,0:04:00.15,0:04:01.76,Dialogue,,0,0,70,,Eriko...
 Dialogue: 0,0:04:01.76,0:04:02.70,Dialogue,,0,0,70,,Mami...
 Dialogue: 0,0:04:08.06,0:04:10.88,Dialogue,,0,0,70,,Ah, uh-what do you want?
@@ -93,24 +93,24 @@ Dialogue: 0,0:05:44.14,0:05:44.75,Dialogue,,0,0,70,,Ok.
 Dialogue: 0,0:05:45.86,0:05:47.14,Dialogue,,0,0,70,,Where should we go?
 Dialogue: 0,0:05:47.14,0:05:48.57,Dialogue,,0,0,70,,Anywhere is fine.
 Dialogue: 0,0:05:51.05,0:05:53.36,Dialogue,,0,0,70,,Let's keep thinking about it until tomorrow.
-Dialogue: 0,0:05:53.95,0:05:54.58,Dialogue,Kyou,0,0,70,,Sure.{Ok.}
+Dialogue: 0,0:05:53.95,0:05:54.58,Dialogue,,0,0,70,,Sure.{Ok.}
 Dialogue: 0,0:06:27.21,0:06:31.77,Dialogue,,0,0,70,,Asu,
 Dialogue: 0,0:06:27.21,0:06:31.77,Dialogue,,0,0,70,,have you thought of any place you really want to go?
-Dialogue: 0,0:06:32.65,0:06:35.25,Dialogue,Kyou,0,0,70,,Nope. Have you?
+Dialogue: 0,0:06:32.65,0:06:35.25,Dialogue,,0,0,70,,Nope. Have you?
 Dialogue: 0,0:06:36.09,0:06:37.04,Dialogue,,0,0,70,,Not yet.
 Dialogue: 0,0:06:37.84,0:06:39.75,Dialogue,,0,0,70,,I'm still thinking. {about it}
 Dialogue: 0,0:06:48.02,0:06:51.57,Dialogue,,0,0,70,,Ahh. Seems like staying at home is the best after all.{Ah, home is where the heart is.}{lolno}{Hmmm... looks like home is still the best place.}
-Dialogue: 0,0:06:51.57,0:06:52.85,Dialogue,Kyou,0,0,70,,Isn't it?
+Dialogue: 0,0:06:51.57,0:06:52.85,Dialogue,,0,0,70,,Isn't it?
 Dialogue: 0,0:06:55.71,0:06:56.38,Dialogue,,0,0,70,,ARA?!?!
 Dialogue: 0,0:06:57.01,0:06:57.87,Dialogue,,0,0,70,,What is it?
-Dialogue: 0,0:06:57.87,0:06:58.84,Dialogue,Kyou,0,0,70,,Over there.
+Dialogue: 0,0:06:57.87,0:06:58.84,Dialogue,,0,0,70,,Over there.
 Dialogue: 0,0:06:59.00,0:06:59.84,Dialogue,,0,0,70,,Where?
-Dialogue: 0,0:07:00.14,0:07:01.42,Dialogue,Kyou,0,0,70,,Over there, over there.
+Dialogue: 0,0:07:00.14,0:07:01.42,Dialogue,,0,0,70,,Over there, over there.
 Comment: 0,0:07:07.24,0:07:08.37,Dialogue,,0,0,70,,Eh? {WHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA}
-Dialogue: 0,0:07:08.73,0:07:10.51,Dialogue,Kyou,0,0,70,,Onee-chan, that's...
+Dialogue: 0,0:07:08.73,0:07:10.51,Dialogue,,0,0,70,,Onee-chan, that's...
 Dialogue: 0,0:07:10.68,0:07:12.82,Dialogue,,0,0,70,,Yeah, it's blooming!
-Dialogue: 0,0:07:21.39,0:07:23.91,Dialogue,Kyou,0,0,70,,It's already evening, onee-chan.{It's getting dark, Onee-chan.}
-Dialogue: 0,0:07:23.91,0:07:25.61,Dialogue,kyou,0,0,70,,So it is.
+Dialogue: 0,0:07:21.39,0:07:23.91,Dialogue,,0,0,70,,It's already evening, onee-chan.{It's getting dark, Onee-chan.}
+Dialogue: 0,0:07:23.91,0:07:25.61,Dialogue,,0,0,70,,So it is.
 Dialogue: 0,0:07:25.93,0:07:30.29,Dialogue,,0,0,70,,But at least today was a good chance to just relax. It was nice, wasn't it?{But, today wasn't too bad.}
 Dialogue: 0,0:07:30.29,0:07:31.87,Dialogue,,0,0,70,,Yeah, it was.{Right!}
 Dialogue: 0,0:07:33.99,0:07:37.87,Dialogue,,0,0,70,,Hey, onee-chan, let's go to the bath early tonight.{let's go to Hawaii early tonight!}
@@ -156,9 +156,9 @@ Dialogue: 0,0:10:52.90,0:10:56.28,Dialogue,,0,0,70,,Onee-chan, will this sakura 
 Dialogue: 0,0:10:56.28,0:10:58.42,Dialogue,,0,0,70,,If they're building a mansion, it probably will.
 Dialogue: 0,0:10:58.82,0:11:02.69,Dialogue,,0,0,70,,Now that I think about it, the landlord was gazing at this tree.
 Dialogue: 0,0:11:03.88,0:11:07.29,Dialogue,,0,0,70,,he was probably doing it because his precious tree is going to get cut down.
-Dialogue: 0,0:11:15.15,0:11:23.16,Dialogue,Eyecatch,0,0,70,,(Bean sprouts for breakfast, bean sprouts for lunch, and bean sprouts for dinner...)
+Dialogue: 0,0:11:15.15,0:11:23.16,Dialogue,,0,0,70,,(Bean sprouts for breakfast, bean sprouts for lunch, and bean sprouts for dinner...)
 Dialogue: 0,0:11:23.16,0:11:31.60,Dialogue,,0,0,70,,(If you cook a pot of noodles longer they'll become bigger.)
-Dialogue: 0,0:11:37.82,0:11:41.18,Dialogue,Kyo,0,0,70,,Asu, this house looks like it's pretty big and comfortable.
+Dialogue: 0,0:11:37.82,0:11:41.18,Dialogue,,0,0,70,,Asu, this house looks like it's pretty big and comfortable.
 Dialogue: 0,0:11:41.18,0:11:42.42,Dialogue,,0,0,70,,You're right.
 Dialogue: 0,0:11:42.63,0:11:44.96,Dialogue,,0,0,70,,Ah, this looks pretty good too.
 Dialogue: 0,0:11:45.02,0:11:47.82,Dialogue,,0,0,70,,Yeah, there're a lot of options.
@@ -235,28 +235,27 @@ Dialogue: 0,0:16:30.29,0:16:31.57,Dialogue,,0,0,70,,So that's how it was.
 Dialogue: 0,0:16:32.39,0:16:35.41,Dialogue,,0,0,70,,If we don't do something to stop the new complex from being built...
 Dialogue: 0,0:16:36.99,0:16:38.65,Dialogue,,0,0,70,,Onee-chan, let's go!
 Dialogue: 0,0:16:39.02,0:16:39.78,Dialogue,,0,0,70,,Asu!
-Dialogue: 0,0:16:40.39,0:16:43.98,Dialogue,,0,0,70,,Obasan, can you put these luggage at your house for now?
-Dialogue: 0,0:16:43.98,0:16:45.24,Dialogue,,0,0,70,,I'll come back to retrieve them later.
-Dialogue: 0,0:16:45.24,0:16:46.63,Dialogue,,0,0,70,,Eh? Wait...
-Dialogue: 0,0:16:46.63,0:16:47.80,Dialogue,,0,0,70,,You two...
-Dialogue: 0,0:16:48.10,0:16:51.41,Dialogue,,0,0,70,,Sorry, everyone. Thank you.
+Dialogue: 0,0:16:40.39,0:16:43.98,Dialogue,,0,0,70,,Obaa-san! Can you please keep these bags for the time being?{Obasan, can you put these luggage at your house for now?}
+Dialogue: 0,0:16:43.98,0:16:45.24,Dialogue,,0,0,70,,We'll come back for them soon!
+Dialogue: 0,0:16:45.24,0:16:47.80,Dialogue,,0,0,70,,Hey, w-wait, you two!
+Dialogue: 0,0:16:48.10,0:16:51.41,Dialogue,,0,0,70,,Everyone, we're sorry, but thank you for your trouble.
 Dialogue: 0,0:16:52.02,0:16:54.02,Dialogue,,0,0,70,,Asu, let's go back to the apartment.
-Dialogue: 0,0:16:54.02,0:16:54.63,Dialogue,,0,0,70,,Ok.
-Dialogue: 0,0:17:00.11,0:17:05.69,Dialogue,,0,0,70,,I've always thought... that as long as I'm together with Asu, I can survive anything.
-Dialogue: 0,0:17:05.69,0:17:10.63,Dialogue,,0,0,70,,So as long as I'm with Asu, living in that apartment is fine.
+Comment: 0,0:16:54.02,0:16:54.63,Dialogue,,0,0,70,,Yeah {idk about commenting this out}
+Dialogue: 0,0:17:00.11,0:17:05.69,Dialogue,,0,0,70,,All this time, I thought that you and I were all alone, Asu.{I've always thought... that as long as I'm together with Asu, I can survive anything.}
+Dialogue: 0,0:17:05.69,0:17:10.63,Dialogue,,0,0,70,,So I thought that as long as we were together, it wouldn't matter where we were living.
 Dialogue: 0,0:17:11.01,0:17:12.06,Dialogue,,0,0,70,,Onee-chan!
-Dialogue: 0,0:17:12.29,0:17:15.63,Dialogue,,0,0,70,,But, Owner-san told us to move out first.
-Dialogue: 0,0:17:15.63,0:17:18.50,Dialogue,,0,0,70,,When I looked at the real estate houses I figured out something.
-Dialogue: 0,0:17:18.65,0:17:24.59,Dialogue,,0,0,70,,I really love that apartment, and if it got torn down...
-Dialogue: 0,0:17:24.80,0:17:25.48,Dialogue,,0,0,70,,Yes.
-Dialogue: 0,0:17:25.75,0:17:28.54,Dialogue,,0,0,70,,I wish I can live in there forever.
-Dialogue: 0,0:17:28.54,0:17:30.39,Dialogue,,0,0,70,,Me too, Onee-chan.
-Dialogue: 0,0:17:43.70,0:17:45.34,Dialogue,,0,0,70,,They've already started the construction.
-Dialogue: 0,0:17:45.95,0:17:47.25,Dialogue,,0,0,70,,Were we too late?
-Dialogue: 0,0:17:52.82,0:17:53.93,Dialogue,,0,0,70,,Owner-san!
-Dialogue: 0,0:17:55.23,0:17:57.40,Dialogue,,0,0,70,,Wh-what the, you two...!
-Dialogue: 0,0:17:57.88,0:18:00.90,Dialogue,,0,0,70,,Please don't tear down the apartment!
-Dialogue: 0,0:18:01.07,0:18:03.93,Dialogue,,0,0,70,,Don't cut down that sakura tree!
+Dialogue: 0,0:17:12.29,0:17:15.63,Dialogue,,0,0,70,,But when the landlord kicked us out,{But, Owner-san told us to move out first.}
+Dialogue: 0,0:17:15.63,0:17:18.50,Dialogue,,0,0,70,,While we were looking for a new place to stay, I realized something.{When I looked at the real estate houses I figured out something.}
+Dialogue: 0,0:17:18.65,0:17:24.59,Dialogue,,0,0,70,,I really love that apartment! When I think about it being torn down, I realize it even more!{herp derp}
+Dialogue: 0,0:17:24.80,0:17:25.48,Dialogue,,0,0,70,,Yeah!
+Dialogue: 0,0:17:25.75,0:17:28.54,Dialogue,Kyou,0,0,70,,I want to live there forever!
+Dialogue: 0,0:17:28.54,0:17:30.39,Dialogue,,0,0,70,,Me too, Onee-chan!
+Dialogue: 0,0:17:43.70,0:17:45.34,Dialogue,Kyou,0,0,70,,They've already started the construction?!
+Dialogue: 0,0:17:45.95,0:17:47.25,Dialogue,Kyou,0,0,70,,Are we too late?
+Dialogue: 0,0:17:52.82,0:17:53.93,Dialogue,Kyou,0,0,70,,Mr. Landlord!
+Dialogue: 0,0:17:55.23,0:17:57.40,Dialogue,,0,0,70,,Wh-why are you two here?{Wh-what the, you two...!}
+Dialogue: 0,0:17:57.88,0:18:00.90,Dialogue,,0,0,70,,Please don't let them tear down the apartment!{TEAR IT DOWN WITH YOUR BEAR HANDS HAYASHI-SAN}
+Dialogue: 0,0:18:01.07,0:18:03.93,Dialogue,,0,0,70,,The sakura tree! Don't cut down the sakura tree!
 Dialogue: 0,0:18:06.95,0:18:08.21,Dialogue,,0,0,70,,No way!
 Dialogue: 0,0:18:10.04,0:18:12.18,Dialogue,,0,0,70,,Owner-san! Why!?
 Dialogue: 0,0:18:13.69,0:18:16.88,Dialogue,,0,0,70,,I didn't want to tear down the apartment.
