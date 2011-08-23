@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 11699
+Video Position: 16849
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -37,12 +37,12 @@ Style: ED - Romaji-furigana,Candela Bold,15,&H00090F77,&H00DEDEDE,&H004A5011,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,A Day of the Apartment, Sakura, and Moving {アパートと桜と引越しの日}
 Dialogue: 0,0:08:07.92,0:08:10.17,generic sign style,,0,0,0,,{\bord2\3c&HA88F91&\frz345\fax0.11\pos(412,62)}Bath House Hawaii
-Dialogue: 0,0:09:18.12,0:09:20.58,generic sign style,,0,0,0,,{contract, perhaps?}
+Dialogue: 0,0:09:18.12,0:09:20.58,generic sign style,,0,0,0,,{contract, perhaps?}{?約?}
 Dialogue: 0,0:09:30.04,0:09:32.04,generic sign style,,0,0,0,,
 Dialogue: 0,0:11:15.98,0:11:23.99,generic sign style,,0,0,0,,Bean sprouts for breakfast, bean sprouts for lunch, and bean sprouts for dinner.
 Dialogue: 0,0:11:23.99,0:11:32.50,generic sign style,,0,0,0,,If you cook a pot of noodles longer they'll become bigger.{When you overboil noodles and they stretch out, you get more servings of noodles}
 Dialogue: 0,0:11:32.50,0:11:38.05,generic sign style,,0,0,0,,{signs}
-Dialogue: 0,0:11:38.05,0:11:43.01,generic sign style,,0,0,0,,Sawa Real Estate
+Dialogue: 0,0:11:38.05,0:11:43.01,generic sign style,,0,0,0,,{\frz339\pos(499,68)\c&H3F3A40&\b1}Sawa Real Estate
 Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,Apartment for Rent
 Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,Rent: 42000 yen a month
 Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,Faces south, nice and sunny. Just a two minute walk to the station!
