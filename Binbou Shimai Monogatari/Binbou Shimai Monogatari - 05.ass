@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 16403
+Video Position: 16980
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -45,9 +45,19 @@ Dialogue: 0,0:11:15.98,0:11:23.99,generic sign style,,0,0,0,,{\c&H343434&\fnmega
 Dialogue: 0,0:11:23.99,0:11:32.50,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz8.02\pos(143,95)}The longer you boil the noodles,\Nthe bigger they get.{If you cook a pot of noodles longer they'll become bigger.}{When you overboil noodles and they stretch out, you get more servings of noodles}
 Dialogue: 0,0:11:32.50,0:11:38.05,generic sign style,,0,0,0,,{signs}
 Dialogue: 0,0:11:38.05,0:11:43.01,generic sign style,,0,0,0,,{\frz339\pos(499,68)\c&H3F3A40&\b1}Sawa Real Estate
-Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,Apartment for Rent
-Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,Rent: 42000 yen a month
-Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,Faces south, nice and sunny. Just a two minute walk to the station!
+Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,{\fs20\frz12.7\pos(311,49)\fax-0.15\b1\c&H665858&}Apartment for Rent
+Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,{\fs20\frz12\fax-0.15\b1\c&H665858&\pos(319,114)}Rent: 42000 yen/mo.
+Dialogue: 0,0:11:43.01,0:11:44.01,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.01,0:11:44.05,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 225 407 l 234 389 240 387 245 391 247 398 246 409)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.05,0:11:44.09,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 218 404 l 224 401 230 391 236 381 237 375 239 373 242 371 247 372 251 378 251 391 247 404)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.09,0:11:44.14,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 180 414 l 186 411 197 393 200 392 205 392 208 400 223 391 232 382 240 367 245 356 248 355 256 367 254 381 246 400 240 409)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.14,0:11:44.18,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 180 398 l 202 390 229 375 228 371 234 369 244 353 260 361 256 372 253 381 248 389 244 395 235 401 224 409 132 422)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.18,0:11:44.22,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 257 364 l 252 374 246 380 229 393 212 403 209 411 193 417 156 412 167 371)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.22,0:11:44.26,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 177 414 l 178 386 260 352 248 367 218 388 213 395 218 395 241 394 248 394 252 395 257 399 258 404)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.26,0:11:44.30,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 228 380 l 251 378 258 381 261 385 263 390 263 395 262 402 258 415 167 422 165 384)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.30,0:11:44.35,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 228 366 l 257 364 263 366 266 372 267 377 267 384 266 389 262 400 164 414 168 390)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.35,0:11:44.39,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 271 363 l 272 371 267 385 275 391 279 401 279 408 275 418 263 425 154 411 229 361)}Faces south, nice and sunny.\NJust a two minute walk to the station!
+Dialogue: 0,0:11:44.39,0:11:46.72,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 275 360 l 270 373 279 378 281 384 283 393 281 404 274 414 173 426 173 387 194 363)}Faces south, nice and sunny.\NJust a two minute walk to the station!
 Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,Closet
 Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,Storage
 Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,6-mat western style room
