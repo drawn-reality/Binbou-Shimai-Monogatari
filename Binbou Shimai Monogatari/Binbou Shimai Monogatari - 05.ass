@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 16980
+Video Position: 17147
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -58,11 +58,11 @@ Dialogue: 0,0:11:44.26,0:11:44.30,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0
 Dialogue: 0,0:11:44.30,0:11:44.35,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 228 366 l 257 364 263 366 266 372 267 377 267 384 266 389 262 400 164 414 168 390)}Faces south, nice and sunny.\NJust a two minute walk to the station!
 Dialogue: 0,0:11:44.35,0:11:44.39,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 271 363 l 272 371 267 385 275 391 279 401 279 408 275 418 263 425 154 411 229 361)}Faces south, nice and sunny.\NJust a two minute walk to the station!
 Dialogue: 0,0:11:44.39,0:11:46.72,generic sign style,,0,0,0,,{\fs20\frz9.5\fax-0.15\b1\c&H665858&\an9\pos(393,338)\iclip(m 275 360 l 270 373 279 378 281 384 283 393 281 404 274 414 173 426 173 387 194 363)}Faces south, nice and sunny.\NJust a two minute walk to the station!
-Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,Closet
-Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,Storage
-Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,6-mat western style room
-Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,4-mat Japanese style room
-Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,Veranda
+Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,{\b1\c&H544B46&\fs20\pos(370,287)}Closet{押入}
+Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,{\b1\c&H544B46&\fs20\pos(371,397)\bord2\3c&HF6F1F3&}Storage{物}
+Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,{\fs20\b1\c&H544B46&\pos(487,123)}6-mat Western style room{洋6}
+Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,{\fs20\pos(497,335)\b1\c&H544B46&}4-mat Japanese style room{和4}
+Dialogue: 0,0:11:55.04,0:11:55.27,generic sign style,,0,0,0,,{\fs20\pos(647,112)\b1\c&H544B46&}Veranda{ベランダ}
 Dialogue: 0,0:13:15.81,0:13:21.78,generic sign style,,0,0,0,,{sigh}
 Dialogue: 0,0:00:00.00,0:00:10.74,Dialogue,,0,0,0,,HEY BUDDY MAKE SURE ALL THE NARRATIVE SECTIONS ARE IN THE SAME TENSE OKAY THANKS MAN. ALSO MAKE SURE THAT YOU DECIDE WHAT YOU'RE GOING TO END UP DOING WITH HONORIFICS
 Dialogue: 0,0:00:10.74,0:00:13.01,Dialogue-italic,Kyou,0,0,0,,Our parents are no longer here.
