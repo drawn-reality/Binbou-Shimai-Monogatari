@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 13385
+Video Position: 16403
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -41,8 +41,8 @@ Dialogue: 0,0:09:18.12,0:09:18.24,generic sign style,,0,0,0,,{\fs16\pos(196,421)
 Dialogue: 0,0:09:18.24,0:09:18.37,generic sign style,,0,0,0,,{\fs16\pos(201,341)\b1\frz351\c&H97B0A6&}Contract{契約書 【けいやくしょ】 (n) (written) contract}
 Dialogue: 0,0:09:18.37,0:09:20.58,generic sign style,,0,0,0,,{\fs16\pos(205,281)\b1\frz351\c&H97B0A6&}Contract{契約書 【けいやくしょ】 (n) (written) contract}
 Dialogue: 0,0:09:30.04,0:09:32.04,generic sign style,,0,0,0,,
-Dialogue: 0,0:11:15.98,0:11:23.99,generic sign style,,0,0,0,,Bean sprouts for breakfast, bean sprouts for lunch, and bean sprouts for dinner.
-Dialogue: 0,0:11:23.99,0:11:32.50,generic sign style,,0,0,0,,The longer you boil the noodles, the bigger they get.{If you cook a pot of noodles longer they'll become bigger.}{When you overboil noodles and they stretch out, you get more servings of noodles}
+Dialogue: 0,0:11:15.98,0:11:23.99,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz8.02\pos(269,396)}Bean sprouts for breakfast,\Nbean sprouts for lunch,\Nand bean sprouts for dinner.
+Dialogue: 0,0:11:23.99,0:11:32.50,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz8.02\pos(143,95)}The longer you boil the noodles,\Nthe bigger they get.{If you cook a pot of noodles longer they'll become bigger.}{When you overboil noodles and they stretch out, you get more servings of noodles}
 Dialogue: 0,0:11:32.50,0:11:38.05,generic sign style,,0,0,0,,{signs}
 Dialogue: 0,0:11:38.05,0:11:43.01,generic sign style,,0,0,0,,{\frz339\pos(499,68)\c&H3F3A40&\b1}Sawa Real Estate
 Dialogue: 0,0:11:43.01,0:11:46.72,generic sign style,,0,0,0,,Apartment for Rent
