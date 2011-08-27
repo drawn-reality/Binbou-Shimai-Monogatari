@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 572
+Video Position: 1287
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -77,16 +77,16 @@ Dialogue: 0,0:00:13.50,0:00:16.83,Dialogue-italic,Kyou,0,0,0,,Because of that, A
 Dialogue: 0,0:00:17.35,0:00:20.70,Dialogue-italic,Kyou,0,0,0,,Sometimes it’s difficult, but the two of us still pull through.
 Dialogue: 0,0:00:20.94,0:00:23.12,Dialogue-italic,Kyou,0,0,0,,So far, we’ve managed to get by this wa{\fsp-1}y{\fsp}.
 Dialogue: 0,0:00:23.83,0:00:26.92,Dialogue,Kyou,0,0,0,,This month’s bills are going to put us in a bit of a pinch, huh?
-Dialogue: 0,0:00:26.92,0:00:28.65,Dialogue,Asu,0,0,0,,Yes, it’ll be a pinch.
-Dialogue: 0,0:00:30.67,0:00:34.53,Dialogue-italic,Kyou,0,0,0,,Spring, which will bring this sakura tree into bloom is still far awa{\fsp-1}y{\fsp},
+Dialogue: 0,0:00:26.92,0:00:28.17,Dialogue,Asu,0,0,0,,Yes, it’ll be a pinch.
+Dialogue: 0,0:00:30.67,0:00:34.53,Dialogue-italic,Kyou,0,0,0,,Spring, which will bring this sakura tree into bloom, is still far awa{\fsp-1}y{\fsp},
 Dialogue: 0,0:00:34.53,0:00:36.99,Dialogue-italic,Kyou,0,0,0,,and a harsh winter is right around the corne{\fsp-1}r{\fsp}.
 Dialogue: 0,0:00:36.99,0:00:41.35,Dialogue-italic,Kyou,0,0,0,,We don’t have anyone to protect us from the cold.
 Dialogue: 0,0:00:42.09,0:00:44.78,Dialogue-italic,Kyou,0,0,0,,There isn’t anyone who understands that type of coldness.
 Dialogue: 0,0:00:44.78,0:00:46.74,Dialogue-italic,Kyou,0,0,0,,That’s what I think.
 Dialogue: 0,0:00:47.47,0:00:48.73,Dialogue,Kyou,0,0,0,,That said...
 Dialogue: 0,0:00:48.94,0:00:49.89,Dialogue,Asu,0,0,0,,Yes.
-Dialogue: 0,0:00:49.89,0:00:50.87,Dialogue,Asu,0,0,0,,That said,
-Dialogue: 0,0:00:53.67,0:00:55.24,Dialogue,Both,0,0,0,,we won’t lose!
+Dialogue: 0,0:00:49.89,0:00:50.87,Dialogue,Asu,0,0,0,,That said...
+Dialogue: 0,0:00:53.67,0:00:55.24,Dialogue,Both,0,0,0,,We won’t lose!
 Dialogue: 0,0:01:02.52,0:01:05.58,Dialogue,Asu,0,0,0,,Onee-chan, the landlord is looking at the sakura tree.
 Dialogue: 0,0:01:05.58,0:01:08.40,Dialogue,Kyou,0,0,0,,Ah, you’re right.
 Dialogue: 0,0:01:09.03,0:01:11.48,Dialogue,Kyou,0,0,0,,Let’s try asking him for an extension, one last time.{this’ll be the last time}
