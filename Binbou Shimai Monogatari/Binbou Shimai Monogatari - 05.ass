@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 1738
+Video Position: 13342
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -36,13 +36,13 @@ Style: ED - Romaji-furigana,Candela Bold,15,&H00090F77,&H00DEDEDE,&H004A5011,&H0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\alpha&HFF&\t(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,60)\blur0.7\fsp3\shad0\fs40}A{\fs20} {\fs40}D{\fs25}ay of the {\fs40\fsp6}A{\fs25\fsp3}partment,
-Dialogue: 1,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp3\fs40\pos(357,55)}A{\fs20} {\fs40}D{\fs25}ay of the {\fs40\fsp6}A{\fs25\fsp3}partment,
-Dialogue: 2,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H8CE49B&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40}A{\fs20} {\fs40}D{\fs25}ay {\c&H7CD3F2&}of the {\fs40\fsp6}A{\fs25\fsp3}partment,
-Dialogue: 3,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H8F64F8&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40\clip(m 175 11 l 547 11 547 40 451 42 451 39 387 39 386 36 384 42 328 43 295 40 292 44 276 44 210 35 175 40)}A{\fs20} {\fs40}D{\fs25}ay {\c&H80D686&}of {\c&HFFA1E2&}the {\fs40\fsp6}A{\fs25\fsp3}partment,
-Dialogue: 0,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\alpha&HFF&\t(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,467)\fsp3\shad0\fs40}S{\fs25}akura, and {\fs40}M{\fs25}oving{アパートと桜と引越しの日}
-Dialogue: 1,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp3\fs40\pos(357,462)}S{\fs25}akura, and {\fs40}M{\fs25}oving{アパートと桜と引越しの日}
-Dialogue: 2,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs40}S{\fs25}akura, and {\fs40\c&HA87FFE&}M{\fs25}oving{アパートと桜と引越しの日}
-Dialogue: 3,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HF091FF&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs40\clip(m 218 414 l 504 414 504 447 495 443 480 443 479 448 452 449 452 446 380 441 314 451 265 446 263 442 218 447)}S{\fs25}akura, {\c&H7BD285&}and {\fs40\c&HFDCC7F&}M{\fs25}oving{アパートと桜と引越しの日}
+Dialogue: 1,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp3\fs40\pos(357,55)}A{\fs20} {\fs40}D{\fs25}ay of the {\fs40\fsp6}A{\fs25\fsp3}partment{\fs40},
+Dialogue: 2,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H8CE49B&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40}A{\fs20} {\fs40}D{\fs25}ay {\c&H7CD3F2&}of the {\fs40\fsp6}A{\fs25\fsp3}partment{\fs40},
+Dialogue: 3,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H8F64F8&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40\clip(m 175 11 l 547 11 547 40 451 42 451 39 387 39 386 36 384 42 328 43 295 40 292 44 276 44 210 35 175 40)}A{\fs20} {\fs40}D{\fs25}ay {\c&H80D686&}of {\c&HFFA1E2&}the {\fs40\fsp6}A{\fs25\fsp3}partment{\fs40},
+Dialogue: 0,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\alpha&HFF&\t(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,467)\fsp3\shad0\fs40}S{\fs25}akur{\fsp7}a{\fsp3\fs40},{\fs25} and {\fs40}M{\fs25}oving{アパートと桜と引越しの日}
+Dialogue: 1,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp3\fs40\pos(357,462)}S{\fs25}akur{\fsp7}a{\fsp3\fs40},{\fs25} and {\fs40}M{\fs25}oving{アパートと桜と引越しの日}
+Dialogue: 2,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs40}S{\fs25}akur{\fsp7}a{\fsp3\fs40},{\fs25} and {\fs40\c&HA87FFE&}M{\fs25}oving{アパートと桜と引越しの日}
+Dialogue: 3,0:03:28.22,0:03:32.52,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HF091FF&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs40\clip(m 218 414 l 504 414 504 447 495 443 480 443 479 448 452 449 452 446 380 441 314 451 265 446 263 442 218 447)}S{\fs25}akur{\fsp7}a{\fsp3\fs40},{\fs25} {\c&H7BD285&}and {\fs40\c&HFDCC7F&}M{\fs25}oving{アパートと桜と引越しの日}
 Dialogue: 0,0:08:07.92,0:08:10.17,generic sign style,,0,0,0,,{\bord2\3c&HA88F91&\frz345\fax0.11\pos(412,62)}Bath House Hawaii
 Dialogue: 0,0:09:18.12,0:09:18.24,generic sign style,,0,0,0,,{\fs16\pos(196,421)\b1\frz351\c&H97B0A6&}Contract{契約書 【けいやくしょ】 (n) (written) contract}
 Dialogue: 0,0:09:18.24,0:09:18.37,generic sign style,,0,0,0,,{\fs16\pos(201,341)\b1\frz351\c&H97B0A6&}Contract{契約書 【けいやくしょ】 (n) (written) contract}
@@ -169,7 +169,7 @@ Dialogue: 0,0:09:02.65,0:09:05.48,Dialogue-italic,Kyou,0,0,0,,I paid last month�
 Dialogue: 0,0:09:05.48,0:09:08.15,Dialogue-italic,Landlord,0,0,0,,There’s really no time, so hurry up and leave.{There’s no more time. I would like for you two to leave as soon as possible.}
 Dialogue: 0,0:09:08.46,0:09:09.75,Dialogue-italic,Kyou,0,0,0,,No wa{\fsp-1}y{\fsp}...
 Dialogue: 0,0:09:12.65,0:09:16.11,Dialogue-italic,Kyou,0,0,0,,If you make us leave, we won’t have anywhere to live!{We don’t have anywhere else to go other than this apartment!}
-Dialogue: 0,0:09:16.44,0:09:20.58,Dialogue-italic,Landlord,0,0,0,,I’m telling you to leave. {If I assert my landowner’s powe{\fsp-1}r{\fsp}, then you two will have to leave quickl{\fsp-1}y{\fsp}.}
+Dialogue: 0,0:09:16.44,0:09:20.58,Dialogue-italic,Landlord,0,0,0,,I’m telling you to leave. {If I assert my landowner’s power, then you two will have to leave quickly.}
 Dialogue: 0,0:09:25.78,0:09:27.48,Dialogue,Extras,0,0,0,,So that’s what happened...
 Dialogue: 0,0:09:30.67,0:09:34.58,Dialogue,Asu,0,0,0,,Onee-chan, do we really have to move out?
 Dialogue: 0,0:09:34.58,0:09:38.41,Dialogue,Kyou,0,0,0,,We don’t have a choice. We can’t keep being a bother to the landlord.{we can’t bother the owner anymore.}
