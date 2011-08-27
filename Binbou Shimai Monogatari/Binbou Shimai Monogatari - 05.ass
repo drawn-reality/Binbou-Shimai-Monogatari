@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 16607
+Video Position: 503
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -75,7 +75,7 @@ Dialogue: 0,0:00:00.00,0:00:10.74,Dialogue,,0,0,0,,HEY BUDDY MAKE SURE ALL THE N
 Dialogue: 0,0:00:10.74,0:00:13.08,Dialogue-italic,Kyou,0,0,0,,Our parents are no longer here.
 Dialogue: 0,0:00:13.50,0:00:16.83,Dialogue-italic,Kyou,0,0,0,,Because of that, Asu and I have to do our best on our own.
 Dialogue: 0,0:00:17.35,0:00:20.70,Dialogue-italic,Kyou,0,0,0,,Sometimes it’s difficult, but the two of us still pull through.
-Dialogue: 0,0:00:20.94,0:00:23.12,Dialogue-italic,Kyou,0,0,0,,Up to this point, we’ve been able to live our lives this wa{\fsp-1}y{\fsp}.
+Dialogue: 0,0:00:20.94,0:00:23.12,Dialogue-italic,Kyou,0,0,0,,Until now, we’ve managed to get by this wa{\fsp-1}y{\fsp}.
 Dialogue: 0,0:00:23.83,0:00:26.92,Dialogue,Kyou,0,0,0,,This month’s bills are going to put us in a bit of a pinch, huh?
 Dialogue: 0,0:00:26.92,0:00:28.65,Dialogue,Asu,0,0,0,,Yes, it’ll be a pinch.
 Dialogue: 0,0:00:30.67,0:00:34.53,Dialogue-italic,Kyou,0,0,0,,Spring, which will bring this sakura tree into bloom is still far awa{\fsp-1}y{\fsp},
