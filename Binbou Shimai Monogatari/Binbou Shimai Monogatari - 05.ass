@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 8271
+Video Position: 11203
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -128,9 +128,9 @@ Dialogue: 0,0:05:38.33,0:05:42.86,Dialogue,Kyou,0,0,0,,Also, tomorrow I have the
 Dialogue: 0,0:05:44.96,0:05:45.82,Dialogue,Asu,0,0,0,,Okay.
 Dialogue: 0,0:05:46.70,0:05:48.00,Dialogue,Asu,0,0,0,,Where should we go?
 Dialogue: 0,0:05:48.00,0:05:49.45,Dialogue,Kyou,0,0,0,,Anywhere is fine.
-Dialogue: 0,0:05:51.83,0:05:54.19,Dialogue,Kyou,0,0,0,,Let’s keep thinking about it until tomorrow.
+Dialogue: 0,0:05:51.83,0:05:54.19,Dialogue,Kyou,0,0,0,,We can keep thinking about it until tomorrow.
 Dialogue: 0,0:05:54.79,0:05:55.56,Dialogue,Asu,0,0,0,,Sure.{Ok.}
-Dialogue: 0,0:06:27.99,0:06:32.70,Dialogue,Kyou,0,0,0,,Asu, have you thought of any place you really want to go?
+Dialogue: 0,0:06:27.99,0:06:32.70,Dialogue,Kyou,0,0,0,,Asu, have you thought of somewhere you really want to go?
 Dialogue: 0,0:06:33.43,0:06:36.16,Dialogue,Asu,0,0,0,,Nope. Have you?
 Dialogue: 0,0:06:36.87,0:06:37.93,Dialogue,Kyou,0,0,0,,Not yet.
 Dialogue: 0,0:06:38.68,0:06:40.78,Dialogue,Kyou,0,0,0,,I’m still thinking. {about it}
@@ -151,7 +151,7 @@ Dialogue: 0,0:07:26.63,0:07:31.26,Dialogue,Kyou,0,0,0,,But at least today was a 
 Dialogue: 0,0:07:31.26,0:07:32.47,Dialogue,Asu,0,0,0,,Yeah, it was.{Right!}
 Dialogue: 0,0:07:34.84,0:07:38.81,Dialogue,Asu,0,0,0,,He{\fsp-1}y{\fsp}, Onee-chan, let’s go to the bath early tonight.{let’s go to Hawaii early tonight!}
 Dialogue: 0,0:07:38.81,0:07:41.74,Dialogue,Kyou,0,0,0,,Sure! You want to go now?{should we go early today?}
-Dialogue: 0,0:07:47.24,0:07:50.86,Dialogue,Kyou,0,0,0,,Well then, let’s just take long and relaxing baths.{Well then, I’m going to soak myself well toda{\fsp-1}y{\fsp}.}
+Dialogue: 0,0:07:47.24,0:07:50.86,Dialogue,Kyou,0,0,0,,We'll be able to take our time and relax.{Well then, I’m going to soak myself well today}
 Dialogue: 0,0:07:51.14,0:07:53.07,Dialogue,Asu,0,0,0,,Sure! Let’s go.
 Dialogue: 0,0:08:11.48,0:08:12.86,Dialogue,Extras,0,0,0,,Welco—
 Dialogue: 0,0:08:12.86,0:08:17.39,Dialogue,Extras,0,0,0,,Hmm? What’s wrong? Kyou-chan, Asu-chan!
