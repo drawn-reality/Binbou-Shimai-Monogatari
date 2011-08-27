@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 11203
+Video Position: 13079
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -157,17 +157,17 @@ Dialogue: 0,0:08:11.48,0:08:12.86,Dialogue,Extras,0,0,0,,Welco—
 Dialogue: 0,0:08:12.86,0:08:17.39,Dialogue,Extras,0,0,0,,Hmm? What’s wrong? Kyou-chan, Asu-chan!
 Dialogue: 0,0:08:21.50,0:08:23.35,Dialogue,Extras,0,0,0,,The two of you don’t look so well.
 Dialogue: 0,0:08:26.26,0:08:28.11,Dialogue,Extras,0,0,0,,What happened, Kyou-chan?
-Dialogue: 0,0:08:29.10,0:08:34.57,Dialogue,Kyou,0,0,0,,Oba-san, we’re going to be evicted from our apartment! {being evicted from our apartment!}
+Dialogue: 0,0:08:29.10,0:08:34.57,Dialogue,Kyou,0,0,0,,Oba-san, we’ve been told we have to leave our apartment! {being evicted from our apartment!}
 Dialogue: 0,0:08:35.88,0:08:37.26,Dialogue,Extras,0,0,0,,What do you mean?
-Dialogue: 0,0:08:40.88,0:08:43.06,Dialogue-italic,Kyou,0,0,0,,M{\fsp-1}r{\fsp}. Landlord, good evening.
-Dialogue: 0,0:08:43.06,0:08:45.25,Dialogue-italic,Kyou,0,0,0,,We’re heading over to the bathhouse.
+Dialogue: 0,0:08:40.88,0:08:43.06,Dialogue-italic,Kyou,0,0,0,,M{\fsp-1.5}r{\fsp}. Landlord, good evening.
+Dialogue: 0,0:08:43.06,0:08:45.25,Dialogue-italic,Kyou,0,0,0,,We’re heading over to the bathhouse right now.
 Dialogue: 0,0:08:45.53,0:08:46.63,Dialogue-italic,Landlord,0,0,0,,I see.
 Dialogue: 0,0:08:47.35,0:08:51.71,Dialogue-italic,Landlord,0,0,0,,That aside, you two—can you move out of the apartment?
 Comment: 0,0:08:53.53,0:08:54.04,Dialogue-italic,,0,0,0,,What?{NANI NANI 何}
-Dialogue: 0,0:08:54.55,0:08:57.18,Dialogue-italic,Landlord,0,0,0,,I said, move out of the apartment.
-Dialogue: 0,0:08:57.18,0:09:00.47,Dialogue-italic,Kyou,0,0,0,,Wh-why?
-Dialogue: 0,0:09:02.65,0:09:05.48,Dialogue-italic,Kyou,0,0,0,,I paid last month’s rent yesterday!{Didn’t we already turn in last month’s rent?}
-Dialogue: 0,0:09:05.48,0:09:08.15,Dialogue-italic,Landlord,0,0,0,,There’s really no time, so hurry up and leave.{There’s no more time. I would like for you two to leave as soon as possible.}
+Dialogue: 0,0:08:54.55,0:08:56.68,Dialogue-italic,Landlord,0,0,0,,I said, move out of the apartment.
+Dialogue: 0,0:08:57.18,0:09:00.47,Dialogue-italic,Kyou,0,0,0,,Wh-Why?
+Dialogue: 0,0:09:02.65,0:09:05.48,Dialogue-italic,Kyou,0,0,0,,But I paid last month’s rent yesterday!{Didn’t we already turn in last month’s rent?}
+Dialogue: 0,0:09:05.48,0:09:08.15,Dialogue-italic,Landlord,0,0,0,,It's urgent, so hurry up and leave.{There’s no more time. I would like for you two to leave as soon as possible.}
 Dialogue: 0,0:09:08.46,0:09:09.75,Dialogue-italic,Kyou,0,0,0,,No wa{\fsp-1}y{\fsp}...
 Dialogue: 0,0:09:12.65,0:09:16.11,Dialogue-italic,Kyou,0,0,0,,If you make us leave, we won’t have anywhere to live!{We don’t have anywhere else to go other than this apartment!}
 Dialogue: 0,0:09:16.44,0:09:20.58,Dialogue-italic,Landlord,0,0,0,,I’m telling you to leave. {If I assert my landowner’s power, then you two will have to leave quickly.}
