@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 1287
+Video Position: 1738
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -89,8 +89,8 @@ Dialogue: 0,0:00:49.89,0:00:50.87,Dialogue,Asu,0,0,0,,That said...
 Dialogue: 0,0:00:53.67,0:00:55.24,Dialogue,Both,0,0,0,,We won’t lose!
 Dialogue: 0,0:01:02.52,0:01:05.58,Dialogue,Asu,0,0,0,,Onee-chan, the landlord is looking at the sakura tree.
 Dialogue: 0,0:01:05.58,0:01:08.40,Dialogue,Kyou,0,0,0,,Ah, you’re right.
-Dialogue: 0,0:01:09.03,0:01:11.48,Dialogue,Kyou,0,0,0,,Let’s try asking him for an extension, one last time.{this’ll be the last time}
-Dialogue: 0,0:01:12.45,0:01:14.04,Dialogue,Asu,0,0,0,,I wonder if that’s really all right.
+Dialogue: 0,0:01:09.03,0:01:11.48,Dialogue,Kyou,0,0,0,,Let’s try asking him for an extension, one more time.{HERP DERP WE SO POOR}
+Dialogue: 0,0:01:12.45,0:01:14.04,Dialogue,Asu,0,0,0,,Is it even worth trying?
 Dialogue: 0,0:01:14.42,0:01:16.61,Dialogue,Asu,0,0,0,,We’ve already asked him so many times.
 Dialogue: 0,0:01:16.61,0:01:18.44,Dialogue,Asu,0,0,0,,He’ll probably just tell us no again.
 Dialogue: 0,0:01:19.00,0:01:21.39,Dialogue,Kyou,0,0,0,,We’ll worry about that when it happens.{When that happens we’ll think of something.}{That’ll happen when it happens}
