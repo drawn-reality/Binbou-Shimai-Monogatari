@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 7888
+Video Position: 8271
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -123,9 +123,9 @@ Dialogue: 0,0:05:23.57,0:05:25.47,Dialogue,Asu,0,0,0,,Thank you for all your wor
 Dialogue: 0,0:05:25.47,0:05:28.99,Dialogue,Kyou,0,0,0,,I also got paid for my tutoring job,{This month I’ve also received pay from my tutoring job.}
 Dialogue: 0,0:05:28.99,0:05:31.22,Dialogue,Kyou,0,0,0,,so we should have a little left over this month.
 Dialogue: 0,0:05:31.22,0:05:32.68,Dialogue,Asu,0,0,0,,That’s great, Onee-chan!
-Dialogue: 0,0:05:32.90,0:05:38.33,Dialogue,Kyou,0,0,0,,First of all, since the landlord was nice enough to wait this long, we need to take care of last month’s rent.{First we have to pay off the rent from last month to Owner-san.}
-Dialogue: 0,0:05:38.33,0:05:42.86,Dialogue,Kyou,0,0,0,,After that, since I have tomorrow off, why don’t we go somewhere together?{And then, tomorrow I have a day off. Let’s go out somewhere.}
-Dialogue: 0,0:05:44.96,0:05:45.82,Dialogue,Asu,0,0,0,,Ok.
+Dialogue: 0,0:05:32.90,0:05:38.33,Dialogue,Kyou,0,0,0,,First of all, since the landlord was nice enough to wait this long, we should take care of last month’s rent.{First we have to pay off the rent from last month to Owner-san.}
+Dialogue: 0,0:05:38.33,0:05:42.86,Dialogue,Kyou,0,0,0,,Also, tomorrow I have the day off for once. Why don’t we go somewhere together?{And then, tomorrow I have a day off. Let’s go out somewhere.}
+Dialogue: 0,0:05:44.96,0:05:45.82,Dialogue,Asu,0,0,0,,Okay.
 Dialogue: 0,0:05:46.70,0:05:48.00,Dialogue,Asu,0,0,0,,Where should we go?
 Dialogue: 0,0:05:48.00,0:05:49.45,Dialogue,Kyou,0,0,0,,Anywhere is fine.
 Dialogue: 0,0:05:51.83,0:05:54.19,Dialogue,Kyou,0,0,0,,Let’s keep thinking about it until tomorrow.
