@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 13079
+Video Position: 15677
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -170,25 +170,25 @@ Dialogue: 0,0:09:02.65,0:09:05.48,Dialogue-italic,Kyou,0,0,0,,But I paid last mo
 Dialogue: 0,0:09:05.48,0:09:08.15,Dialogue-italic,Landlord,0,0,0,,It's urgent, so hurry up and leave.{There’s no more time. I would like for you two to leave as soon as possible.}
 Dialogue: 0,0:09:08.46,0:09:09.75,Dialogue-italic,Kyou,0,0,0,,No wa{\fsp-1}y{\fsp}...
 Dialogue: 0,0:09:12.65,0:09:16.11,Dialogue-italic,Kyou,0,0,0,,If you make us leave, we won’t have anywhere to live!{We don’t have anywhere else to go other than this apartment!}
-Dialogue: 0,0:09:16.44,0:09:20.58,Dialogue-italic,Landlord,0,0,0,,I’m telling you to leave. {If I assert my landowner’s power, then you two will have to leave quickly.}
+Dialogue: 0,0:09:16.44,0:09:20.58,Dialogue-italic,Landlord,0,0,0,,If you won't cooperate with me, I'll have to force you to leave. {If I assert my landowner’s power, then you two will have to leave quickly.}
 Dialogue: 0,0:09:25.78,0:09:27.48,Dialogue,Extras,0,0,0,,So that’s what happened...
 Dialogue: 0,0:09:30.67,0:09:34.58,Dialogue,Asu,0,0,0,,Onee-chan, do we really have to move out?
 Dialogue: 0,0:09:34.58,0:09:38.41,Dialogue,Kyou,0,0,0,,We don’t have a choice. We can’t keep being a bother to the landlord.{we can’t bother the owner anymore.}
-Dialogue: 0,0:09:41.34,0:09:47.62,Dialogue-italic,Kyou,0,0,0,,I guess renting a room to the two of us ended up being troublesome for the landlord after all.{So the owner must have thought that renting an apartment to the two of us was pretty risk{\fsp-1}y{\fsp}...}
+Dialogue: 0,0:09:41.34,0:09:47.62,Dialogue-italic,Kyou,0,0,0,,I suppose renting a room out to two young girls ended up causing the landlord trouble.{I guess renting a room to the two of us ended up being troublesome for the landlord after all.}{So the owner must have thought that renting an apartment to the two of us was pretty risky...}
 Dialogue: 0,0:09:53.96,0:09:57.45,Dialogue,Kyou,0,0,0,,But, hey! We’ll worry about that when it happens, right, Asu?
 Dialogue: 0,0:09:58.53,0:10:00.68,Dialogue,Asu,0,0,0,,You’re right, Onee-chan.
 Dialogue: 0,0:10:02.27,0:10:06.00,Dialogue,Kyou,0,0,0,,The two of us just need to keep giving it our all.{The two of us have to live on.}
 Dialogue: 0,0:10:06.00,0:10:08.23,Dialogue,Kyou,0,0,0,,There’s no way we’re going to be beaten!
 Dialogue: 0,0:10:08.23,0:10:09.06,Dialogue,Asu,0,0,0,,Right!
-Dialogue: 0,0:10:16.58,0:10:21.12,Dialogue,Asu,0,0,0,,When spring comes, we won’t be able to watch the sakura tree from this room.
+Dialogue: 0,0:10:16.58,0:10:21.12,Dialogue,Asu,0,0,0,,Next spring, we won’t be able to watch the sakura tree from this room.
 Comment: 0,0:10:21.33,0:10:21.74,Dialogue,,0,0,0,,Yeah.{figure out something better}
 Dialogue: 0,0:10:27.31,0:10:30.14,Dialogue,Ranko,0,0,0,,I came across some news by means of a rumo{\fsp-1}r{\fsp}.
 Dialogue: 0,0:10:31.04,0:10:35.16,Dialogue,Ranko,0,0,0,,It seems like they’re going to build a luxury mansion complex here.{"luxury mansion complex" is a very sketchy phrase but I left it in because it made me laugh}
-Dialogue: 0,0:10:35.52,0:10:40.92,Dialogue,Kyou,0,0,0,,What? They’re going to tear this apartment down just to build a luxury mansion complex?{kyou needs to learn some economics}{Eh? So that means they’re tearing down this apartment just for that?}
+Dialogue: 0,0:10:35.52,0:10:40.92,Dialogue,Kyou,0,0,0,,What? They’re going to tear this apartment down just to build some luxury mansion complex?{kyou needs to learn some economics}{Eh? So that means they’re tearing down this apartment just for that?}
 Dialogue: 0,0:10:41.34,0:10:43.75,Dialogue,Ranko,0,0,0,,That seems to be the case.
 Dialogue: 0,0:10:43.75,0:10:46.62,Dialogue,Kyou,0,0,0,,So that’s why the landlord is making us leave.
-Dialogue: 0,0:10:46.86,0:10:51.59,Dialogue,Ranko,0,0,0,,He hasn’t said anything to me yet, but it seems I should start packing too.{I haven’t been notified yet, but I guess I should start packing.}
-Dialogue: 0,0:10:53.72,0:10:57.07,Dialogue,Asu,0,0,0,,Onee-chan, will this sakura tree be cut down, too?
+Dialogue: 0,0:10:46.86,0:10:51.59,Dialogue,Ranko,0,0,0,,He hasn’t mentioned it to me yet, but I suppose I should start packing too.{I haven’t been notified yet, but I guess I should start packing.}
+Dialogue: 0,0:10:53.72,0:10:57.07,Dialogue,Asu,0,0,0,,Onee-chan, do you think this sakura tree will be cut down, too?
 Dialogue: 0,0:10:57.07,0:10:59.22,Dialogue,Kyou,0,0,0,,If they’re building a mansion, it probably will.
 Dialogue: 0,0:10:59.60,0:11:03.56,Dialogue,Asu,0,0,0,,Now that I think about it, the landlord was gazing at this tree.
 Dialogue: 0,0:11:04.66,0:11:08.02,Dialogue,Asu,0,0,0,,He was probably doing it because his precious tree is going to get cut down.
