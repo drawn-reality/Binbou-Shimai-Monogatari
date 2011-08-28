@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 15677
+Video Position: 21033
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -191,41 +191,42 @@ Dialogue: 0,0:10:46.86,0:10:51.59,Dialogue,Ranko,0,0,0,,He hasn’t mentioned it
 Dialogue: 0,0:10:53.72,0:10:57.07,Dialogue,Asu,0,0,0,,Onee-chan, do you think this sakura tree will be cut down, too?
 Dialogue: 0,0:10:57.07,0:10:59.22,Dialogue,Kyou,0,0,0,,If they’re building a mansion, it probably will.
 Dialogue: 0,0:10:59.60,0:11:03.56,Dialogue,Asu,0,0,0,,Now that I think about it, the landlord was gazing at this tree.
-Dialogue: 0,0:11:04.66,0:11:08.02,Dialogue,Asu,0,0,0,,He was probably doing it because his precious tree is going to get cut down.
+Dialogue: 0,0:11:04.66,0:11:08.02,Dialogue,Asu,0,0,0,,He'll probably miss his precious sakura tree, don't you think?
 Dialogue: 0,0:11:38.66,0:11:42.10,Dialogue,Kyou,0,0,0,,Asu, this house looks like it’s pretty big and comfortable.
 Dialogue: 0,0:11:42.10,0:11:43.01,Dialogue,Asu,0,0,0,,You’re right.
-Dialogue: 0,0:11:43.42,0:11:45.98,Dialogue,Kyou,0,0,0,,Ah, this looks pretty good too.
-Dialogue: 0,0:11:45.98,0:11:48.79,Dialogue,Asu,0,0,0,,Yeah, there’re a lot of options.
-Dialogue: 0,0:11:48.79,0:11:55.12,Dialogue,Kyou,0,0,0,,Yes, and it seems like there are plenty affordable ones with enough room for both of us.
+Dialogue: 0,0:11:43.42,0:11:45.98,Dialogue,Kyou,0,0,0,,Ah, this looks pretty good too, Asu.
+Dialogue: 0,0:11:45.98,0:11:46.72,Dialogue,Asu,0,0,0,,Yeah.
+Dialogue: 0,0:11:47.14,0:11:48.79,Dialogue,Asu,0,0,0,,There’re a lot of options.
+Dialogue: 0,0:11:48.79,0:11:55.12,Dialogue,Kyou,0,0,0,,Yes, and it seems like there are plenty of affordable ones with enough room for both of us.
 Dialogue: 0,0:11:55.12,0:11:56.40,Dialogue,Asu,0,0,0,,That’s right.
 Dialogue: 0,0:12:11.66,0:12:13.39,Dialogue,Extras,0,0,0,,He{\fsp-1}y{\fsp}, you two.
 Dialogue: 0,0:12:14.11,0:12:17.00,Dialogue,Extras,0,0,0,,If you’d like, there’re many more ads inside for you to conside{\fsp-1}r{\fsp}.
 Dialogue: 0,0:12:17.00,0:12:17.98,Dialogue,Both,0,0,0,,Eh?
 Dialogue: 0,0:12:17.98,0:12:19.53,Dialogue,Kyou,0,0,0,,Ah, um...
 Dialogue: 0,0:12:20.14,0:12:22.84,Dialogue,Kyou,0,0,0,,Sorr{\fsp-1}y{\fsp}, but we’re fine for today!
-Dialogue: 0,0:12:29.70,0:12:35.23,Dialogue,Asu,0,0,0,,Onee-chan, is there really no way to stop them from tearing down the apartment?
-Dialogue: 0,0:12:35.23,0:12:39.97,Dialogue,Kyou,0,0,0,,If that’s what the landlord has decided, there’s nothing we can do about it.
+Dialogue: 0,0:12:29.70,0:12:34.77,Dialogue,Asu,0,0,0,,Onee-chan, is there really no way to stop them from tearing down the apartment?
+Dialogue: 0,0:12:35.32,0:12:39.97,Dialogue,Kyou,0,0,0,,If that’s what the landlord has decided, there’s nothing we can do about it.
 Dialogue: 0,0:12:40.50,0:12:42.53,Dialogue,Asu,0,0,0,,I don’t want to leave.
-Dialogue: 0,0:12:42.99,0:12:45.66,Dialogue,Asu,0,0,0,,I want to watch the flowers bloom there next yea{\fsp-1}r{\fsp}.{I want to see the sakura blossom next yea{\fsp-1}r{\fsp}.}
+Dialogue: 0,0:12:42.99,0:12:45.66,Dialogue,Asu,0,0,0,,I want to watch the flowers bloom there next yea{\fsp-1}r{\fsp}!{I want to see the sakura blossom next year.}
 Dialogue: 0,0:12:48.22,0:12:51.78,Dialogue-italic,Kyou,0,0,0,,It was strange to hear Asu say something that sounded selfish.
-Dialogue: 0,0:12:51.78,0:12:55.14,Dialogue-italic,Kyou,0,0,0,,But I felt the same wa{\fsp-1}y{\fsp}.{But those are my feelings too.}
+Dialogue: 0,0:12:51.78,0:12:55.14,Dialogue-italic,Kyou,0,0,0,,But I felt the same wa{\fsp-1}y{\fsp}.
 Dialogue: 0,0:12:55.14,0:12:57.74,Dialogue-italic,Kyou,0,0,0,,I suppose we were both being selfish.
 Dialogue: 0,0:12:58.60,0:13:00.43,Dialogue-italic,Kyou,0,0,0,,I’m not sure wh{\fsp-1}y{\fsp},
 Dialogue: 0,0:13:00.43,0:13:06.12,Dialogue-italic,Kyou,0,0,0,,but looking at all the newe{\fsp-1}r{\fsp}, bigger apartments and imagining how wonderful living in them would be,
 Dialogue: 0,0:13:06.12,0:13:08.55,Dialogue-italic,Kyou,0,0,0,,for some reason, I couldn’t enjoy it.
-Dialogue: 0,0:13:09.09,0:13:15.82,Dialogue-italic,Kyou,0,0,0,,All I could think about was how nice it would be if we could keep living at our old apartment{I can only think, "Why must they tear down that apartment..."}
+Dialogue: 0,0:13:09.09,0:13:15.82,Dialogue-italic,Kyou,0,0,0,,All I could think about was how nice it would be if we could keep living at our old apartment.{I can only think, "Why must they tear down that apartment..."}
 Dialogue: 0,0:13:27.70,0:13:30.39,Dialogue,Asu,0,0,0,,{Ah, ah! }Onee-chan!
-Dialogue: 0,0:13:38.35,0:13:42.87,Dialogue,Kyou,0,0,0,,The landlord always seems troubled when we’re around...{If we keep staying here, the owner will be troubled.}
+Dialogue: 0,0:13:38.35,0:13:42.87,Dialogue,Kyou,0,0,0,,The landlord always seems troubled when we’re around.{If we keep staying here, the owner will be troubled.}
 Dialogue: 0,0:13:42.87,0:13:44.02,Dialogue,Kyou,0,0,0,,We should leave.{let’s go now}
-Dialogue: 0,0:13:44.02,0:13:44.64,Dialogue,Asu,0,0,0,,Ok.
-Dialogue: 0,0:13:52.31,0:13:55.83,Dialogue,Kyou,0,0,0,,We need to hurry up and find a new place to live, Asu.{I think we should find a place quickl{\fsp-1}y{\fsp}, Asu.}
+Dialogue: 0,0:13:44.02,0:13:44.64,Dialogue,Asu,0,0,0,,Okay.
+Dialogue: 0,0:13:52.31,0:13:55.83,Dialogue,Kyou,0,0,0,,We need to hurry up and find a new place to live, Asu.{I think we should find a place quickly.}
 Dialogue: 0,0:13:57.52,0:13:59.55,Dialogue,Asu,0,0,0,,Kyo-chan! Asu-chan!
 Dialogue: 0,0:14:00.94,0:14:02.17,Dialogue,Kyou,0,0,0,,Hello!
 Dialogue: 0,0:14:02.17,0:14:04.70,Dialogue,Asu,0,0,0,,Carrying all that luggage!
 Dialogue: 0,0:14:04.70,0:14:06.71,Dialogue,Asu,0,0,0,,You’re looking for somewhere to live, right?
 Dialogue: 0,0:14:06.71,0:14:09.51,Dialogue,Kyou,0,0,0,,Eh? Well, yes.
-Dialogue: 0,0:14:09.51,0:14:11.60,Dialogue,Extras,0,0,0,,If so, then don’t worry about a thing.
-Dialogue: 0,0:14:12.55,0:14:15.13,Dialogue,Extras,0,0,0,,It just so happens that the second floor of my house is unoccupied.
+Dialogue: 0,0:14:09.51,0:14:11.60,Dialogue,Extras,0,0,0,,Well then, don’t worry about a thing.
+Dialogue: 0,0:14:12.55,0:14:15.13,Dialogue,Extras,0,0,0,,It just so happens that the second floor of my house is open.
 Dialogue: 0,0:14:18.91,0:14:20.04,Dialogue,Kyou,0,0,0,,Are you serious?
 Dialogue: 0,0:14:20.32,0:14:22.65,Dialogue,Extras,0,0,0,,Hey now, wait a minute.
 Dialogue: 0,0:14:22.65,0:14:24.30,Dialogue,Extras,0,0,0,,Yeah, hold on now.
@@ -233,7 +234,7 @@ Dialogue: 0,0:14:24.51,0:14:27.73,Dialogue,Extras,0,0,0,,Kyou-chan and Asu-chan 
 Comment: 0,0:14:27.95,0:14:28.58,Dialogue,,0,0,0,,Huh?
 Dialogue: 0,0:14:28.44,0:14:32.67,Dialogue,Extras,0,0,0,,No way! My house is bigger and cleaner!
 Comment: 0,0:14:32.60,0:14:33.35,Dialogue,,0,0,0,,Huh?
-Dialogue: 0,0:14:33.61,0:14:37.42,Dialogue,Extras,0,0,0,,Well, uh—I won’t even charge you rent!
+Dialogue: 0,0:14:33.61,0:14:37.10,Dialogue,Extras,0,0,0,,Well, uh—I won’t even charge you rent!
 Comment: 0,0:14:37.39,0:14:38.35,Dialogue,,0,0,0,,Huh?{TIC-FUCKING-TAC-FUCKING-TOE, MOTHERFUCKER}
 Dialogue: 0,0:14:38.95,0:14:41.13,Dialogue,Extras,0,0,0,,What? What’s this all about?
 Dialogue: 0,0:14:41.13,0:14:43.03,Dialogue,Extras,0,0,0,,Yeah! Just what are you thinking?
