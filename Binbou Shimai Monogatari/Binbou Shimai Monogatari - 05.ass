@@ -9,7 +9,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 21033
+Video Position: 29956
 Video File: BMS_05_Raw_v8_[8A12A3C0].mkv
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
@@ -234,21 +234,21 @@ Dialogue: 0,0:14:24.51,0:14:27.73,Dialogue,Extras,0,0,0,,Kyou-chan and Asu-chan 
 Comment: 0,0:14:27.95,0:14:28.58,Dialogue,,0,0,0,,Huh?
 Dialogue: 0,0:14:28.44,0:14:32.67,Dialogue,Extras,0,0,0,,No way! My house is bigger and cleaner!
 Comment: 0,0:14:32.60,0:14:33.35,Dialogue,,0,0,0,,Huh?
-Dialogue: 0,0:14:33.61,0:14:37.10,Dialogue,Extras,0,0,0,,Well, uh—I won’t even charge you rent!
+Dialogue: 0,0:14:33.61,0:14:37.10,Dialogue,Extras,0,0,0,,Well, uh... I won’t even charge you rent!
 Comment: 0,0:14:37.39,0:14:38.35,Dialogue,,0,0,0,,Huh?{TIC-FUCKING-TAC-FUCKING-TOE, MOTHERFUCKER}
 Dialogue: 0,0:14:38.95,0:14:41.13,Dialogue,Extras,0,0,0,,What? What’s this all about?
 Dialogue: 0,0:14:41.13,0:14:43.03,Dialogue,Extras,0,0,0,,Yeah! Just what are you thinking?
 Dialogue: 0,0:14:43.03,0:14:47.36,Dialogue,Extras,0,0,0,,You listen here, Asu-chan and Kyou-chan will be living on my second floo{\fsp-1}r{\fsp}, and moreove{\fsp-1}r{\fsp}...
 Dialogue: 0,0:14:47.36,0:14:53.21,Dialogue,Asu,0,0,0,,Somehow, it seems like everyone has heard that we have to move out of the apartment.
 Dialogue: 0,0:14:54.79,0:14:58.88,Dialogue,Kyou,0,0,0,,Um, everyone, why do you all know that we have to...
-Dialogue: 0,0:14:58.88,0:15:02.06,Dialogue,Extras,0,0,0,,Uhm, eh... well... about that—
+Dialogue: 0,0:14:58.88,0:15:02.06,Dialogue,Extras,0,0,0,,Uhm, eh... well... about that...
 Dialogue: 0,0:15:02.06,0:15:05.36,Dialogue,Extras,0,0,0,,The truth is, I was asked by Hayashi-san.{goddamn honorifics}
 Dialogue: 0,0:15:05.36,0:15:06.63,Dialogue,Extras,0,0,0,,Me too.
 Dialogue: 0,0:15:06.63,0:15:08.28,Dialogue,Kyou,0,0,0,,By the landlord!?
 Dialogue: 0,0:15:08.28,0:15:09.39,Dialogue,Extras,0,0,0,,Me too.
 Dialogue: 0,0:15:09.39,0:15:12.10,Dialogue,Kyou,0,0,0,,Why does the landlord care about where the two of us—
 Dialogue: 0,0:15:13.15,0:15:15.93,Dialogue,Extras,0,0,0,,Hayashi-san might not say anything,{HONORIFICS}
-Dialogue: 0,0:15:16.76,0:15:20.10,Dialogue,Extras,0,0,0,,but he worries about the two of you like you ’re his own grandchildren.
+Dialogue: 0,0:15:16.76,0:15:20.10,Dialogue,Extras,0,0,0,,but he worries about the two of you like you’re his own grandchildren.
 Dialogue: 0,0:15:22.00,0:15:24.57,Dialogue,Extras,0,0,0,,It’s all because of what happened to Eriko-san and Mami-chan, I bet.
 Dialogue: 0,0:15:25.65,0:15:27.33,Dialogue,Kyou,0,0,0,,Those names...{I’ll let nullx decide how to nuke this}
 Dialogue: 0,0:15:27.33,0:15:29.82,Dialogue-italic,Landlord,0,0,0,,Eriko...! Mami...!{ADDING SOME UBERLIPSIS}
@@ -268,12 +268,12 @@ Dialogue: 0,0:16:20.61,0:16:25.79,Dialogue,Asu,0,0,0,,That sakura tree must be v
 Dialogue: 0,0:16:25.79,0:16:30.29,Dialogue,Asu,0,0,0,,That’s why the landlord would stare at the sakura tree so intentl{\fsp-1}y{\fsp}.
 Dialogue: 0,0:16:31.22,0:16:32.66,Dialogue,Kyou,0,0,0,,So that’s how it was.
 Dialogue: 0,0:16:33.19,0:16:36.30,Dialogue,Asu,0,0,0,,If we don’t do something to stop the new complex from being built...
-Dialogue: 0,0:16:37.87,0:16:39.82,Dialogue,Asu,0,0,0,,Onee-chan, let’s go!
-Dialogue: 0,0:16:39.82,0:16:40.75,Dialogue,Kyou,0,0,0,,Asu!
+Dialogue: 0,0:16:37.87,0:16:39.43,Dialogue,Asu,0,0,0,,Onee-chan, let’s go!
+Dialogue: 0,0:16:39.85,0:16:40.75,Dialogue,Kyou,0,0,0,,Asu!
 Dialogue: 0,0:16:41.46,0:16:44.92,Dialogue,Kyou,0,0,0,,Obaa-san! Can you please keep these bags for the time being?{Obasan, can you put these luggage at your house for now?}
 Dialogue: 0,0:16:44.92,0:16:46.20,Dialogue,Kyou,0,0,0,,We’ll come back for them soon!
 Dialogue: 0,0:16:46.20,0:16:48.96,Dialogue,Extras,0,0,0,,He{\fsp-1}y{\fsp}, w-wait, you two!
-Dialogue: 0,0:16:48.96,0:16:52.37,Dialogue,Kyou,0,0,0,,Everyone, we’re sorr{\fsp-1}y{\fsp}, but thank you for your trouble.
+Dialogue: 0,0:16:48.96,0:16:52.07,Dialogue,Kyou,0,0,0,,Everyone, we’re sorr{\fsp-1}y{\fsp}, but thank you for your trouble.
 Dialogue: 0,0:16:52.84,0:16:55.02,Dialogue,Kyou,0,0,0,,Asu, let’s go back to the apartment.
 Comment: 0,0:16:55.11,0:16:55.41,Dialogue,,0,0,0,,Yeah {idk about commenting this out}
 Dialogue: 0,0:17:01.00,0:17:06.04,Dialogue,Kyou,0,0,0,,All this time, I thought that you and I were all alone, Asu.{I’ve always thought... that as long as I’m together with Asu, I can survive anything.}
@@ -288,7 +288,7 @@ Dialogue: 0,0:17:29.44,0:17:31.36,Dialogue,Asu,0,0,0,,Me too, Onee-chan!
 Dialogue: 0,0:17:44.56,0:17:45.91,Dialogue,Kyou,0,0,0,,Construction’s already started?!
 Dialogue: 0,0:17:46.78,0:17:48.42,Dialogue,Kyou,0,0,0,,Are we too late?
 Dialogue: 0,0:17:53.60,0:17:54.92,Dialogue,Kyou,0,0,0,,M{\fsp-1}r{\fsp}. Landlord!
-Dialogue: 0,0:17:56.51,0:17:57.84,Dialogue,Landlord,0,0,0,,Wh-why are you two here?{Wh-what the, you two...!}
+Dialogue: 0,0:17:56.51,0:17:57.84,Dialogue,Landlord,0,0,0,,Wh-Why are you two here?{Wh-what the, you two...!}
 Dialogue: 0,0:17:58.99,0:18:01.84,Dialogue,Kyou,0,0,0,,Please don’t let them tear down the apartment!{TEAR IT DOWN WITH YOUR BEAR HANDS HAYASHI-SAN}
 Dialogue: 0,0:18:01.84,0:18:04.64,Dialogue,Asu,0,0,0,,The sakura tree! Don’t cut down the sakura tree!
 Dialogue: 0,0:18:07.73,0:18:08.60,Dialogue,Kyou,0,0,0,,No way!{OH NOES}
@@ -336,12 +336,12 @@ Dialogue: 0,0:20:21.59,0:20:25.10,Dialogue,Kyou,0,0,0,,Asu, it looks like we hav
 Dialogue: 0,0:20:25.10,0:20:27.13,Dialogue,Kyou,0,0,0,,Is there somewhere you’d like to go?
 Dialogue: 0,0:20:27.13,0:20:27.95,Dialogue,Asu,0,0,0,,Yes.
 Dialogue: 0,0:20:28.43,0:20:29.04,Dialogue,Kyou,0,0,0,,Where?
-Dialogue: 0,0:20:29.67,0:20:32.79,Dialogue,Asu,0,0,0,,I want to go to this apartment and stay there with Onee-chan.{argh fuck argh fuck etc}{I want to stay with Onee-chan here.}
+Dialogue: 0,0:20:29.67,0:20:32.79,Dialogue,Asu,0,0,0,,I want to go to this apartment and stay here with Onee-chan.{argh fuck argh fuck etc}{I want to stay with Onee-chan here.}
 Dialogue: 0,0:20:33.59,0:20:35.50,Dialogue,Asu,0,0,0,,This apartment is the best!{speaking of which is their TEREBII bigger or is that just me}
 Dialogue: 0,0:20:37.31,0:20:38.96,Dialogue,Kyou,0,0,0,,That sounds good to me.
 Dialogue: 0,0:20:42.01,0:20:46.45,Dialogue-italic,Kyou,0,0,0,,The spring that will bring the sakura tree into full bloom is still far awa{\fsp-1}y{\fsp},
 Dialogue: 0,0:20:46.45,0:20:49.15,Dialogue-italic,Kyou,0,0,0,,and before that comes a harsh winte{\fsp-1}r{\fsp}.
-Dialogue: 0,0:20:49.15,0:20:54.59,Dialogue-italic,Kyou,0,0,0,,Even though our parents are gone, there is still someone out there who will protect us from the cold.
+Dialogue: 0,0:20:49.15,0:20:54.59,Dialogue-italic,Kyou,0,0,0,,Even though our parents are gone, there is still\Nsomeone out there who will protect us from the cold.
 Dialogue: 0,0:20:55.04,0:20:58.38,Dialogue-italic,Kyou,0,0,0,,There is someone who can understand that coldness.
 Dialogue: 0,0:20:59.42,0:21:03.54,Dialogue-italic,Kyou,0,0,0,,Watching the sakura tree from the window of this apartment,
 Dialogue: 0,0:21:03.54,0:21:07.11,Dialogue-italic,Kyou,0,0,0,,the two of us are definitely not alone.
