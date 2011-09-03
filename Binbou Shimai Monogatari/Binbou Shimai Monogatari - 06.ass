@@ -10,7 +10,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 6895
+Video Position: 11473
 Audio File: ?video
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_06_[6ADD1738].avi
 Last Style Storage: Binbou Shimai Monogatari
@@ -67,7 +67,7 @@ Dialogue: 0,0:03:40.76,0:03:42.20,Dialogue,,0,0,90,,O-Okay.
 Dialogue: 0,0:03:42.20,0:03:45.06,Dialogue,,0,0,90,,You will not be allowed to be late.
 Dialogue: 0,0:03:45.06,0:03:47.18,Dialogue,,0,0,90,,Y-yes, Onee-sama.
 Dialogue: 0,0:03:47.29,0:03:51.23,Dialogue,,0,0,90,,After that is the big payoff! We'll do some great discount shopping!{And then we can go get our prize, the great deals!}
-Dialogue: 0,0:03:51.23,0:03:51.84,Dialogue,,0,0,90,,Okay. 
+Dialogue: 0,0:03:51.23,0:03:51.84,Dialogue,,0,0,90,,Okay.
 Dialogue: 0,0:03:51.84,0:03:53.54,Dialogue,,0,0,90,,Though we're only getting some pencils...
 Dialogue: 0,0:03:53.54,0:03:55.46,Dialogue,,0,0,90,,Nothing makes me happier than free things.
 Dialogue: 0,0:03:55.46,0:03:56.78,Dialogue,,0,0,90,,Weren't they already cheap?
@@ -88,75 +88,81 @@ Dialogue: 0,0:04:40.08,0:04:42.58,Dialogue,,0,0,90,,So you guys moved into the n
 Dialogue: 0,0:04:42.89,0:04:44.05,Dialogue,,0,0,90,,It's amazing!
 Dialogue: 0,0:04:44.34,0:04:46.64,Dialogue,,0,0,90,,Well, your old house was amazing too, of course.
 Dialogue: 0,0:04:47.56,0:04:50.62,Dialogue,,0,0,90,,My father is the owner of this complex.
-Dialogue: 0,0:04:50.62,0:04:54.93,Dialogue,,0,0,90,,So I can live on any floor, but the penthouse is still the best.
+Dialogue: 0,0:04:50.62,0:04:54.93,Dialogue,,0,0,90,,Because of that, we can live on whatever floor we want, but the penthouse is definitely the best one.
 Dialogue: 0,0:04:54.93,0:04:56.15,Dialogue,,0,0,90,,Wow...
-Dialogue: 0,0:04:56.67,0:04:59.67,Dialogue,,0,0,90,,Someday I'll treat you guys over.
-Dialogue: 0,0:04:59.67,0:05:01.84,Dialogue,,0,0,90,,Onee-chan, you're scarf is off.
-Dialogue: 0,0:05:01.84,0:05:03.33,Dialogue,,0,0,90,,Thank you, Asu.
-Dialogue: 0,0:05:03.33,0:05:05.34,Dialogue,,0,0,90,,Listen to what others are saying!
-Dialogue: 0,0:05:05.34,0:05:09.94,Dialogue,,0,0,90,,Ah, sorry. Um... about that...
-Dialogue: 0,0:05:10.40,0:05:12.02,Dialogue,,0,0,90,,Onee-chan, it's about time...
+Dialogue: 0,0:04:56.67,0:04:59.67,Dialogue,,0,0,90,,I'll invite you over someday.
+Dialogue: 0,0:04:59.67,0:05:01.84,Dialogue,,0,0,90,,Onee-chan, your scarf is a little crooked.
+Dialogue: 0,0:05:01.84,0:05:03.33,Dialogue,,0,0,90,,Thanks, Asu.
+Dialogue: 0,0:05:03.33,0:05:05.34,Dialogue,,0,0,90,,Hey! Listen to me!
+Dialogue: 0,0:05:05.34,0:05:06.64,Dialogue,,0,0,90,,Ah, sorry.
+Dialogue: 0,0:05:07.01,0:05:07.89,Dialogue,,0,0,90,,Um...
+Dialogue: 0,0:05:08.44,0:05:09.48,Dialogue,,0,0,90,,What were you talking about?
+Dialogue: 0,0:05:10.40,0:05:12.02,Dialogue,,0,0,90,,Onee-chan, we really need to...
 Dialogue: 0,0:05:12.02,0:05:13.62,Dialogue,,0,0,90,,Ah, that's right.
-Dialogue: 0,0:05:13.93,0:05:16.83,Dialogue,,0,0,90,,Since we're almost late, let's talk later.
-Dialogue: 0,0:05:17.04,0:05:17.88,Dialogue,,0,0,90,,Bye-bye.
-Dialogue: 0,0:05:18.11,0:05:19.39,Dialogue,,0,0,90,,Ah, I'm going to be late!
-Dialogue: 0,0:05:24.50,0:05:26.70,Dialogue,,0,0,90,,What's up with those two...
-Dialogue: 0,0:05:32.41,0:05:35.37,Dialogue,,0,0,90,,Ah... I barely made it.
-Dialogue: 0,0:05:37.33,0:05:39.78,Dialogue,,0,0,90,,Are those two always like that?
-Dialogue: 0,0:05:45.33,0:05:47.49,Dialogue,,0,0,90,,{\an8}Stand. Bow.
-Dialogue: 0,0:05:47.09,0:05:50.96,Dialogue,,0,0,90,,I never had that kind of relationship with my sister.
+Dialogue: 0,0:05:13.93,0:05:16.83,Dialogue,,0,0,90,,We're going to be late, so let's talk later.
+Dialogue: 0,0:05:17.04,0:05:17.88,Dialogue,,0,0,90,,See you later!
+Dialogue: 0,0:05:18.11,0:05:19.39,Dialogue,,0,0,90,,Ah, I'm gonna be late!
+Dialogue: 0,0:05:24.50,0:05:26.70,Dialogue,,0,0,90,,What the heck is it with those two?
+Dialogue: 0,0:05:32.41,0:05:35.37,Dialogue,,0,0,90,,Ah... I barely made it in time.
+Dialogue: 0,0:05:37.33,0:05:39.78,Dialogue,,0,0,90,,Could it be that the two of them are always like that?
+Dialogue: 0,0:05:45.33,0:05:47.49,Dialogue,,0,0,90,,{\an8}Stand. Bow.{rise?}
+Dialogue: 0,0:05:47.09,0:05:50.96,Dialogue,,0,0,90,,That's just not the way things are between my sister and me.
 Dialogue: 0,0:05:47.62,0:05:49.67,Dialogue,,0,0,90,,{\an8}Good morning.
 Dialogue: 0,0:05:50.12,0:05:50.91,Dialogue,,0,0,90,,{\an8}Sit.
 Dialogue: 0,0:05:55.74,0:05:59.06,Dialogue,,0,0,90,,Holding hands like that... how embarrassing.
-Dialogue: 0,0:05:58.26,0:05:59.06,Dialogue,,0,0,90,,{\an8}Class leader.
-Dialogue: 0,0:06:00.01,0:06:01.10,Dialogue,,0,0,90,,Class leader.
+Dialogue: 0,0:05:58.26,0:05:59.06,Dialogue,,0,0,90,,{\an8}Class representative.
+Dialogue: 0,0:06:00.01,0:06:01.10,Dialogue,,0,0,90,,Class representative!
 Dialogue: 0,0:06:01.10,0:06:02.15,Dialogue,,0,0,90,,Ah, yes!
 Dialogue: 0,0:06:02.34,0:06:05.91,Dialogue,,0,0,90,,What's wrong? Come by the office later to pick up the printouts.
 Dialogue: 0,0:06:05.91,0:06:07.52,Dialogue,,0,0,90,,Okay, I got it.
 Dialogue: 0,0:06:08.18,0:06:09.77,Dialogue,,0,0,90,,Excuse me.
 Dialogue: 0,0:06:13.82,0:06:14.43,Dialogue,,0,0,90,,Ah.
-Dialogue: 0,0:06:14.94,0:06:16.74,Dialogue,,0,0,90,,Are you also the class leader?
-Dialogue: 0,0:06:16.74,0:06:17.37,Dialogue,,0,0,90,,Yes.
-Dialogue: 0,0:06:17.52,0:06:20.00,Dialogue,,0,0,90,,Everyone must have pushed the job on you, right?
-Dialogue: 0,0:06:23.23,0:06:24.91,Dialogue,,0,0,90,,{\an8}Ah, there she is.
-Dialogue: 0,0:06:20.00,0:06:25.04,Dialogue,,0,0,90,,When I become a fifth grader, I'm going to run for the student council.
-Dialogue: 0,0:06:25.12,0:06:26.89,Dialogue,,0,0,90,,I must become the president.
-Dialogue: 0,0:06:27.39,0:06:30.08,Dialogue,,0,0,90,,Asu-chan, about this part, can you teach me?
-Dialogue: 0,0:06:30.08,0:06:31.86,Dialogue,,0,0,90,,Ah, okay...
-Dialogue: 0,0:06:31.86,0:06:33.19,Dialogue,,0,0,90,,Listen when others are talking!
-Dialogue: 0,0:06:33.19,0:06:36.17,Dialogue,,0,0,90,,Ah, Ginko-chan, sorry, wait a minute.
-Dialogue: 0,0:06:36.50,0:06:38.06,Dialogue,,0,0,90,,It's right here.
-Dialogue: 0,0:06:39.00,0:06:42.53,Dialogue,,0,0,90,,About this, just follow here, and do that.
-Dialogue: 0,0:06:42.53,0:06:44.53,Dialogue,,0,0,90,,Ah, that's how it goes. I get it.
-Dialogue: 0,0:06:44.53,0:06:45.81,Dialogue,,0,0,90,,Asu-chan, you're so great.
-Dialogue: 0,0:06:45.91,0:06:47.61,Dialogue,,0,0,90,,I'll help you carry half of that.
-Dialogue: 0,0:06:48.24,0:06:51.69,Dialogue,,0,0,90,,What up with her? She's only being used by others.
-Dialogue: 0,0:06:52.36,0:06:53.41,Dialogue,,0,0,90,,And then...
-Dialogue: 0,0:06:55.80,0:06:58.83,Dialogue,,0,0,90,,You two seem bored. Help me pass these out.
-Dialogue: 0,0:06:59.86,0:07:02.17,Dialogue,,0,0,90,,Sorry, but we're busy right now.
+Dialogue: 0,0:06:14.94,0:06:16.74,Dialogue,,0,0,90,,You're also a class representative?
+Dialogue: 0,0:06:16.74,0:06:17.37,Dialogue,,0,0,90,,Yeah.
+Dialogue: 0,0:06:17.52,0:06:20.00,Dialogue,,0,0,90,,Everyone pushed the job on you, right?
+Dialogue: 0,0:06:23.23,0:06:24.91,Dialogue,,0,0,90,,{\an8}Ah, there you are!
+Dialogue: 0,0:06:20.00,0:06:21.77,Dialogue,,0,0,90,,I had to run for it.
+Dialogue: 0,0:06:21.91,0:06:25.04,Dialogue,,0,0,90,,When I become a fifth grader, I'm going to run for the student council, too.
+Dialogue: 0,0:06:25.12,0:06:26.89,Dialogue,,0,0,90,,I'll definitely be elected president!
+Dialogue: 0,0:06:27.39,0:06:30.08,Dialogue,,0,0,90,,Asu, can you please help me with the next part on this?
+Dialogue: 0,0:06:30.08,0:06:31.86,Dialogue,,0,0,90,,Oh, sure.
+Dialogue: 0,0:06:31.86,0:06:33.19,Dialogue,,0,0,90,,Hey! Listen to me!
+Dialogue: 0,0:06:33.19,0:06:34.68,Dialogue,,0,0,90,,Sorry, Ginko.
+Dialogue: 0,0:06:34.75,0:06:36.17,Dialogue,,0,0,90,,Please wait just a moment.
+Dialogue: 0,0:06:36.50,0:06:38.06,Dialogue,,0,0,90,,It's this part here.
+Dialogue: 0,0:06:39.00,0:06:42.53,Dialogue,,0,0,90,,This part here, helps to explain this other part there, which leads to this, here.
+Dialogue: 0,0:06:42.53,0:06:44.53,Dialogue,,0,0,90,,Oh, I get it now!
+Dialogue: 0,0:06:44.53,0:06:45.81,Dialogue,,0,0,90,,Asu-chan, you're amazing!
+Dialogue: 0,0:06:45.91,0:06:47.61,Dialogue,,0,0,90,,Let me help you carry that.
+Dialogue: 0,0:06:48.24,0:06:49.26,Dialogue,,0,0,90,,What up with her?
+Dialogue: 0,0:06:49.42,0:06:51.69,Dialogue,,0,0,90,,She's just letting herself get used.
+Dialogue: 0,0:06:52.36,0:06:53.41,Dialogue,,0,0,90,,Right?
+Dialogue: 0,0:06:55.80,0:06:56.92,Dialogue,,0,0,90,,You don't seem to be doing anything.
+Dialogue: 0,0:06:57.02,0:06:58.83,Dialogue,,0,0,90,,Help pass these out.
+Dialogue: 0,0:06:59.86,0:07:02.17,Dialogue,,0,0,90,,Sorry, but we're a little busy right now.
 Dialogue: 0,0:07:03.28,0:07:03.83,Dialogue,,0,0,90,,Let's go.
 Dialogue: 0,0:07:03.83,0:07:04.39,Dialogue,,0,0,90,,Okay.
-Dialogue: 0,0:07:05.46,0:07:08.03,Dialogue,,0,0,90,,The Echigoya-san is so annoying.
+Dialogue: 0,0:07:05.46,0:07:08.03,Dialogue,,0,0,90,,Echigoya-san is really annoying, don't you think?{asdfj -> Echigoya
 Dialogue: 0,0:07:08.03,0:07:08.97,Dialogue,,0,0,90,,Yeah.
-Dialogue: 0,0:07:09.81,0:07:10.40,Dialogue,,0,0,90,,Hmph.
-Dialogue: 0,0:07:20.90,0:07:22.81,Dialogue,,0,0,90,,Ginko-chan, sorry about earlier.
-Dialogue: 0,0:07:22.81,0:07:23.94,Dialogue,,0,0,90,,Don't follow me.
+Comment: 0,0:07:09.81,0:07:10.40,Dialogue,,0,0,90,,Hmph.
+Dialogue: 0,0:07:20.90,0:07:22.81,Dialogue,,0,0,90,,Ginko-chan, sorry about what happened earlier.
+Dialogue: 0,0:07:22.81,0:07:23.94,Dialogue,,0,0,90,,Don't follow me!
 Dialogue: 0,0:07:25.92,0:07:27.91,Dialogue,,0,0,90,,Didn't I tell you to not follow me?
-Dialogue: 0,0:07:28.79,0:07:30.96,Dialogue,,0,0,90,,But our route home is the same...
-Dialogue: 0,0:07:31.31,0:07:33.10,Dialogue,,0,0,90,,Asu-chan, are you going home now?
+Dialogue: 0,0:07:28.79,0:07:30.96,Dialogue,,0,0,90,,We walk home the same way, though...
+Dialogue: 0,0:07:31.31,0:07:33.10,Dialogue,,0,0,90,,Asu-chan, are you heading home?
 Dialogue: 0,0:07:33.25,0:07:34.30,Dialogue,,0,0,90,,Good afternoon.
-Dialogue: 0,0:07:34.53,0:07:37.45,Dialogue,,0,0,90,,I've accidently made too much, so why don't you take some home to eat?
-Dialogue: 0,0:07:37.45,0:07:39.04,Dialogue,,0,0,90,,Wow, it looks delicious.
-Dialogue: 0,0:07:39.04,0:07:40.89,Dialogue,,0,0,90,,Thank you very much.
-Dialogue: 0,0:07:40.89,0:07:41.33,Dialogue,,0,0,90,,It's all right.
+Dialogue: 0,0:07:34.53,0:07:37.45,Dialogue,,0,0,90,,You know, we made a little bit too much for today, so please take this home with you.
+Dialogue: 0,0:07:37.45,0:07:39.04,Dialogue,,0,0,90,,Wow, it looks delicious!
+Dialogue: 0,0:07:39.04,0:07:40.89,Dialogue,,0,0,90,,Thank you very much!
+Dialogue: 0,0:07:40.89,0:07:41.33,Dialogue,,0,0,90,,You're welcome.
 Dialogue: 0,0:07:41.33,0:07:42.21,Dialogue,,0,0,90,,Hey, Asu-chan!
-Dialogue: 0,0:07:42.21,0:07:44.17,Dialogue,,0,0,90,,These are what's left over from today. Take them home.
+Dialogue: 0,0:07:42.21,0:07:44.17,Dialogue,,0,0,90,,These are today's leftovers. Take them with you!
 Dialogue: 0,0:07:44.17,0:07:46.01,Dialogue,,0,0,90,,Ah, okay. Thank you.
-Dialogue: 0,0:07:46.01,0:07:48.77,Dialogue,,0,0,90,,Asu-chan! I have some left over here, too.
+Dialogue: 0,0:07:46.01,0:07:48.77,Dialogue,,0,0,90,,Asu-chan! I have some leftovers, too.
 Dialogue: 0,0:07:48.87,0:07:50.21,Dialogue,,0,0,90,,Ah. Okay!
-Dialogue: 0,0:07:50.21,0:07:52.94,Dialogue,,0,0,90,,Asu-chan, wait! You can take these.
-Dialogue: 0,0:07:52.94,0:07:54.48,Dialogue,,0,0,90,,Thank you so much.
-Dialogue: 0,0:07:58.51,0:08:00.99,Dialogue,,0,0,90,,You're working so hard together with your sister, that's amazing.
+Dialogue: 0,0:07:50.21,0:07:52.94,Dialogue,,0,0,90,,Asu-chan, wait! You'd better take this too!
+Dialogue: 0,0:07:52.94,0:07:54.48,Dialogue,,0,0,90,,Okay. Thank you very much.
+Dialogue: 0,0:07:58.51,0:08:00.99,Dialogue,,0,0,90,,The way you and your sister do your best on your own is really something.{You're working so hard together with your sister, that's amazing.}
 Dialogue: 0,0:08:00.99,0:08:02.86,Dialogue,,0,0,90,,It's rare to see that these days.
 Dialogue: 0,0:08:02.86,0:08:05.36,Dialogue,,0,0,90,,These are from our store.
 Dialogue: 0,0:08:05.36,0:08:07.12,Dialogue,,0,0,90,,Extras, extras. Take these too.
