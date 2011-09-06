@@ -10,7 +10,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 20820
+Video Position: 22171
 Audio File: ?video
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_06_[6ADD1738].avi
 Last Style Storage: Binbou Shimai Monogatari
@@ -268,26 +268,26 @@ Dialogue: 0,0:14:23.17,0:14:25.08,Dialogue,,0,0,90,,Asu-chan, you're early today
 Dialogue: 0,0:14:25.08,0:14:26.40,Dialogue,,0,0,90,,Good afternoon!
 Dialogue: 0,0:14:26.40,0:14:28.33,Dialogue,,0,0,90,,Thank you for yesterday.
 Dialogue: 0,0:14:28.33,0:14:30.64,Dialogue,,0,0,90,,We have the day off today, so I came together with my sister!
-Dialogue: 0,0:14:30.83,0:14:33.73,Dialogue,,0,0,90,,Mister, are there any cheap fish?
-Dialogue: 0,0:14:33.81,0:14:37.45,Dialogue,,0,0,90,,Those two... ever since the morning they have been together.
-Dialogue: 0,0:14:37.57,0:14:42.17,Dialogue,,0,0,90,,Ginko Ojou-sama... monitoring other people is a little...
-Dialogue: 0,0:14:43.26,0:14:44.42,Dialogue,,0,0,90,,That's enough.
-Dialogue: 0,0:14:44.63,0:14:45.26,Dialogue,,0,0,90,,Eh?
-Dialogue: 0,0:14:45.99,0:14:48.14,Dialogue,,0,0,90,,It's no use even if I keep looking at this.
+Dialogue: 0,0:14:30.83,0:14:33.73,Dialogue,,0,0,90,,Mister, do you have anything that's especially cheap today?{Mister, are there any cheap fish?}
+Dialogue: 0,0:14:33.81,0:14:37.45,Dialogue,,0,0,90,,Those two have been together since they woke up.
+Dialogue: 0,0:14:37.57,0:14:42.17,Dialogue,,0,0,90,,Miss Ginko, don't you think that spying on people is a little...
+Dialogue: 0,0:14:43.26,0:14:44.42,Dialogue,,0,0,90,,I'm through with it.
+Comment: 0,0:14:44.63,0:14:45.26,Dialogue,,0,0,90,,Oh?
+Dialogue: 0,0:14:45.99,0:14:48.14,Dialogue,,0,0,90,,Watching any more would be wasting my time.
 Dialogue: 0,0:14:50.97,0:14:52.57,Dialogue,,0,0,90,,What's wrong, Asu?
-Dialogue: 0,0:14:52.73,0:14:56.89,Dialogue,,0,0,90,,Hmm... it seems like I can't calm myself down today.
-Dialogue: 0,0:14:57.12,0:14:59.77,Dialogue,,0,0,90,,It seems like someone's watching me...
-Dialogue: 0,0:15:02.44,0:15:03.72,Dialogue,,0,0,90,,Asu, you're strange.
-Dialogue: 0,0:15:04.98,0:15:08.17,Dialogue,,0,0,90,,Ah, isn't it about time for the newspaper run?
-Dialogue: 0,0:15:08.17,0:15:10.82,Dialogue,,0,0,90,,Ah, oh no, the evening newspaper.
-Dialogue: 0,0:15:10.82,0:15:12.62,Dialogue,,0,0,90,,Sorry, I'll leave the rest to you.
-Dialogue: 0,0:15:12.62,0:15:14.18,Dialogue,,0,0,90,,Even though it's a bit heavy. Bye-bye.
-Dialogue: 0,0:15:14.18,0:15:15.20,Dialogue,,0,0,90,,Be careful.
-Dialogue: 0,0:15:17.18,0:15:18.40,Dialogue,,0,0,90,,I'm back.
+Dialogue: 0,0:14:52.73,0:14:56.89,Dialogue,,0,0,90,,Somehow, I can't seem to calm down today...
+Dialogue: 0,0:14:57.12,0:14:59.77,Dialogue,,0,0,90,,It kind of feels like someone is watching us.
+Dialogue: 0,0:15:02.44,0:15:03.72,Dialogue,,0,0,90,,That's kinda odd, Asu.
+Dialogue: 0,0:15:04.98,0:15:08.17,Dialogue,,0,0,90,,Ah, isn't it time for you to deliver the newspaper?
+Dialogue: 0,0:15:08.17,0:15:10.82,Dialogue,,0,0,90,,Ah, this is bad! Today's the evening edition, isn't it?
+Dialogue: 0,0:15:10.82,0:15:12.62,Dialogue,,0,0,90,,Sorry, can you take these home?
+Dialogue: 0,0:15:12.62,0:15:14.18,Dialogue,,0,0,90,,They're a little heavy. See ya!
+Dialogue: 0,0:15:14.18,0:15:15.20,Dialogue,,0,0,90,,Take care!
+Dialogue: 0,0:15:17.18,0:15:18.40,Dialogue,,0,0,90,,I'm home!
 Dialogue: 0,0:15:18.40,0:15:19.93,Dialogue,,0,0,90,,Onee-chan, welcome back.
 Dialogue: 0,0:15:19.93,0:15:21.55,Dialogue,,0,0,90,,Dinner is ready.
 Dialogue: 0,0:15:21.55,0:15:22.95,Dialogue,,0,0,90,,Ah, thank you.
-Dialogue: 0,0:15:24.70,0:15:28.33,Dialogue,,0,0,90,,Ginko Ojou-sama, dinner is ready.
+Dialogue: 0,0:15:24.70,0:15:28.33,Dialogue,,0,0,90,,Miss Ginko, we've completed the dinner preparations.
 Dialogue: 0,0:15:28.60,0:15:29.80,Dialogue,,0,0,90,,Just leave it for now.
 Dialogue: 0,0:15:29.93,0:15:30.49,Dialogue,,0,0,90,,Yes.
 Dialogue: 0,0:15:31.84,0:15:32.61,Dialogue,,0,0,90,,Wait.
