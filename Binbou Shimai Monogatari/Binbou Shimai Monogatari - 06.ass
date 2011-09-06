@@ -10,7 +10,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 11473
+Video Position: 20820
 Audio File: ?video
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_06_[6ADD1738].avi
 Last Style Storage: Binbou Shimai Monogatari
@@ -162,108 +162,112 @@ Dialogue: 0,0:07:46.01,0:07:48.77,Dialogue,,0,0,90,,Asu-chan! I have some leftov
 Dialogue: 0,0:07:48.87,0:07:50.21,Dialogue,,0,0,90,,Ah. Okay!
 Dialogue: 0,0:07:50.21,0:07:52.94,Dialogue,,0,0,90,,Asu-chan, wait! You'd better take this too!
 Dialogue: 0,0:07:52.94,0:07:54.48,Dialogue,,0,0,90,,Okay. Thank you very much.
-Dialogue: 0,0:07:58.51,0:08:00.99,Dialogue,,0,0,90,,The way you and your sister do your best on your own is really something.{You're working so hard together with your sister, that's amazing.}
+Dialogue: 0,0:07:58.51,0:08:00.99,Dialogue,,0,0,90,,The way you and your sister do your best all by yourselves is really something.{You're working so hard together with your sister, that's amazing.}
 Dialogue: 0,0:08:00.99,0:08:02.86,Dialogue,,0,0,90,,It's rare to see that these days.
-Dialogue: 0,0:08:02.86,0:08:05.36,Dialogue,,0,0,90,,These are from our store.
-Dialogue: 0,0:08:05.36,0:08:07.12,Dialogue,,0,0,90,,Extras, extras. Take these too.
-Dialogue: 0,0:08:07.12,0:08:08.95,Dialogue,,0,0,90,,Ah, you've grown taller.
-Dialogue: 0,0:08:10.06,0:08:11.47,Dialogue,,0,0,90,,What's so great about her...
-Dialogue: 0,0:08:11.47,0:08:15.83,Dialogue,,0,0,90,,I'm also... also working hard with my sister too...
-Dialogue: 0,0:08:15.92,0:08:18.12,Dialogue,,0,0,90,,But... why...
-Dialogue: 0,0:08:20.01,0:08:21.27,Dialogue,,0,0,90,,I'm not going to lose!
+Dialogue: 0,0:08:02.86,0:08:05.36,Dialogue,,0,0,90,,Here, this is from our store.
+Dialogue: 0,0:08:05.36,0:08:07.12,Dialogue,,0,0,90,,Here. Extras, extras, take 'em.
+Dialogue: 0,0:08:07.12,0:08:08.95,Dialogue,,0,0,90,,Oh, you've grown a bit taller, haven't you?
+Dialogue: 0,0:08:10.06,0:08:11.47,Dialogue,,0,0,90,,What do you mean it's "really something"?
+Dialogue: 0,0:08:11.47,0:08:15.83,Dialogue,,0,0,90,,I'm also... I'm also trying my best just with my older sister.
+Dialogue: 0,0:08:15.92,0:08:18.12,Dialogue,,0,0,90,,Why is it...why is it--!
+Dialogue: 0,0:08:20.01,0:08:21.27,Dialogue,,0,0,90,,I won't lose to you!
 Dialogue: 0,0:08:21.57,0:08:22.34,Dialogue,,0,0,90,,Eh?
 Dialogue: 0,0:08:23.60,0:08:25.31,Dialogue,,0,0,90,,I won't lose to you guys...
-Dialogue: 0,0:08:32.26,0:08:34.25,Dialogue,,0,0,90,,What the... what the... what the!?
-Dialogue: 0,0:08:34.25,0:08:38.39,Dialogue,,0,0,90,,Just because she's nicer... has more friends... and cared for...
-Dialogue: 0,0:08:38.39,0:08:42.48,Dialogue,,0,0,90,,Onee-sama and I are just more... more... more...!
+Dialogue: 0,0:08:32.26,0:08:34.25,Dialogue,,0,0,90,,Why, why, why?!
+Dialogue: 0,0:08:34.25,0:08:38.39,Dialogue,,0,0,90,,Just because she's nicer, has more friends, and she gets along with everyone!
+Dialogue: 0,0:08:38.39,0:08:42.48,Dialogue,,0,0,90,,Onee-sama and I are still so much, much, much...!{better is implied by zutto?}
 Dialogue: 0,0:08:45.65,0:08:46.35,Dialogue,,0,0,90,,Ginko.
 Dialogue: 0,0:08:46.56,0:08:47.25,Dialogue,,0,0,90,,Yes?
-Dialogue: 0,0:08:47.75,0:08:53.61,Dialogue,,0,0,90,,That long range telescope you wanted yesterday has arrived.
+Comment: 0,0:08:47.75,0:08:53.61,Dialogue,,0,0,90,,That long range telescope you wanted yesterday has arrived.
+Dialogue: 0,0:08:47.75,0:08:53.61,Dialogue,,0,0,90,,I had that long-range telescope that you were talking about yesterday carried up from the ground floor.
 Dialogue: 0,0:08:53.87,0:08:56.41,Dialogue,,0,0,90,,Thank you very much, Onee-sama.
-Dialogue: 0,0:08:56.62,0:08:59.85,Dialogue,,0,0,90,,Now that I mention it, I want to ask what you are going to look at.
-Dialogue: 0,0:09:00.23,0:09:03.08,Dialogue,,0,0,90,,Don't tell me that you're doing something risky with it.
-Dialogue: 0,0:09:03.23,0:09:03.76,Dialogue,,0,0,90,,Uh...
+Dialogue: 0,0:08:56.62,0:08:59.85,Dialogue,,0,0,90,,You asked for it so suddenly, I wondered what in the world you wanted to look at with it.
+Dialogue: 0,0:09:00.23,0:09:03.08,Dialogue,,0,0,90,,You plan on doing some pretty risky things with it, right?{BORDERLINE ILLEGAL}
+Comment: 0,0:09:03.23,0:09:03.76,Dialogue,,0,0,90,,Uh...
 Dialogue: 0,0:09:04.49,0:09:05.23,Dialogue,,0,0,90,,Ginko.
-Dialogue: 0,0:09:05.60,0:09:07.54,Dialogue,,0,0,90,,Are you using that to...
-Dialogue: 0,0:09:07.89,0:09:12.37,Dialogue,,0,0,90,,Scout the city supermarkets for deals on unsold items, right?
-Dialogue: 0,0:09:12.37,0:09:12.91,Dialogue,,0,0,90,,Eh?
-Dialogue: 0,0:09:12.91,0:09:14.53,Dialogue,,0,0,90,,That's great, Ginko.
-Dialogue: 0,0:09:14.53,0:09:16.25,Dialogue,,0,0,90,,Yes... Onee-sama.
-Dialogue: 0,0:09:16.48,0:09:20.18,Dialogue,,0,0,90,,When the holidays come, I can get a helicopter for you to use.
-Dialogue: 0,0:09:20.18,0:09:22.19,Dialogue,,0,0,90,,Onee-sama, you don't have to go that far...
-Dialogue: 0,0:09:22.49,0:09:24.99,Dialogue,,0,0,90,,No matter what, this is a great idea.
-Dialogue: 0,0:09:25.81,0:09:30.36,Dialogue,,0,0,90,,Even if you have to spend the whole day, you have to find out every supermarket that has special sales.
-Dialogue: 0,0:09:30.64,0:09:31.31,Dialogue,,0,0,90,,Got it?
-Dialogue: 0,0:09:31.37,0:09:32.53,Dialogue,,0,0,90,,Okay.
-Dialogue: 0,0:09:33.81,0:09:35.76,Dialogue,,0,0,90,,Sorry, Onee-sama.
-Dialogue: 0,0:09:36.39,0:09:39.50,Dialogue,,0,0,90,,I actually didn't want the telescope for that reason.
-Dialogue: 0,0:09:40.91,0:09:44.96,Dialogue,,0,0,90,,I have to go out for now, so I'll leave the house to you.
-Dialogue: 0,0:09:44.96,0:09:48.05,Dialogue,,0,0,90,,Eh? Onee-sama is also busy today?
-Dialogue: 0,0:09:48.05,0:09:49.56,Dialogue,,0,0,90,,Isn't it a weekend today?
-Dialogue: 0,0:09:50.46,0:09:52.71,Dialogue,,0,0,90,,Yes. I'll be home late tonight, too.
-Dialogue: 0,0:09:53.53,0:09:56.00,Dialogue,,0,0,90,,I see... Have a nice trip.
-Dialogue: 0,0:09:57.92,0:10:01.13,Dialogue,,0,0,90,,Ah, Ojou-sama, I've finished setting this up.
-Dialogue: 0,0:10:01.13,0:10:04.01,Dialogue,,0,0,90,,Okay. I'll do the rest. You can go now.
+Dialogue: 0,0:09:05.60,0:09:07.54,Dialogue,,0,0,90,,You going to use this to...
+Dialogue: 0,0:09:07.89,0:09:12.37,Dialogue,,0,0,90,,Scout out all the supermarkets in the city for super-great sales, am I right?
+Comment: 0,0:09:12.37,0:09:12.91,Dialogue,,0,0,90,,Eh?
+Dialogue: 0,0:09:12.91,0:09:14.53,Dialogue,,0,0,90,,That's fabulous, Ginko.
+Dialogue: 0,0:09:14.53,0:09:16.25,Dialogue,,0,0,90,,Right, Onee-sama.
+Dialogue: 0,0:09:16.48,0:09:20.18,Dialogue,,0,0,90,,If it's for the great cause of economization, I'll even lend you a helicopter if you want.
+Dialogue: 0,0:09:20.18,0:09:22.19,Dialogue,,0,0,90,,Onee-sama, I don't think we need to go that far...
+Dialogue: 0,0:09:22.49,0:09:24.99,Dialogue,,0,0,90,,Whatever you're doing, it's a great idea.
+Dialogue: 0,0:09:25.81,0:09:30.36,Dialogue,,0,0,90,,You should search every single supermarket for deals, even if it takes you the whole day.{Even if you have to spend the whole day, you have to find out every supermarket that has special sales.}
+Dialogue: 0,0:09:30.64,0:09:31.31,Dialogue,,0,0,90,,Sound good?
+Dialogue: 0,0:09:31.37,0:09:32.53,Dialogue,,0,0,90,,S-sure.
+Dialogue: 0,0:09:33.81,0:09:35.76,Dialogue,,0,0,90,,I'm sorry, Onee-sama.
+Dialogue: 0,0:09:36.39,0:09:39.50,Dialogue,,0,0,90,,That's not why I asked for the telescope.
+Dialogue: 0,0:09:40.91,0:09:44.96,Dialogue,,0,0,90,,I have to go now, so I'll leave the rest to you.
+Dialogue: 0,0:09:44.96,0:09:48.05,Dialogue,,0,0,90,,What? You're busy today too?
+Dialogue: 0,0:09:48.05,0:09:49.56,Dialogue,,0,0,90,,Even though we have the day off.
+Dialogue: 0,0:09:50.46,0:09:52.71,Dialogue,,0,0,90,,Yes. I won't be back until late tonight.
+Dialogue: 0,0:09:53.53,0:09:54.45,Dialogue,,0,0,90,,Is that so...
+Dialogue: 0,0:09:54.64,0:09:56.00,Dialogue,,0,0,90,,Have a good day.
+Dialogue: 0,0:09:57.92,0:10:01.13,Dialogue,,0,0,90,,Ah, Miss, I've finished adjusting the settings.
+Dialogue: 0,0:10:01.13,0:10:04.01,Dialogue,,0,0,90,,I'll take care of the rest.
+Dialogue: 0,0:10:01.13,0:10:04.01,Dialogue,,0,0,90,,Begone.{you may go}
 Dialogue: 0,0:10:04.11,0:10:05.35,Dialogue,,0,0,90,,Understood.
-Dialogue: 0,0:10:10.75,0:10:13.77,Dialogue,,0,0,90,,Even though I know this is wrong...
-Dialogue: 0,0:10:13.94,0:10:16.46,Dialogue,,0,0,90,,I have to research you two to the end.
-Dialogue: 0,0:10:16.46,0:10:19.38,Dialogue,,0,0,90,,I want to see just what is different between us and you.
+Dialogue: 0,0:10:10.75,0:10:13.77,Dialogue,,0,0,90,,I understand that I really shouldn't be doing this,
+Dialogue: 0,0:10:14.23,0:10:19.38,Dialogue,,0,0,90,,I have to do it so I can find out just what is so different between you and us.{don't really like "you and us"}
 Dialogue: 0,0:10:19.78,0:10:21.52,Dialogue,,0,0,90,,We should be perfect.
-Dialogue: 0,0:10:21.52,0:10:24.67,Dialogue,,0,0,90,,But... but...
-Dialogue: 0,0:10:31.45,0:10:34.67,Dialogue,,0,0,90,,Yamada Asu. I will definitely not lose to you.
-Dialogue: 0,0:10:35.23,0:10:43.23,Dialogue,Eyecatch,0,0,90,,(During the harsh cold winter, you can eat seven-flavored pepper to keep your body warm.)
-Dialogue: 0,0:10:43.23,0:10:51.66,Dialogue,,0,0,90,,(To us, the flea market is like a huge department store.)
-Dialogue: 0,0:11:04.42,0:11:06.14,Dialogue,Sisters,0,0,90,,Let's eat!
+Dialogue: 0,0:10:21.52,0:10:24.67,Dialogue,,0,0,90,,Even so, even so...
+Dialogue: 0,0:10:31.45,0:10:32.41,Dialogue,,0,0,90,,Yamada Asu!
+Dialogue: 0,0:10:32.56,0:10:34.67,Dialogue,,0,0,90,,I will definitely not lose to you.
+Dialogue: 0,0:10:35.23,0:10:43.23,generic sign style,Eyecatch,0,0,90,,On a cold night, if you eat shichimi, it will warm you up.
+Comment: 0,0:10:35.23,0:10:43.23,Dialogue,Eyecatch,0,0,90,,(During the harsh cold winter, you can eat seven-flavored pepper to keep your body warm.)
+Dialogue: 0,0:10:43.23,0:10:51.66,Dialogue,,0,0,90,,To us, the flea market is like an enormous shopping mall.
+Dialogue: 0,0:11:04.42,0:11:06.14,Dialogue,Sisters,0,0,90,,Thanks for the food!
 Dialogue: 0,0:11:18.47,0:11:19.86,Dialogue,,0,0,90,,It's delicious!
-Dialogue: 0,0:11:19.86,0:11:23.83,Dialogue,,0,0,90,,This scrambled eggs with spinach, it's great!
-Dialogue: 0,0:11:24.50,0:11:28.68,Dialogue,,0,0,90,,These spinach are from yesterday's 40 yen per bag sale,
-Dialogue: 0,0:11:28.68,0:11:32.25,Dialogue,,0,0,90,,along with the 58 yen per carton of eggs sale.
-Dialogue: 0,0:11:32.63,0:11:36.01,Dialogue,,0,0,90,,Ah, yesterday I didn't buy the spinach.
-Dialogue: 0,0:11:44.32,0:11:47.75,Dialogue,,0,0,90,,Why can this person open her mouth so wide when she eats?
-Dialogue: 0,0:11:47.98,0:11:50.87,Dialogue,,0,0,90,,Onee-sama will definitely not do that.
-Dialogue: 0,0:11:52.53,0:11:55.10,Dialogue,,0,0,90,,And her mouth has grains of rice on it.
-Dialogue: 0,0:11:55.52,0:11:57.62,Dialogue,,0,0,90,,Such a barbaric pair.
-Dialogue: 0,0:11:58.25,0:11:58.62,Dialogue,,0,0,90,,Ah.
+Dialogue: 0,0:11:19.86,0:11:23.83,Dialogue,,0,0,90,,The eggs and spinach are delicious!
+Dialogue: 0,0:11:24.50,0:11:28.37,Dialogue,,0,0,90,,The day before yesterday, I found the spinach on sale for 40 yen per bag.
+Dialogue: 0,0:11:28.44,0:11:32.25,Dialogue,,0,0,90,,And cooked it with some eggs I found yesterday for 58 yen!
+Dialogue: 0,0:11:32.63,0:11:36.01,Dialogue,,0,0,90,,Ah! The spinach from the sale that I missed!
+Dialogue: 0,0:11:44.32,0:11:47.75,Dialogue,,0,0,90,,Why does this girl open her mouth so wide while eating?
+Dialogue: 0,0:11:47.98,0:11:50.87,Dialogue,,0,0,90,,Onee-sama would never do such an improper thing.
+Dialogue: 0,0:11:52.53,0:11:55.10,Dialogue,,0,0,90,,She even has grains of rice stuck to her face.
+Dialogue: 0,0:11:55.52,0:11:57.62,Dialogue,,0,0,90,,Why do they act so uncivilized?
+Dialogue: 0,0:11:58.25,0:11:58.62,Dialogue,,0,0,90,,( ﾟДﾟ)
 Dialogue: 0,0:11:58.71,0:11:59.25,Dialogue,,0,0,90,,Hmm?
-Dialogue: 0,0:11:59.72,0:12:02.87,Dialogue,,0,0,90,,Onee-chan's face has some grains of rice on it.
+Dialogue: 0,0:11:59.72,0:12:02.87,Dialogue,,0,0,90,,Onee-chan, your face has some rice stuck to it, you know.
 Dialogue: 0,0:12:03.62,0:12:05.26,Dialogue,,0,0,90,,Oh my, you're right.
-Dialogue: 0,0:12:08.12,0:12:11.90,Dialogue,,0,0,90,,Ah, Onee-chan, today's soup is also quite delicious.
-Dialogue: 0,0:12:13.41,0:12:17.94,Dialogue,,0,0,90,,I've never smiled like this during a meal before...
-Dialogue: 0,0:12:19.25,0:12:22.19,Dialogue,,0,0,90,,Talking while eating shows a lack of manners.
+Dialogue: 0,0:12:08.12,0:12:11.90,Dialogue,,0,0,90,,Ah, Onee-chan, the miso soup also came out really well today.
+Dialogue: 0,0:12:13.41,0:12:17.94,Dialogue,,0,0,90,,I've never laughed during a meal before.
+Dialogue: 0,0:12:19.25,0:12:22.19,Dialogue,,0,0,90,,Talking with a full mouth is simply reprehensible behavior!{lol leaving it like this unless someone tells me to tone it down}
 Dialogue: 0,0:12:25.94,0:12:27.44,Dialogue,,0,0,90,,What's wrong, Asu?
-Dialogue: 0,0:12:27.90,0:12:30.27,Dialogue,,0,0,90,,Um... nothing...
-Dialogue: 0,0:12:48.18,0:12:51.14,Dialogue,,0,0,90,,Even though it's a weekend, she's sleeping like that in broad daylight.
-Dialogue: 0,0:12:51.14,0:12:54.88,Dialogue,,0,0,90,,My Onee-sama is never that lazy.
-Dialogue: 0,0:12:55.18,0:12:57.91,Dialogue,,0,0,90,,Before she sleeps, she's always full of energy.
+Dialogue: 0,0:12:27.90,0:12:30.27,Dialogue,,0,0,90,,Oh, it's nothing.
+Dialogue: 0,0:12:48.18,0:12:51.14,Dialogue,,0,0,90,,Today's a holiday, so she's sleeping on the floor in the middle of the day?{休み [やすみ] 1: rest; recess; respite; 2: vacation; holiday; absence; suspension;
+Dialogue: 0,0:12:51.14,0:12:54.88,Dialogue,,0,0,90,,I've never seen Onee-sama be that lazy.
+Dialogue: 0,0:12:55.18,0:12:57.91,Dialogue,,0,0,90,,Even until she goes to bed, she's always energetic and--
 Dialogue: 0,0:12:58.22,0:13:01.01,Dialogue,,0,0,90,,Ginko, good night.
-Dialogue: 0,0:13:01.18,0:13:04.42,Dialogue,,0,0,90,,Onee-sama... perhaps she's too energetic...
-Dialogue: 0,0:13:10.21,0:13:14.61,Dialogue,,0,0,90,,And also... why is she always so happy to taking care of her sister?
-Dialogue: 0,0:13:16.55,0:13:17.02,Dialogue,,0,0,90,,Hmph.
-Dialogue: 0,0:13:17.98,0:13:20.27,Dialogue,,0,0,90,,How tough, Yamada Asu.
-Dialogue: 0,0:13:20.96,0:13:27.03,Dialogue,,0,0,90,,My Onee-sama will never need to let me take care of her.
-Dialogue: 0,0:13:32.66,0:13:35.22,Dialogue,,0,0,90,,Oh, Kyou-chan, Asu-chan, good afternoon.
-Dialogue: 0,0:13:35.22,0:13:36.15,Dialogue,,0,0,90,,Good afternoon.
-Dialogue: 0,0:13:36.15,0:13:38.21,Dialogue,,0,0,90,,Oh? You two are on a walk?
-Dialogue: 0,0:13:38.21,0:13:38.81,Dialogue,,0,0,90,,Yes.
-Dialogue: 0,0:13:38.84,0:13:40.64,Dialogue,,0,0,90,,You two get along well, That's great.
-Dialogue: 0,0:13:40.64,0:13:45.28,Dialogue,,0,0,90,,Unlike our house, there's always fighting when there're people together.
-Dialogue: 0,0:13:45.28,0:13:48.54,Dialogue,,0,0,90,,I really hope they can learn from you two.
+Dialogue: 0,0:13:01.18,0:13:04.42,Dialogue,,0,0,90,,Onee-sama, perhaps you're a little too energetic.
+Dialogue: 0,0:13:10.21,0:13:14.61,Dialogue,,0,0,90,,Why does she always seem so happy to take care of her troublesome older sister?
+Comment: 0,0:13:16.55,0:13:17.02,Dialogue,,0,0,90,,Hmph.
+Dialogue: 0,0:13:17.98,0:13:20.27,Dialogue,,0,0,90,,It's rough, isn't it, Yamada Asu.{flat what}
+Dialogue: 0,0:13:20.96,0:13:27.03,Dialogue,,0,0,90,,My sister is never ever troublesome or dependent on me.
+Dialogue: 0,0:13:32.66,0:13:35.22,Dialogue,,0,0,90,,Ah, Kyou, Asu, good afternoon.
+Dialogue: 0,0:13:35.22,0:13:36.15,Dialogue,,0,0,90,,Good afternoon!
+Dialogue: 0,0:13:36.15,0:13:38.21,Dialogue,,0,0,90,,What's this, the two of you are out for a walk?
+Dialogue: 0,0:13:38.21,0:13:38.81,Dialogue,,0,0,90,,Yep.
+Dialogue: 0,0:13:38.84,0:13:40.64,Dialogue,,0,0,90,,You sure seem to get along well.
+Dialogue: 0,0:13:40.64,0:13:45.28,Dialogue,,0,0,90,,You're not anything like my kids. They're always fighting with each other.
+Dialogue: 0,0:13:45.28,0:13:48.54,Dialogue,,0,0,90,,They could learn a thing or two from you guys.
 Dialogue: 0,0:13:48.54,0:13:50.81,Dialogue,,0,0,90,,No way, you're flattering us, ma'am.
 Dialogue: 0,0:13:51.73,0:13:52.21,Dialogue,,0,0,90,,Hmph.
 Dialogue: 0,0:13:53.66,0:13:54.80,Dialogue,,0,0,90,,Tada!
-Dialogue: 0,0:13:54.88,0:13:56.22,Dialogue,,0,0,90,,Wow.
-Dialogue: 0,0:13:56.22,0:13:58.16,Dialogue,,0,0,90,,Asu, you can choose the one you like.
-Dialogue: 0,0:13:58.16,0:13:59.63,Dialogue,,0,0,90,,I want this one, the dried tuna.
-Dialogue: 0,0:13:59.63,0:14:01.81,Dialogue,,0,0,90,,Then I'll eat the one with the pickled plum.
+Comment: 0,0:13:54.88,0:13:56.22,Dialogue,,0,0,90,,Wow.{WEEEEEEEEEEEEEEEEEEEEEEEEEEEH?!?!?!!!!one}
+Dialogue: 0,0:13:56.22,0:13:58.16,Dialogue,,0,0,90,,Asu, go ahead and pick whichever one you like.
+Dialogue: 0,0:13:58.16,0:13:59.63,Dialogue,,0,0,90,,I'll take this one, the dried tuna!
+Dialogue: 0,0:13:59.63,0:14:01.81,Dialogue,,0,0,90,,I'll go with the picked plum, then.
 Dialogue: 0,0:14:02.17,0:14:03.57,Dialogue,,0,0,90,,Let's eat!
-Dialogue: 0,0:14:06.24,0:14:09.85,Dialogue,,0,0,90,,Asu, this pickled plum rice ball is quite delicious.
-Dialogue: 0,0:14:10.10,0:14:12.81,Dialogue,,0,0,90,,This person's mind is always on eating.
-Dialogue: 0,0:14:13.21,0:14:16.32,Dialogue,,0,0,90,,No matter who makes it, all rice balls are the same.
-Dialogue: 0,0:14:16.32,0:14:18.92,Dialogue,,0,0,90,,I'm not jealous at all at what they're eating.
-Dialogue: 0,0:14:23.17,0:14:25.08,Dialogue,,0,0,90,,Asu-chan, you're early today.
-Dialogue: 0,0:14:25.08,0:14:26.40,Dialogue,,0,0,90,,Good afternoon.
+Dialogue: 0,0:14:06.24,0:14:09.85,Dialogue,,0,0,90,,Asu, this pickled plum rice ball is really good!
+Dialogue: 0,0:14:10.10,0:14:12.81,Dialogue,,0,0,90,,All they ever think about is food, huh?
+Dialogue: 0,0:14:13.21,0:14:16.32,Dialogue,,0,0,90,,All rice balls taste the same no matter who makes them.
+Dialogue: 0,0:14:16.32,0:14:18.92,Dialogue,,0,0,90,,There's no reason for me to be jealous of them at all.
+Dialogue: 0,0:14:23.17,0:14:25.08,Dialogue,,0,0,90,,Asu-chan, you're early today, aren't you?
+Dialogue: 0,0:14:25.08,0:14:26.40,Dialogue,,0,0,90,,Good afternoon!
 Dialogue: 0,0:14:26.40,0:14:28.33,Dialogue,,0,0,90,,Thank you for yesterday.
-Dialogue: 0,0:14:28.33,0:14:30.64,Dialogue,,0,0,90,,Today's a weekend, so I came with my sister.
+Dialogue: 0,0:14:28.33,0:14:30.64,Dialogue,,0,0,90,,We have the day off today, so I came together with my sister!
 Dialogue: 0,0:14:30.83,0:14:33.73,Dialogue,,0,0,90,,Mister, are there any cheap fish?
 Dialogue: 0,0:14:33.81,0:14:37.45,Dialogue,,0,0,90,,Those two... ever since the morning they have been together.
 Dialogue: 0,0:14:37.57,0:14:42.17,Dialogue,,0,0,90,,Ginko Ojou-sama... monitoring other people is a little...
