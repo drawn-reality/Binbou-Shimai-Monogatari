@@ -8,16 +8,16 @@ Collisions: Normal
 PlayResY: 476
 PlayDepth: 0
 Timer: 100.0000
-Video Aspect Ratio: 2
+Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 33440
+Video Position: 14419
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
 WrapStyle: 3
 ScaledBorderAndShadow: yes
-Video Zoom Percent: 1.000000
-Audio File: ?video
-Video File: ..\..\..\_Binbou Shimai Monogatari\Raws\BMS_06_Raw_v8_[389147A3].mkv
+Video Zoom Percent: 0.500000
+Audio File: BMS_06_Raw_v8_[389147A3].wav
+Video File: BMS_06_Raw_v8_[389147A3].mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,21 +39,21 @@ Style: ED - Kanji - vsfilter,小塚ゴシック Pro M,30,&H00E7B3AD,&H00DEDEDE,&
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:02:40.26,0:02:44.51,Dialogue,Title,0,0,0,,A Day of Loneliness, Ginko, and Onee-sama
-Dialogue: 0,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{\alpha&HFF&\(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,60)\blur0.7\fsp3\shad0\fs40}A{\fs20} {\fs40}D{\fs25}ay of {\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40},
-Dialogue: 1,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{\afad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp3\fs40\pos(357,55)}A{\fs20} {\fs40}D{\fs25}ay of {\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40},
-Dialogue: 2,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{(238,0)\fnnopasd\b1\c&H8CE49B&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40}A{\fs20} {\fs40}D{\fs25}ay {\c&H647BFE&}of {\c&H8CE49B&\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40\c&H4D6BFE&},
-Dialogue: 3,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{(238,0)\fnnopasd\b1\c&HFFCD81&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40\clip(m 175 11 l 547 11 547 40 451 42 451 39 387 39 386 36 384 42 328 43 295 40 292 44 276 44 210 35 175 40)}A{\fs20} {\fs40}D{\fs25}ay {\c&H45CFFD&}of {\c&HFFCD81&\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40},
-Dialogue: 0,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{\alpha&HFF&\(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,467)\fsp8\shad0\fs40}G{\fsp3\fs25}inko{\fsp3\fs40},{\fsp-3\fs25} {\fsp3}and {\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
-Dialogue: 1,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{\afad(238,0)\fnnopasd\b1\c&HFFFFFF&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp8\fs40\pos(357,462)}G{\fsp3\fs25}inko{\fsp3\fs40},{\fsp-3\fs25} {\fsp3}and {\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
-Dialogue: 2,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{(238,0)\fnnopasd\b1\c&HFED474&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp8\fs40}G{\fsp3\fs25}inko{\fsp3\fs40\c&H6981FF&},{\fsp-3\fs25} {\fsp3}and {\c&HFED474&\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
-Dialogue: 3,0:02:44.47,0:02:44.51,generic sign style,Title,0,0,0,,{(238,0)\fnnopasd\b1\c&HFE93DC&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp8\fs40\clip(m 193 409 l 504 414 531 450 493 449 359 444 356 449 310 449 309 453 296 447 263 447 262 444 199 450)}G{\fsp3\fs25}inko{\fsp3\fs40\c&H42CBFE&},{\fsp-3\fs25} {\fsp3}and {\fs40\c&HFDA9AB&}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
-Dialogue: 0,0:10:25.98,0:10:33.98,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz9.02\fax0.1\pos(159,59)}On a cold night, if you eat\Nshichimi, it will help keep you warm.
+Dialogue: 0,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\alpha&HFF&\(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,60)\blur0.7\fsp3\shad0\fs40}A{\fs20} {\fs40}D{\fs25}ay of {\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40},
+Dialogue: 1,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H7CD3F2&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp3\fs40\pos(357,55)}A{\fs20} {\fs40}D{\fs25}ay of {\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40},
+Dialogue: 2,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H8CE49B&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40}A{\fs20} {\fs40}D{\fs25}ay {\c&H647BFE&}of {\c&H8CE49B&\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40\c&H4D6BFE&},
+Dialogue: 3,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFFCD81&\bord1.2\shad0\3c&H5F6C6E&\pos(356,55)\fsp3\fs40\clip(m 175 11 l 547 11 547 40 451 42 451 39 387 39 386 36 384 42 328 43 295 40 292 44 276 44 210 35 175 40)}A{\fs20} {\fs40}D{\fs25}ay {\c&H45CFFD&}of {\c&HFFCD81&\fs40\fsp6}L{\fs25\fsp3}oneliness{\fs40},
+Dialogue: 0,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\alpha&HFF&\(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,467)\fsp8\shad0\fs40}G{\fsp3\fs25}inko{\fsp3\fs40},{\fsp-3\fs25} {\fsp3}and {\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
+Dialogue: 1,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFFFFFF&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp8\fs40\pos(357,462)}G{\fsp3\fs25}inko{\fsp3\fs40},{\fsp-3\fs25} {\fsp3}and {\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
+Dialogue: 2,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFED474&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp8\fs40}G{\fsp3\fs25}inko{\fsp3\fs40\c&H6981FF&},{\fsp-3\fs25} {\fsp3}and {\c&HFED474&\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
+Dialogue: 3,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFE93DC&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp8\fs40\clip(m 193 409 l 504 414 531 450 493 449 359 444 356 449 310 449 309 453 296 447 263 447 262 444 199 450)}G{\fsp3\fs25}inko{\fsp3\fs40\c&H42CBFE&},{\fsp-3\fs25} {\fsp3}and {\fs40\c&HFDA9AB&}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
+Dialogue: 0,0:10:25.98,0:10:33.98,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz9.02\fax0.1\pos(159,59)\q2}On a cold night, if you eat\Nshichimi, it will help keep you warm.
 Dialogue: 0,0:10:25.98,0:10:33.98,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\fax0.1\pos(507,31)}7 Delicious Spices{七味唐辛子 【しちみとうがらし】 (n) blend of seven spices (cayenne, sesame, Japanese pepper, citrus peel, etc.)}{七味唐がらし}
-Dialogue: 0,0:10:33.98,0:10:42.49,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz9.02\fax0.1\pos(139,72)}To us, the flea market is like\Nan enormous shopping mal{\fsp-4}l.
+Dialogue: 0,0:10:33.98,0:10:42.49,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz9.02\fax0.1\pos(139,72)\q2}To us, the flea market is like\Nan enormous shopping mal{\fsp-4}l.
 Dialogue: 0,0:00:03.58,0:00:05.44,Dialogue-italic,Ginko,0,0,0,,Dear Onee-sama,
 Dialogue: 0,0:00:06.07,0:00:11.61,Dialogue-italic,,0,0,0,,toda{\fsp-1}y{\fsp}, I failed to get the spinach that was on sale.
 Dialogue: 0,0:00:12.03,0:00:15.70,Dialogue-italic,,0,0,0,,Am I really qualified to be your younger sister?
-Dialogue: 0,0:00:16.49,0:00:22.39,Dialogue-italic,,0,0,0,,Do you hate your little sister who fails repeatedl{\fsp-1}y{\fsp}, after all?
+Dialogue: 0,0:00:16.49,0:00:22.39,Dialogue-italic,,0,0,0,,You must hate your little sister who fails repeatedl{\fsp-1}y{\fsp}, after all.
 Dialogue: 0,0:00:23.42,0:00:28.04,Dialogue-italic,,0,0,0,,No matter how hard I tr{\fsp-1}y{\fsp}, it’s never enough to make you notice.
 Dialogue: 0,0:00:32.02,0:00:33.30,Dialogue-italic,,0,0,0,,Yamada Kyou,
 Dialogue: 0,0:00:33.93,0:00:36.33,Dialogue-italic,,0,0,0,,Yamada Asu, huh...
@@ -73,19 +73,19 @@ Dialogue: 0,0:03:18.59,0:03:20.17,Dialogue,,0,0,0,,The weather’s great toda{\f
 Dialogue: 0,0:03:20.17,0:03:23.48,Dialogue,,0,0,0,,It looks like picking the penthouse was the right choice after all, Onee-sama.{Looks like picking the penthouse room was right, Onee-sama.}
 Dialogue: 0,0:03:23.48,0:03:25.83,Dialogue,,0,0,0,,You’d better hurr{\fsp-1}y{\fsp}, Ginko. You’re going to be late.
 Dialogue: 0,0:03:25.83,0:03:26.72,Dialogue,,0,0,0,,Yes, Onee-sama.
-Dialogue: 0,0:03:27.10,0:03:31.53,Dialogue,,0,0,0,,I requested for father to build this complex because the location was much closer to the elementary school.
+Dialogue: 0,0:03:27.10,0:03:31.53,Dialogue,,0,0,0,,I requested for father to build this complex because this location is much closer to the elementary school.
 Dialogue: 0,0:03:31.53,0:03:32.40,Dialogue,,0,0,0,,O-Oka{\fsp-1}y{\fsp}.
 Dialogue: 0,0:03:32.96,0:03:35.83,Dialogue,,0,0,0,,You will not be allowed to be late.
 Dialogue: 0,0:03:35.83,0:03:38.11,Dialogue,,0,0,0,,Y-yes, Onee-sama.
-Dialogue: 0,0:03:38.11,0:03:42.00,Dialogue,,0,0,0,,After that is the big payoff! We’ll do some great discount shopping!{And then we can go get our prize, the great deals!}
+Dialogue: 0,0:03:38.11,0:03:42.00,Dialogue,,0,0,0,,Even better, it'll be much easier to find great sales from here!{And then we can go get our prize, the great deals!}
 Dialogue: 0,0:03:42.00,0:03:42.70,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
-Dialogue: 0,0:03:42.70,0:03:44.31,Dialogue-italic,,0,0,0,,We’re just going to get some pencils...
+Dialogue: 0,0:03:42.70,0:03:44.31,Dialogue-italic,,0,0,0,,All we need are some pencils...{and now this line doesn't really make sense. Oh well.}
 Dialogue: 0,0:03:44.31,0:03:46.23,Dialogue,,0,0,0,,Nothing makes me happier than free things.
 Dialogue: 0,0:03:46.23,0:03:47.66,Dialogue-italic,,0,0,0,,Weren’t they already cheap?
-Dialogue: 0,0:03:47.66,0:03:51.31,Dialogue,Kinko,0,0,0,,“Economizing”. Oh, it sounds so fabulous.
-Dialogue: 0,0:03:51.31,0:03:53.62,Dialogue-italic,,0,0,0,,Ah, where’s a good ledge to jump off?{todo: investigate more}
+Dialogue: 0,0:03:47.66,0:03:51.31,Dialogue,Kinko,0,0,0,,“Economizing”. Oh, it sounds so marvelous.
+Dialogue: 0,0:03:51.31,0:03:53.62,Dialogue-italic,,0,0,0,,I can't handle much more of this.{Ginko is expressing her disapproval of her sister's antics}
 Dialogue: 0,0:03:54.79,0:03:57.25,Dialogue,,0,0,0,,Well then, I’ll be going ahead by ca{\fsp-1}r{\fsp}.
-Dialogue: 0,0:03:57.67,0:03:59.22,Dialogue,,0,0,0,,I’ll be home late.
+Dialogue: 0,0:03:57.67,0:03:59.22,Dialogue,,0,0,0,,I’ll be home{\fsp-0.5} {\fsp}late.
 Dialogue: 0,0:03:59.22,0:04:02.80,Dialogue,,0,0,0,,Ah... h-have a safe trip.
 Dialogue: 0,0:04:05.99,0:04:08.53,Dialogue-italic,,0,0,0,,Onee-sama is busy toda{\fsp-1}y{\fsp}, too...
 Dialogue: 0,0:04:10.15,0:04:12.23,Dialogue,,0,0,0,,Onee-chan, hurry up!
@@ -101,7 +101,7 @@ Dialogue: 0,0:04:35.28,0:04:37.46,Dialogue,,0,0,0,,Well, your old house was amaz
 Dialogue: 0,0:04:38.40,0:04:41.45,Dialogue,,0,0,0,,My father is the owner of this complex.
 Dialogue: 0,0:04:41.45,0:04:45.38,Dialogue,,0,0,0,,Because of that, we can live on whatever floor we want, but the penthouse is definitely the best one.
 Dialogue: 0,0:04:45.82,0:04:47.09,Dialogue,,0,0,0,,Wow...
-Dialogue: 0,0:04:47.54,0:04:50.31,Dialogue,,0,0,0,,I’ll invite you over someda{\fsp-1}y{\fsp}.
+Dialogue: 0,0:04:47.54,0:04:50.31,Dialogue,,0,0,0,,Maybe I’ll invite you over someda{\fsp-1}y{\fsp}.
 Dialogue: 0,0:04:50.31,0:04:52.61,Dialogue,,0,0,0,,Onee-chan, your scarf is a little crooked.
 Dialogue: 0,0:04:52.61,0:04:54.16,Dialogue,,0,0,0,,Thanks, Asu.
 Dialogue: 0,0:04:54.16,0:04:55.77,Dialogue,,0,0,0,,Hey! Listen to me!
@@ -110,10 +110,10 @@ Dialogue: 0,0:04:57.83,0:04:59.22,Dialogue,,0,0,0,,Um...
 Dialogue: 0,0:04:59.22,0:05:00.64,Dialogue,,0,0,0,,What were you talking about?
 Dialogue: 0,0:05:01.13,0:05:02.86,Dialogue,,0,0,0,,Onee-chan, we really need to...
 Dialogue: 0,0:05:02.86,0:05:04.55,Dialogue,,0,0,0,,Ah, that’s right.
-Dialogue: 0,0:05:04.55,0:05:07.73,Dialogue,,0,0,0,,We’re going to be late, so let’s talk late{\fsp-1}r{\fsp}.
+Dialogue: 0,0:05:04.55,0:05:07.73,Dialogue,,0,0,0,,We’re going to be late, so let’s chat late{\fsp-1}r{\fsp}.
 Dialogue: 0,0:05:07.73,0:05:08.57,Dialogue,,0,0,0,,See you later!
-Dialogue: 0,0:05:08.84,0:05:10.28,Dialogue,,0,0,0,,Ah, I’m gonna be late!
-Dialogue: 0,0:05:15.13,0:05:17.55,Dialogue,,0,0,0,,What the heck is it with those two?
+Dialogue: 0,0:05:08.84,0:05:10.28,Dialogue,,0,0,0,,Ah, me too!
+Dialogue: 0,0:05:15.13,0:05:17.63,Dialogue,,0,0,0,,What the heck is it with those two?
 Dialogue: 0,0:05:23.04,0:05:26.47,Dialogue-italic,,0,0,0,,Ah... I barely made it in time.
 Dialogue: 0,0:05:27.61,0:05:30.93,Dialogue-italic,,0,0,0,,Could it be that the two of them are always like that?
 Dialogue: 0,0:05:36.05,0:05:38.13,Dialogue,,0,0,0,,{\an8}Stand. Bow.{rise?}
@@ -131,9 +131,9 @@ Dialogue: 0,0:06:04.60,0:06:05.38,Dialogue,,0,0,0,,Ah.
 Dialogue: 0,0:06:05.72,0:06:07.62,Dialogue,,0,0,0,,You’re also a class representative?
 Dialogue: 0,0:06:07.62,0:06:08.29,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:06:08.29,0:06:10.86,Dialogue,,0,0,0,,Everyone pushed the job on you, right?
-Dialogue: 0,0:06:13.86,0:06:15.79,Dialogue,,0,0,0,,Ah, there you are!
 Dialogue: 0,0:06:10.86,0:06:12.87,Dialogue,,0,0,0,,I had to run for it.
-Dialogue: 0,0:06:12.87,0:06:15.82,Dialogue,,0,0,0,,When I become a fifth grade{\fsp-1}r{\fsp}, I’m going to run for the student council, too.
+Dialogue: 0,0:06:12.87,0:06:15.81,Dialogue,,0,0,0,,When I become a fifth grade{\fsp-1}r{\fsp}, I’m going to run for the student council, too.
+Dialogue: 0,0:06:14.11,0:06:15.81,Dialogue,,0,0,0,,{\3c&H2E1D1E&}Ah, there you are!
 Dialogue: 0,0:06:15.82,0:06:17.89,Dialogue,,0,0,0,,I’ll definitely be elected president!
 Dialogue: 0,0:06:18.22,0:06:21.14,Dialogue,,0,0,0,,Asu, can you please help me with the next part on this?
 Dialogue: 0,0:06:21.14,0:06:22.63,Dialogue,,0,0,0,,Oh, sure.
@@ -141,14 +141,14 @@ Dialogue: 0,0:06:22.63,0:06:23.94,Dialogue,,0,0,0,,Hey! Listen to me!
 Dialogue: 0,0:06:23.94,0:06:25.79,Dialogue,,0,0,0,,Sorr{\fsp-1}y{\fsp}, Ginko.
 Dialogue: 0,0:06:25.79,0:06:26.78,Dialogue,,0,0,0,,Please wait just a moment.
 Dialogue: 0,0:06:27.30,0:06:28.93,Dialogue,,0,0,0,,It’s this part here.
-Dialogue: 0,0:06:29.61,0:06:33.22,Dialogue,,0,0,0,,This part here helps to explain this other part here, which leads to this, here.
-Dialogue: 0,0:06:33.13,0:06:35.36,Dialogue,,0,0,0,,Oh, I get it now!
+Dialogue: 0,0:06:29.61,0:06:33.13,Dialogue,,0,0,0,,This part here helps to explain this other part here, which leads to—
+Dialogue: 0,0:06:33.13,0:06:35.36,Dialogue,,0,0,0,,Oh, I see! I get it now!
 Dialogue: 0,0:06:35.36,0:06:36.68,Dialogue,,0,0,0,,Asu-chan, you’re amazing!
 Dialogue: 0,0:06:36.68,0:06:38.56,Dialogue,,0,0,0,,Let me help you carry that.
 Dialogue: 0,0:06:38.91,0:06:40.17,Dialogue,,0,0,0,,What up with her?
 Dialogue: 0,0:06:40.17,0:06:42.55,Dialogue,,0,0,0,,She’s just letting herself get used.
 Dialogue: 0,0:06:43.13,0:06:44.47,Dialogue,,0,0,0,,Right?
-Dialogue: 0,0:06:46.42,0:06:48.02,Dialogue,,0,0,0,,You don’t seem to be doing anything.
+Dialogue: 0,0:06:46.42,0:06:48.02,Dialogue,,0,0,0,,You don't seem busy.
 Dialogue: 0,0:06:48.02,0:06:49.63,Dialogue,,0,0,0,,Help pass these out.
 Dialogue: 0,0:06:50.66,0:06:53.07,Dialogue,,0,0,0,,Sorr{\fsp-1}y{\fsp}, but we’re a little busy right now.
 Dialogue: 0,0:06:54.00,0:06:54.70,Dialogue,,0,0,0,,Let’s go.
@@ -158,7 +158,7 @@ Dialogue: 0,0:06:58.79,0:06:59.99,Dialogue,,0,0,0,,Yeah.
 Comment: 0,0:07:00.72,0:07:01.02,Dialogue,,0,0,0,,Hmph.
 Dialogue: 0,0:07:11.53,0:07:13.65,Dialogue,,0,0,0,,Ginko-chan, sorry about what happened earlie{\fsp-1}r{\fsp}.
 Dialogue: 0,0:07:13.65,0:07:14.77,Dialogue,,0,0,0,,Don’t follow me!
-Dialogue: 0,0:07:16.65,0:07:18.86,Dialogue,,0,0,0,,Didn’t I tell you to not follow me?
+Dialogue: 0,0:07:16.65,0:07:18.86,Dialogue,,0,0,0,,Didn’t I tell you to not follow me?!
 Dialogue: 0,0:07:19.58,0:07:22.07,Dialogue,,0,0,0,,We walk home the same wa{\fsp-1}y{\fsp}, though...
 Dialogue: 0,0:07:22.07,0:07:24.05,Dialogue,,0,0,0,,Asu-chan, are you heading home?
 Dialogue: 0,0:07:24.05,0:07:25.28,Dialogue,,0,0,0,,Good afternoon.
@@ -179,13 +179,13 @@ Dialogue: 0,0:07:53.63,0:07:56.13,Dialogue,,0,0,0,,Here, this is from our store.
 Dialogue: 0,0:07:56.13,0:07:57.74,Dialogue,,0,0,0,,Here. Extras, extras, take ’em.
 Dialogue: 0,0:07:57.74,0:07:59.78,Dialogue,,0,0,0,,Oh, you’ve grown a bit talle{\fsp-1}r{\fsp}, haven’t you?
 Dialogue: 0,0:08:00.69,0:08:02.37,Dialogue-italic,,0,0,0,,What do you mean it’s “really something”?
-Dialogue: 0,0:08:02.37,0:08:06.78,Dialogue-italic,,0,0,0,,I’m also... I’m also trying my best with just my older siste{\fsp-1}r{\fsp}.{and an absurdly rich father who buys everything for them...}
+Dialogue: 0,0:08:02.37,0:08:06.78,Dialogue-italic,,0,0,0,,I’m also... I’m also trying my best with my older siste{\fsp-1}r{\fsp}.{and an absurdly rich father who buys everything for them...}
 Dialogue: 0,0:08:06.78,0:08:08.98,Dialogue-italic,,0,0,0,,Why is it... why is it—?!
 Dialogue: 0,0:08:10.73,0:08:12.05,Dialogue,,0,0,0,,I won’t lose to you!
 Comment: 0,0:08:12.34,0:08:13.11,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:08:14.33,0:08:16.16,Dialogue-italic,,0,0,0,,I won’t lose to you guys...
 Dialogue: 0,0:08:22.98,0:08:25.02,Dialogue-italic,,0,0,0,,Wh{\fsp-1}y{\fsp}, wh{\fsp-1}y{\fsp}, why?!
-Dialogue: 0,0:08:25.02,0:08:29.28,Dialogue-italic,,0,0,0,,Just because she’s nice{\fsp-1}r{\fsp}, has more friends, and she gets along with everyone!
+Dialogue: 0,0:08:25.02,0:08:29.28,Dialogue-italic,,0,0,0,,Just because she’s nice{\fsp-1}r{\fsp}, has more friends, and gets along with everyone!
 Dialogue: 0,0:08:29.28,0:08:33.31,Dialogue-italic,,0,0,0,,Onee-sama and I are still so much, much, much...!{better is implied by zutto?}
 Dialogue: 0,0:08:36.37,0:08:37.28,Dialogue,,0,0,0,,Ginko.
 Dialogue: 0,0:08:37.28,0:08:38.12,Dialogue,,0,0,0,,Yes?
@@ -197,9 +197,9 @@ Dialogue: 0,0:08:50.84,0:08:53.92,Dialogue,,0,0,0,,You plan on doing some pretty
 Comment: 0,0:08:54.07,0:08:54.53,Dialogue,,0,0,0,,Uh...
 Dialogue: 0,0:08:55.28,0:08:56.31,Dialogue,,0,0,0,,Ginko.
 Dialogue: 0,0:08:56.31,0:08:58.22,Dialogue,,0,0,0,,You going to use this to...
-Dialogue: 0,0:08:58.64,0:09:03.24,Dialogue,,0,0,0,,Scout out all the supermarkets in the city for super-great sales, am I right?{really tempted to replace great with fabulous}
+Dialogue: 0,0:08:58.64,0:09:03.24,Dialogue,,0,0,0,,Scout out all the supermarkets in the city for super-extraordinary sales, am I right?
 Comment: 0,0:09:03.21,0:09:03.53,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:09:03.68,0:09:05.35,Dialogue,,0,0,0,,That’s fabulous, Ginko.{oh wait I used fabulous here. nvm then}
+Dialogue: 0,0:09:03.68,0:09:05.35,Dialogue,,0,0,0,,That’s wonderful, Ginko.
 Dialogue: 0,0:09:05.35,0:09:06.94,Dialogue,,0,0,0,,Right, Onee-sama.
 Dialogue: 0,0:09:07.21,0:09:10.65,Dialogue,,0,0,0,,If it’s for the great cause of economization, I’ll even lend you a helicopter if you want.
 Dialogue: 0,0:09:10.95,0:09:13.20,Dialogue,,0,0,0,,Onee-sama, I don’t think we need to go that fa{\fsp-1}r{\fsp}...
@@ -219,7 +219,7 @@ Dialogue: 0,0:09:48.63,0:09:51.61,Dialogue,,0,0,0,,Ah, Miss, I’ve finished adj
 Dialogue: 0,0:09:51.88,0:09:54.05,Dialogue,,0,0,0,,I’ll take care of the rest.
 Dialogue: 0,0:09:54.05,0:09:54.91,Dialogue,,0,0,0,,Begone.{you may go}
 Dialogue: 0,0:09:54.91,0:09:56.28,Dialogue,,0,0,0,,Understood.
-Dialogue: 0,0:10:01.38,0:10:04.95,Dialogue-italic,,0,0,0,,I understand that I really shouldn’t be doing this,
+Dialogue: 0,0:10:01.38,0:10:04.95,Dialogue-italic,,0,0,0,,I'm aware that I really shouldn’t be doing this,
 Dialogue: 0,0:10:04.95,0:10:10.50,Dialogue-italic,,0,0,0,,but I have to do it so I can find out just what it is that's so different between us.
 Dialogue: 0,0:10:10.50,0:10:12.41,Dialogue-italic,,0,0,0,,We should be perfect.
 Dialogue: 0,0:10:12.41,0:10:15.63,Dialogue-italic,,0,0,0,,Even so, even so...
