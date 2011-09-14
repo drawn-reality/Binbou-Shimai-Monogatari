@@ -10,10 +10,10 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 20483
+Video Position: 3944
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
-WrapStyle: 3
+WrapStyle: 0
 ScaledBorderAndShadow: yes
 Video Zoom Percent: 0.500000
 Audio File: BMS_06_Raw_v8_[389147A3].wav
@@ -46,7 +46,7 @@ Dialogue: 3,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\f
 Dialogue: 0,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\alpha&HFF&\(0,238,\alpha&H80&)\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361.095,467)\fsp8\shad0\fs40}G{\fsp3\fs25}inko{\fsp3\fs40},{\fsp-3\fs25} {\fsp3}and {\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
 Dialogue: 1,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFFFFFF&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp8\fs40\pos(357,462)}G{\fsp3\fs25}inko{\fsp3\fs40},{\fsp-3\fs25} {\fsp3}and {\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
 Dialogue: 2,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFED474&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp8\fs40}G{\fsp3\fs25}inko{\fsp3\fs40\c&H6981FF&},{\fsp-3\fs25} {\fsp3}and {\c&HFED474&\fs40}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
-Dialogue: 3,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFE93DC&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp8\fs40\clip(m 193 409 l 504 414 531 450 493 449 359 444 356 449 310 449 309 453 296 447 263 447 262 444 199 450)}G{\fsp3\fs25}inko{\fsp3\fs40\c&H42CBFE&},{\fsp-3\fs25} {\fsp3}and {\fs40\c&HFDA9AB&}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
+Dialogue: 3,0:02:40.26,0:02:44.51,generic sign style,Title,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFE93DC&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp8\fs40\clip(m 193 409 l 504 414 531 450 515 444 493 449 447 445 447 449 437 449 436 444 359 444 356 449 310 448 309 453 296 447 262 448 262 444 199 450)}G{\fsp3\fs25}inko{\fsp3\fs40\c&H42CBFE&},{\fsp-3\fs25} {\fsp3}and {\fs40\c&HFDA9AB&}O{\fs25}ne{\fsp8}e{\fsp3}-sama{さびしさと銀子とお姉さまの日}
 Dialogue: 0,0:10:25.98,0:10:33.98,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz9.02\fax0.1\pos(159,59)\q2}On a cold night, if you eat\Nshichimi, it will help keep you warm.
 Dialogue: 0,0:10:25.98,0:10:33.98,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\fax0.1\pos(507,31)}7 Delicious Spices{七味唐辛子 【しちみとうがらし】 (n) blend of seven spices (cayenne, sesame, Japanese pepper, citrus peel, etc.)}{七味唐がらし}
 Dialogue: 0,0:10:33.98,0:10:42.49,generic sign style,Eyecatch,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz9.02\fax0.1\pos(139,72)\q2}To us, the flea market is like\Nan enormous shopping mal{\fsp-4}l.
@@ -57,7 +57,7 @@ Dialogue: 0,0:00:16.49,0:00:22.39,Dialogue-italic,,0,0,0,,You must hate your lit
 Dialogue: 0,0:00:23.42,0:00:28.04,Dialogue-italic,,0,0,0,,No matter how hard I tr{\fsp-1}y{\fsp}, it’s never enough to make you notice.
 Dialogue: 0,0:00:32.02,0:00:33.30,Dialogue-italic,,0,0,0,,Yamada Kyou,
 Dialogue: 0,0:00:33.93,0:00:36.33,Dialogue-italic,,0,0,0,,Yamada Asu, huh...
-Dialogue: 0,0:00:46.22,0:00:50.10,Dialogue,Kyou,0,0,0,,Mother went to heaven the year she gave birth to Asu.
+Dialogue: 0,0:00:46.39,0:00:50.10,Dialogue,Kyou,0,0,0,,Mother went to heaven the year she gave birth to Asu.
 Dialogue: 0,0:00:50.55,0:00:53.79,Dialogue,Asu,0,0,0,,Our father disappeared after accumulating gambling debts.
 Dialogue: 0,0:00:54.41,0:00:57.60,Dialogue,Both,0,0,0,,So, we were left behind.
 Dialogue: 0,0:00:58.72,0:01:02.81,Dialogue,Kyou,0,0,0,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
@@ -68,7 +68,7 @@ Dialogue: 0,0:02:55.62,0:02:57.03,Dialogue,Asu,0,0,0,,Onee-chan, wake up!
 Dialogue: 0,0:02:57.03,0:02:59.46,Dialogue,,0,0,0,,Wake up! We’re going to be late!
 Dialogue: 0,0:03:00.45,0:03:03.13,Dialogue,,0,0,0,,Just three more minutes...
 Dialogue: 0,0:03:06.25,0:03:09.58,Dialogue,,0,0,0,,This room is really dark, even in the morning.{T-3,2,1}
-Dialogue: 0,0:03:10.30,0:03:12.64,Dialogue,,0,0,0,,All because that complex got built next doo{\fsp-1}r{\fsp}.{TIME WARP TO A YEAR IN THE FUTURE (either that or the japanese are some of the damn fastest construction workers in the universe).}
+Dialogue: 0,0:03:10.30,0:03:12.71,Dialogue,,0,0,0,,All because that complex got built next doo{\fsp-1}r{\fsp}.{TIME WARP TO A YEAR IN THE FUTURE (either that or the japanese are some of the damn fastest construction workers in the universe).}
 Dialogue: 0,0:03:18.59,0:03:20.17,Dialogue,,0,0,0,,The weather’s great toda{\fsp-1}y{\fsp}.{LOL THEY LIVE IN THE LUXURY MANSION COMPLEX}{wait didn’t they already have a fucking huge house?}
 Dialogue: 0,0:03:20.17,0:03:23.48,Dialogue,,0,0,0,,It looks like picking the penthouse was the right choice after all, Onee-sama.{Looks like picking the penthouse room was right, Onee-sama.}
 Dialogue: 0,0:03:23.48,0:03:25.83,Dialogue,,0,0,0,,You’d better hurr{\fsp-1}y{\fsp}, Ginko. You’re going to be late.
@@ -76,7 +76,7 @@ Dialogue: 0,0:03:25.83,0:03:26.72,Dialogue,,0,0,0,,Yes, Onee-sama.
 Dialogue: 0,0:03:27.10,0:03:31.53,Dialogue,,0,0,0,,I requested for father to build this complex because this location is much closer to the elementary school.
 Dialogue: 0,0:03:31.53,0:03:32.40,Dialogue,,0,0,0,,O-Oka{\fsp-1}y{\fsp}.
 Dialogue: 0,0:03:32.96,0:03:35.83,Dialogue,,0,0,0,,You will not be allowed to be late.
-Dialogue: 0,0:03:35.83,0:03:38.11,Dialogue,,0,0,0,,Y-yes, Onee-sama.
+Dialogue: 0,0:03:35.83,0:03:38.11,Dialogue,,0,0,0,,Y-Yes, Onee-sama.
 Dialogue: 0,0:03:38.11,0:03:42.00,Dialogue,,0,0,0,,Even better, it’ll be much easier to find great sales from here!{And then we can go get our prize, the great deals!}
 Dialogue: 0,0:03:42.00,0:03:42.70,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
 Dialogue: 0,0:03:42.70,0:03:44.31,Dialogue-italic,,0,0,0,,All we need are some pencils...{and now this line doesn’t really make sense. Oh well.}
@@ -138,7 +138,7 @@ Dialogue: 0,0:06:15.82,0:06:17.89,Dialogue,,0,0,0,,I’ll definitely be elected 
 Dialogue: 0,0:06:18.22,0:06:21.14,Dialogue,,0,0,0,,Asu, can you please help me with the next part on this?
 Dialogue: 0,0:06:21.14,0:06:22.63,Dialogue,,0,0,0,,Oh, sure.
 Dialogue: 0,0:06:22.63,0:06:23.94,Dialogue,,0,0,0,,Hey! Listen to me!
-Dialogue: 0,0:06:23.94,0:06:25.79,Dialogue,,0,0,0,,Sorr{\fsp-1}y{\fsp}, Ginko.
+Dialogue: 0,0:06:23.94,0:06:25.79,Dialogue,,0,0,0,,Ah, sorr{\fsp-1}y{\fsp}, Ginko.
 Dialogue: 0,0:06:25.79,0:06:26.78,Dialogue,,0,0,0,,Please wait just a moment.
 Dialogue: 0,0:06:27.30,0:06:28.93,Dialogue,,0,0,0,,It’s this part here.
 Dialogue: 0,0:06:29.61,0:06:33.13,Dialogue,,0,0,0,,This part here helps to explain this other part here, which leads to—
@@ -153,7 +153,7 @@ Dialogue: 0,0:06:48.02,0:06:49.63,Dialogue,,0,0,0,,Help pass these out.
 Dialogue: 0,0:06:50.66,0:06:53.07,Dialogue,,0,0,0,,Sorr{\fsp-1}y{\fsp}, but we’re a little busy right now.
 Dialogue: 0,0:06:54.00,0:06:54.70,Dialogue,,0,0,0,,Let’s go.
 Dialogue: 0,0:06:54.70,0:06:55.35,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
-Dialogue: 0,0:06:56.27,0:06:58.79,Dialogue,,0,0,0,,Echigoya-san is really annoying, don’t you think?{asdfj -> Echigoya
+Dialogue: 0,0:06:56.27,0:06:58.79,Dialogue,,0,0,0,,Echigoya-san is really annoying, don’t you think?{asdfj -> Echigoya}
 Dialogue: 0,0:06:58.79,0:06:59.99,Dialogue,,0,0,0,,Yeah.
 Comment: 0,0:07:00.72,0:07:01.02,Dialogue,,0,0,0,,Hmph.
 Dialogue: 0,0:07:11.53,0:07:13.65,Dialogue,,0,0,0,,Ginko-chan, sorry about what happened earlie{\fsp-1}r{\fsp}.
@@ -206,14 +206,14 @@ Dialogue: 0,0:09:10.95,0:09:13.20,Dialogue,,0,0,0,,Onee-sama, I don’t think we
 Dialogue: 0,0:09:13.20,0:09:15.74,Dialogue,,0,0,0,,Whatever you’re doing, it’s a great idea.
 Dialogue: 0,0:09:16.55,0:09:21.26,Dialogue,,0,0,0,,You should search every single supermarket for deals, even if it takes you the whole da{\fsp-1}y{\fsp}.{Even if you have to spend the whole day, you have to find out every supermarket that has special sales.}
 Dialogue: 0,0:09:21.26,0:09:22.26,Dialogue,,0,0,0,,Sound good?
-Dialogue: 0,0:09:22.26,0:09:23.20,Dialogue,,0,0,0,,S-sure.
+Dialogue: 0,0:09:22.26,0:09:23.20,Dialogue,,0,0,0,,S-Sure.
 Dialogue: 0,0:09:24.58,0:09:26.67,Dialogue-italic,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}, Onee-sama.
 Dialogue: 0,0:09:27.12,0:09:30.35,Dialogue-italic,,0,0,0,,That’s not why I asked for the telescope.
 Dialogue: 0,0:09:31.67,0:09:35.59,Dialogue,,0,0,0,,I have to go now, so I’ll leave the rest to you.
-Dialogue: 0,0:09:36.32,0:09:38.87,Dialogue,,0,0,0,,What? You’re busy today too?
+Dialogue: 0,0:09:35.59,0:09:38.87,Dialogue,,0,0,0,,What? You’re busy today too?
 Dialogue: 0,0:09:38.87,0:09:39.97,Dialogue,,0,0,0,,Even though we have the day off.
 Dialogue: 0,0:09:41.19,0:09:43.31,Dialogue,,0,0,0,,Yes. I won’t be back until late tonight.
-Dialogue: 0,0:09:44.16,0:09:45.47,Dialogue,,0,0,0,,Is that so...
+Dialogue: 0,0:09:44.16,0:09:45.47,Dialogue,,0,0,0,,Is that so?
 Dialogue: 0,0:09:45.47,0:09:46.93,Dialogue,,0,0,0,,{\fad(0,200)}Have a good da{\fsp-1}y{\fsp}.
 Dialogue: 0,0:09:48.63,0:09:51.61,Dialogue,,0,0,0,,Ah, Mistress, I’ve finished adjusting the settings.
 Dialogue: 0,0:09:51.88,0:09:54.05,Dialogue,,0,0,0,,I’ll take care of the rest.
@@ -228,7 +228,7 @@ Dialogue: 0,0:10:23.45,0:10:25.51,Dialogue-italic,,0,0,0,,I will definitely not 
 Dialogue: 0,0:10:55.00,0:10:57.13,Dialogue,Sisters,0,0,0,,Thanks for the food!
 Dialogue: 0,0:11:09.22,0:11:10.63,Dialogue-italic,,0,0,0,,It’s delicious!
 Dialogue: 0,0:11:10.63,0:11:14.23,Dialogue-italic,,0,0,0,,The eggs and spinach are delicious!
-Dialogue: 0,0:11:15.35,0:11:19.39,Dialogue-italic,,0,0,0,,The day before yesterda{\fsp-1}y{\fsp}, I found the spinach on sale for 40 yen per bag.
+Dialogue: 0,0:11:15.35,0:11:19.39,Dialogue-italic,,0,0,0,,Two days ago, I found the spinach on sale for 40 yen per bag.
 Dialogue: 0,0:11:19.39,0:11:23.16,Dialogue-italic,,0,0,0,,I cooked it with some eggs I found yesterday for 58 yen!
 Dialogue: 0,0:11:23.42,0:11:26.87,Dialogue,,0,0,0,,Ah! The spinach from the sale that I missed!
 Dialogue: 0,0:11:35.14,0:11:38.81,Dialogue,,0,0,0,,Why does this girl open her mouth so wide while eating?
@@ -244,7 +244,7 @@ Dialogue: 0,0:12:04.24,0:12:08.86,Dialogue,,0,0,0,,I’ve never laughed during a
 Dialogue: 0,0:12:09.97,0:12:12.87,Dialogue,,0,0,0,,Talking with a full mouth is simply reprehensible behavior!{lol leaving it like this unless someone tells me to tone it down}
 Dialogue: 0,0:12:16.85,0:12:18.38,Dialogue,,0,0,0,,What’s wrong, Asu?
 Dialogue: 0,0:12:18.74,0:12:21.10,Dialogue,,0,0,0,,Oh, it’s nothing.
-Dialogue: 0,0:12:39.03,0:12:42.05,Dialogue-italic,,0,0,0,,Today’s a holida{\fsp-1}y{\fsp}, so she’s sleeping on the floor in the middle of the day?{休み [やすみ] 1: rest; recess; respite; 2: vacation; holiday; absence; suspension;
+Dialogue: 0,0:12:39.03,0:12:42.05,Dialogue-italic,,0,0,0,,Today’s a holida{\fsp-1}y{\fsp}, so she’s sleeping on the floor in the middle of the day?{休み [やすみ] 1: rest; recess; respite; 2: vacation; holiday; absence; suspension;}
 Dialogue: 0,0:12:42.05,0:12:45.32,Dialogue-italic,,0,0,0,,I’ve never seen Onee-sama being that laz{\fsp-1}y{\fsp}.
 Dialogue: 0,0:12:45.97,0:12:49.06,Dialogue-italic,,0,0,0,,Even until she goes to bed, she’s always energetic and—
 Dialogue: 0,0:12:49.06,0:12:51.20,Dialogue,,0,0,0,,Ginko, good night.
@@ -284,10 +284,10 @@ Dialogue: 0,0:14:34.11,0:14:35.39,Dialogue,,0,0,0,,I’m through with it.
 Comment: 0,0:14:35.58,0:14:35.99,Dialogue,,0,0,0,,Oh?
 Dialogue: 0,0:14:36.76,0:14:39.23,Dialogue,,0,0,0,,Watching any more would be wasting my time.
 Dialogue: 0,0:14:41.72,0:14:43.52,Dialogue,,0,0,0,,What’s wrong, Asu?
-Dialogue: 0,0:14:43.52,0:14:47.91,Dialogue,,0,0,0,,Somehow, I can’t seem to calm down toda{\fsp-1}y{\fsp}...
+Dialogue: 0,0:14:44.86,0:14:47.91,Dialogue,,0,0,0,,For some reason I’ve been kind of on edge toda{\fsp-1}y{\fsp}...
 Dialogue: 0,0:14:47.91,0:14:50.91,Dialogue,,0,0,0,,It kind of feels like someone is watching us.
 Dialogue: 0,0:14:53.22,0:14:54.28,Dialogue,,0,0,0,,That’s kinda odd, Asu.{silly?}
-Dialogue: 0,0:14:55.83,0:14:59.08,Dialogue,,0,0,0,,Ah, isn’t it time for you to deliver the newspaper?
+Dialogue: 0,0:14:55.83,0:14:59.08,Dialogue,,0,0,0,,Hey, isn’t it time for you to deliver the newspaper?
 Dialogue: 0,0:14:59.08,0:15:01.59,Dialogue,,0,0,0,,Ah, this is bad! Today’s the evening edition, isn’t it?
 Dialogue: 0,0:15:01.59,0:15:03.39,Dialogue,,0,0,0,,Sorr{\fsp-1}y{\fsp}, can you take these home?
 Dialogue: 0,0:15:03.39,0:15:05.11,Dialogue,,0,0,0,,They’re a little heav{\fsp-1}y{\fsp}. See ya!
@@ -309,8 +309,8 @@ Dialogue: 0,0:15:35.67,0:15:38.16,Dialogue,,0,0,0,,That’s enough. You’re dis
 Comment: 0,0:15:38.62,0:15:39.36,Dialogue,,0,0,0,,Yes...{OK}
 Dialogue: 0,0:15:40.00,0:15:42.18,Dialogue,,0,0,0,,Thanks for the food!
 Dialogue: 0,0:15:44.76,0:15:47.57,Dialogue,,0,0,0,,Asu! This Saumon Meunièr is the best!{I shit you not they’re eating french food (capitalized and accented for full irony). ムニエル (n) meuniere (fre:) -> http://en.wikipedia.org/wiki/Meuniere_sauce}
-Dialogue: 0,0:15:47.57,0:15:50.55,Dialogue,,0,0,0,,The man from the fish market was nice enough to sell us this salmon at a really low price.
-Dialogue: 0,0:15:50.55,0:15:53.14,Dialogue,,0,0,0,,And the side dishes are from the owner of the vegetable stand.
+Dialogue: 0,0:15:47.57,0:15:50.55,Dialogue,,0,0,0,,The man from the fish market was nice enough to sell us this salmon at a really low price,
+Dialogue: 0,0:15:50.55,0:15:53.14,Dialogue,,0,0,0,,and the side dishes are from the owner of the vegetable stand.
 Dialogue: 0,0:15:53.54,0:15:57.13,Dialogue,,0,0,0,,“Meunière” certainly has a rich sound to it.
 Dialogue: 0,0:15:57.13,0:15:59.60,Dialogue,,0,0,0,,Though, I didn’t put very many croûtons in it.{more accents for frenchie lulz}
 Dialogue: 0,0:16:13.35,0:16:14.41,Dialogue-italic,,0,0,0,,I’m all right.{HOT GINKO BATHTUB SCENE UNF}
@@ -348,7 +348,7 @@ Dialogue: 0,0:18:13.48,0:18:16.95,Dialogue,,0,0,0,,for Onee-chan’s sake,
 Dialogue: 0,0:18:17.37,0:18:22.41,Dialogue,,0,0,0,,I want to make our home the one place in the world where she doesn’t have to work hard.
 Dialogue: 0,0:18:28.37,0:18:31.68,Dialogue,,0,0,0,,A place where she doesn’t have to work hard...
 Dialogue: 0,0:18:31.68,0:18:32.30,Dialogue,,0,0,0,,Yes.
-Dialogue: 0,0:18:32.77,0:18:36.34,Dialogue,,0,0,0,,Asu... this fried sweet potato is also really delicious.
+Dialogue: 0,0:18:32.77,0:18:36.34,Dialogue,,0,0,0,,Asu, this fried sweet potato is also really delicious.
 Dialogue: 0,0:18:37.34,0:18:39.19,Dialogue,,0,0,0,,Well then, we’ll head home now.
 Dialogue: 0,0:18:39.19,0:18:39.94,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
 Dialogue: 0,0:18:39.94,0:18:41.48,Dialogue,,0,0,0,,Onee-chan, it’s time to go.
@@ -357,8 +357,8 @@ Dialogue: 0,0:18:43.71,0:18:44.81,Dialogue,,0,0,0,,Geez...{JESUS H CHRIST}
 Dialogue: 0,0:18:45.48,0:18:48.03,Dialogue-italic,,0,0,0,,What can I do for my sister?
 Dialogue: 0,0:18:48.51,0:18:50.98,Dialogue,,0,0,0,,Excuse me...
 Dialogue: 0,0:18:49.22,0:18:50.98,Dialogue,,0,0,0,,Excuse us!
-Dialogue: 0,0:18:51.80,0:18:56.46,Dialogue-italic,,0,0,0,,Onee-sama always does her best to meet the expectations of those around he{\fsp-1}r{\fsp}.
-Dialogue: 0,0:18:56.46,0:18:59.40,Dialogue-italic,,0,0,0,,{\fad(0,1560)}And I’ve never heard her once complain about how tough it is.
+Dialogue: 0,0:18:51.80,0:18:56.46,Dialogue-italic,,0,0,0,,Onee-sama always does her best to meet the expectations of those around he{\fsp-1}r{\fsp},
+Dialogue: 0,0:18:56.46,0:18:59.40,Dialogue-italic,,0,0,0,,{\fad(0,1560)}and I’ve never heard her once complain about how tough it is.
 Dialogue: 0,0:19:01.17,0:19:04.40,Dialogue-italic,,0,0,0,,Onee-sama is the one who is always alone.
 Dialogue: 0,0:19:07.39,0:19:11.67,Dialogue-italic,,0,0,0,,No, I was the one who abandoned he{\fsp-1}r{\fsp}.
 Dialogue: 0,0:19:17.32,0:19:22.34,Dialogue,,0,0,0,,Mistress Kinko, will it be satisfactory to leave Mistress Ginko’s new clothes here?{argh verb tenses and general phraseology}
@@ -382,9 +382,9 @@ Dialogue: 0,0:20:26.49,0:20:27.69,Dialogue,,0,0,0,,Ginko.{GODDAMN FUCKING LASER 
 Dialogue: 0,0:20:33.35,0:20:34.60,Dialogue,,0,0,0,,I understand.
 Dialogue: 0,0:20:38.79,0:20:40.96,Dialogue,,0,0,0,,Thank you, Ginko.
 Dialogue: 0,0:20:46.81,0:20:48.82,Dialogue-italic,,0,0,0,,Dear Onee-sama,
-Dialogue: 0,0:20:48.82,0:20:51.33,Dialogue-italic,,0,0,0,,toda{\fsp-1}y{\fsp}, I noticed something for the first time.
+Dialogue: 0,0:20:48.82,0:20:51.33,Dialogue-italic,,0,0,0,,toda{\fsp-1}y{\fsp} I noticed something for the first time.
 Dialogue: 0,0:20:52.43,0:20:55.24,Dialogue-italic,,0,0,0,,I was the one who was wrong.
-Dialogue: 0,0:20:55.24,0:20:58.33,Dialogue-italic,,0,0,0,,I was always only thinking about myself.
+Dialogue: 0,0:20:55.24,0:20:58.33,Dialogue-italic,,0,0,0,,I was always thinking only about myself.
 Dialogue: 0,0:20:58.89,0:21:04.15,Dialogue-italic,,0,0,0,,I didn’t even notice how much you have been taking care of me all this time.
 Dialogue: 0,0:21:04.64,0:21:06.25,Dialogue-italic,,0,0,0,,I finally understand.
 Dialogue: 0,0:21:06.63,0:21:11.25,Dialogue-italic,,0,0,0,,The most precious feelings are those that two people share for each othe{\fsp-1}r{\fsp}.
@@ -396,7 +396,8 @@ Dialogue: 0,0:23:00.23,0:23:02.96,Dialogue,,0,0,0,,Onee-chan has someone who she
 Dialogue: 0,0:23:03.35,0:23:05.04,Dialogue,,0,0,0,,Poor Sisters’ Story:
 Dialogue: 0,0:23:05.04,0:23:07.65,Dialogue,,0,0,0,,A day of Jealous{\fsp-1}y{\fsp}, Chocolates, and Valentines.
 Dialogue: 0,0:23:07.65,0:23:09.16,Dialogue,,0,0,0,,Please watch it!
-Dialogue: 0,0:22:56.02,0:22:57.48,generic sign style,,0,0,0,,{\b1\fs25\c&H8E5368&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
+Dialogue: 0,0:22:56.02,0:22:56.10,generic sign style,,0,0,0,,{\b1\fs25\c&H8E5368&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
+Dialogue: 0,0:22:56.10,0:22:57.48,generic sign style,,0,0,0,,{\b1\fs25\c&H8E5368&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
 Dialogue: 0,0:01:22.02,0:01:22.06,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(241.0,320.87)\alpha&hFF&\t(22,439,\alpha&H00)\fscx82.3\fscy100.0}Binbou   Shimai Monogatari
 Dialogue: 0,0:01:22.02,0:01:22.06,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(241.0,320.87)\alpha&hFF&\t(22,439,\alpha&H00)\fscx82.3\fscy100.0}Binbou   Shimai Monogatari
 Dialogue: 0,0:01:22.06,0:01:22.10,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(243.7,320.29)\fscx81.94\fscy99.56\alpha&hFF&\t(-18,399,\alpha&H00)}Binbou   Shimai Monogatari
