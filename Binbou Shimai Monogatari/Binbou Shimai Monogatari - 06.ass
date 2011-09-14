@@ -10,7 +10,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 3944
+Video Position: 33184
 Last Style Storage: Binbou Shimai Monogatari
 PlayResX: 712
 WrapStyle: 0
@@ -308,11 +308,11 @@ Dialogue: 0,0:15:33.36,0:15:34.33,Dialogue,,0,0,0,,That’s enough.
 Dialogue: 0,0:15:35.67,0:15:38.16,Dialogue,,0,0,0,,That’s enough. You’re dismissed.
 Comment: 0,0:15:38.62,0:15:39.36,Dialogue,,0,0,0,,Yes...{OK}
 Dialogue: 0,0:15:40.00,0:15:42.18,Dialogue,,0,0,0,,Thanks for the food!
-Dialogue: 0,0:15:44.76,0:15:47.57,Dialogue,,0,0,0,,Asu! This Saumon Meunièr is the best!{I shit you not they’re eating french food (capitalized and accented for full irony). ムニエル (n) meuniere (fre:) -> http://en.wikipedia.org/wiki/Meuniere_sauce}
+Dialogue: 0,0:15:44.76,0:15:47.57,Dialogue,,0,0,0,,Asu! This Salmon Meunièr is the best!{I shit you not they’re eating french food (capitalized and accented for full irony). ムニエル (n) meuniere (fre:) -> http://en.wikipedia.org/wiki/Meuniere_sauce}
 Dialogue: 0,0:15:47.57,0:15:50.55,Dialogue,,0,0,0,,The man from the fish market was nice enough to sell us this salmon at a really low price,
 Dialogue: 0,0:15:50.55,0:15:53.14,Dialogue,,0,0,0,,and the side dishes are from the owner of the vegetable stand.
-Dialogue: 0,0:15:53.54,0:15:57.13,Dialogue,,0,0,0,,“Meunière” certainly has a rich sound to it.
-Dialogue: 0,0:15:57.13,0:15:59.60,Dialogue,,0,0,0,,Though, I didn’t put very many croûtons in it.{more accents for frenchie lulz}
+Dialogue: 0,0:15:53.54,0:15:57.13,Dialogue,,0,0,0,,“Meunier” certainly has a rich sound to it.
+Dialogue: 0,0:15:57.13,0:15:59.60,Dialogue,,0,0,0,,Even though I only sprinkled a few croûtons on top.{more accents for frenchie lulz}
 Dialogue: 0,0:16:13.35,0:16:14.41,Dialogue-italic,,0,0,0,,I’m all right.{HOT GINKO BATHTUB SCENE UNF}
 Dialogue: 0,0:16:21.16,0:16:23.29,Dialogue-italic,,0,0,0,,I’m fine with being alone.
 Dialogue: 0,0:16:26.11,0:16:28.40,Dialogue-italic,,0,0,0,,I {\i0}was{\i1} fine, but...
