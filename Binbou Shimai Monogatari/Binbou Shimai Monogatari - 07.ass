@@ -8,7 +8,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 4486
+Video Position: 12061
 Audio File: ?video
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_07_[D160AFB7].avi
 Last Style Storage: Default
@@ -34,64 +34,66 @@ Style: ED - Romaji-furigana,Candela Bold,15,&H00090F77,&H00DEDEDE,&H004A5011,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.49,0:00:20.17,Dialogue,Asu,0,0,90,,It's done!
+Dialogue: 0,0:02:52.66,0:02:56.61,Dialogue,Title,0,0,90,,A day of Jealousy, Chocolates, and Valentines.
 Dialogue: 0,0:00:18.49,0:00:19.43,Dialogue,Asu,0,0,90,,It's done!
-Dialogue: 0,0:00:20.15,0:00:23.99,Dialogue,,0,0,90,,Since I had nothing prepared, I just let the chocolate melt and then freeze it back into a new shape.
-Dialogue: 0,0:00:24.22,0:00:25.78,Dialogue,,0,0,90,,I wonder if she will be happy...
+Dialogue: 0,0:00:20.15,0:00:23.99,Dialogue,,0,0,90,,For lack of a budget, I just shaped and cooled melted chocolate.{よさん => "budget"}{Since there wasn't a budget to work with, it's really just a shaped and hardened chocolate bar,}
+Dialogue: 0,0:00:24.22,0:00:25.78,Dialogue,,0,0,90,,I wonder if she'll like it.
 Dialogue: 0,0:00:26.32,0:00:28.15,Dialogue,,0,0,90,,Valentine chocolate!
-Dialogue: 0,0:00:28.97,0:00:31.97,Dialogue,,0,0,90,,I really want to give this out already, to my favorite...
-Dialogue: 0,0:00:34.85,0:00:35.77,Dialogue,Teacher,0,0,90,,Yamada Kyo.
-Dialogue: 0,0:00:36.88,0:00:37.60,Dialogue,,0,0,90,,Yes!
-Dialogue: 0,0:00:41.61,0:00:42.70,Dialogue,,0,0,90,,Hooray!
-Dialogue: 0,0:00:42.70,0:00:44.21,Dialogue,,0,0,90,,Even though you sleep the entire day...
-Dialogue: 0,0:00:46.96,0:00:48.20,Dialogue,,0,0,90,,Onee-chan!
+Dialogue: 0,0:00:28.97,0:00:31.97,Dialogue,,0,0,90,,I really want to hurry up and give it to her!{unf}
+Dialogue: 0,0:00:34.85,0:00:35.77,Dialogue,Teacher,0,0,90,,Yamada Kyou.
+Dialogue: 0,0:00:36.88,0:00:37.60,Dialogue,,0,0,90,,Yes!{yes sir}
+Dialogue: 0,0:00:41.61,0:00:42.70,Dialogue,,0,0,90,,{\an5\fs90}やったね～{Hooray vs I pulled it off, huh?}
+Dialogue: 0,0:00:42.70,0:00:44.21,Dialogue,,0,0,90,,Even though you always fall asleep in class...{too long?}
+Dialogue: 0,0:00:46.96,0:00:48.20,Dialogue,,0,0,90,,Onee-chan!{ni?}
 Dialogue: 0,0:00:58.56,0:01:02.25,Dialogue,Opening,0,0,90,,Mother went to heaven the year she gave birth to Asu.
-Dialogue: 0,0:01:02.84,0:01:05.97,Dialogue,,0,0,90,,Father left a huge debt after gambling and is now missing,
-Dialogue: 0,0:01:06.79,0:01:09.69,Dialogue,,0,0,90,,leaving only the two of us.
-Dialogue: 0,0:01:11.11,0:01:12.56,Dialogue,,0,0,90,,The place we live in is
-Dialogue: 0,0:01:12.56,0:01:14.71,Dialogue,,0,0,90,,a beaten up 40 year old apartment with one room and no bath.
+Dialogue: 0,0:01:02.84,0:01:05.97,Dialogue,,0,0,90,,Our father disappeared after accumulating gambling debts.
+Dialogue: 0,0:01:06.79,0:01:09.69,Dialogue,,0,0,90,,So, we were left behind.
+Dialogue: 0,0:01:11.11,0:01:14.71,Dialogue,,0,0,90,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
 Dialogue: 0,0:01:15.23,0:01:17.12,Dialogue,,0,0,90,,This is our home.
 Dialogue: 0,0:01:17.60,0:01:19.75,Dialogue,,0,0,90,,But, when spring comes...
-Dialogue: 0,0:02:52.66,0:02:56.61,Dialogue,Title,0,0,90,,A Day of Jealousy, Chocolate, and Valentine's Day
-Dialogue: 0,0:03:07.08,0:03:09.81,Dialogue,Kyo,0,0,90,,It's all right! Just leave it up to Onee-chan!
-Dialogue: 0,0:03:11.13,0:03:14.93,Dialogue,,0,0,90,,From school to work, that's what Onee-chan says.
-Dialogue: 0,0:03:16.21,0:03:18.04,Dialogue,,0,0,90,,It's really tough, actually.
-Dialogue: 0,0:03:18.04,0:03:20.03,Dialogue,,0,0,90,,But she always keeps up a smile.
-Dialogue: 0,0:03:21.00,0:03:24.19,Dialogue,,0,0,90,,This is the first time I've ever made chocolate for Onee-chan.
-Dialogue: 0,0:03:24.49,0:03:26.52,Dialogue,,0,0,90,,How should I give this to her...
-Dialogue: 0,0:03:27.95,0:03:31.10,Dialogue,,0,0,90,,"Thank you for everything!" sounds a little strange...
-Dialogue: 0,0:03:34.80,0:03:36.58,Dialogue,,0,0,90,,3:30, eh...
-Dialogue: 0,0:03:37.44,0:03:40.07,Dialogue,,0,0,90,,Oh yeah, I should go pick up Onee-chan.
-Dialogue: 0,0:04:19.46,0:04:21.69,Dialogue,,0,0,90,,She hasn't come out yet... Onee-chan.
+Dialogue: 0,0:03:07.08,0:03:09.81,Dialogue,Kyo,0,0,90,,No problem! Just leave it to me!{sigh}
+Dialogue: 0,0:03:11.13,0:03:14.93,Dialogue,,0,0,90,,That's what she said, doing her best while simultaneously working and attending school.{itt writing asu as a genius}
+Dialogue: 0,0:03:16.21,0:03:20.03,Dialogue,,0,0,90,,Even though it's actually really tough, she never loses her bright smile.{probably need forced line break}{It's really tough, actually.\NBut she always keeps up a smile.}
+Dialogue: 0,0:03:21.00,0:03:24.19,Dialogue,,0,0,90,,This is the first time that I've ever made her chocolate.{or perhaps first time she's made chocolate ever?}
+Dialogue: 0,0:03:24.49,0:03:26.52,Dialogue,,0,0,90,,I wonder how I should give it to her?{offer?}{What should I say when I give it to her? - more liberal but matches next line better}
+Dialogue: 0,0:03:27.95,0:03:29.45,Dialogue,,0,0,90,,Thank you for everything--
+Dialogue: 0,0:03:29.45,0:03:30.74,Dialogue-italic,,0,0,90,,I guess that sounds a little strange.
+Dialogue: 0,0:03:34.80,0:03:36.58,Dialogue,,0,0,90,,It's 3:30?
+Dialogue: 0,0:03:37.44,0:03:40.07,Dialogue,,0,0,90,,Alright, then! I'll go meet her!
+Dialogue: 0,0:04:19.46,0:04:21.69,Dialogue,,0,0,90,,Still not here{ yet}, Onee-chan?
 Dialogue: 0,0:04:22.32,0:04:25.62,Dialogue,,0,0,90,,Maybe she's left school already...
-Dialogue: 0,0:05:05.79,0:05:07.15,Dialogue,Kyo,0,0,90,,Please accept this!
-Dialogue: 0,0:05:07.30,0:05:10.16,Dialogue,,0,0,90,,Um... about that...
-Dialogue: 0,0:05:10.72,0:05:13.37,Dialogue,,0,0,90,,Please accept this chocolate!
-Dialogue: 0,0:05:14.42,0:05:17.44,Dialogue,,0,0,90,,And then, please read the letter inside. I beg you!
-Dialogue: 0,0:05:19.65,0:05:20.49,Dialogue,,0,0,90,,Good bye.
-Dialogue: 0,0:05:37.08,0:05:39.79,Dialogue,,0,0,90,,Onee-chan... already has someone she likes.
-Dialogue: 0,0:05:53.33,0:05:56.55,Dialogue,,0,0,90,,What should I do with this chocolate...
-Dialogue: 0,0:06:12.36,0:06:13.30,Dialogue,,0,0,90,,I'm back!
-Dialogue: 0,0:06:17.80,0:06:21.10,Dialogue,,0,0,90,,I'm hungry... what's for dinner tonight?
-Dialogue: 0,0:06:42.68,0:06:46.17,Dialogue,,0,0,90,,Even though it's Onee-chan... it's normal that she has someone she likes, right?
+Dialogue: 0,0:05:05.79,0:05:07.15,Dialogue,Kyo,0,0,90,,Please accept this!{I want you to have this!}
+Dialogue: 0,0:05:07.30,0:05:10.16,Dialogue,,0,0,90,,Um... about that...{FUCK YOU MUMBLING JAPANESE BASTARDS}
+Dialogue: 0,0:05:10.72,0:05:13.37,Dialogue,,0,0,90,,This chocolate... please accept it!{s/accept/take/}{I WANT TO J-J-JAM MY HARD BULGING CHOCOLATE INTO YOU}
+Dialogue: 0,0:05:14.42,0:05:17.44,Dialogue,,0,0,90,,Please read the letter inside! Please!{"HURR I AM KYOU-CHAN I ARE WRIET GOOD LOEV LETTARS}
+Dialogue: 0,0:05:19.65,0:05:20.49,Dialogue,,0,0,90,,Bye, then!
+Dialogue: 0,0:05:37.08,0:05:39.79,Dialogue,,0,0,90,,Onee-chan, there's someone who you like...
+Dialogue: 0,0:05:53.33,0:05:54.15,Dialogue,,0,0,90,,What should I do?{WHAT DO}
+Dialogue: 0,0:05:54.96,0:05:56.28,Dialogue,,0,0,90,,This chocolate...
+Dialogue: 0,0:06:12.36,0:06:13.30,Dialogue,,0,0,90,,I'm home!
+Dialogue: 0,0:06:17.80,0:06:18.96,Dialogue,,0,0,90,,I'm starving!
+Dialogue: 0,0:06:19.19,0:06:20.89,Dialogue,,0,0,90,,I wonder what's for dinner tonight!{! or not?}
+Dialogue: 0,0:06:42.68,0:06:46.17,Dialogue-italic,,0,0,90,,It's normal for even Onee-chan to have someone she likes, right?{Onee-chan needs to get hers from the person who she likes, right?}{Even though it's Onee-chan... it's normal that she has someone she likes, right?}{FUCK. THIS. LINE.}
 Dialogue: 0,0:06:47.45,0:06:48.44,Dialogue,Kyo,0,0,90,,Asu?
 Dialogue: 0,0:06:49.19,0:06:49.95,Dialogue,,0,0,90,,Asu!
-Dialogue: 0,0:06:50.92,0:06:53.25,Dialogue,,0,0,90,,What's wrong? Spacing out like that...
-Dialogue: 0,0:06:53.48,0:06:56.17,Dialogue,,0,0,90,,No... nothing at all.
+Dialogue: 0,0:06:50.92,0:06:53.25,Dialogue,,0,0,90,,What's wrong? You were spacing out.
+Dialogue: 0,0:06:53.48,0:06:56.17,Dialogue,,0,0,90,,No, it's nothing at all!
 Dialogue: 0,0:06:56.75,0:06:57.99,Dialogue,,0,0,90,,Really?
-Dialogue: 0,0:06:59.04,0:07:01.71,Dialogue,,0,0,90,,All right, Onee-chan will help you with those.
-Dialogue: 0,0:07:01.71,0:07:04.78,Dialogue,,0,0,90,,It's fine, I can do it myself.
+Dialogue: 0,0:06:59.04,0:07:01.71,Dialogue,,0,0,90,,Ah, here, let me help you with those.{FUCKING STOP REFERRING TO YOURSELF AS ONEE-CHAN YOU FAGGOT!}
+Dialogue: 0,0:07:01.71,0:07:04.78,Dialogue,,0,0,90,,I'm fine. I can do it myself.
 Dialogue: 0,0:07:04.78,0:07:07.02,Dialogue,,0,0,90,,Nah, here, let me.
-Dialogue: 0,0:07:07.02,0:07:08.56,Dialogue,,0,0,90,,I said it's fine!
+Dialogue: 0,0:07:07.02,0:07:08.56,Dialogue,,0,0,90,,{\fs100\bord6\shad3}I said I'm fine!
 Dialogue: 0,0:07:12.31,0:07:13.22,Dialogue,,0,0,90,,Asu...
-Dialogue: 0,0:07:13.22,0:07:17.44,Dialogue,,0,0,90,,So-sorry. It's fine, I can do this myself.
-Dialogue: 0,0:07:17.44,0:07:19.39,Dialogue,,0,0,90,,Onee-chan should go get some rest.
-Dialogue: 0,0:07:19.73,0:07:22.06,Dialogue,,0,0,90,,If Asu says so... then okay...
-Dialogue: 0,0:07:49.23,0:07:54.27,Dialogue,,0,0,90,,I don't think I can give it to her anymore... my chocolate...
-Dialogue: 0,0:08:14.60,0:08:16.51,Dialogue,Students,0,0,90,,Did you guys see the soccer game from yesterday?
-Dialogue: 0,0:08:16.51,0:08:18.09,Dialogue,,0,0,90,,I did, I did.
-Dialogue: 0,0:08:20.48,0:08:22.81,Dialogue,,0,0,90,,The opponent wasn't that strong.
-Dialogue: 0,0:08:23.02,0:08:24.85,Dialogue,,0,0,90,,It's the person that Onee-chan likes.
+Dialogue: 0,0:07:13.22,0:07:17.44,Dialogue,,0,0,90,,S-sorry. It's fine, I really can do this by myself.
+Dialogue: 0,0:07:17.44,0:07:19.39,Dialogue,,0,0,90,,Please go and get some rest.
+Dialogue: 0,0:07:19.73,0:07:22.06,Dialogue,,0,0,90,,Okay, Asu, if you say so, but...
+Dialogue: 0,0:07:49.23,0:07:51.57,Dialogue,,0,0,90,,I can't give it to her now, can I?
+Dialogue: 0,0:07:52.91,0:07:53.83,Dialogue,,0,0,90,,The chocolate...
+Dialogue: 0,0:08:14.60,0:08:16.51,Dialogue,Students,0,0,90,,Hey, did you catch yesterday's soccer game?
+Dialogue: 0,0:08:16.51,0:08:18.09,Dialogue,,0,0,90,,Yeah, man!{LOL ASU GETS RAEPED}
+Dialogue: 0,0:08:18.09,0:08:19.49,Dialogue,,0,0,0,,It was awesome{so tempted to pull out The IT Crowd's football dialogue}
+Dialogue: 0,0:08:20.48,0:08:22.81,Dialogue,,0,0,90,,They managed to pull off another win.{idk, what's good sportsbabble?}{The opponent wasn't that strong.}
+Dialogue: 0,0:08:23.02,0:08:24.85,Dialogue-italic,,0,0,90,,The guy that Onee-chan likes...
 Dialogue: 0,0:08:25.29,0:08:28.27,Dialogue,,0,0,90,,I couldn't help it, but the other team was a bit cheap.
 Dialogue: 0,0:08:31.27,0:08:32.95,Dialogue,,0,0,90,,I wonder what kind of a person he is...
 Dialogue: 0,0:08:33.50,0:08:36.40,Dialogue,,0,0,90,,As her younger sister, I have to find out.
