@@ -8,7 +8,7 @@ PlayDepth: 0
 Timer: 100.0000
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 12061
+Video Position: 22869
 Audio File: ?video
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_07_[D160AFB7].avi
 Last Style Storage: Default
@@ -94,67 +94,70 @@ Dialogue: 0,0:08:16.51,0:08:18.09,Dialogue,,0,0,90,,Yeah, man!{LOL ASU GETS RAEP
 Dialogue: 0,0:08:18.09,0:08:19.49,Dialogue,,0,0,0,,It was awesome{so tempted to pull out The IT Crowd's football dialogue}
 Dialogue: 0,0:08:20.48,0:08:22.81,Dialogue,,0,0,90,,They managed to pull off another win.{idk, what's good sportsbabble?}{The opponent wasn't that strong.}
 Dialogue: 0,0:08:23.02,0:08:24.85,Dialogue-italic,,0,0,90,,The guy that Onee-chan likes...
-Dialogue: 0,0:08:25.29,0:08:28.27,Dialogue,,0,0,90,,I couldn't help it, but the other team was a bit cheap.
-Dialogue: 0,0:08:31.27,0:08:32.95,Dialogue,,0,0,90,,I wonder what kind of a person he is...
-Dialogue: 0,0:08:33.50,0:08:36.40,Dialogue,,0,0,90,,As her younger sister, I have to find out.
-Dialogue: 0,0:08:37.57,0:08:38.71,Dialogue,,0,0,90,,I'm back!
-Dialogue: 0,0:08:45.43,0:08:48.05,Dialogue,,0,0,90,,Asu isn't back yet...
-Dialogue: 0,0:08:50.09,0:08:53.09,Dialogue,,0,0,90,,Ahahaha... welcome back.
-Dialogue: 0,0:09:07.14,0:09:08.86,Dialogue,,0,0,90,,There're club activities tomorrow, right?
-Dialogue: 0,0:09:08.86,0:09:09.98,Dialogue,,0,0,90,,Yes, that's correct.
-Dialogue: 0,0:09:09.98,0:09:11.59,Dialogue,,0,0,90,,Let's try hard tomorrow.
-Dialogue: 0,0:09:15.88,0:09:16.59,Dialogue,,0,0,90,,Good bye.
-Dialogue: 0,0:09:16.59,0:09:19.24,Dialogue,,0,0,90,,See you tomorrow.
-Dialogue: 0,0:09:19.24,0:09:21.28,Dialogue,,0,0,90,,He has quite a number of friends.
+Dialogue: 0,0:08:25.29,0:08:26.36,Dialogue,,0,0,90,,That call, though!
+Dialogue: 0,0:08:26.57,0:08:27.63,Dialogue,,0,0,0,,Kind of dirty, if you ask me!
+Dialogue: 0,0:08:31.27,0:08:32.95,Dialogue-italic,,0,0,90,,What kind of person is he?
+Dialogue: 0,0:08:33.50,0:08:36.40,Dialogue-italic,,0,0,90,,As her younger sister, I have to find out.
+Dialogue: 0,0:08:37.57,0:08:38.71,Dialogue,,0,0,90,,I'm home!
+Dialogue: 0,0:08:45.43,0:08:48.05,Dialogue,,0,0,90,,Asu hasn't come home yet.
+Dialogue: 0,0:08:50.09,0:08:53.09,Dialogue,,0,0,90,,Aha--hehe... welcome home.
+Dialogue: 0,0:09:07.14,0:09:08.86,Dialogue,,0,0,90,,There's a club meeting tomorrow, right?
+Dialogue: 0,0:09:08.86,0:09:09.98,Dialogue,,0,0,90,,Yes, that's right.
+Dialogue: 0,0:09:09.98,0:09:11.59,Dialogue,,0,0,90,,Let's do our best.{looks like an early morning!}
+Dialogue: 0,0:09:15.88,0:09:16.59,Dialogue,,0,0,90,,See you guys!
+Dialogue: 0,0:09:16.59,0:09:19.24,Dialogue,,0,0,90,,Later! See you tomorrow!
+Dialogue: 0,0:09:19.24,0:09:21.28,Dialogue-italic,,0,0,90,,It seems like he has plenty of friends.
 Dialogue: 0,0:09:21.49,0:09:22.43,Dialogue,,0,0,90,,Good bye.
-Dialogue: 0,0:09:46.45,0:09:49.00,Dialogue,,0,0,90,,He helped that grandma carry her suitcase.
-Dialogue: 0,0:09:49.56,0:09:52.42,Dialogue,,0,0,90,,Ah, he even helped her up the stairs.
-Dialogue: 0,0:09:55.27,0:09:57.35,Dialogue,,0,0,90,,He... might be a good person.
-Dialogue: 0,0:09:59.62,0:10:04.85,Dialogue,,0,0,90,,But, but, but! This isn't enough, I can't hand over my sister just yet.
-Dialogue: 0,0:10:05.54,0:10:08.29,Dialogue,,0,0,90,,Ah, he let his seat to a pregnant woman.
-Dialogue: 0,0:10:08.74,0:10:12.98,Dialogue,,0,0,90,,Ah, he gave the wallet he found to the police.
-Dialogue: 0,0:10:12.98,0:10:16.55,Dialogue,,0,0,90,,Ah, he got back the balloon that the kid lost.
-Dialogue: 0,0:10:16.80,0:10:20.22,Dialogue,,0,0,90,,Ah, he's giving directions to a lost foreigner.
-Dialogue: 0,0:10:23.79,0:10:25.41,Dialogue,,0,0,90,,No, no! That's still not enough!
-Dialogue: 0,0:10:25.49,0:10:28.73,Dialogue,,0,0,90,,I still can't accept him with only these reasons.
-Dialogue: 0,0:10:40.99,0:10:44.31,Dialogue,,0,0,90,,I must find out his true self.
-Dialogue: 0,0:11:14.93,0:11:18.58,Dialogue,,0,0,90,,Ah, he even recycles.
-Dialogue: 0,0:11:18.58,0:11:21.52,Dialogue,,0,0,90,,How is this possible... he's too perfect!
-Dialogue: 0,0:11:32.17,0:11:40.34,Dialogue,Eyecatch,0,0,90,,(The neighboring town has meat to eat, so the distance doesn't seem too far.)
-Dialogue: 0,0:11:40.34,0:11:48.38,Dialogue,,0,0,90,,(We got off two stations early and finally bought meat with the money we saved this month.)
-Dialogue: 0,0:11:59.64,0:12:01.42,Dialogue,Asu,0,0,90,,He's a good person.
-Dialogue: 0,0:12:01.72,0:12:04.82,Dialogue,,0,0,90,,No wonder Onee-chan likes him.
-Dialogue: 0,0:12:08.25,0:12:11.67,Dialogue,,0,0,90,,Hmmm... just what am I doing....
-Dialogue: 0,0:12:21.92,0:12:23.68,Dialogue,,0,0,90,,Eh? Onee-chan?
-Dialogue: 0,0:12:25.09,0:12:26.52,Dialogue,,0,0,90,,I'm... I'm back.
-Dialogue: 0,0:12:27.73,0:12:28.83,Dialogue,,0,0,90,,Welcome back.
-Dialogue: 0,0:12:37.25,0:12:38.34,Dialogue,,0,0,90,,What's this?
-Dialogue: 0,0:12:38.68,0:12:39.73,Dialogue,,0,0,90,,Ah...
-Dialogue: 0,0:12:40.67,0:12:41.87,Dialogue,,0,0,90,,I found it!
-Dialogue: 0,0:12:42.31,0:12:46.66,Dialogue,,0,0,90,,You were acting a little strange since yesterday... I wanted to ask what was wrong...
-Dialogue: 0,0:12:47.14,0:12:49.81,Dialogue,,0,0,90,,This chocolate must be the reason, right?
-Dialogue: 0,0:12:49.81,0:12:51.95,Dialogue,,0,0,90,,Hey hey, who are you giving this to?
-Dialogue: 0,0:12:51.95,0:12:53.61,Dialogue,,0,0,90,,It couldn't have been... me?
-Dialogue: 0,0:12:54.66,0:12:58.39,Dialogue,,0,0,90,,Onee-chan doesn't even want my chocolate, right?
+Dialogue: 0,0:09:46.45,0:09:49.00,Dialogue-italic,,0,0,90,,He carried the bag for that nice old lady.
+Dialogue: 0,0:09:49.56,0:09:52.42,Dialogue-italic,,0,0,90,,Ah, he even helped her up the stairs.
+Dialogue: 0,0:09:55.27,0:09:57.35,Dialogue-italic,,0,0,90,,He... might be a good person.
+Dialogue: 0,0:09:59.62,0:10:04.85,Dialogue-italic,,0,0,90,,But, but, but! It's too early to be sure! I can't just hand Onee-chan over like that!
+Dialogue: 0,0:10:05.54,0:10:08.29,Dialogue-italic,,0,0,90,,He gave up his seat for that pregnant woman!{AH WHA FUCK YOUR GENERIC NOISY NOISES}
+Dialogue: 0,0:10:08.74,0:10:12.98,Dialogue-italic,,0,0,90,,He found a wallet on the street and immediately took it to the police!{AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH}
+Dialogue: 0,0:10:12.98,0:10:16.55,Dialogue-italic,,0,0,90,,He caught the balloon that the boy lost and returned it!
+Dialogue: 0,0:10:16.80,0:10:20.22,Dialogue-italic,,0,0,90,,Ah, he's giving directions to a lost foreigner.{lol gaijin}{STOP FUCKING GASPING LIKE A FISH OUT OF WATER}
+Dialogue: 0,0:10:23.79,0:10:25.41,Dialogue,,0,0,90,,NO FUCKING WAY! It's still not enough! Not yet!
+Dialogue: 0,0:10:25.49,0:10:28.73,Dialogue,,0,0,90,,Not just this! There's just... somehow something is missing!
+Dialogue: 0,0:10:40.99,0:10:44.31,Dialogue-italic,,0,0,90,,I'll definitely find out just what that something is!
+Dialogue: 0,0:11:14.93,0:11:18.58,Dialogue-italic,,0,0,90,,Ah, he's even taking the time to separate the recycling from his trash!{OH NOES
+Dialogue: 0,0:11:18.58,0:11:21.52,Dialogue-italic,,0,0,90,,That's just going too far!
+Dialogue: 0,0:11:32.17,0:11:40.34,Dialogue,Eyecatch,0,0,90,,The neighboring town. If it's for the sake of meat, it's not too far!
+Dialogue: 0,0:11:40.34,0:11:48.38,Dialogue,,0,0,90,,Walk between two stations instead of taking the train, and buy meat with the money you save!
+Dialogue: 0,0:11:59.64,0:12:01.42,Dialogue-italic,Asu,0,0,90,,He really is a good person...
+Dialogue: 0,0:12:01.72,0:12:04.82,Dialogue-italic,,0,0,90,,It's no wonder Onee-chan likes him.
+Dialogue: 0,0:12:08.25,0:12:11.67,Dialogue-italic,,0,0,90,,What am I doing?
+Dialogue: 0,0:12:21.92,0:12:23.68,Dialogue,,0,0,90,,Wha--? Onee-chan?
+Dialogue: 0,0:12:25.09,0:12:26.52,Dialogue,,0,0,90,,I-I'm home
+Dialogue: 0,0:12:27.73,0:12:28.83,Dialogue,,0,0,90,,Welcome home.
+Dialogue: 0,0:12:37.25,0:12:38.34,Dialogue,,0,0,90,,What might this be?
+Comment: 0,0:12:38.68,0:12:39.73,Dialogue,,0,0,90,,Ah...
+Dialogue: 0,0:12:40.67,0:12:41.87,Dialogue,,0,0,90,,I stumbled across it!{I found it}
+Dialogue: 0,0:12:42.31,0:12:46.66,Dialogue,,0,0,90,,You've been acting strangely since yesterday, so I was wondering what was bothering you.
+Dialogue: 0,0:12:47.14,0:12:49.81,Dialogue,,0,0,90,,I bet this chocolate has something to do with it.{if only I could allow myself to end sentences with ~}
+Dialogue: 0,0:12:49.81,0:12:51.95,Dialogue,,0,0,90,,Hey, hey, so who are you gonna give it to?
+Dialogue: 0,0:12:51.95,0:12:53.61,Dialogue,,0,0,90,,Could it be me?
+Dialogue: 0,0:12:54.66,0:12:58.39,Dialogue,,0,0,90,,Onee-chan, you don't want any chocolate from me, do you?
 Dialogue: 0,0:12:58.39,0:12:58.98,Dialogue,,0,0,90,,Huh?
-Dialogue: 0,0:12:59.38,0:13:03.10,Dialogue,,0,0,90,,Yesterday you gave chocolate to a guy.
+Dialogue: 0,0:12:59.38,0:12:59.94,Dialogue,,0,0,90,,Yesterday...
+Dialogue: 0,0:13:00.63,0:13:03.10,Dialogue,,0,0,90,,You gave chocolate to that boy, didn't you?
 Dialogue: 0,0:13:03.10,0:13:03.73,Dialogue,,0,0,90,,Ah.
-Dialogue: 0,0:13:04.30,0:13:06.63,Dialogue,,0,0,90,,You saw that, Asu?
-Dialogue: 0,0:13:06.77,0:13:10.43,Dialogue,,0,0,90,,One day... one day... Onee-chan will go to that person's side...
-Dialogue: 0,0:13:10.74,0:13:11.94,Dialogue,,0,0,90,,Leaving me all alone...
-Dialogue: 0,0:13:12.65,0:13:15.55,Dialogue,,0,0,90,,You don't even want my chocolate, right?!
+Dialogue: 0,0:13:04.30,0:13:06.63,Dialogue,,0,0,90,,Asu, you saw that?
+Dialogue: 0,0:13:06.77,0:13:07.12,Dialogue-italic,,0,0,90,,Some day...
+Dialogue: 0,0:13:07.84,0:13:10.43,Dialogue-italic,,0,0,90,,Some day you'll leave here to go be with him...
+Dialogue: 0,0:13:10.74,0:13:11.94,Dialogue-italic,,0,0,90,,leaving me...{I'll just be}
+Dialogue: 0,0:13:12.65,0:13:15.55,Dialogue,,0,0,90,,You have no need for my chocolate, right?!{you've got no need}
 Dialogue: 0,0:13:15.55,0:13:16.39,Dialogue,,0,0,90,,Asu!
-Dialogue: 0,0:13:24.41,0:13:25.42,Dialogue,,0,0,90,,Onee-chan...
-Dialogue: 0,0:13:25.76,0:13:30.27,Dialogue,,0,0,90,,Onee-chan won't accept my chocolate.
-Dialogue: 0,0:13:51.00,0:13:55.91,Dialogue,,0,0,90,,Maybe... I can't ever give chocolates to Onee-chan...
-Dialogue: 0,0:14:10.70,0:14:12.69,Dialogue,,0,0,90,,Even if she accepts it,
-Dialogue: 0,0:14:13.09,0:14:16.03,Dialogue,,0,0,90,,she'll just say that she's glad to get it.
-Dialogue: 0,0:14:16.83,0:14:20.08,Dialogue,,0,0,90,,But... she won't be truly happy, right?
-Dialogue: 0,0:14:21.32,0:14:26.38,Dialogue,,0,0,90,,Because... Onee-chan already has someone she likes.
-Dialogue: 0,0:14:28.00,0:14:30.35,Dialogue,,0,0,90,,I'm just an annoying child...
-Dialogue: 0,0:14:32.26,0:14:33.27,Dialogue,,0,0,90,,Asu...
-Dialogue: 0,0:14:45.54,0:14:49.72,Dialogue,,0,0,90,,I think I really should cheer Onee-chan on...
-Dialogue: 0,0:14:51.33,0:14:53.68,Dialogue,,0,0,90,,What is this feeling...
+Dialogue: 0,0:13:24.41,0:13:25.42,Dialogue-italic,,0,0,90,,Onee-chan,
+Dialogue: 0,0:13:25.76,0:13:30.27,Dialogue-italic,,0,0,90,,Onee-chan won't accept my chocolate.
+Dialogue: 0,0:13:51.00,0:13:55.91,Dialogue-italic,,0,0,90,,Maybe I'll never be able to give her chocolate again.{Even if she just ignored it all and accepted it,}
+Dialogue: 0,0:14:10.70,0:14:12.69,Dialogue-italic,,0,0,90,,Even if she accepted it,
+Dialogue: 0,0:14:13.09,0:14:16.03,Dialogue-italic,,0,0,90,,and she said she was really happy to get it,
+Dialogue: 0,0:14:16.83,0:14:20.08,Dialogue-italic,,0,0,90,,it wouldn't be the thing that truly makes her happy any more.{Fuck this entire monologue. Fuck it to hell.}
+Dialogue: 0,0:14:21.32,0:14:26.38,Dialogue-italic,,0,0,90,,Because Onee-chan has somehow managed to find someone who she likes even more than me.
+Dialogue: 0,0:14:28.00,0:14:30.35,Dialogue-italic,,0,0,90,,I'm just an annoying kid.
+Dialogue: 0,0:14:32.26,0:14:33.27,Dialogue-italic,,0,0,90,,Asu...
+Dialogue: 0,0:14:45.54,0:14:49.72,Dialogue-italic,,0,0,90,,I think I really should cheer Onee-chan on...
+Dialogue: 0,0:14:51.33,0:14:53.68,Dialogue-italic,,0,0,90,,What is this feeling...
 Dialogue: 0,0:15:19.24,0:15:21.11,Dialogue,,0,0,90,,Ah, it's that person.
 Dialogue: 0,0:15:24.34,0:15:26.30,Dialogue,,0,0,90,,Who's he waiting for...
 Dialogue: 0,0:15:27.01,0:15:28.88,Dialogue,,0,0,90,,What if it's... Onee-chan?
