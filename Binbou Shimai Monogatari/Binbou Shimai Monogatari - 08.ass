@@ -14,7 +14,7 @@ Last Style Storage: Binbou Shimai Monogatari
 Audio URI: C:\@projects\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_08_[C4A1FBED].avi
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_08_[C4A1FBED].avi
 Video Aspect Ratio: 0
-Video Position: 8977
+Video Position: 16768
 PlayResX: 712
 WrapStyle: 3
 ScaledBorderAndShadow: yes
@@ -37,10 +37,10 @@ Style: ED - Romaji-furigana,Candela Bold,15,&H00090F77,&H00DEDEDE,&H004A5011,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:24.63,0:03:28.85,Dialogue,Title,0,0,70,,A Day of Guitars, Dreams, and a Music Teacher
+Dialogue: 0,0:03:24.63,0:03:28.85,Dialogue,,0,0,70,,A Day of Guitars, Dreams, and a Music Teacher
 Dialogue: 0,0:04:22.00,0:04:23.87,Dialogue,,0,0,70,,Fun With Music - Yamada Asu
 Dialogue: 0,0:04:23.87,0:04:25.60,Dialogue,,0,0,70,,Music Room
-Dialogue: 0,0:00:02.40,0:00:04.20,Dialogue,Beginning,0,0,70,,For whom shall I sing?
+Dialogue: 0,0:00:02.40,0:00:04.20,Dialogue,,0,0,70,,For whom shall I sing?
 Dialogue: 0,0:00:05.12,0:00:06.33,Dialogue,,0,0,70,,I dislike music.
 Dialogue: 0,0:00:06.79,0:00:12.28,Dialogue,,0,0,70,,The flowing notes cause my spirits to fall.{argh}
 Dialogue: 0,0:00:13.06,0:00:16.46,Dialogue,,0,0,70,,For whose sake does music exist?{BINBOU PHILOSOPHY HOUR}
@@ -52,13 +52,13 @@ Dialogue: 0,0:01:10.79,0:01:12.49,Dialogue,,0,0,70,,I'm here beside you.
 Dialogue: 0,0:01:12.75,0:01:14.49,Dialogue,,0,0,70,,Thank you, Asu.
 Dialogue: 0,0:01:17.11,0:01:19.04,Dialogue,,0,0,70,,You're amazing, Asu!
 Dialogue: 0,0:01:19.77,0:01:22.33,Dialogue,,0,0,70,,No, I'm not really...
-Dialogue: 0,0:01:30.71,0:01:34.42,Dialogue,Opening,0,0,70,,Mother went to heaven the year she gave birth to Asu.
+Dialogue: 0,0:01:30.71,0:01:34.42,Dialogue,,0,0,70,,Mother went to heaven the year she gave birth to Asu.
 Dialogue: 0,0:01:34.91,0:01:38.21,Dialogue,,0,0,70,,Our father disappeared after accumulating gambling debts.
 Dialogue: 0,0:01:38.86,0:01:41.95,Dialogue,,0,0,70,,Thus, we were abandoned.
 Dialogue: 0,0:01:43.33,0:01:46.90,Dialogue,,0,0,70,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
 Dialogue: 0,0:01:47.32,0:01:49.31,Dialogue,,0,0,70,,This is our home.
 Dialogue: 0,0:01:49.74,0:01:52.00,Dialogue,,0,0,70,,But, when spring comes...
-Dialogue: 0,0:03:44.70,0:03:45.84,Dialogue,Friend,0,0,70,,Good morning, Asu.
+Dialogue: 0,0:03:44.70,0:03:45.84,Dialogue,,0,0,70,,Good morning, Asu.
 Dialogue: 0,0:03:45.84,0:03:47.27,Dialogue,,0,0,70,,Good morning.
 Dialogue: 0,0:03:48.68,0:03:50.55,Dialogue,,0,0,70,,Want to compare answers for last night's homework?{Let's compare our answers from yesterday's homework.}
 Dialogue: 0,0:03:50.55,0:03:51.96,Dialogue,,0,0,70,,Me too, me too.
@@ -80,11 +80,11 @@ Dialogue: 0,0:04:35.40,0:04:37.95,Dialogue,,0,0,70,,Okay. Let's start the music 
 Dialogue: 0,0:04:38.68,0:04:39.75,Dialogue,,0,0,70,,Aida.{OH COCKGOBBLING DICKNIGGER SHITFUCK}
 Dialogue: 0,0:04:40.02,0:04:40.69,Dialogue,,0,0,70,,Yes ma'am.
 Dialogue: 0,0:04:42.27,0:04:42.79,Dialogue,,0,0,70,,Well, then.
-Dialogue: 0,0:04:49.22,0:04:57.80,Dialogue,Girl,0,0,70,,{\an8}~Spring has come and the small stream flows babbling between its banks.~{OH
+Dialogue: 0,0:04:49.22,0:04:57.80,Dialogue,,0,0,70,,{\an8}~Spring has come and the small stream flows babbling between its banks.~{OH
 Dialogue: 0,0:04:57.80,0:05:06.24,Dialogue,,0,0,70,,{\an8}~The small stream goes whispering between the violets and milk vetches,~{Milk Vetches? IS THIS LIKE FUCKING BOTANY 101 OR SOMETHING?}
 Dialogue: 0,0:05:06.24,0:05:15.21,Dialogue,,0,0,70,,{\an8}~Wishing them grace, color and beauty, all blossoming on the stream banks.~
 Dialogue: 0,0:05:15.21,0:05:24.07,Dialogue,,0,0,70,,{\an8}~Wishing them grace, color and beauty, all blossoming on the stream banks.~
-Dialogue: 0,0:06:07.37,0:06:12.13,Dialogue,Asu,0,0,70,,{\an8}~The small stream in the spring...~{TONE-DEAF MOE~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+Dialogue: 0,0:06:07.37,0:06:12.13,Dialogue,,0,0,70,,{\an8}~The small stream in the spring...~{TONE-DEAF MOE~~~~~~~~~~~~~~~~~~~~~~~~~~~}
 Dialogue: 0,0:05:00.07,0:05:01.12,Dialogue-italic,,0,0,70,,What'll I do?
 Dialogue: 0,0:05:02.87,0:05:06.00,Dialogue,,0,0,70,,Ah, I'm terribly nervous. This won't do!
 Dialogue: 0,0:05:06.56,0:05:11.54,Dialogue,,0,0,70,,Asu, you're the last one on the list, so you'll probably be going next week, right?{so like yamada is the last letter in the alphabet I guess}
@@ -101,95 +101,97 @@ Dialogue: 0,0:05:38.30,0:05:42.24,Dialogue,,0,0,70,,No, that's not true at all. 
 Dialogue: 0,0:05:42.24,0:05:43.80,Dialogue,,0,0,70,,We can't wait!{You lips say no, but your puss--er, your, uh, underlying hidden talents say yes?}
 Dialogue: 0,0:05:53.28,0:05:56.34,Dialogue-italic,,0,0,70,,They're really looking forward to it... What'll I do?
 Dialogue: 0,0:06:03.27,0:06:06.45,Dialogue-italic,,0,0,70,,I have a full week from today, so I'll practice every day.
-Dialogue: 0,0:06:14.41,0:06:16.04,Dialogue,,0,0,70,,It sounds so terrible...
-Dialogue: 0,0:06:16.80,0:06:26.68,Dialogue,Dude,0,0,70,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
+Dialogue: 0,0:06:14.41,0:06:16.04,Dialogue,,0,0,70,,I sound so terrible...
+Dialogue: 0,0:06:16.80,0:06:26.68,Dialogue,,0,0,70,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
 Dialogue: 0,0:06:26.68,0:06:36.06,Dialogue,,0,0,70,,{\an8}~Wishing them grace, color and beauty, all blossoming on the stream banks.~
 Dialogue: 0,0:06:36.06,0:06:46.47,Dialogue,,0,0,70,,{\an8}~Wishing them grace, color and beauty, all blossoming on the stream banks.~
 Dialogue: 0,0:05:45.29,0:05:53.07,Dialogue,,0,0,70,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
-Dialogue: 0,0:06:25.95,0:06:27.43,Dialogue,,0,0,70,,What a beautiful song...
-Dialogue: 0,0:06:28.02,0:06:31.17,Dialogue,,0,0,70,,Is someone singing outside?
-Dialogue: 0,0:06:47.78,0:06:52.13,Dialogue,,0,0,70,,What a beautiful person... Is that a guy?
-Dialogue: 0,0:06:53.81,0:06:57.04,Dialogue,,0,0,70,,Good afternoon. You're my neighbor, right?
-Dialogue: 0,0:06:57.60,0:06:58.39,Dialogue,,0,0,70,,Yes.
-Dialogue: 0,0:06:58.90,0:07:00.00,Dialogue,,0,0,70,,Nice to meet you.
-Dialogue: 0,0:07:00.53,0:07:01.73,Dialogue,,0,0,70,,Nice to meet you.
-Dialogue: 0,0:07:02.58,0:07:05.42,Dialogue,,0,0,70,,Uh, your song was great.
-Dialogue: 0,0:07:05.49,0:07:09.28,Dialogue,,0,0,70,,Well, it's my goal to become a singer.
-Dialogue: 0,0:07:09.55,0:07:12.14,Dialogue,,0,0,70,,A singer? That's great.
-Dialogue: 0,0:07:12.14,0:07:16.47,Dialogue,,0,0,70,,But I haven't debuted yet, and I just lucked out of my previous audition.
+Dialogue: 0,0:06:25.95,0:06:27.43,Dialogue,,0,0,70,,What a beautiful voice...{His voice fails to impress me}
+Dialogue: 0,0:06:28.02,0:06:31.17,Dialogue,,0,0,70,,Is there someone singing outside?
+Dialogue: 0,0:06:47.78,0:06:49.12,Dialogue,,0,0,70,,She's pretty...
+Dialogue: 0,0:06:49.12,0:06:52.13,Dialogue,,0,0,70,,...wait, is that a guy?{lolololol}
+Dialogue: 0,0:06:53.81,0:06:57.04,Dialogue,,0,0,70,,Good afternoon. You're my neighbor, right?{huh so I guess this was the guy with the full mailbox in ep 1? I thought that was Ranko. Did she move out or what}{also this question is dumb. "No I'm just here robbing them. SAYONARA"}
+Dialogue: 0,0:06:57.60,0:06:58.39,Dialogue,,0,0,70,,Y-Yes, I am.
+Dialogue: 0,0:06:58.90,0:07:00.00,Dialogue,,0,0,70,,It's a pleasure to meet you.{so uh I'm just going to go poetic as fuck here on this guy's lines for nothing else besides my own amusement}
+Dialogue: 0,0:07:00.53,0:07:01.73,Dialogue,,0,0,70,,It's nice to meet you, too.
+Dialogue: 0,0:07:02.58,0:07:05.42,Dialogue,,0,0,70,,Um... you're very good at singing, aren't you?
+Dialogue: 0,0:07:05.49,0:07:09.28,Dialogue,,0,0,70,,Well, my dream is to become a singer.
+Dialogue: 0,0:07:09.55,0:07:12.14,Dialogue,,0,0,70,,You're a singer? That's amazing!
+Dialogue: 0,0:07:12.14,0:07:12.90,Dialogue,,0,0,70,,Not at all.
+Dialogue: 0,0:07:12.90,0:07:16.47,Dialogue,,0,0,70,,I haven't debuted yet. I'm currently just auditioning over and over again.
 Dialogue: 0,0:07:17.77,0:07:18.19,Dialogue,,0,0,70,,Eh?
-Dialogue: 0,0:07:19.74,0:07:22.80,Dialogue,,0,0,70,,But... but you're really good.
-Dialogue: 0,0:07:23.34,0:07:25.74,Dialogue,,0,0,70,,I'm super tone-deaf...
-Dialogue: 0,0:07:26.13,0:07:26.88,Dialogue,,0,0,70,,Hey...
+Dialogue: 0,0:07:19.74,0:07:22.80,Dialogue,,0,0,70,,B-But you sing so wonderfully!
+Dialogue: 0,0:07:23.34,0:07:25.74,Dialogue,,0,0,70,,I'm completely tone-deaf.
+Dialogue: 0,0:07:26.13,0:07:26.88,Dialogue,,0,0,70,,Hey, listen--{idk if em dash is good here or not}
 Dialogue: 0,0:07:27.52,0:07:28.54,Dialogue,,0,0,70,,Masao!
-Dialogue: 0,0:07:29.65,0:07:31.06,Dialogue,,0,0,70,,Looks like you have a guest.
+Dialogue: 0,0:07:29.65,0:07:31.06,Dialogue,,0,0,70,,It seems that you have a guest.
 Dialogue: 0,0:07:31.57,0:07:33.63,Dialogue,,0,0,70,,Masao! Are you in there?
-Dialogue: 0,0:07:33.85,0:07:34.63,Dialogue,,0,0,70,,Yes.
-Dialogue: 0,0:07:34.92,0:07:37.91,Dialogue,,0,0,70,,I'm going out for a bit. Can you wait for me?
-Dialogue: 0,0:07:41.79,0:07:45.20,Dialogue,,0,0,70,,Masao-san... So he's a guy, eh?
+Dialogue: 0,0:07:33.85,0:07:34.63,Dialogue,,0,0,70,,Yeah.
+Dialogue: 0,0:07:34.92,0:07:37.91,Dialogue,,0,0,70,,I'll be right back. Wait for me, okay?{GARGHABARGLE}
+Dialogue: 0,0:07:41.79,0:07:45.20,Dialogue,,0,0,70,,"Masao-san". So he {\i1}is{\i0} a guy.
 Dialogue: 0,0:07:46.29,0:07:47.55,Dialogue,,0,0,70,,I'm coming right now.
 Dialogue: 0,0:07:47.75,0:07:49.59,Dialogue,,0,0,70,,It's me! Me!
-Dialogue: 0,0:07:50.27,0:07:50.76,Dialogue,,0,0,70,,Yes?
-Dialogue: 0,0:07:52.58,0:07:53.94,Dialogue,,0,0,70,,I brought it here.
-Dialogue: 0,0:07:54.50,0:07:55.20,Dialogue,,0,0,70,,Thank you.
-Dialogue: 0,0:07:55.86,0:07:57.19,Dialogue,,0,0,70,,Remember to eat well.
+Dialogue: 0,0:07:50.27,0:07:50.76,Dialogue,,0,0,70,,Yes?{re: this music: what the FUCK}
+Dialogue: 0,0:07:52.58,0:07:53.94,Dialogue,,0,0,70,,I brought you something.
+Dialogue: 0,0:07:54.50,0:07:55.20,Dialogue,,0,0,70,,Thanks.
+Dialogue: 0,0:07:55.86,0:07:57.19,Dialogue,,0,0,70,,Eat properly, okay?
 Dialogue: 0,0:07:58.17,0:07:58.70,Dialogue,,0,0,70,,Okay.
-Dialogue: 0,0:07:59.18,0:08:00.06,Dialogue,,0,0,70,,Well then.
-Dialogue: 0,0:08:00.32,0:08:01.07,Dialogue,,0,0,70,,Okay.
+Dialogue: 0,0:07:59.18,0:08:00.06,Dialogue,,0,0,70,,See you!
+Comment: 0,0:08:00.32,0:08:01.07,Dialogue,,0,0,70,,Okay.{this music is srsly OoP}
 Dialogue: 0,0:08:02.95,0:08:03.46,Dialogue,,0,0,70,,Yes?
-Dialogue: 0,0:08:04.53,0:08:07.39,Dialogue,,0,0,70,,Masao-san, I made you a rice box.
-Dialogue: 0,0:08:07.39,0:08:08.24,Dialogue,,0,0,70,,Thank you.
-Dialogue: 0,0:08:08.58,0:08:11.76,Dialogue,,0,0,70,,I'm looking forward to your live performance.
-Dialogue: 0,0:08:13.10,0:08:14.34,Dialogue,,0,0,70,,I'll come again.
+Dialogue: 0,0:08:04.53,0:08:07.39,Dialogue,,0,0,70,,Masao-san, I made a bento for you.
+Dialogue: 0,0:08:07.39,0:08:08.24,Dialogue,,0,0,70,,Thanks.{PIMP STUD PLAYER}
+Dialogue: 0,0:08:08.58,0:08:11.76,Dialogue,,0,0,70,,I'm really looking forward to your next live show!
+Dialogue: 0,0:08:13.10,0:08:14.34,Dialogue,,0,0,70,,I'll come again later.
 Dialogue: 0,0:08:17.23,0:08:17.81,Dialogue,,0,0,70,,Yes?
-Dialogue: 0,0:08:18.61,0:08:22.82,Dialogue,,0,0,70,,Masao-san, um... I don't know if this is troublesome...
-Dialogue: 0,0:08:24.13,0:08:25.95,Dialogue,,0,0,70,,Not at all. Thank you.
-Dialogue: 0,0:08:26.89,0:08:27.62,Dialogue,,0,0,70,,Good-bye.
-Dialogue: 0,0:08:31.55,0:08:32.36,Dialogue,,0,0,70,,Thank you for waiting.
-Dialogue: 0,0:08:35.95,0:08:39.33,Dialogue,,0,0,70,,That's amazing... Are they your friends?
-Dialogue: 0,0:08:40.62,0:08:42.88,Dialogue,,0,0,70,,Truthfully, I don't really know them.
-Dialogue: 0,0:08:48.26,0:08:51.96,Dialogue,,0,0,70,,But... they really appreciate my songs.
+Dialogue: 0,0:08:18.61,0:08:22.82,Dialogue,,0,0,70,,Masao-san, um, I hope this isn't a bother, but...{THIS FUCKING MUSIC}
+Dialogue: 0,0:08:24.13,0:08:25.95,Dialogue,,0,0,70,,Oh, not at all. Thank you.
+Dialogue: 0,0:08:26.89,0:08:27.62,Dialogue,,0,0,70,,Farewell!{SUCH A ROMATIC WORD}
+Dialogue: 0,0:08:31.55,0:08:32.36,Dialogue,,0,0,70,,Sorry for the wait.
+Dialogue: 0,0:08:35.95,0:08:37.78,Dialogue,,0,0,70,,That's really something.
+Dialogue: 0,0:08:37.78,0:08:39.00,Dialogue,,0,0,70,,Are they your friends?
+Dialogue: 0,0:08:40.62,0:08:42.88,Dialogue,,0,0,70,,Actually, I don't really know any of them.
+Dialogue: 0,0:08:48.26,0:08:51.96,Dialogue,,0,0,70,,But they really appreciate my songs.
 Dialogue: 0,0:08:52.63,0:08:54.21,Dialogue,,0,0,70,,I also want to hear them.
-Dialogue: 0,0:08:54.67,0:08:59.17,Dialogue,,0,0,70,,Oh yeah, the people from before were anticipating your live performance.
-Dialogue: 0,0:08:59.17,0:09:00.90,Dialogue,,0,0,70,,Where will you be performing?
-Dialogue: 0,0:09:01.30,0:09:03.88,Dialogue,,0,0,70,,It was at the live house before.
-Dialogue: 0,0:09:04.29,0:09:05.70,Dialogue,,0,0,70,,Now I'm taking a break.
-Dialogue: 0,0:09:05.95,0:09:06.51,Dialogue,,0,0,70,,Eh?
-Dialogue: 0,0:09:07.48,0:09:11.33,Dialogue,,0,0,70,,Because I don't have a lot of money, I can't even rent a proper stage.
-Dialogue: 0,0:09:11.33,0:09:13.79,Dialogue,,0,0,70,,Even the rent here puts me in the red.
-Dialogue: 0,0:09:13.99,0:09:16.63,Dialogue,,0,0,70,,I've even thought about returning back to my hometown.
-Dialogue: 0,0:09:16.73,0:09:19.98,Dialogue,,0,0,70,,But from the support of my fans, my meals are all taken care of.
-Dialogue: 0,0:09:20.39,0:09:22.19,Dialogue,,0,0,70,,I think that this lifestyle isn't too bad.
-Dialogue: 0,0:09:23.34,0:09:26.22,Dialogue,,0,0,70,,When I want to sing, I can do that at night.
-Dialogue: 0,0:09:26.61,0:09:30.40,Dialogue,,0,0,70,,Ah, so that strange music during the night was from him...
-Dialogue: 0,0:09:31.27,0:09:34.70,Dialogue,,0,0,70,,Oh yeah, my name is Ichinokura Masao. And you?
+Dialogue: 0,0:08:54.67,0:08:59.17,Dialogue,,0,0,70,,That's right, one of them said she was looking forward to hearing you play.
+Dialogue: 0,0:08:59.17,0:09:00.90,Dialogue,,0,0,70,,Where do you perform?
+Dialogue: 0,0:09:01.30,0:09:05.70,Dialogue,,40,40,70,,Last time it was at a live music club, but at the moment I'm taking a break.
+Comment: 0,0:09:05.95,0:09:06.51,Dialogue,,0,0,70,,Eh?
+Dialogue: 0,0:09:07.48,0:09:11.33,Dialogue,,0,0,70,,I completely ran out of money, so I can't afford any more stage time.{wait... I thought amatuer performers were /paid/ to perform in places like bars etc.}
+Dialogue: 0,0:09:11.33,0:09:13.79,Dialogue,,0,0,70,,I can hardly afford the rent here.
+Dialogue: 0,0:09:13.99,0:09:16.63,Dialogue,,0,0,70,,I've even thought about returning to the countryside,
+Dialogue: 0,0:09:16.73,0:09:19.98,Dialogue,,0,0,70,,but with the support of my fans, I can still eat regularly.
+Dialogue: 0,0:09:20.39,0:09:22.19,Dialogue,,0,0,70,,So I figured, what the heck.
+Dialogue: 0,0:09:23.34,0:09:26.22,Dialogue,,0,0,70,,Usually when I feel like singing, it's already nighttime.
+Dialogue: 0,0:09:26.61,0:09:30.40,Dialogue-italic,,0,0,70,,That ghostly voice was him all along.
+Dialogue: 0,0:09:31.27,0:09:34.70,Dialogue,,0,0,70,,Oh yeah, I'm Ichinokura Masao. And you?
 Dialogue: 0,0:09:35.38,0:09:36.52,Dialogue,,0,0,70,,I'm Yamada Asu.
-Dialogue: 0,0:09:38.63,0:09:39.72,Dialogue,,0,0,70,,I think it's good.
-Dialogue: 0,0:09:43.90,0:09:44.78,Dialogue,,0,0,70,,Your song.
-Dialogue: 0,0:09:47.09,0:09:48.11,Dialogue,,0,0,70,,Well, I'll see you again.
-Dialogue: 0,0:09:54.11,0:09:56.14,Dialogue,,0,0,70,,Thank you for the food.
-Dialogue: 0,0:10:00.56,0:10:02.84,Dialogue,,0,0,70,,I think it's good. Your song.
-Dialogue: 0,0:10:04.01,0:10:08.34,Dialogue,,0,0,70,,If I practice a lot, will my singing really be as good as his?
+Dialogue: 0,0:09:38.63,0:09:39.72,Dialogue,,0,0,70,,It's good, you know.
+Dialogue: 0,0:09:43.90,0:09:44.78,Dialogue,,0,0,70,,Your singing is.
+Dialogue: 0,0:09:47.09,0:09:48.11,Dialogue,,0,0,70,,Well, I'll see you later.
+Dialogue: 0,0:09:54.11,0:09:56.14,Dialogue,,0,0,70,,Thanks for the food!
+Dialogue: 0,0:10:00.56,0:10:02.84,Dialogue-italic,,0,0,70,,It's good, you know. Your singing is.
+Dialogue: 0,0:10:04.01,0:10:08.34,Dialogue-italic,,0,0,70,,If I practice a whole lot, I wonder if I'll ever be able to sing like him.
 Dialogue: 0,0:10:12.83,0:10:14.29,Dialogue,,0,0,70,,Asu!
-Dialogue: 0,0:10:15.08,0:10:19.16,Dialogue,,0,0,70,,Asu! Asu! That voice is back again...
+Dialogue: 0,0:10:15.08,0:10:19.16,Dialogue,,0,0,70,,Asu! Asu! It's that voice again!
 Dialogue: 0,0:10:25.70,0:10:28.90,Dialogue,,0,0,70,,It's all right, Onee-chan. Listen carefully.
-Dialogue: 0,0:10:29.19,0:10:29.90,Dialogue,,0,0,70,,Eh?
-Dialogue: 0,0:10:31.04,0:10:32.93,Dialogue,,0,0,70,,A song?
+Comment: 0,0:10:29.19,0:10:29.90,Dialogue,,0,0,70,,Eh?
+Dialogue: 0,0:10:31.04,0:10:32.93,Dialogue,,0,0,70,,It's singing?
 Dialogue: 0,0:10:33.28,0:10:33.72,Dialogue,,0,0,70,,Yes.
-Dialogue: 0,0:10:37.36,0:10:39.18,Dialogue,,0,0,70,,A beautiful song...
-Dialogue: 0,0:10:39.96,0:10:43.38,Dialogue,,0,0,70,,If only I found out about this earlier...
-Dialogue: 0,0:10:43.89,0:10:46.76,Dialogue,,0,0,70,,It's a very beautiful song.
-Dialogue: 0,0:10:51.03,0:10:53.95,Dialogue,,0,0,70,,Ah, good evening. Did I disturb your sleep?
-Dialogue: 0,0:10:54.62,0:10:57.13,Dialogue,,0,0,70,,No... it was a beautiful song.
-Dialogue: 0,0:10:57.42,0:11:00.53,Dialogue,,0,0,70,,Good evening. I'm Asu's sister, Yamada Kyo.
+Dialogue: 0,0:10:37.36,0:10:39.18,Dialogue,,0,0,70,,That's a really pretty voice.{lolol}
+Dialogue: 0,0:10:39.96,0:10:43.38,Dialogue-italic,,0,0,70,,I wish I had noticed this sooner.{BUTTRAEP}
+Dialogue: 0,0:10:43.89,0:10:46.76,Dialogue-italic,,0,0,70,,It's a really, really beautiful song.
+Dialogue: 0,0:10:51.03,0:10:53.95,Dialogue,,0,0,70,,Ah, good evening. Was I disturbing you?{blargh}
+Dialogue: 0,0:10:54.62,0:10:57.13,Dialogue,,0,0,70,,Not at all, it was a wonderful song.
+Dialogue: 0,0:10:57.42,0:11:00.53,Dialogue,,0,0,70,,Good evening. I'm Asu's older sister, Yamada Kyo.
 Dialogue: 0,0:11:00.82,0:11:02.22,Dialogue,,0,0,70,,Nice to meet you.
-Dialogue: 0,0:11:02.88,0:11:04.46,Dialogue,,0,0,70,,Same here.
-Dialogue: 0,0:11:10.48,0:11:12.37,Dialogue,,0,0,70,,It seems like it's gotten colder.
-Dialogue: 0,0:11:14.27,0:11:16.82,Dialogue,,0,0,70,,I think that's it for tonight.
-Dialogue: 0,0:11:23.40,0:11:24.54,Dialogue,,0,0,70,,Well then, good night.
-Dialogue: 0,0:11:26.75,0:11:28.23,Dialogue,,0,0,70,,Good night.
-Dialogue: 0,0:11:31.22,0:11:39.33,Dialogue,Eyecatch,0,0,70,,(I've memorized all the foods in the plant dictionary.)
-Dialogue: 0,0:11:39.33,0:11:47.59,Dialogue,,0,0,70,,(During our walks, we can instantly identify edible plants.)
+Dialogue: 0,0:11:02.88,0:11:04.46,Dialogue,,0,0,70,,S-Same here.
+Dialogue: 0,0:11:10.48,0:11:12.37,Dialogue,,0,0,70,,It seems like it's gotten colder, doesn't it?
+Dialogue: 0,0:11:14.27,0:11:16.82,Dialogue,,0,0,70,,Looks like that's all I've got for today.
+Dialogue: 0,0:11:23.40,0:11:24.54,Dialogue,,0,0,70,,Well then, goodnight.
+Dialogue: 0,0:11:26.75,0:11:28.23,Dialogue,,0,0,70,,Goodnight.
+Dialogue: 0,0:11:31.22,0:11:39.33,generic sign style,,0,0,70,,{\pos(136,92)}All of the edible items in the plant encyclopedia: memorized.
+Dialogue: 0,0:11:39.33,0:11:47.59,generic sign style,,0,0,70,,On a walk, the keeen-eyed can quickly identify edible grasses.{nigger, what the fuck}
 Dialogue: 0,0:11:50.63,0:11:52.88,Dialogue,,0,0,70,,I must get home soon to practice my singing.
 Dialogue: 0,0:11:53.23,0:11:56.11,Dialogue,,0,0,70,,Will I be able to sing as well as Ichinokura-san?
 Dialogue: 0,0:11:56.34,0:11:58.30,Dialogue,,0,0,70,,That's not possible, right?
@@ -313,12 +315,12 @@ Dialogue: 0,0:20:52.85,0:20:56.20,Dialogue,,0,0,70,,That's why I will keep on si
 Dialogue: 0,0:21:06.43,0:21:11.07,Dialogue,,0,0,70,,That's why I will remain here,
 Dialogue: 0,0:21:11.07,0:21:12.70,Dialogue,,0,0,70,,and try my best with Onee-chan.
 Dialogue: 0,0:21:17.45,0:21:20.39,Dialogue,,0,0,70,,We can always hear the song.
-Dialogue: 0,0:23:06.60,0:23:10.26,Dialogue,Preview,0,0,70,,Asu won a cellphone from a drawing, so she'll have to be careful while using it.
+Dialogue: 0,0:23:06.60,0:23:10.26,Dialogue,,0,0,70,,Asu won a cellphone from a drawing, so she'll have to be careful while using it.
 Dialogue: 0,0:23:10.36,0:23:12.91,Dialogue,,0,0,70,,Why doesn't Onee-chan pick up her phone?
 Dialogue: 0,0:23:13.47,0:23:14.93,Dialogue,,0,0,70,,Binbou Shimai Monogatari.
 Dialogue: 0,0:23:15.12,0:23:17.59,Dialogue,,0,0,70,,A Day of Emotons, Uneasiness, and Cell Phones.
 Dialogue: 0,0:23:17.93,0:23:19.18,Dialogue,,0,0,70,,Please watch it!
-Dialogue: 0,0:15:16.47,0:15:25.02,Dialogue,Asu,0,0,70,,{\an8}~Spring has come and the small stream flows babbling between its banks.~
+Dialogue: 0,0:15:16.47,0:15:25.02,Dialogue,,0,0,70,,{\an8}~Spring has come and the small stream flows babbling between its banks.~
 Dialogue: 0,0:15:25.02,0:15:33.79,Dialogue,,0,0,70,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
 Dialogue: 0,0:15:33.79,0:15:42.46,Dialogue,,0,0,70,,{\an8}~Wishing them grace, color and beauty, all blossoming on the stream banks.~
 Dialogue: 0,0:15:42.46,0:15:51.85,Dialogue,,0,0,70,,{\an8}~Wishing them grace, color and beauty, all blossoming on the stream banks.~
