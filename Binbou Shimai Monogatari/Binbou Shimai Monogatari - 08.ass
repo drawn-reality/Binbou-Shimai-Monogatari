@@ -7,16 +7,10 @@ PlayResY: 476
 PlayDepth: 0
 Video Zoom: 8
 Last Style Storage: Binbou Shimai Monogatari
-Audio URI: c:\@projects\git\subtitles\binbou shimai monogatari\bms_08_raw_v8_[29fa8aae].wav
-Video File: bms_08_raw_v8_[29fa8aae].mkv
-Video Aspect Ratio: c1.4958
-Video Position: 27293
 PlayResX: 712
-WrapStyle: 3
-Automation Scripts: ~..\..\aegisub-motion\aegisub-motion.lua
+WrapStyle: 0
 ScaledBorderAndShadow: yes
-Keyframes File: ..\..\..\binbou\8 scdata.txt
-Audio File: BMS_08_Raw_v8_[29FA8AAE].wav
+Title: Binbou 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -188,297 +182,297 @@ Dialogue: 0,0:14:37.02,0:14:37.26,generic sign style,,0,0,0,,{\fscx41.15\b1\fscy
 Dialogue: 0,0:14:37.26,0:14:39.73,generic sign style,,0,0,0,,{\fscx41.15\b1\blur0.6\fscy50\pos(539,255)\c&H3524A2&\fad(0,985)}Test!
 Dialogue: 0,0:15:08.59,0:15:11.06,generic sign style,,0,0,0,,{\fscx41.15\b1\fscy50\pos(539,255)\c&H3524A2&\fad(1320,0)}Test!
 Dialogue: 0,0:16:52.99,0:16:58.26,generic sign style,,0,0,0,,{\fscx20.575\b1\fscy25\c&H3524A2&\blur0.7\fad(1320,0)\pos(318.362,253.606)}Test!
-Dialogue: 0,0:00:03.06,0:00:04.64,Dialogue,,0,0,0,,For whom shall I sing?
-Dialogue: 0,0:00:05.80,0:00:06.82,Dialogue,,0,0,0,,I dislike music.
-Dialogue: 0,0:00:07.52,0:00:12.50,Dialogue,,0,0,0,,My heart always manages to find some sadness in the flowing notes.{The flowing notes cause my spirits to fall.}{argh}
-Dialogue: 0,0:00:13.68,0:00:16.74,Dialogue,,0,0,0,,For whose sake does music exist?{BINBOU PHILOSOPHY HOUR}
-Dialogue: 0,0:00:41.90,0:00:43.68,Dialogue,,0,0,0,,It’s that voice again!{That voice again, the one we always hear!}{I can hear that voice again!}
-Dialogue: 0,0:00:44.54,0:00:45.51,Dialogue,,0,0,0,,Asu!
-Dialogue: 0,0:00:53.65,0:00:55.91,Dialogue,,0,0,0,,Is it really some woman’s ghost?
-Dialogue: 0,0:00:56.26,0:00:58.11,Dialogue,,0,0,0,,D-Don’t worr{\fsp-1}y{\fsp}, Onee-chan.
-Dialogue: 0,0:01:11.51,0:01:12.97,Dialogue,,0,0,0,,I’m here beside you.
-Dialogue: 0,0:01:13.44,0:01:14.84,Dialogue,,0,0,0,,Thank you, Asu.
-Dialogue: 0,0:01:17.82,0:01:19.44,Dialogue,,0,0,0,,You’re amazing, Asu!
-Dialogue: 0,0:01:20.36,0:01:22.66,Dialogue,,0,0,0,,No, I’m not reall{\fsp-1}y{\fsp}...
-Dialogue: 0,0:01:31.47,0:01:34.81,Dialogue,,0,0,0,,Mother went to heaven the year she gave birth to Asu.
-Dialogue: 0,0:01:35.69,0:01:38.56,Dialogue,,0,0,0,,Our father disappeared after accumulating gambling debts.
-Dialogue: 0,0:01:39.53,0:01:42.34,Dialogue,,0,0,0,,Thus, we were abandoned.
-Dialogue: 0,0:01:43.88,0:01:47.32,Dialogue,,0,0,0,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
-Dialogue: 0,0:01:48.02,0:01:49.64,Dialogue,,0,0,0,,This is our home.
-Dialogue: 0,0:01:50.44,0:01:52.32,Dialogue,,0,0,0,,But, when spring comes...
-Dialogue: 0,0:03:35.56,0:03:36.54,Dialogue,,0,0,0,,Good morning, Asu.
-Dialogue: 0,0:03:37.16,0:03:37.79,Dialogue,,0,0,0,,Good morning.
-Dialogue: 0,0:03:39.41,0:03:41.20,Dialogue,,0,0,0,,Want to compare answers for last night’s homework?{Let’s compare our answers from yesterday’s homework.}
-Dialogue: 0,0:03:41.40,0:03:42.63,Dialogue,,0,0,0,,Me too, me too.
-Dialogue: 0,0:03:42.86,0:03:44.01,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}, sure.
-Dialogue: 0,0:03:44.71,0:03:45.19,Dialogue,,0,0,0,,Good morning.
-Dialogue: 0,0:03:45.46,0:03:46.16,Dialogue,,0,0,0,,Good morning, sir!
-Dialogue: 0,0:03:48.69,0:03:51.16,Dialogue,,0,0,0,,That’s it! Thanks a bunch, Asu.
-Dialogue: 0,0:03:52.59,0:03:54.47,Dialogue,,0,0,0,,There’s nothing you can’t do!
-Dialogue: 0,0:03:54.73,0:03:55.60,Dialogue,,0,0,0,,Indeed, indeed.{TRU DAT BRUDDA WORD TO DA HOOD GDAW YA’MEAN BRAH}{wait, is this girl BROKENRECORDMOE?!?!?!}
-Dialogue: 0,0:03:56.56,0:03:57.72,Dialogue,,0,0,0,,That’s not true.
-Dialogue: 0,0:03:58.38,0:04:00.22,Dialogue,,0,0,0,,You don’t have any weak points, right?{weaknesses?}
-Dialogue: 0,0:04:00.67,0:04:02.72,Dialogue,,0,0,0,,Yeah, she really seems that wa{\fsp-1}y{\fsp}, doesn’t she?{I should REALLY NOT BE DOING THIS AT 2 AM}
-Dialogue: 0,0:04:04.31,0:04:05.08,Dialogue-italic,,0,0,0,,You’re wrong.
-Dialogue: 0,0:04:05.33,0:04:06.08,Dialogue,,0,0,0,,It must be nice.
-Dialogue: 0,0:04:06.14,0:04:09.20,Dialogue,,0,0,0,,I bet it is. I’m pretty bad at arithmetic, you know.{>I’m totally lousy with arithmatic >arithmatic >you might want to brush up on spelling while you’re at it}
-Dialogue: 0,0:04:10.09,0:04:12.49,Dialogue-italic,,0,0,0,,I’m just human like everyone else.{ASDGYU I’M GOING TO HAVE TO RE-EDIT THIS SHIT}
-Dialogue: 0,0:04:20.74,0:04:22.16,Dialogue-italic,,0,0,0,,I’m really completely tone-deaf.
-Dialogue: 0,0:04:26.28,0:04:28.56,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}. Let’s start the music test!{damn has this voice actress been taking testosterone pills or did her balls just drop}
-Dialogue: 0,0:04:29.64,0:04:30.33,Dialogue,,0,0,0,,Aida.{OH COCKGOBBLING DICKNIGGER SHITFUCK}
-Dialogue: 0,0:04:30.91,0:04:31.36,Dialogue,,0,0,0,,Yes ma’am.
-Dialogue: 0,0:04:33.13,0:04:33.39,Dialogue,,0,0,0,,Well, then.
-Dialogue: 0,0:04:39.99,0:04:48.20,Dialogue,,0,0,0,,Spring has come and the small stream flows babbling between its banks.{OH DICKS}
-Dialogue: 0,0:04:48.78,0:04:56.84,Dialogue,,0,0,0,,{\an8}The small stream goes whispering between the violets and milk vetches,{Milk Vetches? IS THIS LIKE FUCKING BOTANY 101 OR SOMETHING?}
-Dialogue: 0,0:04:57.45,0:05:05.48,Dialogue,,0,0,0,,{\an8}Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.
-Dialogue: 0,0:05:06.25,0:05:14.33,Dialogue,,0,0,0,,{\an8}Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.
-Dialogue: 0,0:04:50.94,0:04:51.82,Dialogue-italic,,0,0,0,,What’ll I do?
-Dialogue: 0,0:04:53.76,0:04:56.57,Dialogue,,0,0,0,,Ah, I’m terribly nervous. This won’t do!
-Dialogue: 0,0:04:57.42,0:05:02.14,Dialogue,,0,0,0,,Asu, you’re the last one on the list, so you’ll probably be going next week, right?{so like yamada is the last letter in the alphabet I guess}
-Dialogue: 0,0:05:02.69,0:05:03.75,Dialogue,,0,0,0,,Y-yeah.
-Dialogue: 0,0:05:04.86,0:05:07.28,Dialogue,,0,0,0,,Are you okay? You’re looking a little pale.{I think she’s auditioning for Butchvoice II, though after the music teacher there’s really not much competition}
-Dialogue: 0,0:05:08.24,0:05:10.57,Dialogue,,0,0,0,,I’m fine. It’s nothing.
-Dialogue: 0,0:05:11.36,0:05:13.40,Dialogue,,0,0,0,,I’m looking forward to hearing you sing!
-Dialogue: 0,0:05:13.97,0:05:15.70,Dialogue,,0,0,0,,I bet you’re really talented!
-Dialogue: 0,0:05:17.01,0:05:19.84,Dialogue,,0,0,0,,That’s not true! I’m completely tone-deaf!{brb SHOUTING DURING CLASS NOBODY WILL EVER NOTICE ME DOING THAT BOY HOWDY}
-Dialogue: 0,0:05:20.66,0:05:21.93,Dialogue,,0,0,0,,Okay! Next person.{BUTCHMOE~~~~~~~~~~~}
-Dialogue: 0,0:05:22.93,0:05:25.22,Dialogue,,0,0,0,,The people who say that are always the talented ones, right?
-Dialogue: 0,0:05:25.47,0:05:28.39,Dialogue,,0,0,0,,You’re right. It just seems like Asu is that type of person, too.
-Dialogue: 0,0:05:28.99,0:05:33.05,Dialogue,,0,0,0,,N-No, that’s not true at all. I really am tone-deaf.
-Dialogue: 0,0:05:33.05,0:05:34.18,Dialogue,,0,0,0,,We can’t wait!{You lips say no, but your puss—er, your, uh, underlying hidden talents say yes?}
-Dialogue: 0,0:05:36.39,0:05:44.33,Dialogue,,0,0,0,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
-Dialogue: 0,0:05:43.95,0:05:46.71,Dialogue-italic,,0,0,0,,They’re really looking forward to it... What’ll I do?
-Dialogue: 0,0:05:54.13,0:05:57.05,Dialogue-italic,,0,0,0,,I have a full week from toda{\fsp-1}y{\fsp}, so I’ll practice every da{\fsp-1}y{\fsp}.
-Dialogue: 0,0:05:58.32,0:06:02.72,Dialogue,,0,0,0,,{\an8}~The small stream in the spring...~{TONE-DEAF MOE~~~~~~~~~~~~~~~~~~~~~~~~~~~}
-Dialogue: 0,0:06:05.27,0:06:06.75,Dialogue,,0,0,0,,I sound so terrible...
-Dialogue: 0,0:06:08.00,0:06:17.27,Dialogue,,0,0,0,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
-Dialogue: 0,0:06:17.54,0:06:26.45,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
-Dialogue: 0,0:06:27.00,0:06:36.81,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
-Dialogue: 0,0:06:16.77,0:06:18.01,Dialogue,,0,0,0,,What a beautiful voice...{His voice fails to impress me}
-Dialogue: 0,0:06:18.88,0:06:21.56,Dialogue,,0,0,0,,Is there someone singing outside?
-Dialogue: 0,0:06:38.55,0:06:39.74,Dialogue,,0,0,0,,She's beautiful...{yeah okay I'm taking a whole lot of license here but idgaf at this point}
-Dialogue: 0,0:06:40.40,0:06:42.64,Dialogue,,0,0,0,,...wait, is that a guy?{lolololol}
-Dialogue: 0,0:06:44.67,0:06:47.57,Dialogue,,0,0,0,,Good afternoon. You’re my neighbo{\fsp-1}r{\fsp}, right?{huh so I guess this was the guy with the full mailbox in ep 1? I thought that was Ranko. Did she move out or what}{also this question is dumb. "No I’m just here robbing them. SAYONARA"}
-Dialogue: 0,0:06:48.46,0:06:49.03,Dialogue,,0,0,0,,Y-Yes, I am.
-Dialogue: 0,0:06:49.76,0:06:50.64,Dialogue,,0,0,0,,It’s a pleasure to meet you.{so uh I’m just going to go poetic as fuck here on this guy’s lines for nothing else besides my own amusement}
-Dialogue: 0,0:06:51.44,0:06:52.32,Dialogue,,0,0,0,,It’s nice to meet you, too.
-Dialogue: 0,0:06:53.49,0:06:55.82,Dialogue,,0,0,0,,Um... you’re very good at singing, aren’t you?
-Dialogue: 0,0:06:56.39,0:06:59.86,Dialogue,,0,0,0,,Well, my dream is to become a singe{\fsp-1}r{\fsp}.
-Dialogue: 0,0:07:00.41,0:07:02.66,Dialogue,,0,0,0,,You’re a singer? That’s amazing!
-Dialogue: 0,0:07:03.00,0:07:03.42,Dialogue,,0,0,0,,Not at all.
-Dialogue: 0,0:07:03.81,0:07:07.12,Dialogue,,0,0,0,,I haven’t debuted yet. I’m currently just auditioning over and over again.
+Dialogue: 0,0:00:02.92,0:00:04.89,Dialogue,,0,0,0,,For whom shall I sing?
+Dialogue: 0,0:00:05.66,0:00:07.32,Dialogue,,0,0,0,,I dislike music.
+Dialogue: 0,0:00:07.32,0:00:12.75,Dialogue,,0,0,0,,My heart always manages to find some sadness in the flowing notes.{The flowing notes cause my spirits to fall.}{argh}
+Dialogue: 0,0:00:13.54,0:00:16.99,Dialogue,,0,0,0,,For whose sake does music exist?{BINBOU PHILOSOPHY HOUR}
+Dialogue: 0,0:00:41.76,0:00:44.19,Dialogue,,0,0,0,,It’s that voice again!{That voice again, the one we always hear!}{I can hear that voice again!}
+Dialogue: 0,0:00:44.40,0:00:45.76,Dialogue,,0,0,0,,Asu!
+Dialogue: 0,0:00:53.51,0:00:56.16,Dialogue,,0,0,0,,Is it really some woman’s ghost?
+Dialogue: 0,0:00:56.16,0:00:58.36,Dialogue,,0,0,0,,D-Don’t worr{\fsp-1}y{\fsp}, Onee-chan.
+Dialogue: 0,0:01:11.37,0:01:13.28,Dialogue,,0,0,0,,I’m here beside you.
+Dialogue: 0,0:01:13.28,0:01:15.09,Dialogue,,0,0,0,,Thank you, Asu.
+Dialogue: 0,0:01:17.68,0:01:20.03,Dialogue,,0,0,0,,You’re amazing, Asu!
+Dialogue: 0,0:01:20.22,0:01:22.99,Dialogue,,0,0,0,,No, I’m not reall{\fsp-1}y{\fsp}...
+Dialogue: 0,0:01:31.33,0:01:35.06,Dialogue,,0,0,0,,Mother went to heaven the year she gave birth to Asu.
+Dialogue: 0,0:01:35.55,0:01:38.81,Dialogue,,0,0,0,,Our father disappeared after accumulating gambling debts.
+Dialogue: 0,0:01:39.39,0:01:42.99,Dialogue,,0,0,0,,Thus, we were abandoned.
+Dialogue: 0,0:01:43.74,0:01:47.82,Dialogue,,0,0,0,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
+Dialogue: 0,0:01:47.82,0:01:49.89,Dialogue,,0,0,0,,This is our home.
+Dialogue: 0,0:01:50.30,0:01:52.57,Dialogue,,0,0,0,,But, when spring comes...
+Dialogue: 0,0:03:35.42,0:03:36.97,Dialogue,,0,0,0,,Good morning, Asu.
+Dialogue: 0,0:03:36.97,0:03:38.19,Dialogue,,0,0,0,,Good morning.
+Dialogue: 0,0:03:39.27,0:03:41.40,Dialogue,,0,0,0,,Want to compare answers for last night’s homework?{Let’s compare our answers from yesterday’s homework.}
+Dialogue: 0,0:03:41.40,0:03:42.86,Dialogue,,0,0,0,,Me too, me too.
+Dialogue: 0,0:03:42.86,0:03:44.03,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}, sure.
+Dialogue: 0,0:03:44.51,0:03:45.44,Dialogue,,0,0,0,,Good morning.
+Dialogue: 0,0:03:45.44,0:03:46.49,Dialogue,,0,0,0,,Good morning, sir!
+Dialogue: 0,0:03:48.55,0:03:51.41,Dialogue,,0,0,0,,That’s it! Thanks a bunch, Asu.
+Dialogue: 0,0:03:52.45,0:03:54.72,Dialogue,,0,0,0,,There’s nothing you can’t do!
+Dialogue: 0,0:03:54.68,0:03:55.63,Dialogue,,0,0,0,,Indeed, indeed.{TRU DAT BRUDDA WORD TO DA HOOD GDAW YA’MEAN BRAH}{wait, is this girl BROKENRECORDMOE?!?!?!}
+Dialogue: 0,0:03:56.42,0:03:57.80,Dialogue,,0,0,0,,That’s not true.
+Dialogue: 0,0:03:58.19,0:04:00.51,Dialogue,,0,0,0,,You don’t have any weak points, right?{weaknesses?}
+Dialogue: 0,0:04:00.51,0:04:02.97,Dialogue,,0,0,0,,Yeah, she really seems that wa{\fsp-1}y{\fsp}, doesn’t she?{I should REALLY NOT BE DOING THIS AT 2 AM}
+Dialogue: 0,0:04:04.17,0:04:05.33,Dialogue-italic,,0,0,0,,You’re wrong.
+Dialogue: 0,0:04:05.33,0:04:06.14,Dialogue,,0,0,0,,It must be nice.
+Dialogue: 0,0:04:06.14,0:04:09.23,Dialogue,,0,0,0,,I bet it is. I’m pretty bad at arithmetic, you know.{>I’m totally lousy with arithmatic >arithmatic >you might want to brush up on spelling while you’re at it}
+Dialogue: 0,0:04:09.95,0:04:12.66,Dialogue-italic,,0,0,0,,I’m just human like everyone else.{ASDGYU I’M GOING TO HAVE TO RE-EDIT THIS SHIT}
+Dialogue: 0,0:04:20.60,0:04:22.36,Dialogue-italic,,0,0,0,,I’m really completely tone-deaf.
+Dialogue: 0,0:04:26.14,0:04:28.81,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}. Let’s start the music test!{damn has this voice actress been taking testosterone pills or did her balls just drop}
+Dialogue: 0,0:04:29.50,0:04:30.83,Dialogue,,0,0,0,,Aida.{OH COCKGOBBLING DICKNIGGER SHITFUCK}
+Dialogue: 0,0:04:30.83,0:04:31.61,Dialogue,,0,0,0,,Yes ma’am.
+Dialogue: 0,0:04:32.99,0:04:33.64,Dialogue,,0,0,0,,Well, then.
+Dialogue: 0,0:04:39.85,0:04:48.72,Dialogue,,0,0,0,,Spring has come and the small stream flows babbling between its banks.{OH DICKS}
+Dialogue: 0,0:04:48.72,0:04:57.24,Dialogue,,0,0,0,,{\an8}The small stream goes whispering between the violets and milk vetches,{Milk Vetches? IS THIS LIKE FUCKING BOTANY 101 OR SOMETHING?}
+Dialogue: 0,0:04:57.31,0:05:05.73,Dialogue,,0,0,0,,{\an8}Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.
+Dialogue: 0,0:05:06.11,0:05:14.58,Dialogue,,0,0,0,,{\an8}Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.
+Dialogue: 0,0:04:50.80,0:04:52.18,Dialogue-italic,,0,0,0,,What’ll I do?
+Dialogue: 0,0:04:53.62,0:04:56.82,Dialogue,,0,0,0,,Ah, I’m terribly nervous. This won’t do!
+Dialogue: 0,0:04:57.24,0:05:02.52,Dialogue,,0,0,0,,Asu, you’re the last one on the list, so you’ll probably be going next week, right?{so like yamada is the last letter in the alphabet I guess}
+Dialogue: 0,0:05:02.52,0:05:04.15,Dialogue,,0,0,0,,Y-yeah.
+Dialogue: 0,0:05:04.72,0:05:07.53,Dialogue,,0,0,0,,Are you okay? You’re looking a little pale.{I think she’s auditioning for Butchvoice II, though after the music teacher there’s really not much competition}
+Dialogue: 0,0:05:08.10,0:05:10.82,Dialogue,,0,0,0,,I’m fine. It’s nothing.
+Dialogue: 0,0:05:11.22,0:05:13.79,Dialogue,,0,0,0,,I’m looking forward to hearing you sing!
+Dialogue: 0,0:05:13.79,0:05:15.87,Dialogue,,0,0,0,,I bet you’re really talented!
+Dialogue: 0,0:05:16.87,0:05:19.96,Dialogue,,0,0,0,,That’s not true! I’m completely tone-deaf!{brb SHOUTING DURING CLASS NOBODY WILL EVER NOTICE ME DOING THAT BOY HOWDY}
+Dialogue: 0,0:05:20.52,0:05:22.21,Dialogue,,0,0,0,,Okay! Next person.{BUTCHMOE~~~~~~~~~~~}
+Dialogue: 0,0:05:22.79,0:05:25.47,Dialogue,,0,0,0,,The people who say that are always the talented ones, right?
+Dialogue: 0,0:05:25.47,0:05:28.68,Dialogue,,0,0,0,,You’re right. It just seems like Asu is that type of person, too.
+Dialogue: 0,0:05:28.68,0:05:33.05,Dialogue,,0,0,0,,N-No, that’s not true at all. I really am tone-deaf.
+Dialogue: 0,0:05:33.05,0:05:34.43,Dialogue,,0,0,0,,We can’t wait!{You lips say no, but your puss—er, your, uh, underlying hidden talents say yes?}
+Dialogue: 0,0:05:36.25,0:05:44.58,Dialogue,,0,0,0,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
+Dialogue: 0,0:05:43.81,0:05:46.96,Dialogue-italic,,0,0,0,,They’re really looking forward to it... What’ll I do?
+Dialogue: 0,0:05:53.99,0:05:57.27,Dialogue-italic,,0,0,0,,I have a full week from toda{\fsp-1}y{\fsp}, so I’ll practice every da{\fsp-1}y{\fsp}.
+Dialogue: 0,0:05:58.18,0:06:02.97,Dialogue,,0,0,0,,{\an8}~The small stream in the spring...~{TONE-DEAF MOE~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+Dialogue: 0,0:06:05.13,0:06:07.00,Dialogue,,0,0,0,,I sound so terrible...
+Dialogue: 0,0:06:07.95,0:06:17.52,Dialogue,,0,0,0,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
+Dialogue: 0,0:06:17.52,0:06:26.74,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
+Dialogue: 0,0:06:26.74,0:06:37.06,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
+Dialogue: 0,0:06:16.63,0:06:18.26,Dialogue,,0,0,0,,What a beautiful voice...{His voice fails to impress me}
+Dialogue: 0,0:06:18.74,0:06:21.61,Dialogue,,0,0,0,,Is there someone singing outside?
+Dialogue: 0,0:06:38.41,0:06:40.21,Dialogue,,0,0,0,,She's beautiful...{yeah okay I'm taking a whole lot of license here but idgaf at this point}
+Dialogue: 0,0:06:40.21,0:06:42.71,Dialogue,,0,0,0,,...wait, is that a guy?{lolololol}
+Dialogue: 0,0:06:44.53,0:06:47.82,Dialogue,,0,0,0,,Good afternoon. You’re my neighbo{\fsp-1}r{\fsp}, right?{huh so I guess this was the guy with the full mailbox in ep 1? I thought that was Ranko. Did she move out or what}{also this question is dumb. "No I’m just here robbing them. SAYONARA"}
+Dialogue: 0,0:06:48.32,0:06:49.32,Dialogue,,0,0,0,,Y-Yes, I am.
+Dialogue: 0,0:06:49.55,0:06:50.89,Dialogue,,0,0,0,,It’s a pleasure to meet you.{so uh I’m just going to go poetic as fuck here on this guy’s lines for nothing else besides my own amusement}
+Dialogue: 0,0:06:51.30,0:06:52.89,Dialogue,,0,0,0,,It’s nice to meet you, too.
+Dialogue: 0,0:06:53.35,0:06:56.21,Dialogue,,0,0,0,,Um... you’re very good at singing, aren’t you?
+Dialogue: 0,0:06:56.21,0:06:59.89,Dialogue,,0,0,0,,Well, my dream is to become a singe{\fsp-1}r{\fsp}.
+Dialogue: 0,0:07:00.24,0:07:02.69,Dialogue,,0,0,0,,You’re a singer? That’s amazing!
+Dialogue: 0,0:07:02.91,0:07:03.67,Dialogue,,0,0,0,,Not at all.
+Dialogue: 0,0:07:03.67,0:07:07.37,Dialogue,,0,0,0,,I haven’t debuted yet. I’m currently just auditioning over and over again.
 Comment: 0,0:07:08.63,0:07:08.89,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:07:10.65,0:07:13.26,Dialogue,,0,0,0,,B-But you sing so wonderfully!
-Dialogue: 0,0:07:14.20,0:07:16.22,Dialogue,,0,0,0,,I’m completely tone-deaf.
-Dialogue: 0,0:07:16.99,0:07:17.49,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, listen—{idk if em dash is good here or not}
-Dialogue: 0,0:07:18.44,0:07:19.17,Dialogue,,0,0,0,,Masao!
-Dialogue: 0,0:07:20.51,0:07:21.65,Dialogue,,0,0,0,,It seems that you have a guest.
-Dialogue: 0,0:07:22.46,0:07:24.19,Dialogue,,0,0,0,,Masao! Are you in there?
-Dialogue: 0,0:07:24.80,0:07:25.18,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:07:25.81,0:07:28.48,Dialogue,,0,0,0,,I’ll be right back. Wait for me, okay?{GARGHABARGLE}
-Dialogue: 0,0:07:32.68,0:07:35.79,Dialogue,,0,0,0,,"Masao-san". So he {\i1}is{\i0} a gu{\fsp-1}y{\fsp}.
-Dialogue: 0,0:07:37.15,0:07:38.19,Dialogue,,0,0,0,,I’m coming right now.
-Dialogue: 0,0:07:38.66,0:07:40.22,Dialogue,,0,0,0,,It’s me! Me!
-Dialogue: 0,0:07:41.13,0:07:41.42,Dialogue,,0,0,0,,Yes?{re: this music: what the FUCK}
-Dialogue: 0,0:07:43.41,0:07:44.52,Dialogue,,0,0,0,,I brought you something.
-Dialogue: 0,0:07:45.36,0:07:45.87,Dialogue,,0,0,0,,Thanks.
-Dialogue: 0,0:07:46.43,0:07:47.80,Dialogue,,0,0,0,,Eat properl{\fsp-1}y{\fsp}, okay?
-Dialogue: 0,0:07:49.03,0:07:49.36,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
-Dialogue: 0,0:07:49.99,0:07:50.71,Dialogue,,0,0,0,,See you!
+Dialogue: 0,0:07:10.51,0:07:13.51,Dialogue,,0,0,0,,B-But you sing so wonderfully!
+Dialogue: 0,0:07:14.06,0:07:16.71,Dialogue,,0,0,0,,I’m completely tone-deaf.
+Dialogue: 0,0:07:16.71,0:07:17.74,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, listen—{idk if em dash is good here or not}
+Dialogue: 0,0:07:18.30,0:07:19.42,Dialogue,,0,0,0,,Masao!
+Dialogue: 0,0:07:20.37,0:07:21.75,Dialogue,,0,0,0,,It seems that you have a guest.
+Dialogue: 0,0:07:22.32,0:07:24.62,Dialogue,,0,0,0,,Masao! Are you in there?
+Dialogue: 0,0:07:24.62,0:07:25.50,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:07:25.50,0:07:28.76,Dialogue,,0,0,0,,I’ll be right back. Wait for me, okay?{GARGHABARGLE}
+Dialogue: 0,0:07:32.54,0:07:36.04,Dialogue,,0,0,0,,"Masao-san". So he {\i1}is{\i0} a gu{\fsp-1}y{\fsp}.
+Dialogue: 0,0:07:37.01,0:07:38.50,Dialogue,,0,0,0,,I’m coming right now.
+Dialogue: 0,0:07:38.50,0:07:40.35,Dialogue,,0,0,0,,It’s me! Me!
+Dialogue: 0,0:07:40.99,0:07:41.67,Dialogue,,0,0,0,,Yes?{re: this music: what the FUCK}
+Dialogue: 0,0:07:43.27,0:07:44.77,Dialogue,,0,0,0,,I brought you something.
+Dialogue: 0,0:07:45.22,0:07:46.25,Dialogue,,0,0,0,,Thanks.
+Dialogue: 0,0:07:46.25,0:07:48.05,Dialogue,,0,0,0,,Eat properl{\fsp-1}y{\fsp}, okay?
+Dialogue: 0,0:07:48.89,0:07:49.88,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
+Dialogue: 0,0:07:49.88,0:07:50.96,Dialogue,,0,0,0,,See you!
 Comment: 0,0:07:51.18,0:07:51.38,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.{this music is srsly OoP}
-Dialogue: 0,0:07:53.81,0:07:54.18,Dialogue,,0,0,0,,Yes?
-Dialogue: 0,0:07:55.46,0:07:57.98,Dialogue,,0,0,0,,Masao-san, I made a bento for you.
-Dialogue: 0,0:07:58.38,0:07:58.87,Dialogue,,0,0,0,,Thanks.{PIMP STUD PLAYER}
-Dialogue: 0,0:07:59.50,0:08:02.01,Dialogue,,0,0,0,,I’m really looking forward to your next live show!
-Dialogue: 0,0:08:04.00,0:08:04.98,Dialogue,,0,0,0,,I’ll come again late{\fsp-1}r{\fsp}.
-Dialogue: 0,0:08:08.09,0:08:08.44,Dialogue,,0,0,0,,Yes?
-Dialogue: 0,0:08:09.49,0:08:13.42,Dialogue,,0,0,0,,Masao-san, um, I hope this isn’t a bothe{\fsp-1}r{\fsp}, but...{THIS FUCKING MUSIC}
-Dialogue: 0,0:08:15.08,0:08:16.51,Dialogue,,0,0,0,,Oh, not at all. Thank you.
-Dialogue: 0,0:08:17.66,0:08:18.29,Dialogue,,0,0,0,,Farewell!{SUCH A ROMATIC WORD}
-Dialogue: 0,0:08:22.50,0:08:23.22,Dialogue,,0,0,0,,Sorry for the wait.
-Dialogue: 0,0:08:26.62,0:08:27.79,Dialogue,,0,0,0,,That’s really something.
-Dialogue: 0,0:08:28.56,0:08:29.78,Dialogue,,0,0,0,,Are they your friends?
-Dialogue: 0,0:08:31.38,0:08:33.33,Dialogue,,0,0,0,,Actuall{\fsp-1}y{\fsp}, I don’t really know any of them.
-Dialogue: 0,0:08:39.15,0:08:42.60,Dialogue,,0,0,0,,But they really appreciate my songs.
-Dialogue: 0,0:08:43.49,0:08:44.92,Dialogue,,0,0,0,,I also want to hear them.
-Dialogue: 0,0:08:45.53,0:08:49.66,Dialogue,,0,0,0,,That’s right, one of them said she was looking forward to hearing you pla{\fsp-1}y{\fsp}.
-Dialogue: 0,0:08:50.03,0:08:51.42,Dialogue,,0,0,0,,Where do you perform?
-Dialogue: 0,0:08:52.16,0:08:56.34,Dialogue,,40,40,0,,Last time it was at a live music club, but at the moment I’m taking a break.
+Dialogue: 0,0:07:53.67,0:07:54.43,Dialogue,,0,0,0,,Yes?
+Dialogue: 0,0:07:55.32,0:07:58.23,Dialogue,,0,0,0,,Masao-san, I made a bento for you.
+Dialogue: 0,0:07:58.23,0:07:59.31,Dialogue,,0,0,0,,Thanks.{PIMP STUD PLAYER}
+Dialogue: 0,0:07:59.31,0:08:02.26,Dialogue,,0,0,0,,I’m really looking forward to your next live show!
+Dialogue: 0,0:08:03.86,0:08:05.23,Dialogue,,0,0,0,,I’ll come again late{\fsp-1}r{\fsp}.
+Dialogue: 0,0:08:07.95,0:08:09.03,Dialogue,,0,0,0,,Yes?
+Dialogue: 0,0:08:09.35,0:08:13.67,Dialogue,,0,0,0,,Masao-san, um, I hope this isn’t a bothe{\fsp-1}r{\fsp}, but...{THIS FUCKING MUSIC}
+Dialogue: 0,0:08:14.94,0:08:17.01,Dialogue,,0,0,0,,Oh, not at all. Thank you.
+Dialogue: 0,0:08:17.52,0:08:18.54,Dialogue,,0,0,0,,Farewell!{SUCH A ROMATIC WORD}
+Dialogue: 0,0:08:22.36,0:08:23.47,Dialogue,,0,0,0,,Sorry for the wait.
+Dialogue: 0,0:08:26.42,0:08:28.04,Dialogue,,0,0,0,,That’s really something.
+Dialogue: 0,0:08:28.42,0:08:29.85,Dialogue,,0,0,0,,Are they your friends?
+Dialogue: 0,0:08:31.24,0:08:33.58,Dialogue,,0,0,0,,Actuall{\fsp-1}y{\fsp}, I don’t really know any of them.
+Dialogue: 0,0:08:39.01,0:08:43.00,Dialogue,,0,0,0,,But they really appreciate my songs.
+Dialogue: 0,0:08:43.35,0:08:45.35,Dialogue,,0,0,0,,I also want to hear them.
+Dialogue: 0,0:08:45.35,0:08:49.91,Dialogue,,0,0,0,,That’s right, one of them said she was looking forward to hearing you pla{\fsp-1}y{\fsp}.
+Dialogue: 0,0:08:49.91,0:08:51.95,Dialogue,,0,0,0,,Where do you perform?
+Dialogue: 0,0:08:51.95,0:08:56.59,Dialogue,,40,40,0,,Last time it was at a live music club, but at the moment I’m taking a break.
 Comment: 0,0:08:56.86,0:08:57.13,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:08:58.40,0:09:02.00,Dialogue,,0,0,0,,I completely ran out of mone{\fsp-1}y{\fsp}, so I can’t afford any more stage time.{wait... I thought amatuer performers were /paid/ to perform in places like bars etc.}
-Dialogue: 0,0:09:02.19,0:09:03.81,Dialogue,,0,0,0,,I can hardly afford the rent here.
-Dialogue: 0,0:09:04.88,0:09:07.25,Dialogue,,0,0,0,,I’ve even thought about returning to the countryside,
-Dialogue: 0,0:09:07.54,0:09:10.61,Dialogue,,0,0,0,,but with the support of my fans, I can still eat regularl{\fsp-1}y{\fsp}.
-Dialogue: 0,0:09:11.25,0:09:12.74,Dialogue,,0,0,0,,So I figured, what the heck.
-Dialogue: 0,0:09:14.22,0:09:16.80,Dialogue,,0,0,0,,Usually when I feel like singing, it’s already nighttime.
-Dialogue: 0,0:09:18.51,0:09:21.02,Dialogue-italic,,0,0,0,,That ghostly voice was him all along.
-Dialogue: 0,0:09:22.15,0:09:25.26,Dialogue,,0,0,0,,Oh yeah, I’m Ichinokura Masao. And you?
-Dialogue: 0,0:09:26.24,0:09:27.22,Dialogue,,0,0,0,,I’m Yamada Asu.
-Dialogue: 0,0:09:29.49,0:09:30.28,Dialogue,,0,0,0,,It’s good, you know.
-Dialogue: 0,0:09:34.76,0:09:35.44,Dialogue,,0,0,0,,Your singing is.
-Dialogue: 0,0:09:38.01,0:09:38.79,Dialogue,,0,0,0,,Well, I’ll see you late{\fsp-1}r{\fsp}.
-Dialogue: 0,0:09:44.97,0:09:46.52,Dialogue,,0,0,0,,Thanks for the food!
-Dialogue: 0,0:09:51.49,0:09:53.43,Dialogue-italic,,0,0,0,,It’s good, you know. Your singing is.
-Dialogue: 0,0:09:54.92,0:09:58.94,Dialogue-italic,,0,0,0,,If I practice a whole lot, I wonder if I’ll ever be able to sing like him.
-Dialogue: 0,0:10:03.69,0:10:04.92,Dialogue,,0,0,0,,Asu!
-Dialogue: 0,0:10:05.95,0:10:09.75,Dialogue,,0,0,0,,Asu! Asu! It’s that voice again!
-Dialogue: 0,0:10:16.59,0:10:19.33,Dialogue,,0,0,0,,It’s all right, Onee-chan. Listen carefull{\fsp-1}y{\fsp}.
+Dialogue: 0,0:08:58.26,0:09:02.19,Dialogue,,0,0,0,,I completely ran out of mone{\fsp-1}y{\fsp}, so I can’t afford any more stage time.{wait... I thought amatuer performers were /paid/ to perform in places like bars etc.}
+Dialogue: 0,0:09:02.19,0:09:03.92,Dialogue,,0,0,0,,I can hardly afford the rent here.
+Dialogue: 0,0:09:04.74,0:09:07.50,Dialogue,,0,0,0,,I’ve even thought about returning to the countryside,
+Dialogue: 0,0:09:07.50,0:09:11.06,Dialogue,,0,0,0,,but with the support of my fans, I can still eat regularl{\fsp-1}y{\fsp}.
+Dialogue: 0,0:09:11.06,0:09:12.99,Dialogue,,0,0,0,,So I figured, what the heck.
+Dialogue: 0,0:09:14.08,0:09:17.05,Dialogue,,0,0,0,,Usually when I feel like singing, it’s already nighttime.
+Dialogue: 0,0:09:18.37,0:09:21.57,Dialogue-italic,,0,0,0,,That ghostly voice was him all along.
+Dialogue: 0,0:09:22.01,0:09:25.51,Dialogue,,0,0,0,,Oh yeah, I’m Ichinokura Masao. And you?
+Dialogue: 0,0:09:26.10,0:09:27.47,Dialogue,,0,0,0,,I’m Yamada Asu.
+Dialogue: 0,0:09:29.35,0:09:30.53,Dialogue,,0,0,0,,It’s good, you know.
+Dialogue: 0,0:09:34.62,0:09:35.69,Dialogue,,0,0,0,,Your singing is.
+Dialogue: 0,0:09:37.87,0:09:39.04,Dialogue,,0,0,0,,Well, I’ll see you late{\fsp-1}r{\fsp}.
+Dialogue: 0,0:09:44.83,0:09:46.69,Dialogue,,0,0,0,,Thanks for the food!
+Dialogue: 0,0:09:51.35,0:09:53.68,Dialogue-italic,,0,0,0,,It’s good, you know. Your singing is.
+Dialogue: 0,0:09:54.78,0:09:59.19,Dialogue-italic,,0,0,0,,If I practice a whole lot, I wonder if I’ll ever be able to sing like him.
+Dialogue: 0,0:10:03.55,0:10:05.17,Dialogue,,0,0,0,,Asu!
+Dialogue: 0,0:10:05.81,0:10:10.00,Dialogue,,0,0,0,,Asu! Asu! It’s that voice again!
+Dialogue: 0,0:10:16.45,0:10:19.53,Dialogue,,0,0,0,,It’s all right, Onee-chan. Listen carefull{\fsp-1}y{\fsp}.
 Comment: 0,0:10:20.12,0:10:20.58,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:10:21.95,0:10:23.50,Dialogue,,0,0,0,,The voice is singing?
-Dialogue: 0,0:10:24.14,0:10:24.42,Dialogue,,0,0,0,,Yes.
-Dialogue: 0,0:10:28.16,0:10:29.55,Dialogue,,0,0,0,,That’s a really pretty voice.{lolol}
-Dialogue: 0,0:10:30.92,0:10:33.95,Dialogue-italic,,0,0,0,,I wish I had noticed this soone{\fsp-1}r{\fsp}.{BUTTRAEP}
-Dialogue: 0,0:10:34.70,0:10:37.41,Dialogue-italic,,0,0,0,,It’s a reall{\fsp-1}y{\fsp}, really beautiful song.
-Dialogue: 0,0:10:41.93,0:10:44.52,Dialogue,,0,0,0,,Ah, good evening. Was I disturbing you?{blargh}
-Dialogue: 0,0:10:45.54,0:10:47.74,Dialogue,,0,0,0,,Not at all, it was a wonderful song.
-Dialogue: 0,0:10:48.32,0:10:51.19,Dialogue,,0,0,0,,Good evening. I’m Asu’s older siste{\fsp-1}r{\fsp}, Yamada Kyo.
-Dialogue: 0,0:10:51.73,0:10:52.91,Dialogue,,0,0,0,,Nice to meet you.
-Dialogue: 0,0:10:53.74,0:10:55.04,Dialogue,,0,0,0,,S-Same here.
-Dialogue: 0,0:11:01.34,0:11:03.03,Dialogue,,0,0,0,,It seems like it’s gotten colde{\fsp-1}r{\fsp}, doesn’t it?
-Dialogue: 0,0:11:05.19,0:11:07.33,Dialogue,,0,0,0,,Looks like that’s all I’ve got for toda{\fsp-1}y{\fsp}.
-Dialogue: 0,0:11:14.16,0:11:15.15,Dialogue,,0,0,0,,Well then, goodnight.
-Dialogue: 0,0:11:17.63,0:11:18.79,Dialogue,,0,0,0,,Goodnight.
-Dialogue: 0,0:11:41.50,0:11:43.36,Dialogue,,0,0,0,,I need get home and practice singing!
-Dialogue: 0,0:11:44.11,0:11:46.68,Dialogue,,0,0,0,,I wonder if I’ll be able to sing like {M{\fsp-1}r{\fsp}. }Ichinokura one da{\fsp-1}y{\fsp}.{HONORIFICS, MY OLD NEMESIS}
-Dialogue: 0,0:11:47.21,0:11:48.61,Dialogue,,0,0,0,,I suppose that’s not possible.
-Dialogue: 0,0:11:50.09,0:11:52.46,Dialogue,,0,0,0,,Oh, it’s Mr. Ichinokura.
-Dialogue: 0,0:11:53.96,0:11:54.85,Dialogue,,0,0,0,,Good afternoon!
-Dialogue: 0,0:11:55.36,0:11:57.59,Dialogue,,0,0,0,,Oh, good afternoon, Asu.
-Dialogue: 0,0:12:03.68,0:12:04.89,Dialogue,,0,0,0,,Are you on your way home?
-Dialogue: 0,0:12:05.75,0:12:08.64,Dialogue,,0,0,0,,Yes, I’m going to go practice sing—{what the fuck is he doing. Loitering?}
-Dialogue: 0,0:12:17.36,0:12:19.15,Dialogue,,0,0,0,,Um, if it’s okay with you,
+Dialogue: 0,0:10:21.81,0:10:23.95,Dialogue,,0,0,0,,The voice is singing?
+Dialogue: 0,0:10:23.95,0:10:25.00,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:10:28.02,0:10:29.97,Dialogue,,0,0,0,,That’s a really pretty voice.{lolol}
+Dialogue: 0,0:10:30.78,0:10:34.20,Dialogue-italic,,0,0,0,,I wish I had noticed this soone{\fsp-1}r{\fsp}.{BUTTRAEP}
+Dialogue: 0,0:10:34.56,0:10:37.66,Dialogue-italic,,0,0,0,,It’s a reall{\fsp-1}y{\fsp}, really beautiful song.
+Dialogue: 0,0:10:41.79,0:10:44.77,Dialogue,,0,0,0,,Ah, good evening. Was I disturbing you?{blargh}
+Dialogue: 0,0:10:45.40,0:10:48.14,Dialogue,,0,0,0,,Not at all, it was a wonderful song.
+Dialogue: 0,0:10:48.14,0:10:51.56,Dialogue,,0,0,0,,Good evening. I’m Asu’s older siste{\fsp-1}r{\fsp}, Yamada Kyo.
+Dialogue: 0,0:10:51.56,0:10:53.16,Dialogue,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:10:53.60,0:10:55.29,Dialogue,,0,0,0,,S-Same here.
+Dialogue: 0,0:11:01.20,0:11:03.28,Dialogue,,0,0,0,,It seems like it’s gotten colde{\fsp-1}r{\fsp}, doesn’t it?
+Dialogue: 0,0:11:05.05,0:11:07.38,Dialogue,,0,0,0,,Looks like that’s all I’ve got for toda{\fsp-1}y{\fsp}.
+Dialogue: 0,0:11:14.02,0:11:15.40,Dialogue,,0,0,0,,Well then, goodnight.
+Dialogue: 0,0:11:17.49,0:11:19.04,Dialogue,,0,0,0,,Goodnight.
+Dialogue: 0,0:11:41.36,0:11:43.41,Dialogue,,0,0,0,,I need get home and practice singing!
+Dialogue: 0,0:11:43.97,0:11:47.04,Dialogue,,0,0,0,,I wonder if I’ll be able to sing like {M{\fsp-1}r{\fsp}. }Ichinokura one da{\fsp-1}y{\fsp}.{HONORIFICS, MY OLD NEMESIS}
+Dialogue: 0,0:11:47.04,0:11:48.86,Dialogue,,0,0,0,,I suppose that’s not possible.
+Dialogue: 0,0:11:49.95,0:11:52.96,Dialogue,,0,0,0,,Oh, it’s Mr. Ichinokura.
+Dialogue: 0,0:11:53.82,0:11:55.19,Dialogue,,0,0,0,,Good afternoon!
+Dialogue: 0,0:11:55.19,0:11:57.84,Dialogue,,0,0,0,,Oh, good afternoon, Asu.
+Dialogue: 0,0:12:03.54,0:12:05.14,Dialogue,,0,0,0,,Are you on your way home?
+Dialogue: 0,0:12:05.61,0:12:09.14,Dialogue,,0,0,0,,Yes, I’m going to go practice sing—{what the fuck is he doing. Loitering?}
+Dialogue: 0,0:12:17.22,0:12:19.40,Dialogue,,0,0,0,,Um, if it’s okay with you,
 Comment: 0,0:12:19.37,0:12:19.90,Dialogue,,0,0,0,,Eh?{NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO.}
-Dialogue: 0,0:12:20.30,0:12:25.10,Dialogue,,0,0,0,,Please teach me... Please teach me how to sing. Please!
+Dialogue: 0,0:12:20.16,0:12:25.35,Dialogue,,0,0,0,,Please teach me... Please teach me how to sing. Please!
 Comment: 0,0:12:25.44,0:12:25.86,Dialogue,,0,0,0,,Eh?{NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO.}
-Dialogue: 0,0:12:26.51,0:12:28.40,Dialogue,,0,0,0,,We have to take a singing test at school...
-Dialogue: 0,0:12:28.71,0:12:32.79,Dialogue,,0,0,0,,It’s probably impossible, so it’s okay if you say no.{biasduibasdouiasd. I AM A PROFESSINAL TRANSLATOER AND I PROABABLY MISTRNASLATED THIS LINE HORRIBL}
-Dialogue: 0,0:12:33.42,0:12:33.75,Dialogue,,0,0,0,,But...
-Dialogue: 0,0:12:37.07,0:12:37.49,Dialogue,,0,0,0,,Sure.
-Dialogue: 0,0:12:39.53,0:12:44.15,Dialogue,,0,0,0,,You really will? Thank you very much.{maybe these should be split? Also wtf are those shorts he is wearing. And boots. What.}
-Dialogue: 0,0:12:46.42,0:12:48.31,Dialogue,,0,0,0,,Well then, let’s get started.
-Dialogue: 0,0:12:48.91,0:12:50.73,Dialogue,,0,0,0,,Did you bring anything that can play music?{BECAUSE THEY CAN’T GO BACK TO THE APARTMENT WHERE HE HAS A GUITAR}{or actually wait if he already knows how to sing, couldn’t HE JUST SING THE NOTES}
-Dialogue: 0,0:12:51.70,0:12:52.48,Dialogue,,0,0,0,,Um...
-Dialogue: 0,0:12:54.13,0:12:55.65,Dialogue,,0,0,0,,A melodica, eh?{idk what this is but it has to sound better than a fucking recorde{\fsp-1}r{\fsp}. fuck you elementary school. fuck you.}{.....LOLOLOL AMAHA}
-Dialogue: 0,0:12:57.43,0:12:58.82,Dialogue,,0,0,0,,Well, I guess it’s good enough.
-Dialogue: 0,0:12:59.71,0:13:01.39,Dialogue,,0,0,0,,Try making the same sounds as it.{OMG INDIRECT KISSING HE’S A PEDOPHILE}
-Dialogue: 0,0:13:02.45,0:13:02.74,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
-Dialogue: 0,0:13:04.03,0:13:05.06,Dialogue,,0,0,0,,Do!{does this really need to be subbed? Sigh.}
-Dialogue: 0,0:13:06.07,0:13:07.26,Dialogue,,0,0,0,,Re!
-Dialogue: 0,0:13:07.97,0:13:09.22,Dialogue,,0,0,0,,Mi!{wouldn’t it work better if he was playing the notes AS she was singing them rather than before}
-Dialogue: 0,0:13:13.35,0:13:16.74,Dialogue,,0,0,0,,Huh? It won’t make the Fa and La sounds.{FA AND RA DON’T MAKE A SOUND}
-Dialogue: 0,0:13:17.63,0:13:21.03,Dialogue,,0,0,0,,It’s a hand-me-down from my siste{\fsp-1}r{\fsp}, and it’s slightly damaged.{:x}
-Dialogue: 0,0:13:21.96,0:13:25.43,Dialogue,,0,0,0,,Can’t you just ask your mom to buy you a new one?
-Dialogue: 0,0:13:26.58,0:13:30.31,Dialogue,,0,0,0,,We... Don’t have a mom... Or a dad.{OH MAN THE CHEESE IS COMING ON}
+Dialogue: 0,0:12:26.37,0:12:28.65,Dialogue,,0,0,0,,We have to take a singing test at school...
+Dialogue: 0,0:12:28.65,0:12:33.23,Dialogue,,0,0,0,,It’s probably impossible, so it’s okay if you say no.{biasduibasdouiasd. I AM A PROFESSINAL TRANSLATOER AND I PROABABLY MISTRNASLATED THIS LINE HORRIBL}
+Dialogue: 0,0:12:33.23,0:12:34.17,Dialogue,,0,0,0,,But...
+Dialogue: 0,0:12:36.93,0:12:37.64,Dialogue,,0,0,0,,Sure.
+Dialogue: 0,0:12:39.39,0:12:44.40,Dialogue,,0,0,0,,You really will? Thank you very much.{maybe these should be split? Also wtf are those shorts he is wearing. And boots. What.}
+Dialogue: 0,0:12:46.28,0:12:48.73,Dialogue,,0,0,0,,Well then, let’s get started.
+Dialogue: 0,0:12:48.73,0:12:50.75,Dialogue,,0,0,0,,Did you bring anything that can play music?{BECAUSE THEY CAN’T GO BACK TO THE APARTMENT WHERE HE HAS A GUITAR}{or actually wait if he already knows how to sing, couldn’t HE JUST SING THE NOTES}
+Dialogue: 0,0:12:51.56,0:12:52.73,Dialogue,,0,0,0,,Um...
+Dialogue: 0,0:12:53.99,0:12:55.92,Dialogue,,0,0,0,,A melodica, eh?{idk what this is but it has to sound better than a fucking recorde{\fsp-1}r{\fsp}. fuck you elementary school. fuck you.}{.....LOLOLOL AMAHA}
+Dialogue: 0,0:12:57.29,0:12:59.07,Dialogue,,0,0,0,,Well, I guess it’s good enough.
+Dialogue: 0,0:12:59.57,0:13:01.64,Dialogue,,0,0,0,,Try making the same sounds as it.{OMG INDIRECT KISSING HE’S A PEDOPHILE}
+Dialogue: 0,0:13:02.31,0:13:02.89,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
+Dialogue: 0,0:13:03.89,0:13:05.31,Dialogue,,0,0,0,,Do!{does this really need to be subbed? Sigh.}
+Dialogue: 0,0:13:05.93,0:13:07.77,Dialogue,,0,0,0,,Re!
+Dialogue: 0,0:13:07.77,0:13:09.47,Dialogue,,0,0,0,,Mi!{wouldn’t it work better if he was playing the notes AS she was singing them rather than before}
+Dialogue: 0,0:13:13.21,0:13:16.81,Dialogue,,0,0,0,,Huh? It won’t make the Fa and La sounds.{FA AND RA DON’T MAKE A SOUND}
+Dialogue: 0,0:13:17.49,0:13:21.28,Dialogue,,0,0,0,,It’s a hand-me-down from my siste{\fsp-1}r{\fsp}, and it’s slightly damaged.{:x}
+Dialogue: 0,0:13:21.82,0:13:25.78,Dialogue,,0,0,0,,Can’t you just ask your mom to buy you a new one?
+Dialogue: 0,0:13:26.44,0:13:30.56,Dialogue,,0,0,0,,We... Don’t have a mom... Or a dad.{OH MAN THE CHEESE IS COMING ON}
 Comment: 0,0:13:30.69,0:13:31.11,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:13:31.86,0:13:34.23,Dialogue,,0,0,0,,It’s just the two of you living in that apartment?
-Dialogue: 0,0:13:34.75,0:13:35.12,Dialogue,,0,0,0,,Yes.
-Dialogue: 0,0:13:38.15,0:13:40.42,Dialogue,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}. I had no idea.
-Dialogue: 0,0:13:42.36,0:13:45.33,Dialogue,,0,0,0,,It’s all right! I still have my siste{\fsp-1}r{\fsp}.
-Dialogue: 0,0:13:45.80,0:13:48.89,Dialogue,,0,0,0,,Um, if there’s ever anything I can help with, please ask.
-Dialogue: 0,0:13:49.83,0:13:52.42,Dialogue,,0,0,0,,But you’re already teaching me how to sing,
-Dialogue: 0,0:13:53.02,0:13:54.05,Dialogue,,0,0,0,,S-So...
-Dialogue: 0,0:13:58.04,0:14:00.40,Dialogue,,0,0,0,,I’d like to listen to you sing.
+Dialogue: 0,0:13:31.72,0:13:34.58,Dialogue,,0,0,0,,It’s just the two of you living in that apartment?
+Dialogue: 0,0:13:34.58,0:13:35.37,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:13:38.01,0:13:40.63,Dialogue,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}. I had no idea.
+Dialogue: 0,0:13:42.22,0:13:45.37,Dialogue,,0,0,0,,It’s all right! I still have my siste{\fsp-1}r{\fsp}.
+Dialogue: 0,0:13:45.64,0:13:49.14,Dialogue,,0,0,0,,Um, if there’s ever anything I can help with, please ask.
+Dialogue: 0,0:13:49.69,0:13:52.84,Dialogue,,0,0,0,,But you’re already teaching me how to sing,
+Dialogue: 0,0:13:52.84,0:13:54.30,Dialogue,,0,0,0,,S-So...
+Dialogue: 0,0:13:57.90,0:14:00.52,Dialogue,,0,0,0,,I’d like to listen to you sing.
 Comment: 0,0:14:00.93,0:14:01.21,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:14:17.75,0:14:20.74,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
-Dialogue: 0,0:14:29.67,0:14:32.46,Dialogue,,0,0,0,,To be able to sing in tune and project properl{\fsp-1}y{\fsp},
-Dialogue: 0,0:14:33.50,0:14:35.27,Dialogue,,0,0,0,,every muscle in your body is absolutely essential!
-Dialogue: 0,0:14:35.76,0:14:36.01,Dialogue,,0,0,0,,Okay!
-Dialogue: 0,0:14:39.45,0:14:40.16,Dialogue,,0,0,0,,{\an8}One!
-Dialogue: 0,0:14:40.75,0:14:41.32,Dialogue,,0,0,0,,{\an8}Two!
-Dialogue: 0,0:14:41.95,0:14:42.47,Dialogue,,0,0,0,,{\an8}Three!
-Dialogue: 0,0:14:41.34,0:14:45.03,Dialogue-italic,,0,0,0,,From then on, with Ichinokura’s guidance and help,
-Dialogue: 0,0:14:45.59,0:14:47.14,Dialogue-italic,,0,0,0,,I continued to practice my singing.
-Dialogue: 0,0:14:51.52,0:14:52.65,Dialogue-italic,,0,0,0,,Onee-chan practiced too.
-Dialogue: 0,0:14:53.96,0:14:54.54,Dialogue,,0,0,0,,{\an8}Twenty-five!
-Dialogue: 0,0:14:55.67,0:14:56.57,Dialogue,,0,0,0,,{\an8}Twenty-six!
-Dialogue: 0,0:14:54.88,0:14:56.57,Dialogue,,0,0,0,,Keep going, Asu!
-Dialogue: 0,0:15:07.24,0:15:15.42,Dialogue,,0,0,0,,{\an8}~Spring has come and the small stream flows babbling between its banks.~
-Dialogue: 0,0:15:16.00,0:15:24.10,Dialogue,,0,0,0,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
-Dialogue: 0,0:15:24.65,0:15:32.86,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
-Dialogue: 0,0:15:33.35,0:15:42.41,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
-Dialogue: 0,0:15:47.04,0:15:49.28,Dialogue,,0,0,0,,That’s it. You did very well.
-Dialogue: 0,0:15:49.68,0:15:50.02,Dialogue,,0,0,0,,Okay!{iauddlyugasdgyuadsgyukefgulhsljbsfe}
-Dialogue: 0,0:15:53.27,0:15:55.12,Dialogue,,0,0,0,,Asu, that was really great!
-Dialogue: 0,0:15:55.54,0:15:57.49,Dialogue,,0,0,0,,How can you sing so well?
-Dialogue: 0,0:15:59.40,0:16:01.40,Dialogue,,0,0,0,,I guess I just had a really good teache{\fsp-1}r{\fsp}.
-Dialogue: 0,0:16:07.34,0:16:09.01,Dialogue,,0,0,0,,You did it, Asu!
-Dialogue: 0,0:16:12.29,0:16:13.47,Dialogue,,0,0,0,,Thanks, Onee-chan.{FACE RAPE}
-Dialogue: 0,0:16:13.94,0:16:16.34,Dialogue,,0,0,0,,We should tell Mr. Ichinokura, too.
-Dialogue: 0,0:16:16.93,0:16:19.36,Dialogue,,0,0,0,,Ah, that’s right. Let’s go.
-Dialogue: 0,0:16:24.14,0:16:26.99,Dialogue,,0,0,0,,Ichinokura-san! I did really well on my test!
-Dialogue: 0,0:16:31.39,0:16:32.42,Dialogue,,0,0,0,,Maybe he’s not home?
-Dialogue: 0,0:16:33.64,0:16:35.26,Dialogue,,0,0,0,,I’m sure he’ll be back soon.
-Dialogue: 0,0:16:42.55,0:16:44.46,Dialogue,,0,0,0,,It looks like he still isn’t back.
-Dialogue: 0,0:16:48.88,0:16:50.87,Dialogue-italic,,0,0,0,,A whole week has gone b{\fsp-1}y{\fsp},
-Dialogue: 0,0:16:51.54,0:16:53.95,Dialogue-italic,,0,0,0,,And Mr. Ichinokura hasn’t come back yet.
-Dialogue: 0,0:16:56.16,0:16:58.24,Dialogue,,0,0,0,,I wonder what happened to Mr. Ichinokura.
-Dialogue: 0,0:17:01.08,0:17:04.34,Dialogue,,0,0,0,,Masao! Are you in there, Masao?
-Dialogue: 0,0:17:06.38,0:17:07.26,Dialogue,,0,0,0,,Masao?
-Dialogue: 0,0:17:10.21,0:17:10.66,Dialogue,,0,0,0,,Excuse me...
-Dialogue: 0,0:17:11.87,0:17:13.60,Dialogue,,0,0,0,,What? Who are you?{HOSTILITY IS GOOD IDEA}
-Dialogue: 0,0:17:14.79,0:17:15.32,Dialogue,,0,0,0,,Um...
-Dialogue: 0,0:17:16.35,0:17:17.42,Dialogue,,0,0,0,,We’re his next-door neighbors.
-Dialogue: 0,0:17:18.04,0:17:21.55,Dialogue,,0,0,0,,Ichinokura hasn’t been home for the whole week.
-Dialogue: 0,0:17:22.00,0:17:23.39,Dialogue,,0,0,0,,Have you heard anything from him?
-Dialogue: 0,0:17:23.46,0:17:24.40,Dialogue,,0,0,0,,As if!
-Dialogue: 0,0:17:25.96,0:17:30.22,Dialogue,,0,0,0,,We told him we’d keep helping him until his next audition, but it seems he deserted us.
-Dialogue: 0,0:17:31.11,0:17:34.27,Dialogue,,0,0,0,,Even though he said he would try his best this time!
-Dialogue: 0,0:17:36.09,0:17:40.28,Dialogue,,0,0,0,,Then, that means, when he told me he had sold his favorite guita{\fsp-1}r{\fsp}...
-Dialogue: 0,0:17:40.63,0:17:45.15,Dialogue,,0,0,0,,You know he’d never sell it! Masao treasures{values?} that guitar more than his own life.
-Dialogue: 0,0:17:46.44,0:17:47.93,Dialogue-italic,,0,0,0,,So that’s what happened...{oh so I guess he couldn’t use his guitar in the park scene because he had already sold it}
-Dialogue: 0,0:17:53.18,0:17:55.67,Dialogue-italic,,0,0,0,,Even though he was having his own problems, he still taught me how to sing.
-Dialogue: 0,0:17:56.67,0:17:58.26,Dialogue-italic,,0,0,0,,And his music was so wonderful!
-Dialogue: 0,0:17:59.49,0:18:00.05,Dialogue-italic,,0,0,0,,And yet...
-Dialogue: 0,0:18:02.19,0:18:04.23,Dialogue-italic,,0,0,0,,I’d like to listen to you sing.
-Dialogue: 0,0:18:04.86,0:18:07.40,Dialogue-italic,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
-Dialogue: 0,0:18:11.00,0:18:13.14,Dialogue,,0,0,0,,Even though he promised me...
-Dialogue: 0,0:18:13.79,0:18:18.21,Dialogue,,0,0,0,,He promised that he’d sing for me again...
-Dialogue: 0,0:18:28.59,0:18:30.48,Dialogue,,0,0,0,,His song... I can hear it.
-Dialogue: 0,0:18:31.44,0:18:31.81,Dialogue,,0,0,0,,His song...
-Dialogue: 0,0:18:35.49,0:18:36.23,Dialogue,,0,0,0,,You’re right!
-Dialogue: 0,0:18:36.54,0:18:37.08,Dialogue,,0,0,0,,Where is it?
-Dialogue: 0,0:18:37.72,0:18:38.55,Dialogue,,0,0,0,,That way!
-Dialogue: 0,0:18:40.15,0:18:40.63,Dialogue,,0,0,0,,Where?
-Dialogue: 0,0:18:44.32,0:18:44.90,Dialogue,,0,0,0,,Masao!
-Dialogue: 0,0:18:44.96,0:18:46.55,Dialogue,,0,0,0,,Masao!{jesus fucking christ}
-Dialogue: 0,0:18:48.11,0:18:49.21,Dialogue,,0,0,0,,H-He{\fsp-1}y{\fsp}.
-Dialogue: 0,0:18:50.03,0:18:51.34,Dialogue,,0,0,0,,{\an8}Geez, Masao.
-Dialogue: 0,0:18:52.24,0:18:53.58,Dialogue,,0,0,0,,{\an8}Where did you go?{NO ENDING SENTENCES IN PREPOSITIONS}
-Dialogue: 0,0:18:53.23,0:18:54.60,Dialogue,,0,0,0,,{\an8}Everyone was worried about you.
-Dialogue: 0,0:18:54.75,0:18:55.59,Dialogue,,0,0,0,,{\an8}Masao-san.
-Dialogue: 0,0:18:57.11,0:18:57.89,Dialogue,,0,0,0,,{\an8}Thank goodness.
-Dialogue: 0,0:18:57.88,0:18:59.30,Dialogue,,0,0,0,,I was spending the night at my part time job.
-Dialogue: 0,0:18:59.93,0:19:02.14,Dialogue,,0,0,0,,It seems I caused you some undue worr{\fsp-1}y{\fsp}.{blargh}
-Dialogue: 0,0:19:02.35,0:19:03.61,Dialogue,,0,0,0,,{\an8}You idiot.
-Dialogue: 0,0:19:05.18,0:19:06.23,Dialogue,,0,0,0,,{\an8}That’s great.
-Dialogue: 0,0:19:08.07,0:19:10.03,Dialogue,,0,0,0,,Next time make sure to tell us beforehand!
-Dialogue: 0,0:19:11.07,0:19:11.65,Dialogue,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}.
-Dialogue: 0,0:19:12.43,0:19:14.80,Dialogue,,0,0,0,,Everyone loves Ichinokura, don’t they?
-Dialogue: 0,0:19:15.13,0:19:15.49,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:19:17.66,0:19:19.33,Dialogue,,0,0,0,,After being turned down at all my auditions,
-Dialogue: 0,0:19:19.87,0:19:22.84,Dialogue,,0,0,0,,I started thinking that becoming a musician would be impossible for me.
-Dialogue: 0,0:19:23.85,0:19:26.76,Dialogue,,0,0,0,,I decided to give up singing for good.
-Dialogue: 0,0:19:27.72,0:19:28.09,Dialogue,,0,0,0,,But...
-Dialogue: 0,0:19:35.29,0:19:37.73,Dialogue,,0,0,0,,But, I {\i1}do{\i0} want to keep on singing.
-Dialogue: 0,0:19:38.72,0:19:41.82,Dialogue,,0,0,0,,That’s why I got a part time job, so I could afford to buy back my guita{\fsp-1}r{\fsp}.
-Dialogue: 0,0:19:44.41,0:19:44.91,Dialogue,,0,0,0,,His guita{\fsp-1}r{\fsp}...{lul}
-Dialogue: 0,0:19:54.92,0:19:55.79,Dialogue,,0,0,0,,Because I made a promise.
-Dialogue: 0,0:19:56.53,0:19:58.89,Dialogue,,0,0,0,,A promise that I would sing for you again.
-Dialogue: 0,0:20:26.67,0:20:27.61,Dialogue-italic,,0,0,0,,I sing.
-Dialogue: 0,0:20:28.24,0:20:31.88,Dialogue-italic,,0,0,0,,That’s what I can do. The only thing I can do.
-Dialogue: 0,0:20:33.79,0:20:34.80,Dialogue-italic,,0,0,0,,Music is mysterious.
-Dialogue: 0,0:20:35.78,0:20:37.56,Dialogue-italic,,0,0,0,,With the ebb and flow of each note,
-Dialogue: 0,0:20:38.67,0:20:41.55,Dialogue-italic,,0,0,0,,I can feel my spirits rising.{yeah so what I destroyed the parallels between the opening and the closing WHAT YOU GONNA DO ABOUT IT}
-Dialogue: 0,0:20:43.88,0:20:46.83,Dialogue-italic,,0,0,0,,That’s why I will keep on singing.
-Dialogue: 0,0:20:57.35,0:21:01.10,Dialogue-italic,,0,0,0,,That’s why I want to stay here foreve{\fsp-1}r{\fsp}.
-Dialogue: 0,0:21:01.91,0:21:03.42,Dialogue-italic,,0,0,0,,I’ll try my best with Onee-chan.
-Dialogue: 0,0:21:08.35,0:21:11.03,Dialogue-italic,,0,0,0,,So we will always be able to hear the music.
-Dialogue: 0,0:22:57.61,0:22:59.51,Dialogue,,0,0,0,,Asu won a cellphone in a raffle.
-Dialogue: 0,0:22:59.74,0:23:00.84,Dialogue,,0,0,0,,Use it carefully!
-Dialogue: 0,0:23:01.30,0:23:03.53,Dialogue,,0,0,0,,Onee-chan, why aren’t you picking up your phone?
-Dialogue: 0,0:23:04.39,0:23:05.56,Dialogue,,0,0,0,,Poor Sisters’ Story:
-Dialogue: 0,0:23:06.08,0:23:08.23,Dialogue,,0,0,0,,A Day of Emotions, Uneasiness, and Cell Phones.
-Dialogue: 0,0:23:08.82,0:23:09.70,Dialogue,,0,0,0,,Please watch it!
+Dialogue: 0,0:14:17.61,0:14:20.99,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
+Dialogue: 0,0:14:29.53,0:14:32.71,Dialogue,,0,0,0,,To be able to sing in tune and project properl{\fsp-1}y{\fsp},
+Dialogue: 0,0:14:33.36,0:14:35.29,Dialogue,,0,0,0,,every muscle in your body is absolutely essential!
+Dialogue: 0,0:14:35.60,0:14:36.26,Dialogue,,0,0,0,,Okay!
+Dialogue: 0,0:14:39.31,0:14:40.57,Dialogue,,0,0,0,,{\an8}One!
+Dialogue: 0,0:14:40.57,0:14:41.34,Dialogue,,0,0,0,,{\an8}Two!
+Dialogue: 0,0:14:41.81,0:14:42.72,Dialogue,,0,0,0,,{\an8}Three!
+Dialogue: 0,0:14:41.34,0:14:45.41,Dialogue-italic,,0,0,0,,From then on, with Ichinokura’s guidance and help,
+Dialogue: 0,0:14:45.41,0:14:47.43,Dialogue-italic,,0,0,0,,I continued to practice my singing.
+Dialogue: 0,0:14:51.38,0:14:52.90,Dialogue-italic,,0,0,0,,Onee-chan practiced too.
+Dialogue: 0,0:14:53.82,0:14:54.79,Dialogue,,0,0,0,,{\an8}Twenty-five!
+Dialogue: 0,0:14:55.53,0:14:56.82,Dialogue,,0,0,0,,{\an8}Twenty-six!
+Dialogue: 0,0:14:54.79,0:14:56.82,Dialogue,,0,0,0,,Keep going, Asu!
+Dialogue: 0,0:15:07.10,0:15:15.82,Dialogue,,0,0,0,,{\an8}~Spring has come and the small stream flows babbling between its banks.~
+Dialogue: 0,0:15:15.82,0:15:24.54,Dialogue,,0,0,0,,{\an8}~The small stream goes whispering between the violets and milk vetches,~
+Dialogue: 0,0:15:24.54,0:15:33.19,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
+Dialogue: 0,0:15:33.19,0:15:42.66,Dialogue,,0,0,0,,{\an8}~Wishing them grace, color and beaut{\fsp-1}y{\fsp}, all blossoming on the stream banks.~
+Dialogue: 0,0:15:46.90,0:15:49.53,Dialogue,,0,0,0,,That’s it. You did very well.
+Dialogue: 0,0:15:49.53,0:15:50.27,Dialogue,,0,0,0,,Okay!{iauddlyugasdgyuadsgyukefgulhsljbsfe}
+Dialogue: 0,0:15:53.13,0:15:55.39,Dialogue,,0,0,0,,Asu, that was really great!
+Dialogue: 0,0:15:55.39,0:15:57.74,Dialogue,,0,0,0,,How can you sing so well?
+Dialogue: 0,0:15:59.26,0:16:01.65,Dialogue,,0,0,0,,I guess I just had a really good teache{\fsp-1}r{\fsp}.
+Dialogue: 0,0:16:07.20,0:16:09.05,Dialogue,,0,0,0,,You did it, Asu!
+Dialogue: 0,0:16:12.15,0:16:13.78,Dialogue,,0,0,0,,Thanks, Onee-chan.{FACE RAPE}
+Dialogue: 0,0:16:13.78,0:16:16.75,Dialogue,,0,0,0,,We should tell Mr. Ichinokura, too.
+Dialogue: 0,0:16:16.75,0:16:19.52,Dialogue,,0,0,0,,Ah, that’s right. Let’s go.
+Dialogue: 0,0:16:24.00,0:16:27.24,Dialogue,,0,0,0,,Ichinokura-san! I did really well on my test!
+Dialogue: 0,0:16:31.25,0:16:32.67,Dialogue,,0,0,0,,Maybe he’s not home?
+Dialogue: 0,0:16:33.50,0:16:35.51,Dialogue,,0,0,0,,I’m sure he’ll be back soon.
+Dialogue: 0,0:16:42.41,0:16:44.71,Dialogue,,0,0,0,,It looks like he still isn’t back.
+Dialogue: 0,0:16:48.74,0:16:51.49,Dialogue-italic,,0,0,0,,A whole week has gone b{\fsp-1}y{\fsp},
+Dialogue: 0,0:16:51.34,0:16:54.20,Dialogue-italic,,0,0,0,,And Mr. Ichinokura hasn’t come back yet.
+Dialogue: 0,0:16:56.02,0:16:58.26,Dialogue,,0,0,0,,I wonder what happened to Mr. Ichinokura.
+Dialogue: 0,0:17:00.94,0:17:04.84,Dialogue,,0,0,0,,Masao! Are you in there, Masao?
+Dialogue: 0,0:17:06.24,0:17:07.51,Dialogue,,0,0,0,,Masao?
+Dialogue: 0,0:17:10.07,0:17:10.91,Dialogue,,0,0,0,,Excuse me...
+Dialogue: 0,0:17:11.73,0:17:13.71,Dialogue,,0,0,0,,What? Who are you?{HOSTILITY IS GOOD IDEA}
+Dialogue: 0,0:17:14.65,0:17:15.57,Dialogue,,0,0,0,,Um...
+Dialogue: 0,0:17:16.21,0:17:17.85,Dialogue,,0,0,0,,We’re his next-door neighbors.
+Dialogue: 0,0:17:17.85,0:17:21.84,Dialogue,,0,0,0,,Ichinokura hasn’t been home for the whole week.
+Dialogue: 0,0:17:21.84,0:17:23.25,Dialogue,,0,0,0,,Have you heard anything from him?
+Dialogue: 0,0:17:23.46,0:17:24.65,Dialogue,,0,0,0,,As if!
+Dialogue: 0,0:17:25.82,0:17:30.47,Dialogue,,0,0,0,,We told him we’d keep helping him until his next audition, but it seems he deserted us.
+Dialogue: 0,0:17:30.97,0:17:34.30,Dialogue,,0,0,0,,Even though he said he would try his best this time!
+Dialogue: 0,0:17:35.95,0:17:40.53,Dialogue,,0,0,0,,Then, that means, when he told me he had sold his favorite guita{\fsp-1}r{\fsp}...
+Dialogue: 0,0:17:40.53,0:17:45.18,Dialogue,,0,0,0,,You know he’d never sell it! Masao treasures{values?} that guitar more than his own life.
+Dialogue: 0,0:17:46.30,0:17:48.01,Dialogue-italic,,0,0,0,,So that’s what happened...{oh so I guess he couldn’t use his guitar in the park scene because he had already sold it}
+Dialogue: 0,0:17:53.04,0:17:55.92,Dialogue-italic,,0,0,0,,Even though he was having his own problems, he still taught me how to sing.
+Dialogue: 0,0:17:56.53,0:17:58.51,Dialogue-italic,,0,0,0,,And his music was so wonderful!
+Dialogue: 0,0:17:59.35,0:18:00.30,Dialogue-italic,,0,0,0,,And yet...
+Dialogue: 0,0:18:02.05,0:18:04.26,Dialogue-italic,,0,0,0,,I’d like to listen to you sing.
+Dialogue: 0,0:18:04.67,0:18:07.65,Dialogue-italic,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
+Dialogue: 0,0:18:10.86,0:18:13.60,Dialogue,,0,0,0,,Even though he promised me...
+Dialogue: 0,0:18:13.60,0:18:18.46,Dialogue,,0,0,0,,He promised that he’d sing for me again...
+Dialogue: 0,0:18:28.45,0:18:30.73,Dialogue,,0,0,0,,His song... I can hear it.
+Dialogue: 0,0:18:31.30,0:18:32.29,Dialogue,,0,0,0,,His song...
+Dialogue: 0,0:18:35.35,0:18:36.48,Dialogue,,0,0,0,,You’re right!
+Dialogue: 0,0:18:36.48,0:18:37.53,Dialogue,,0,0,0,,Where is it?
+Dialogue: 0,0:18:37.53,0:18:38.80,Dialogue,,0,0,0,,That way!
+Dialogue: 0,0:18:40.01,0:18:40.88,Dialogue,,0,0,0,,Where?
+Dialogue: 0,0:18:44.18,0:18:44.96,Dialogue,,0,0,0,,Masao!
+Dialogue: 0,0:18:44.96,0:18:46.64,Dialogue,,0,0,0,,Masao!{jesus fucking christ}
+Dialogue: 0,0:18:47.97,0:18:49.61,Dialogue,,0,0,0,,H-He{\fsp-1}y{\fsp}.
+Dialogue: 0,0:18:49.89,0:18:51.59,Dialogue,,0,0,0,,{\an8}Geez, Masao.
+Dialogue: 0,0:18:52.10,0:18:53.83,Dialogue,,0,0,0,,{\an8}Where did you go?{NO ENDING SENTENCES IN PREPOSITIONS}
+Dialogue: 0,0:18:53.09,0:18:54.75,Dialogue,,0,0,0,,{\an8}Everyone was worried about you.
+Dialogue: 0,0:18:54.75,0:18:55.81,Dialogue,,0,0,0,,{\an8}Masao-san.
+Dialogue: 0,0:18:56.97,0:18:58.14,Dialogue,,0,0,0,,{\an8}Thank goodness.
+Dialogue: 0,0:18:57.74,0:18:59.55,Dialogue,,0,0,0,,I was spending the night at my part time job.
+Dialogue: 0,0:18:59.79,0:19:02.29,Dialogue,,0,0,0,,It seems I caused you some undue worr{\fsp-1}y{\fsp}.{blargh}
+Dialogue: 0,0:19:02.29,0:19:03.86,Dialogue,,0,0,0,,{\an8}You idiot.
+Dialogue: 0,0:19:05.04,0:19:06.48,Dialogue,,0,0,0,,{\an8}That’s great.
+Dialogue: 0,0:19:07.93,0:19:10.28,Dialogue,,0,0,0,,Next time make sure to tell us beforehand!
+Dialogue: 0,0:19:10.93,0:19:11.73,Dialogue,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}.
+Dialogue: 0,0:19:12.29,0:19:15.05,Dialogue,,0,0,0,,Everyone loves Ichinokura, don’t they?
+Dialogue: 0,0:19:15.05,0:19:15.74,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:19:17.52,0:19:19.70,Dialogue,,0,0,0,,After being turned down at all my auditions,
+Dialogue: 0,0:19:19.70,0:19:23.09,Dialogue,,0,0,0,,I started thinking that becoming a musician would be impossible for me.
+Dialogue: 0,0:19:23.71,0:19:27.01,Dialogue,,0,0,0,,I decided to give up singing for good.
+Dialogue: 0,0:19:27.58,0:19:28.34,Dialogue,,0,0,0,,But...
+Dialogue: 0,0:19:35.09,0:19:37.98,Dialogue,,0,0,0,,But, I {\i1}do{\i0} want to keep on singing.
+Dialogue: 0,0:19:38.58,0:19:42.07,Dialogue,,0,0,0,,That’s why I got a part time job, so I could afford to buy back my guita{\fsp-1}r{\fsp}.
+Dialogue: 0,0:19:44.27,0:19:45.16,Dialogue,,0,0,0,,His guita{\fsp-1}r{\fsp}...{lul}
+Dialogue: 0,0:19:54.78,0:19:56.32,Dialogue,,0,0,0,,Because I made a promise.
+Dialogue: 0,0:19:56.32,0:19:59.14,Dialogue,,0,0,0,,A promise that I would sing for you again.
+Dialogue: 0,0:20:26.53,0:20:28.05,Dialogue-italic,,0,0,0,,I sing.
+Dialogue: 0,0:20:28.05,0:20:32.13,Dialogue-italic,,0,0,0,,That’s what I can do. The only thing I can do.
+Dialogue: 0,0:20:33.65,0:20:35.05,Dialogue-italic,,0,0,0,,Music is mysterious.
+Dialogue: 0,0:20:35.64,0:20:37.81,Dialogue-italic,,0,0,0,,With the ebb and flow of each note,
+Dialogue: 0,0:20:38.53,0:20:41.80,Dialogue-italic,,0,0,0,,I can feel my spirits rising.{yeah so what I destroyed the parallels between the opening and the closing WHAT YOU GONNA DO ABOUT IT}
+Dialogue: 0,0:20:43.74,0:20:47.08,Dialogue-italic,,0,0,0,,That’s why I will keep on singing.
+Dialogue: 0,0:20:57.21,0:21:01.35,Dialogue-italic,,0,0,0,,That’s why I want to stay here foreve{\fsp-1}r{\fsp}.
+Dialogue: 0,0:21:01.77,0:21:03.71,Dialogue-italic,,0,0,0,,I’ll try my best with Onee-chan.
+Dialogue: 0,0:21:08.21,0:21:11.15,Dialogue-italic,,0,0,0,,So we will always be able to hear the music.
+Dialogue: 0,0:22:57.56,0:22:59.40,Dialogue,,0,0,0,,Asu won a cellphone in a raffle.
+Dialogue: 0,0:22:59.74,0:23:00.90,Dialogue,,0,0,0,,Use it carefully!
+Dialogue: 0,0:23:01.14,0:23:03.73,Dialogue,,0,0,0,,Onee-chan, why aren’t you picking up your phone?
+Dialogue: 0,0:23:04.25,0:23:05.91,Dialogue,,0,0,0,,Poor Sisters’ Story:
+Dialogue: 0,0:23:05.91,0:23:08.64,Dialogue,,0,0,0,,A Day of Emotions, Uneasiness, and Cell Phones.
+Dialogue: 0,0:23:08.64,0:23:09.95,Dialogue,,0,0,0,,Please watch it!
 Dialogue: 0,0:01:54.02,0:01:58.85,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even though we can’t return to our memories,
 Dialogue: 0,0:01:58.85,0:02:03.31,OP - EngLyrics,,0,0,0,,{\fade(250,500)}let’s seize today and search for tomorrow.
 Dialogue: 0,0:02:13.30,0:02:22.34,OP - EngLyrics,,0,0,0,,{\fade(250,500)}I may be by myself, but I’m not alone.
@@ -2490,4 +2484,4 @@ Dialogue: 0,0:22:50.39,0:22:50.89,ED - Kanji,,0,0,0,fx,{\pos(454.05916769862,70)
 Dialogue: 0,0:22:43.30,0:22:43.80,ED - Kanji,,0,0,0,fx,{\pos(462.99000396729,70)\an5\fscx0\fscy0\c&HDEDEDE&\t(230.76923076923,500,\fscx82.3\fscy100)}
 Dialogue: 0,0:22:43.80,0:22:50.89,ED - Kanji,,0,0,0,fx,{\pos(462.99000396729,70)\an5\k686\k18\c&HDEDEDE&\t(5860,6860,\3c&H9B413D&)\t(6860,6861,\3c&H000000&)\t(7039,7040,\3c&H9B413D&)\t(7040,8040,\3c&H4A5011&)\t(6549,6550,\alpha&HFF%)}
 Dialogue: 0,0:22:50.39,0:22:50.89,ED - Kanji,,0,0,0,fx,{\pos(462.99000396729,70)\c&HDEDEDE&\3c&H9B413D&\an5\fscx82.3\fscy100\t(230.76923076923,500,\fscx0\fscy0)\t(-690,310,\3c&H9B413D&)\t(310,311,\3c&H000000&)\t(489,490,\3c&H9B413D&)\t(490,1490,\3c&H4A5011&)}
-Dialogue: 0,0:15:42.75,0:15:44.72,Dialogue,,0,0,0,,
+Dialogue: 0,0:15:42.66,0:15:44.97,Dialogue,,0,0,0,,
