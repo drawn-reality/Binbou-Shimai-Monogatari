@@ -13,7 +13,7 @@ ScaledBorderAndShadow: yes
 Audio URI: c:\@projects\git\subtitles\binbou shimai monogatari\bms_08_raw_v8_[29fa8aae].wav
 Video File: bms_08_raw_v8_[29fa8aae].mkv
 Video Aspect Ratio: 0
-Video Position: 18869
+Video Position: 38937
 Title: Binbou 8
 
 [V4+ Styles]
@@ -284,7 +284,7 @@ Dialogue: 0,0:07:20.37,0:07:21.75,Dialogue,,0,0,0,,It seems that you have a gues
 Dialogue: 0,0:07:22.32,0:07:24.62,Dialogue,,0,0,0,,Masao! Are you in there?
 Dialogue: 0,0:07:24.62,0:07:25.50,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:07:25.50,0:07:28.76,Dialogue,,0,0,0,,I’ll be right back. Wait for me, okay?{GARGHABARGLE}
-Dialogue: 0,0:07:32.54,0:07:36.04,Dialogue,,0,0,0,,“Masao-san”. So he {\i1}is{\i0} a gu{\fsp-1}y{\fsp}.
+Dialogue: 0,0:07:32.54,0:07:36.04,Dialogue,,0,0,0,,“Masao”. So he {\i1}is{\i0} a gu{\fsp-1}y{\fsp}.
 Dialogue: 0,0:07:37.01,0:07:38.50,Dialogue,,0,0,0,,I’m coming right now.
 Dialogue: 0,0:07:38.50,0:07:40.35,Dialogue,,0,0,0,,It’s me! Me!
 Dialogue: 0,0:07:40.99,0:07:41.67,Dialogue,,0,0,0,,Yes?{re: this music: what the FUCK}
@@ -313,7 +313,7 @@ Dialogue: 0,0:08:45.35,0:08:49.91,Dialogue,,0,0,0,,That’s right, one of them s
 Dialogue: 0,0:08:49.91,0:08:51.49,Dialogue,,0,0,0,,Where do you perform?
 Dialogue: 0,0:08:51.95,0:08:56.59,Dialogue,,40,40,0,,Last time it was at a live music club, but at the moment I’m taking a break.
 Comment: 0,0:08:56.86,0:08:57.13,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:08:58.26,0:09:02.19,Dialogue,,0,0,0,,I completely ran out of mone{\fsp-1}y{\fsp}, so I can’t afford any more stage time;{wait... I thought amatuer performers were /paid/ to perform in places like bars etc.}
+Dialogue: 0,0:08:58.26,0:09:02.19,Dialogue,,0,0,0,,I completely ran out of mone{\fsp-1}y{\fsp}, so I can’t afford any more studio time;
 Dialogue: 0,0:09:02.19,0:09:03.92,Dialogue,,0,0,0,,I can hardly afford the rent here.
 Dialogue: 0,0:09:04.74,0:09:07.55,Dialogue,,0,0,0,,I’ve even thought about returning to the countryside,
 Dialogue: 0,0:09:07.55,0:09:11.06,Dialogue,,0,0,0,,but with the support of my fans, I can still eat regularl{\fsp-1}y{\fsp}.
@@ -323,10 +323,10 @@ Dialogue: 0,0:09:18.37,0:09:21.57,Dialogue-italic,,0,0,0,,That ghostly voice was
 Dialogue: 0,0:09:22.01,0:09:25.51,Dialogue,,0,0,0,,Oh yeah, I’m Ichinokura Masao. And you?
 Dialogue: 0,0:09:26.10,0:09:27.47,Dialogue,,0,0,0,,I’m Yamada Asu.
 Dialogue: 0,0:09:29.35,0:09:30.53,Dialogue,,0,0,0,,It’s good, you know.
-Dialogue: 0,0:09:34.62,0:09:35.69,Dialogue,,0,0,0,,Your singing is.
+Dialogue: 0,0:09:34.62,0:09:35.69,Dialogue,,0,0,0,,Your singing, that is.
 Dialogue: 0,0:09:37.87,0:09:39.04,Dialogue,,0,0,0,,Well, I’ll see you late{\fsp-1}r{\fsp}.
 Dialogue: 0,0:09:44.83,0:09:46.69,Dialogue,,0,0,0,,Thanks for the food!
-Dialogue: 0,0:09:51.35,0:09:53.68,Dialogue-italic,,0,0,0,,It’s good, you know. Your singing is.
+Dialogue: 0,0:09:51.35,0:09:53.68,Dialogue-italic,,0,0,0,,It’s good, you know. Your singing, that is.
 Dialogue: 0,0:09:54.78,0:09:59.19,Dialogue-italic,,40,40,0,,If I practice a lot, I wonder if I’ll ever be able to sing like him.
 Dialogue: 0,0:10:03.55,0:10:05.17,Dialogue-italic,,0,0,0,,Asu!
 Dialogue: 0,0:10:05.81,0:10:10.00,Dialogue,,0,0,0,,Asu! Asu! It’s that voice again!
@@ -359,7 +359,7 @@ Comment: 0,0:12:19.37,0:12:19.90,Dialogue,,0,0,0,,Eh?{NO. FUCK YOU. NO. FUCK YOU
 Dialogue: 0,0:12:20.16,0:12:25.35,Dialogue,,0,0,0,,Please teach me... Please teach me how to sing. Please!
 Comment: 0,0:12:25.44,0:12:25.86,Dialogue,,0,0,0,,Eh?{NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO.}
 Dialogue: 0,0:12:26.37,0:12:28.65,Dialogue,,0,0,0,,We have to take a singing test at school...
-Dialogue: 0,0:12:28.65,0:12:33.23,Dialogue,,0,0,0,,It’s probably impossible, so it’s okay if you say no.{biasduibasdouiasd. I AM A PROFESSINAL TRANSLATOER AND I PROABABLY MISTRNASLATED THIS LINE HORRIBL}
+Dialogue: 0,0:12:28.65,0:12:33.23,Dialogue,,0,0,0,,It’s probably impossible, so it’s okay if you decline.{biasduibasdouiasd. I AM A PROFESSINAL TRANSLATOER AND I PROABABLY MISTRNASLATED THIS LINE HORRIBL}
 Dialogue: 0,0:12:33.23,0:12:34.17,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:12:36.93,0:12:37.64,Dialogue,,0,0,0,,Sure.
 Dialogue: 0,0:12:39.39,0:12:44.40,Dialogue,,0,0,0,,You really will? Thank you very much.{maybe these should be split? Also wtf are those shorts he is wearing. And boots. What.}
@@ -385,15 +385,16 @@ Dialogue: 0,0:13:42.22,0:13:45.37,Dialogue,,0,0,0,,It’s all right! I still hav
 Dialogue: 0,0:13:45.64,0:13:49.14,Dialogue,,0,0,0,,Um, if there’s ever anything I can help with, please ask.
 Dialogue: 0,0:13:49.69,0:13:52.84,Dialogue,,0,0,0,,But you’re already teaching me how to sing,
 Dialogue: 0,0:13:52.84,0:13:54.30,Dialogue,,0,0,0,,S-So...
-Dialogue: 0,0:13:57.90,0:14:00.52,Dialogue,,0,0,0,,I’d like to listen to you sing.
+Dialogue: 0,0:13:57.90,0:14:00.52,Dialogue,,0,0,0,,I’d like to listen to your singing.
 Comment: 0,0:14:00.93,0:14:01.21,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:14:17.61,0:14:20.99,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
 Dialogue: 0,0:14:29.53,0:14:32.71,Dialogue,,0,0,0,,To be able to sing in tune and project properl{\fsp-1}y{\fsp},
-Dialogue: 0,0:14:33.36,0:14:35.29,Dialogue,,0,0,0,,every muscle in your body is absolutely essential!
+Dialogue: 0,0:14:33.36,0:14:35.29,Dialogue,,0,0,0,,strong muscles are absolutely essential!
 Dialogue: 0,0:14:35.60,0:14:36.26,Dialogue,,0,0,0,,Okay!
 Dialogue: 0,0:14:39.31,0:14:40.57,Dialogue,,0,0,0,,{\an8}One!
 Dialogue: 0,0:14:40.57,0:14:41.34,Dialogue,,0,0,0,,{\an8}Two!
-Dialogue: 0,0:14:41.81,0:14:42.72,Dialogue,,0,0,0,,{\an8}Three!
+Dialogue: 0,0:14:41.81,0:14:42.72,Dialogue,,0,0,0,,{\an8\fad(0,980)}Three!
+Dialogue: 0,0:14:42.98,0:14:45.98,Dialogue,,0,0,0,,{\an8}And again, using your diaphragm! Hoo!
 Dialogue: 0,0:14:41.34,0:14:45.41,Dialogue-italic,,0,0,0,,From then on, with Ichinokura’s guidance and help,
 Dialogue: 0,0:14:45.41,0:14:47.43,Dialogue-italic,,0,0,0,,I continued to practice my singing.
 Dialogue: 0,0:14:51.38,0:14:52.90,Dialogue-italic,,0,0,0,,Onee-chan practiced too.
@@ -417,8 +418,8 @@ Dialogue: 0,0:16:24.00,0:16:27.24,Dialogue,,0,0,0,,Ichinokura-san! I did really 
 Dialogue: 0,0:16:31.25,0:16:32.67,Dialogue,,0,0,0,,Maybe he’s not home?
 Dialogue: 0,0:16:33.50,0:16:35.51,Dialogue,,0,0,0,,I’m sure he’ll be back soon.
 Dialogue: 0,0:16:42.41,0:16:44.71,Dialogue,,0,0,0,,It looks like he still isn’t back.
-Dialogue: 0,0:16:48.74,0:16:51.49,Dialogue-italic,,0,0,0,,A whole week has gone b{\fsp-1}y{\fsp},
-Dialogue: 0,0:16:51.34,0:16:54.20,Dialogue-italic,,0,0,0,,And Mr. Ichinokura hasn’t come back yet.
+Dialogue: 0,0:16:48.74,0:16:51.34,Dialogue-italic,,0,0,0,,A whole week has gone b{\fsp-1}y{\fsp},
+Dialogue: 0,0:16:51.34,0:16:54.20,Dialogue-italic,,0,0,0,,and M{\fsp-1}r{\fsp}. Ichinokura hasn’t come back yet.
 Dialogue: 0,0:16:56.02,0:16:58.26,Dialogue,,0,0,0,,I wonder what happened to Mr. Ichinokura.
 Dialogue: 0,0:17:00.94,0:17:04.84,Dialogue,,0,0,0,,Masao! Are you in there, Masao?
 Dialogue: 0,0:17:06.24,0:17:07.51,Dialogue,,0,0,0,,Masao?
@@ -437,7 +438,7 @@ Dialogue: 0,0:17:46.30,0:17:48.01,Dialogue-italic,,0,0,0,,So that’s what happe
 Dialogue: 0,0:17:53.04,0:17:55.92,Dialogue-italic,,0,0,0,,Even though he was having his own problems, he still taught me how to sing.
 Dialogue: 0,0:17:56.53,0:17:58.51,Dialogue-italic,,0,0,0,,And his music was so wonderful!
 Dialogue: 0,0:17:59.35,0:18:00.30,Dialogue-italic,,0,0,0,,And yet...
-Dialogue: 0,0:18:02.05,0:18:04.26,Dialogue-italic,,0,0,0,,I’d like to listen to you sing.
+Dialogue: 0,0:18:02.05,0:18:04.26,Dialogue-italic,,0,0,0,,I’d like to listen to your singing.
 Dialogue: 0,0:18:04.67,0:18:07.65,Dialogue-italic,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
 Dialogue: 0,0:18:10.86,0:18:13.60,Dialogue,,0,0,0,,Even though he promised me...
 Dialogue: 0,0:18:13.60,0:18:18.46,Dialogue,,0,0,0,,He promised that he’d sing for me again...
@@ -469,25 +470,25 @@ Dialogue: 0,0:19:10.93,0:19:11.73,Dialogue,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}.
 Dialogue: 0,0:19:12.29,0:19:15.05,Dialogue,,0,0,0,,Everyone loves M{\fsp-1}r{\fsp}. Ichinokura, don’t they?{FUCKING COCKS AND SOME DICKS ON TOP MR JUST DOESN’T SOUND RIGHT FOR THIS GUY}
 Dialogue: 0,0:19:15.05,0:19:15.74,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:19:17.52,0:19:19.70,Dialogue,,0,0,0,,After being turned down at all my auditions,
-Dialogue: 0,0:19:19.70,0:19:23.09,Dialogue,,0,0,0,,I started thinking that becoming a musician would be impossible for me.
+Dialogue: 0,0:19:19.70,0:19:23.09,Dialogue,,0,0,0,,I started thinking that becoming a musician might be impossible for me.
 Dialogue: 0,0:19:23.71,0:19:27.01,Dialogue,,0,0,0,,I decided to give up singing for good.
 Dialogue: 0,0:19:27.58,0:19:28.34,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:19:35.09,0:19:37.98,Dialogue,,0,0,0,,But, I {\i1}do{\i0} want to keep on singing.
-Dialogue: 0,0:19:38.58,0:19:42.07,Dialogue,,0,0,0,,That’s why I got a part time job, so I could afford to buy back my guita{\fsp-1}r{\fsp}.
+Dialogue: 0,0:19:38.58,0:19:42.07,Dialogue,,0,0,0,,That’s why I got a part time job, so I could afford to r my guita{\fsp-1}r{\fsp}.
 Dialogue: 0,0:19:44.27,0:19:45.16,Dialogue,,0,0,0,,His guita{\fsp-1}r{\fsp}...{lul}
 Dialogue: 0,0:19:54.78,0:19:56.32,Dialogue,,0,0,0,,Because I made a promise.
 Dialogue: 0,0:19:56.32,0:19:59.14,Dialogue,,0,0,0,,A promise that I would sing for you again.
-Dialogue: 0,0:20:22.30,0:20:28.22,Dialogue,,0,0,0,,Flowing easily along,
-Dialogue: 0,0:20:28.36,0:20:31.22,Dialogue,,0,0,0,,the whisper of the wind.
-Dialogue: 0,0:20:31.30,0:20:35.08,Dialogue,,0,0,0,,Something like that.
-Dialogue: 0,0:20:35.74,0:20:41.66,Dialogue,,0,0,0,,While sparkling in the green,
-Dialogue: 0,0:20:41.88,0:20:44.76,Dialogue,,0,0,0,,let’s invite the spring.
-Dialogue: 0,0:20:45.18,0:20:47.98,Dialogue,,0,0,0,,Something like that.
-Dialogue: 0,0:20:48.96,0:20:54.84,Dialogue,,0,0,0,,Glittering, sparkling,
-Dialogue: 0,0:20:55.28,0:20:57.94,Dialogue,,0,0,0,,showing in the rays of sunlight.
-Dialogue: 0,0:20:57.94,0:21:01.76,Dialogue,,0,0,0,,Something like that.
-Dialogue: 0,0:21:01.76,0:21:08.12,Dialogue,,0,0,0,,A rustling heart is
-Dialogue: 0,0:21:08.40,0:21:14.72,Dialogue,,0,0,0,,a memory of summer.
+Dialogue: 0,0:20:22.30,0:20:28.22,notes,,0,0,0,,Flowing easily along,
+Dialogue: 0,0:20:28.36,0:20:31.22,notes,,0,0,0,,the whisper of the wind.
+Dialogue: 0,0:20:31.30,0:20:35.08,notes,,0,0,0,,Something like that.
+Dialogue: 0,0:20:35.74,0:20:41.66,notes,,0,0,0,,While sparkling in the green,
+Dialogue: 0,0:20:41.88,0:20:44.76,notes,,0,0,0,,let’s invite the spring.
+Dialogue: 0,0:20:45.18,0:20:47.98,notes,,0,0,0,,Something like that.
+Dialogue: 0,0:20:48.96,0:20:54.84,notes,,0,0,0,,Glittering, sparkling,
+Dialogue: 0,0:20:55.28,0:20:57.94,notes,,0,0,0,,showing in the rays of sunlight.
+Dialogue: 0,0:20:57.94,0:21:01.76,notes,,0,0,0,,Something like that.
+Dialogue: 0,0:21:01.76,0:21:08.12,notes,,0,0,0,,A rustling heart is
+Dialogue: 0,0:21:08.40,0:21:14.72,notes,,0,0,0,,a memory of summer.
 Dialogue: 0,0:20:26.53,0:20:28.05,Dialogue-italic,,0,0,0,,I sing.
 Dialogue: 0,0:20:28.05,0:20:32.13,Dialogue-italic,,0,0,0,,That’s what I can do. The only thing I can do.
 Dialogue: 0,0:20:33.65,0:20:35.05,Dialogue-italic,,0,0,0,,Music is mysterious.
@@ -497,7 +498,7 @@ Dialogue: 0,0:20:43.74,0:20:47.08,Dialogue-italic,,0,0,0,,That’s why I will ke
 Dialogue: 0,0:20:57.21,0:21:01.35,Dialogue-italic,,0,0,0,,That’s why I want to stay here foreve{\fsp-1}r{\fsp}.
 Dialogue: 0,0:21:01.77,0:21:03.71,Dialogue-italic,,0,0,0,,I’ll try my best with Onee-chan.
 Dialogue: 0,0:21:08.21,0:21:11.15,Dialogue-italic,,0,0,0,,So we will always be able to hear the music.
-Dialogue: 0,0:22:57.56,0:22:59.40,Dialogue,,0,0,0,,Asu won a cellphone in a raffle.
+Dialogue: 0,0:22:57.56,0:22:59.74,Dialogue,,0,0,0,,Asu won a cellphone in a raffle.
 Dialogue: 0,0:22:59.74,0:23:00.90,Dialogue,,0,0,0,,Use it carefully!
 Dialogue: 0,0:23:01.14,0:23:03.73,Dialogue,,0,0,0,,Onee-chan, why aren’t you picking up your phone?
 Dialogue: 0,0:23:04.25,0:23:05.91,Dialogue,,0,0,0,,Poor Sisters’ Story:
