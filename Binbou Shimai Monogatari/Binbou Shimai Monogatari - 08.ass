@@ -13,7 +13,7 @@ ScaledBorderAndShadow: yes
 Audio URI: c:\@projects\git\subtitles\binbou shimai monogatari\bms_08_raw_v8_[29fa8aae].wav
 Video File: bms_08_raw_v8_[29fa8aae].mkv
 Video Aspect Ratio: 0
-Video Position: 38937
+Video Position: 34565
 Title: Binbou 8
 
 [V4+ Styles]
@@ -21,6 +21,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Dialogue,Trebuchet MS,30,&H00ECECEC,&H00000000,&H00512528,&H64494949,-1,0,0,0,80,100,0.5,0,1,2,1.2,2,30,30,20,1
 Style: Dialogue-italic,Trebuchet MS,30,&H00ECECEC,&H00000000,&H00512528,&H64494949,-1,-1,0,0,80,100,0.5,0,1,2,1.2,2,30,30,20,1
 Style: notes,Trebuchet MS,25,&H644A2D28,&H000000FF,&H64AEAEAE,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,8,10,10,10,1
+Style: INSERT SONGS 5000,Trebuchet MS,25,&H194A2D28,&H000000FF,&H4BD3D3D3,&H00000000,-1,0,0,0,82.3,100,0,0,1,2,0,8,40,40,15,1
 Style: generic sign style,GosmickSans,40,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,82.3,100,0,0,1,0,0,2,10,10,10,1
 Style: OP - Romaji,HOBONIGGERS,30,&H00B4768D,&H005F56A1,&H00FFFFFF,&H00604916,-1,0,0,0,82.3,100,0,0,1,2,0,8,30,30,15,0
 Style: OP - Kanji,小塚明朝 Pro H,30,&H005F56A1,&H00B4768D,&H00FFFFFF,&H004B4293,-1,0,0,0,82.3,100,0,0,1,2,0,8,30,30,30,0
@@ -43,65 +44,65 @@ Dialogue: 0,0:03:25.30,0:03:29.56,generic sign style,,0,0,0,,{\fad(238,0)\fnnopa
 Dialogue: 0,0:03:25.30,0:03:29.56,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HA4E7FE&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs25}and{\fs20} {\fs25}a {\fs40}M{\fs25}usic{\fs20} {\fs40}T{\fs25}eacher
 Dialogue: 0,0:03:25.30,0:03:29.56,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H80DB96&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs25\clip(m 164 414 l 558 414 555 443 504 452 503 445 479 448 449 449 449 444 436 445 422 450 400 450 380 451 380 447 357 447 358 445 337 445 327 453 284 449 283 453 250 445 249 450 220 444 164 451)}and{\fs20} {\fs25\c&H8BACFF&}a {\fs40}M{\fs25}usic{\fs20} {\fs40}T{\fs25}eacher
 Comment: 0,0:04:12.66,0:04:14.66,generic sign style,,0,0,0,,{\an5\fscx41.15\fscy50\t(26,1969,\fscx45.28\fscy55.01)\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&\move(332,137,354.85,144.02,26,1969)}Fun With Music
-Dialogue: 0,0:04:12.66,0:04:12.70,generic sign style,,0,0,0,,{\pos(332,137)\fscx41.15\fscy50}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.70,0:04:12.73,generic sign style,,0,0,0,,{\pos(332.38,137.1)\fscx41.22\fscy50.08}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.73,0:04:12.77,generic sign style,,0,0,0,,{\pos(332.73,137.21)\fscx41.28\fscy50.16}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.77,0:04:12.80,generic sign style,,0,0,0,,{\pos(333.09,137.35)\fscx41.34\fscy50.23}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.80,0:04:12.83,generic sign style,,0,0,0,,{\pos(333.45,137.47)\fscx41.4\fscy50.31}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.83,0:04:12.87,generic sign style,,0,0,0,,{\pos(333.8,137.59)\fscx41.47\fscy50.38}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.87,0:04:12.90,generic sign style,,0,0,0,,{\pos(334.19,137.71)\fscx41.53\fscy50.47}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.90,0:04:12.93,generic sign style,,0,0,0,,{\pos(334.55,137.81)\fscx41.6\fscy50.55}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.93,0:04:12.97,generic sign style,,0,0,0,,{\pos(334.92,137.93)\fscx41.67\fscy50.63}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:12.97,0:04:13.00,generic sign style,,0,0,0,,{\pos(335.3,138.04)\fscx41.73\fscy50.71}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.00,0:04:13.03,generic sign style,,0,0,0,,{\pos(335.66,138.14)\fscx41.8\fscy50.79}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.03,0:04:13.07,generic sign style,,0,0,0,,{\pos(336.03,138.25)\fscx41.87\fscy50.88}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.07,0:04:13.10,generic sign style,,0,0,0,,{\pos(336.4,138.37)\fscx41.94\fscy50.96}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.10,0:04:13.13,generic sign style,,0,0,0,,{\pos(336.78,138.47)\fscx42.01\fscy51.04}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.13,0:04:13.17,generic sign style,,0,0,0,,{\pos(337.15,138.58)\fscx42.08\fscy51.13}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.17,0:04:13.20,generic sign style,,0,0,0,,{\pos(337.53,138.7)\fscx42.14\fscy51.21}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.20,0:04:13.23,generic sign style,,0,0,0,,{\pos(337.9,138.83)\fscx42.21\fscy51.28}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.23,0:04:13.27,generic sign style,,0,0,0,,{\pos(338.29,138.94)\fscx42.28\fscy51.37}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.27,0:04:13.30,generic sign style,,0,0,0,,{\pos(338.66,139.08)\fscx42.34\fscy51.45}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.30,0:04:13.33,generic sign style,,0,0,0,,{\pos(339.04,139.2)\fscx42.41\fscy51.53}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.33,0:04:13.37,generic sign style,,0,0,0,,{\pos(339.42,139.33)\fscx42.47\fscy51.61}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.37,0:04:13.40,generic sign style,,0,0,0,,{\pos(339.81,139.44)\fscx42.55\fscy51.7}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.40,0:04:13.43,generic sign style,,0,0,0,,{\pos(340.2,139.55)\fscx42.61\fscy51.78}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.43,0:04:13.47,generic sign style,,0,0,0,,{\pos(340.58,139.67)\fscx42.68\fscy51.86}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.47,0:04:13.50,generic sign style,,0,0,0,,{\pos(340.96,139.78)\fscx42.75\fscy51.95}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.50,0:04:13.53,generic sign style,,0,0,0,,{\pos(341.35,139.9)\fscx42.82\fscy52.03}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.53,0:04:13.57,generic sign style,,0,0,0,,{\pos(341.73,140.02)\fscx42.89\fscy52.12}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.57,0:04:13.60,generic sign style,,0,0,0,,{\pos(342.13,140.14)\fscx42.97\fscy52.21}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.60,0:04:13.63,generic sign style,,0,0,0,,{\pos(342.52,140.26)\fscx43.04\fscy52.3}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.63,0:04:13.67,generic sign style,,0,0,0,,{\pos(342.91,140.37)\fscx43.11\fscy52.38}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.67,0:04:13.70,generic sign style,,0,0,0,,{\pos(343.3,140.48)\fscx43.18\fscy52.47}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.70,0:04:13.73,generic sign style,,0,0,0,,{\pos(343.69,140.61)\fscx43.25\fscy52.55}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.73,0:04:13.77,generic sign style,,0,0,0,,{\pos(344.1,140.72)\fscx43.33\fscy52.65}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.77,0:04:13.80,generic sign style,,0,0,0,,{\pos(344.5,140.82)\fscx43.4\fscy52.74}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.80,0:04:13.83,generic sign style,,0,0,0,,{\pos(344.9,140.96)\fscx43.47\fscy52.82}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.83,0:04:13.87,generic sign style,,0,0,0,,{\pos(345.29,141.09)\fscx43.54\fscy52.91}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.87,0:04:13.90,generic sign style,,0,0,0,,{\pos(345.68,141.21)\fscx43.61\fscy52.99}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.90,0:04:13.93,generic sign style,,0,0,0,,{\pos(346.09,141.32)\fscx43.69\fscy53.09}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.93,0:04:13.97,generic sign style,,0,0,0,,{\pos(346.48,141.44)\fscx43.76\fscy53.17}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:13.97,0:04:14.00,generic sign style,,0,0,0,,{\pos(346.9,141.58)\fscx43.84\fscy53.26}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.00,0:04:14.03,generic sign style,,0,0,0,,{\pos(347.29,141.7)\fscx43.91\fscy53.35}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.03,0:04:14.07,generic sign style,,0,0,0,,{\pos(347.71,141.82)\fscx43.99\fscy53.45}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.07,0:04:14.10,generic sign style,,0,0,0,,{\pos(348.12,141.94)\fscx44.06\fscy53.53}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.10,0:04:14.13,generic sign style,,0,0,0,,{\pos(348.52,142.08)\fscx44.13\fscy53.62}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.13,0:04:14.17,generic sign style,,0,0,0,,{\pos(348.94,142.2)\fscx44.21\fscy53.72}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.17,0:04:14.20,generic sign style,,0,0,0,,{\pos(349.35,142.32)\fscx44.29\fscy53.81}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.20,0:04:14.23,generic sign style,,0,0,0,,{\pos(349.76,142.46)\fscx44.36\fscy53.9}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.23,0:04:14.27,generic sign style,,0,0,0,,{\pos(350.17,142.6)\fscx44.43\fscy53.99}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.27,0:04:14.30,generic sign style,,0,0,0,,{\pos(350.6,142.73)\fscx44.5\fscy54.07}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.30,0:04:14.33,generic sign style,,0,0,0,,{\pos(351.02,142.88)\fscx44.57\fscy54.16}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.33,0:04:14.37,generic sign style,,0,0,0,,{\pos(351.44,143.01)\fscx44.65\fscy54.25}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.37,0:04:14.40,generic sign style,,0,0,0,,{\pos(351.86,143.13)\fscx44.73\fscy54.35}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.40,0:04:14.43,generic sign style,,0,0,0,,{\pos(352.28,143.26)\fscx44.8\fscy54.44}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.43,0:04:14.47,generic sign style,,0,0,0,,{\pos(352.7,143.41)\fscx44.88\fscy54.53}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.47,0:04:14.50,generic sign style,,0,0,0,,{\pos(353.13,143.51)\fscx44.96\fscy54.63}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.50,0:04:14.53,generic sign style,,0,0,0,,{\pos(353.56,143.65)\fscx45.04\fscy54.72}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.53,0:04:14.57,generic sign style,,0,0,0,,{\pos(353.98,143.79)\fscx45.11\fscy54.81}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.57,0:04:14.60,generic sign style,,0,0,0,,{\pos(354.41,143.92)\fscx45.19\fscy54.91}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
-Dialogue: 0,0:04:14.60,0:04:14.65,generic sign style,,0,0,0,,{\pos(354.85,144.02)\fscx45.28\fscy55.01}{\an5\fax-0.5\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.66,0:04:12.70,generic sign style,,0,0,0,,{\pos(332,137)\fscx41.15\fscy50}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.70,0:04:12.73,generic sign style,,0,0,0,,{\pos(332.38,137.1)\fscx41.22\fscy50.08}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.73,0:04:12.77,generic sign style,,0,0,0,,{\pos(332.73,137.21)\fscx41.28\fscy50.16}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.77,0:04:12.80,generic sign style,,0,0,0,,{\pos(333.09,137.35)\fscx41.34\fscy50.23}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.80,0:04:12.83,generic sign style,,0,0,0,,{\pos(333.45,137.47)\fscx41.4\fscy50.31}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.83,0:04:12.87,generic sign style,,0,0,0,,{\pos(333.8,137.59)\fscx41.47\fscy50.38}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.87,0:04:12.90,generic sign style,,0,0,0,,{\pos(334.19,137.71)\fscx41.53\fscy50.47}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.90,0:04:12.93,generic sign style,,0,0,0,,{\pos(334.55,137.81)\fscx41.6\fscy50.55}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.93,0:04:12.97,generic sign style,,0,0,0,,{\pos(334.92,137.93)\fscx41.67\fscy50.63}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:12.97,0:04:13.00,generic sign style,,0,0,0,,{\pos(335.3,138.04)\fscx41.73\fscy50.71}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.00,0:04:13.03,generic sign style,,0,0,0,,{\pos(335.66,138.14)\fscx41.8\fscy50.79}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.03,0:04:13.07,generic sign style,,0,0,0,,{\pos(336.03,138.25)\fscx41.87\fscy50.88}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.07,0:04:13.10,generic sign style,,0,0,0,,{\pos(336.4,138.37)\fscx41.94\fscy50.96}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.10,0:04:13.13,generic sign style,,0,0,0,,{\pos(336.78,138.47)\fscx42.01\fscy51.04}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.13,0:04:13.17,generic sign style,,0,0,0,,{\pos(337.15,138.58)\fscx42.08\fscy51.13}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.17,0:04:13.20,generic sign style,,0,0,0,,{\pos(337.53,138.7)\fscx42.14\fscy51.21}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.20,0:04:13.23,generic sign style,,0,0,0,,{\pos(337.9,138.83)\fscx42.21\fscy51.28}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.23,0:04:13.27,generic sign style,,0,0,0,,{\pos(338.29,138.94)\fscx42.28\fscy51.37}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.27,0:04:13.30,generic sign style,,0,0,0,,{\pos(338.66,139.08)\fscx42.34\fscy51.45}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.30,0:04:13.33,generic sign style,,0,0,0,,{\pos(339.04,139.2)\fscx42.41\fscy51.53}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.33,0:04:13.37,generic sign style,,0,0,0,,{\pos(339.42,139.33)\fscx42.47\fscy51.61}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.37,0:04:13.40,generic sign style,,0,0,0,,{\pos(339.81,139.44)\fscx42.55\fscy51.7}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.40,0:04:13.43,generic sign style,,0,0,0,,{\pos(340.2,139.55)\fscx42.61\fscy51.78}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.43,0:04:13.47,generic sign style,,0,0,0,,{\pos(340.58,139.67)\fscx42.68\fscy51.86}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.47,0:04:13.50,generic sign style,,0,0,0,,{\pos(340.96,139.78)\fscx42.75\fscy51.95}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.50,0:04:13.53,generic sign style,,0,0,0,,{\pos(341.35,139.9)\fscx42.82\fscy52.03}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.53,0:04:13.57,generic sign style,,0,0,0,,{\pos(341.73,140.02)\fscx42.89\fscy52.12}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.57,0:04:13.60,generic sign style,,0,0,0,,{\pos(342.13,140.14)\fscx42.97\fscy52.21}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.60,0:04:13.63,generic sign style,,0,0,0,,{\pos(342.52,140.26)\fscx43.04\fscy52.3}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.63,0:04:13.67,generic sign style,,0,0,0,,{\pos(342.91,140.37)\fscx43.11\fscy52.38}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.67,0:04:13.70,generic sign style,,0,0,0,,{\pos(343.3,140.48)\fscx43.18\fscy52.47}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.70,0:04:13.73,generic sign style,,0,0,0,,{\pos(343.69,140.61)\fscx43.25\fscy52.55}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.73,0:04:13.77,generic sign style,,0,0,0,,{\pos(344.1,140.72)\fscx43.33\fscy52.65}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.77,0:04:13.80,generic sign style,,0,0,0,,{\pos(344.5,140.82)\fscx43.4\fscy52.74}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.80,0:04:13.83,generic sign style,,0,0,0,,{\pos(344.9,140.96)\fscx43.47\fscy52.82}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.83,0:04:13.87,generic sign style,,0,0,0,,{\pos(345.29,141.09)\fscx43.54\fscy52.91}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.87,0:04:13.90,generic sign style,,0,0,0,,{\pos(345.68,141.21)\fscx43.61\fscy52.99}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.90,0:04:13.93,generic sign style,,0,0,0,,{\pos(346.09,141.32)\fscx43.69\fscy53.09}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.93,0:04:13.97,generic sign style,,0,0,0,,{\pos(346.48,141.44)\fscx43.76\fscy53.17}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:13.97,0:04:14.00,generic sign style,,0,0,0,,{\pos(346.9,141.58)\fscx43.84\fscy53.26}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.00,0:04:14.03,generic sign style,,0,0,0,,{\pos(347.29,141.7)\fscx43.91\fscy53.35}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.03,0:04:14.07,generic sign style,,0,0,0,,{\pos(347.71,141.82)\fscx43.99\fscy53.45}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.07,0:04:14.10,generic sign style,,0,0,0,,{\pos(348.12,141.94)\fscx44.06\fscy53.53}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.10,0:04:14.13,generic sign style,,0,0,0,,{\pos(348.52,142.08)\fscx44.13\fscy53.62}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.13,0:04:14.17,generic sign style,,0,0,0,,{\pos(348.94,142.2)\fscx44.21\fscy53.72}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.17,0:04:14.20,generic sign style,,0,0,0,,{\pos(349.35,142.32)\fscx44.29\fscy53.81}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.20,0:04:14.23,generic sign style,,0,0,0,,{\pos(349.76,142.46)\fscx44.36\fscy53.9}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.23,0:04:14.27,generic sign style,,0,0,0,,{\pos(350.17,142.6)\fscx44.43\fscy53.99}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.27,0:04:14.30,generic sign style,,0,0,0,,{\pos(350.6,142.73)\fscx44.5\fscy54.07}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.30,0:04:14.33,generic sign style,,0,0,0,,{\pos(351.02,142.88)\fscx44.57\fscy54.16}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.33,0:04:14.37,generic sign style,,0,0,0,,{\pos(351.44,143.01)\fscx44.65\fscy54.25}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.37,0:04:14.40,generic sign style,,0,0,0,,{\pos(351.86,143.13)\fscx44.73\fscy54.35}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.40,0:04:14.43,generic sign style,,0,0,0,,{\pos(352.28,143.26)\fscx44.8\fscy54.44}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.43,0:04:14.47,generic sign style,,0,0,0,,{\pos(352.7,143.41)\fscx44.88\fscy54.53}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.47,0:04:14.50,generic sign style,,0,0,0,,{\pos(353.13,143.51)\fscx44.96\fscy54.63}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.50,0:04:14.53,generic sign style,,0,0,0,,{\pos(353.56,143.65)\fscx45.04\fscy54.72}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.53,0:04:14.57,generic sign style,,0,0,0,,{\pos(353.98,143.79)\fscx45.11\fscy54.81}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.57,0:04:14.60,generic sign style,,0,0,0,,{\pos(354.41,143.92)\fscx45.19\fscy54.91}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
+Dialogue: 0,0:04:14.60,0:04:14.65,generic sign style,,0,0,0,,{\pos(354.85,144.02)\fscx45.28\fscy55.01}{\an5\fax-0.6\blur0.5\frz357.5\c&H7E7E7E&}Fun With Music
 Comment: 0,0:04:12.66,0:04:14.66,generic sign style,,0,0,0,,{\an5\fscx41.15\fscy50\t(26,1969,\fscx45.28\fscy55.01)\fax-0.5\blur0.5\frz356.5\c&H7E7E7E&\move(274,341,291.04,368.47,26,1969)}Yamada Asu
 Dialogue: 0,0:04:12.66,0:04:12.70,generic sign style,,0,0,0,,{\pos(274,341)\fscx41.15\fscy50}{\an5\fax-0.5\blur0.5\frz356.5\c&H7E7E7E&}Yamada Asu
 Dialogue: 0,0:04:12.70,0:04:12.73,generic sign style,,0,0,0,,{\pos(274.29,341.42)\fscx41.22\fscy50.08}{\an5\fax-0.5\blur0.5\frz356.5\c&H7E7E7E&}Yamada Asu
@@ -163,6 +164,7 @@ Dialogue: 0,0:04:14.53,0:04:14.57,generic sign style,,0,0,0,,{\pos(290.39,367.43
 Dialogue: 0,0:04:14.57,0:04:14.60,generic sign style,,0,0,0,,{\pos(290.71,367.96)\fscx45.19\fscy54.91}{\an5\fax-0.5\blur0.5\frz356.5\c&H7E7E7E&}Yamada Asu
 Dialogue: 0,0:04:14.60,0:04:14.65,generic sign style,,0,0,0,,{\pos(291.04,368.47)\fscx45.28\fscy55.01}{\an5\fax-0.5\blur0.5\frz356.5\c&H7E7E7E&}Yamada Asu
 Dialogue: 0,0:04:14.65,0:04:16.61,generic sign style,,0,0,0,,{\fax-0.23\c&H626262&\blur0.7\frz13.5\pos(478,253)}Music Room
+Dialogue: 0,0:15:30.04,0:15:32.01,generic sign style,,0,0,0,,{\fax-0.23\c&H626262&\blur0.7\frz13.5\pos(478,253)\fad(957,0)}Music Room
 Dialogue: 0,0:11:21.99,0:11:30.08,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs14\blur0.2\b1\pos(452,54)}Goal:\NA Doctorate\Nof Wild Grasses
 Dialogue: 0,0:11:21.99,0:11:30.08,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz8.02\fax0.1\q2\pos(111,90)}Memorize all of the\Nedible items in the\Nplant encyclopedia.
 Dialogue: 0,0:11:30.08,0:11:38.58,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz10\fax0\q2\1a&H00&\pos(247,426)}O{\1a&HFF&}n a walk,\Nthe keen-eyed can quickly\Nidentify edible grasses.{y’all gonn’ die}
@@ -189,7 +191,7 @@ Dialogue: 0,0:15:08.59,0:15:11.06,generic sign style,,0,0,0,,{\fscx41.15\b1\fscy
 Dialogue: 0,0:16:52.99,0:16:58.26,generic sign style,,0,0,0,,{\fscx20.575\b1\fscy25\c&H3524A2&\blur0.7\fad(1320,0)\pos(318.362,253.606)}Test!
 Dialogue: 0,0:00:02.92,0:00:04.89,Dialogue-italic,,0,0,0,,For whom shall I sing?
 Dialogue: 0,0:00:05.66,0:00:07.32,Dialogue-italic,,0,0,0,,I dislike music.
-Dialogue: 0,0:00:07.32,0:00:12.75,Dialogue-italic,,0,0,0,,My heart always manages to find some sadness in the flowing notes.{The flowing notes cause my spirits to fall.}{argh}
+Dialogue: 0,0:00:07.32,0:00:12.75,Dialogue-italic,,0,0,0,,My heart always manages to find\Nsome sadness in the flowing notes.{The flowing notes cause my spirits to fall.}{argh}
 Dialogue: 0,0:00:13.54,0:00:16.99,Dialogue-italic,,0,0,0,,For whose sake does music exist?{BINBOU PHILOSOPHY HOUR}
 Dialogue: 0,0:00:41.76,0:00:44.19,Dialogue,,0,0,0,,It’s that voice again!{That voice again, the one we always hear!}{I can hear that voice again!}
 Dialogue: 0,0:00:44.40,0:00:45.76,Dialogue,,0,0,0,,Asu!
@@ -225,23 +227,23 @@ Dialogue: 0,0:04:09.95,0:04:12.66,Dialogue-italic,,0,0,0,,I’m just human like 
 Dialogue: 0,0:04:20.60,0:04:22.36,Dialogue-italic,,0,0,0,,I’m completely tone-deaf.
 Dialogue: 0,0:04:26.14,0:04:28.72,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}. Let’s start the music test!{damn has this voice actress been taking testosterone pills or did her balls just drop}
 Dialogue: 0,0:04:29.50,0:04:30.83,Dialogue,,0,0,0,,Aida.{OH COCKGOBBLING DICKNIGGER SHITFUCK}
-Dialogue: 0,0:04:30.83,0:04:31.61,Dialogue,,0,0,0,,Yes ma’am.
+Dialogue: 0,0:04:30.83,0:04:31.61,Dialogue,,0,0,0,,Yes, Ma’am.
 Dialogue: 0,0:04:32.99,0:04:33.64,Dialogue,,0,0,0,,Well, then.
 Comment: 0,0:04:39.85,0:04:48.72,Dialogue,,0,0,0,song,haru no ogawa wa, sarasara iku yo{春の小川は、さらさら行くよ。}
 Comment: 0,0:04:39.85,0:04:48.72,Dialogue,,0,0,0,song,春|は#|るの小#お川|が#|わは、サラサラ行|いくよ。
-Dialogue: 0,0:04:39.85,0:04:48.72,Dialogue,,0,0,0,song,Spring’s small brook babbles along,{OH DICKS}
+Dialogue: 0,0:04:39.85,0:04:48.72,INSERT SONGS 5000,,0,0,0,song,Spring’s small brook babbles along,
 Comment: 0,0:04:48.72,0:04:57.24,Dialogue,,0,0,0,song,{\an8}kishi no sumire ya, renge no hana ni
 Comment: 0,0:04:48.72,0:04:57.24,Dialogue,,0,0,0,song,{\an8}岸|き|#しのスミレや、蓮|れん華|げの花|は|#なに
-Dialogue: 0,0:04:48.72,0:04:57.24,Dialogue,,0,0,0,song,{\an8}winding past the violets and lotus flowers on its banks.{Milk Vetches? IS THIS LIKE FUCKING BOTANY 101 OR SOMETHING?}
+Dialogue: 0,0:04:48.72,0:04:57.24,INSERT SONGS 5000,,0,0,0,song,winding past the violets and lotus flowers on its banks.{Milk Vetches? IS THIS LIKE FUCKING BOTANY 101 OR SOMETHING?}
 Comment: 0,0:04:57.31,0:05:05.73,Dialogue,,0,0,0,song,{\an8}sugata yasashiku, iro utsukushiku
 Comment: 0,0:04:57.31,0:05:05.73,Dialogue,,0,0,0,song,{\an8}sugata yasashiku, iro utsukushiku
-Dialogue: 0,0:04:57.31,0:05:05.73,Dialogue,,0,0,0,song,{\an8}With its kind appearance and beautiful colors,
+Dialogue: 0,0:04:57.31,0:05:05.73,INSERT SONGS 5000,,0,0,0,song,With its kind appearance and beautiful colors,
 Comment: 0,0:05:06.11,0:05:14.58,Dialogue,,0,0,0,song,{\an8}sakeyo sakeyo to sasayaki nagara
 Comment: 0,0:05:06.11,0:05:14.58,Dialogue,,0,0,0,song,{\an8}咲|さけよ咲|さけよと、ささやきながら
-Dialogue: 0,0:05:06.11,0:05:14.58,Dialogue,,0,0,0,song,{\an8}it murmurs to them, “Blossom! Bloom!”
+Dialogue: 0,0:05:06.11,0:05:14.58,INSERT SONGS 5000,,0,0,0,song,it murmurs to them, “Blossom! Bloom!”
 Dialogue: 0,0:04:50.80,0:04:52.18,Dialogue-italic,,0,0,0,,What’ll I do?
 Dialogue: 0,0:04:53.62,0:04:56.82,Dialogue,,0,0,0,,Ah, I’m terribly nervous. This won’t do!
-Dialogue: 0,0:04:57.24,0:05:02.52,Dialogue,,0,0,0,,Asu, you’re the last one on the list, so you’ll probably be going next week, right?{so like yamada is the last letter in the alphabet I guess}
+Dialogue: 0,0:04:57.24,0:05:02.52,Dialogue,,0,0,0,,Asu, you’re the last one on the list, so\Nyou’ll probably be going next week, right?{so like yamada is the last letter in the alphabet I guess}
 Dialogue: 0,0:05:02.52,0:05:04.15,Dialogue,,0,0,0,,Y-yeah.
 Dialogue: 0,0:05:04.72,0:05:07.53,Dialogue,,0,0,0,,Are you okay? You’re looking a little pale.{I think she’s auditioning for Butchvoice II, though after the music teacher there’s really not much competition}
 Dialogue: 0,0:05:08.10,0:05:10.82,Dialogue,,0,0,0,,I’m fine. It’s nothing.
@@ -253,8 +255,8 @@ Dialogue: 0,0:05:22.79,0:05:25.47,Dialogue,,0,0,0,,The people who say that are a
 Dialogue: 0,0:05:25.47,0:05:28.68,Dialogue,,0,0,0,,You’re right. It just seems like Asu is that type of person, too.
 Dialogue: 0,0:05:28.68,0:05:33.05,Dialogue,,0,0,0,,N-No, that’s not true at all. I really am tone-deaf.
 Dialogue: 0,0:05:33.05,0:05:34.43,Dialogue,,0,0,0,,We can’t wait!{You lips say no, but your puss—er, your, uh, underlying hidden talents say yes?}
-Dialogue: 0,0:05:27.56,0:05:35.92,Dialogue,,0,0,0,song,{\an8}Spring’s small brook babbles along,
-Dialogue: 0,0:05:36.25,0:05:44.58,Dialogue,,0,0,0,song,{\an8}winding past the violets and lotus flowers on its banks.
+Dialogue: 0,0:05:27.56,0:05:35.92,INSERT SONGS 5000,,0,0,0,song,Spring’s small brook babbles along,
+Dialogue: 0,0:05:36.35,0:05:44.58,INSERT SONGS 5000,,0,0,0,song,winding past the violets and lotus flowers on its banks.
 Dialogue: 0,0:05:43.81,0:05:46.96,Dialogue-italic,,0,0,0,,They’ll be terribly disappointed... What’ll I do?
 Dialogue: 0,0:05:53.99,0:05:57.27,Dialogue-italic,,0,0,0,,I have a full week from toda{\fsp-1}y{\fsp}, so I’ll practice every da{\fsp-1}y{\fsp}.
 Dialogue: 0,0:05:58.18,0:06:02.97,Dialogue,,0,0,0,,Spring’s small brook...
@@ -262,7 +264,7 @@ Dialogue: 0,0:06:05.13,0:06:07.00,Dialogue,,0,0,0,,My voice sounds terrible.
 Dialogue: 0,0:06:07.95,0:06:17.52,Dialogue,,0,0,0,song,{\an8}...winding past the violets and lotus flowers on its banks.
 Dialogue: 0,0:06:17.52,0:06:26.74,Dialogue,,0,0,0,song,{\an8}With its kind appearance and beautiful colors,
 Dialogue: 0,0:06:26.74,0:06:37.06,Dialogue,,0,0,0,song,{\an8}it murmurs to them, “Blossom! Bloom!”
-Dialogue: 0,0:06:16.63,0:06:18.26,Dialogue,,0,0,0,,What a beautiful voice...{His voice fails to impress me}
+Dialogue: 0,0:06:16.63,0:06:18.31,Dialogue,,0,0,0,,What a beautiful voice...{His voice fails to impress me}
 Dialogue: 0,0:06:18.74,0:06:21.61,Dialogue,,0,0,0,,Is there someone singing outside?
 Dialogue: 0,0:06:38.41,0:06:40.21,Dialogue,,0,0,0,,She’s beautiful...{yeah okay I’m taking a whole lot of license here but idgaf at this point}
 Dialogue: 0,0:06:40.21,0:06:42.71,Dialogue,,0,0,0,,...wait, is that a guy?{lolololol}
@@ -279,12 +281,12 @@ Comment: 0,0:07:08.63,0:07:08.89,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:07:10.51,0:07:13.51,Dialogue,,0,0,0,,B-But you sing so wonderfully!
 Dialogue: 0,0:07:14.06,0:07:16.71,Dialogue,,0,0,0,,I’m completely tone-deaf.
 Dialogue: 0,0:07:16.71,0:07:17.74,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, listen—{idk if em dash is good here or not}{WAIT, DO I DETECT SOME NAVI IN THIS LINE}
-Dialogue: 0,0:07:18.30,0:07:19.42,Dialogue,,0,0,0,,Masao!
+Dialogue: 0,0:07:18.30,0:07:19.47,Dialogue,,0,0,0,,Masao!
 Dialogue: 0,0:07:20.37,0:07:21.75,Dialogue,,0,0,0,,It seems that you have a guest.
 Dialogue: 0,0:07:22.32,0:07:24.62,Dialogue,,0,0,0,,Masao! Are you in there?
 Dialogue: 0,0:07:24.62,0:07:25.50,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:07:25.50,0:07:28.76,Dialogue,,0,0,0,,I’ll be right back. Wait for me, okay?{GARGHABARGLE}
-Dialogue: 0,0:07:32.54,0:07:36.04,Dialogue,,0,0,0,,“Masao”. So he {\i1}is{\i0} a gu{\fsp-1}y{\fsp}.
+Dialogue: 0,0:07:32.54,0:07:36.04,Dialogue,,0,0,0,,“Masao{\fsp-3}”{\fsp}. So he {\i1}is{\i0} a gu{\fsp-1}y{\fsp}.
 Dialogue: 0,0:07:37.01,0:07:38.50,Dialogue,,0,0,0,,I’m coming right now.
 Dialogue: 0,0:07:38.50,0:07:40.35,Dialogue,,0,0,0,,It’s me! Me!
 Dialogue: 0,0:07:40.99,0:07:41.67,Dialogue,,0,0,0,,Yes?{re: this music: what the FUCK}
@@ -311,7 +313,7 @@ Dialogue: 0,0:08:39.01,0:08:43.00,Dialogue,,0,0,0,,But they really appreciate my
 Dialogue: 0,0:08:43.35,0:08:45.35,Dialogue,,0,0,0,,I also want to hear them.
 Dialogue: 0,0:08:45.35,0:08:49.91,Dialogue,,0,0,0,,That’s right, one of them said she was looking forward to hearing you pla{\fsp-1}y{\fsp}.
 Dialogue: 0,0:08:49.91,0:08:51.49,Dialogue,,0,0,0,,Where do you perform?
-Dialogue: 0,0:08:51.95,0:08:56.59,Dialogue,,40,40,0,,Last time it was at a live music club, but at the moment I’m taking a break.
+Dialogue: 0,0:08:51.95,0:08:56.59,Dialogue,,40,40,0,,Last time it was at a live music club,\Nbut at the moment I’m taking a break.
 Comment: 0,0:08:56.86,0:08:57.13,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:08:58.26,0:09:02.19,Dialogue,,0,0,0,,I completely ran out of mone{\fsp-1}y{\fsp}, so I can’t afford any more studio time;
 Dialogue: 0,0:09:02.19,0:09:03.92,Dialogue,,0,0,0,,I can hardly afford the rent here.
@@ -354,7 +356,7 @@ Dialogue: 0,0:11:53.82,0:11:55.19,Dialogue,,0,0,0,,Good afternoon!
 Dialogue: 0,0:11:55.19,0:11:57.84,Dialogue,,0,0,0,,Oh, good afternoon, Asu.
 Dialogue: 0,0:12:03.54,0:12:05.14,Dialogue,,0,0,0,,Are you on your way home?
 Dialogue: 0,0:12:05.61,0:12:09.14,Dialogue,,0,0,0,,Yes, I’m going to go practice sing—{what the fuck is he doing. Loitering?}
-Dialogue: 0,0:12:17.22,0:12:19.40,Dialogue,,0,0,0,,Um, if it’s okay with you,
+Dialogue: 0,0:12:17.22,0:12:19.40,Dialogue,,0,0,0,,Um, if it’s okay with you...
 Comment: 0,0:12:19.37,0:12:19.90,Dialogue,,0,0,0,,Eh?{NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO.}
 Dialogue: 0,0:12:20.16,0:12:25.35,Dialogue,,0,0,0,,Please teach me... Please teach me how to sing. Please!
 Comment: 0,0:12:25.44,0:12:25.86,Dialogue,,0,0,0,,Eh?{NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO. FUCK YOU. NO.}
@@ -362,7 +364,7 @@ Dialogue: 0,0:12:26.37,0:12:28.65,Dialogue,,0,0,0,,We have to take a singing tes
 Dialogue: 0,0:12:28.65,0:12:33.23,Dialogue,,0,0,0,,It’s probably impossible, so it’s okay if you decline.{biasduibasdouiasd. I AM A PROFESSINAL TRANSLATOER AND I PROABABLY MISTRNASLATED THIS LINE HORRIBL}
 Dialogue: 0,0:12:33.23,0:12:34.17,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:12:36.93,0:12:37.64,Dialogue,,0,0,0,,Sure.
-Dialogue: 0,0:12:39.39,0:12:44.40,Dialogue,,0,0,0,,You really will? Thank you very much.{maybe these should be split? Also wtf are those shorts he is wearing. And boots. What.}
+Dialogue: 0,0:12:39.39,0:12:44.40,Dialogue,,0,0,0,,You really will? Thank you very much!{maybe these should be split? Also wtf are those shorts he is wearing. And boots. What.}
 Dialogue: 0,0:12:46.28,0:12:48.73,Dialogue,,0,0,0,,Well then, let’s get started.
 Dialogue: 0,0:12:48.73,0:12:50.75,Dialogue,,0,0,0,,Did you bring anything that can play music?{BECAUSE THEY CAN’T GO BACK TO THE APARTMENT WHERE HE HAS A GUITAR}{or actually wait if he already knows how to sing, couldn’t HE JUST SING THE NOTES}
 Dialogue: 0,0:12:51.56,0:12:52.73,Dialogue,,0,0,0,,Um...
@@ -376,7 +378,7 @@ Dialogue: 0,0:13:07.77,0:13:09.47,Dialogue,,0,0,0,,Mi!{wouldn’t it work better
 Dialogue: 0,0:13:13.21,0:13:16.81,Dialogue,,0,0,0,,Huh? It won’t make the Fa and La sounds.{FA AND RA DON’T MAKE A SOUND}
 Dialogue: 0,0:13:17.49,0:13:21.28,Dialogue,,0,0,0,,It’s a hand-me-down from my siste{\fsp-1}r{\fsp}, and it’s slightly damaged.{:x}
 Dialogue: 0,0:13:21.82,0:13:25.78,Dialogue,,0,0,0,,Can’t you just ask your mom to buy you a new one?
-Dialogue: 0,0:13:26.44,0:13:30.56,Dialogue,,0,0,0,,We... Don’t have a mom... Or a dad.{OH MAN THE CHEESE IS COMING ON}
+Dialogue: 0,0:13:26.44,0:13:30.56,Dialogue,,0,0,0,,We... don’t have a mom... or a dad.{OH MAN THE CHEESE IS COMING ON}
 Comment: 0,0:13:30.69,0:13:31.11,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:13:31.72,0:13:34.58,Dialogue,,0,0,0,,It’s just the two of you living in that apartment?
 Dialogue: 0,0:13:34.58,0:13:35.37,Dialogue,,0,0,0,,Yes.
@@ -384,7 +386,7 @@ Dialogue: 0,0:13:38.01,0:13:40.63,Dialogue,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}. I 
 Dialogue: 0,0:13:42.22,0:13:45.37,Dialogue,,0,0,0,,It’s all right! I still have my siste{\fsp-1}r{\fsp}.
 Dialogue: 0,0:13:45.64,0:13:49.14,Dialogue,,0,0,0,,Um, if there’s ever anything I can help with, please ask.
 Dialogue: 0,0:13:49.69,0:13:52.84,Dialogue,,0,0,0,,But you’re already teaching me how to sing,
-Dialogue: 0,0:13:52.84,0:13:54.30,Dialogue,,0,0,0,,S-So...
+Dialogue: 0,0:13:52.84,0:13:54.30,Dialogue,,0,0,0,,s-so...
 Dialogue: 0,0:13:57.90,0:14:00.52,Dialogue,,0,0,0,,I’d like to listen to your singing.
 Comment: 0,0:14:00.93,0:14:01.21,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:14:17.61,0:14:20.99,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
@@ -399,9 +401,9 @@ Dialogue: 0,0:14:41.34,0:14:45.41,Dialogue-italic,,0,0,0,,From then on, with Ich
 Dialogue: 0,0:14:45.41,0:14:47.43,Dialogue-italic,,0,0,0,,I continued to practice my singing.
 Dialogue: 0,0:14:51.38,0:14:52.90,Dialogue-italic,,0,0,0,,Onee-chan practiced too.
 Dialogue: 0,0:14:53.82,0:14:54.79,Dialogue,,0,0,0,,{\an8}Twenty-five!
-Dialogue: 0,0:14:55.53,0:14:56.82,Dialogue,,0,0,0,,{\an8}Twenty-six!
-Dialogue: 0,0:14:54.79,0:14:56.82,Dialogue,,0,0,0,,Keep going, Asu!
-Dialogue: 0,0:15:07.10,0:15:15.82,Dialogue,,0,0,0,song,Spring’s small brook babbles along,
+Dialogue: 0,0:14:55.53,0:14:56.82,Dialogue,,0,0,0,,{\an8\fad(0,230)}Twenty-six!
+Dialogue: 0,0:14:54.79,0:14:56.82,Dialogue,,0,0,0,,{\fad(0,230)}Keep going, Asu!
+Dialogue: 0,0:15:07.10,0:15:15.82,Dialogue,,0,0,0,song,Spring’s small brook babbles along,{not an8 because Asu is the main character, yo}
 Dialogue: 0,0:15:15.82,0:15:24.54,Dialogue,,0,0,0,song,winding past the violets and lotus flowers on its banks.
 Dialogue: 0,0:15:24.54,0:15:33.19,Dialogue,,0,0,0,song,With its kind appearance and beautiful colors,
 Dialogue: 0,0:15:33.19,0:15:42.66,Dialogue,,0,0,0,song,it murmurs to them, “Blossom! Bloom!”
@@ -412,9 +414,9 @@ Dialogue: 0,0:15:55.39,0:15:57.74,Dialogue,,0,0,0,,How can you sing so well?
 Dialogue: 0,0:15:59.26,0:16:01.65,Dialogue,,0,0,0,,I guess I just had a really good teache{\fsp-1}r{\fsp}.
 Dialogue: 0,0:16:07.20,0:16:09.05,Dialogue,,0,0,0,,You did it, Asu!
 Dialogue: 0,0:16:12.15,0:16:13.78,Dialogue,,0,0,0,,Thanks, Onee-chan.{FACE RAPE}
-Dialogue: 0,0:16:13.78,0:16:16.75,Dialogue,,0,0,0,,We should tell Mr. Ichinokura, too.
+Dialogue: 0,0:16:13.78,0:16:16.75,Dialogue,,0,0,0,,We should tell M{\fsp-1}r{\fsp}. Ichinokura, too.
 Dialogue: 0,0:16:16.75,0:16:19.52,Dialogue,,0,0,0,,Ah, that’s right. Let’s go.
-Dialogue: 0,0:16:24.00,0:16:27.24,Dialogue,,0,0,0,,Ichinokura-san! I did really well on my test!
+Dialogue: 0,0:16:24.00,0:16:27.24,Dialogue,,0,0,0,,M{\fsp-1}r{\fsp}. Ichinokura! I did really well on my test!
 Dialogue: 0,0:16:31.25,0:16:32.67,Dialogue,,0,0,0,,Maybe he’s not home?
 Dialogue: 0,0:16:33.50,0:16:35.51,Dialogue,,0,0,0,,I’m sure he’ll be back soon.
 Dialogue: 0,0:16:42.41,0:16:44.71,Dialogue,,0,0,0,,It looks like he still isn’t back.
@@ -433,21 +435,21 @@ Dialogue: 0,0:17:23.46,0:17:24.65,Dialogue,,0,0,0,,As if!
 Dialogue: 0,0:17:25.82,0:17:30.47,Dialogue,,0,0,0,,We told him we’d keep helping him until his next audition, but it seems he deserted us.
 Dialogue: 0,0:17:30.97,0:17:34.30,Dialogue,,0,0,0,,Even though he said he would try his best this time!
 Dialogue: 0,0:17:35.95,0:17:40.53,Dialogue,,0,0,0,,Then, that means, when he told me he had sold his favorite guita{\fsp-1}r{\fsp}...
-Dialogue: 0,0:17:40.53,0:17:45.18,Dialogue,,0,0,0,,You know he’d never sell it! Masao treasures{values?} that guitar more than his own life.
+Dialogue: 0,0:17:40.53,0:17:45.18,Dialogue,,0,0,0,,You know he’d never sell it! Masao\Ntreasures{values?} that guitar more than his own life.
 Dialogue: 0,0:17:46.30,0:17:48.01,Dialogue-italic,,0,0,0,,So that’s what happened...{oh so I guess he couldn’t use his guitar in the park scene because he had already sold it}
-Dialogue: 0,0:17:53.04,0:17:55.92,Dialogue-italic,,0,0,0,,Even though he was having his own problems, he still taught me how to sing.
+Dialogue: 0,0:17:53.04,0:17:55.92,Dialogue-italic,,0,0,0,,Even though he was having his own\Nproblems, he still taught me how to sing.
 Dialogue: 0,0:17:56.53,0:17:58.51,Dialogue-italic,,0,0,0,,And his music was so wonderful!
-Dialogue: 0,0:17:59.35,0:18:00.30,Dialogue-italic,,0,0,0,,And yet...
+Dialogue: 0,0:17:59.35,0:18:00.30,Dialogue-italic,,0,0,0,,{\fad(0,787)}And yet...
 Dialogue: 0,0:18:02.05,0:18:04.26,Dialogue-italic,,0,0,0,,I’d like to listen to your singing.
 Dialogue: 0,0:18:04.67,0:18:07.65,Dialogue-italic,,0,0,0,,Oka{\fsp-1}y{\fsp}, leave it to me. I’ll sing for you any time.
 Dialogue: 0,0:18:10.86,0:18:13.60,Dialogue,,0,0,0,,Even though he promised me...
 Dialogue: 0,0:18:13.60,0:18:18.46,Dialogue,,0,0,0,,He promised that he’d sing for me again...
 Dialogue: 0,0:18:28.45,0:18:30.73,Dialogue,,0,0,0,,His song... I can hear it.
-Comment: 0,0:18:26.30,0:18:32.32,Dialogue,,0,0,0,,{sarasara yuruyuru}Flowing easily along,
-Comment: 0,0:18:32.60,0:18:38.96,Dialogue,,0,0,0,,The whisper of the wind.
-Comment: 0,0:18:35.46,0:18:39.16,Dialogue,,0,0,0,,Something like that.
-Comment: 0,0:18:39.64,0:18:45.72,Dialogue,,0,0,0,,While sparkling in the green{this translation is getting sketchier and sketchier}
-Comment: 0,0:18:45.72,0:18:47.18,Dialogue,,0,0,0,,Let’s invite—
+Dialogue: 0,0:18:26.30,0:18:32.32,INSERT SONGS 5000,,0,0,0,,{sarasara yuruyuru}Flowing easily along,
+Dialogue: 0,0:18:32.60,0:18:38.96,INSERT SONGS 5000,,0,0,0,,The whisper of the wind.
+Dialogue: 0,0:18:35.46,0:18:39.16,INSERT SONGS 5000,,0,0,0,,Something like that.
+Dialogue: 0,0:18:39.64,0:18:45.72,INSERT SONGS 5000,,0,0,0,,While sparkling in the green{this translation is getting sketchier and sketchier}
+Dialogue: 0,0:18:45.72,0:18:47.18,INSERT SONGS 5000,,0,0,0,,Let’s invite—
 Dialogue: 0,0:18:31.30,0:18:32.29,Dialogue,,0,0,0,,His song...
 Dialogue: 0,0:18:35.35,0:18:36.48,Dialogue,,0,0,0,,You’re right!
 Dialogue: 0,0:18:36.48,0:18:37.53,Dialogue,,0,0,0,,Where is it?
@@ -461,34 +463,34 @@ Dialogue: 0,0:18:52.10,0:18:53.83,Dialogue,,0,0,0,,Where did you go?{NO ENDING S
 Dialogue: 0,0:18:53.09,0:18:54.75,Dialogue,,0,0,0,,Everyone was worried about you!
 Dialogue: 0,0:18:54.75,0:18:55.81,Dialogue,,0,0,0,,Masao-san.
 Dialogue: 0,0:18:56.97,0:18:57.82,Dialogue,,0,0,0,,Thank goodness.
-Dialogue: 0,0:18:57.82,0:18:59.55,Dialogue,,0,0,0,,I was spending the night at my part time job.
-Dialogue: 0,0:18:59.79,0:19:02.29,Dialogue,,0,0,0,,It seems I caused you some undue worr{\fsp-1}y{\fsp}.{blargh}
-Dialogue: 0,0:19:02.29,0:19:03.86,Dialogue,,0,0,0,,You idiot!
-Dialogue: 0,0:19:05.04,0:19:06.48,Dialogue,,0,0,0,,I’m so glad.
+Dialogue: 0,0:18:57.82,0:18:59.45,Dialogue,,0,0,0,,I was spending nights at my part time job.
+Dialogue: 0,0:18:59.86,0:19:02.29,Dialogue,,0,0,0,,It seems I caused you some undue worr{\fsp-1}y{\fsp}.{blargh}
+Dialogue: 0,0:19:02.29,0:19:03.86,Dialogue-italic,,0,0,0,,You idiot!
+Dialogue: 0,0:19:05.04,0:19:06.48,Dialogue-italic,,0,0,0,,I’m so glad.
 Dialogue: 0,0:19:07.93,0:19:10.28,Dialogue,,0,0,0,,Next time, make sure to tell us beforehand!
 Dialogue: 0,0:19:10.93,0:19:11.73,Dialogue,,0,0,0,,I’m sorr{\fsp-1}y{\fsp}.
 Dialogue: 0,0:19:12.29,0:19:15.05,Dialogue,,0,0,0,,Everyone loves M{\fsp-1}r{\fsp}. Ichinokura, don’t they?{FUCKING COCKS AND SOME DICKS ON TOP MR JUST DOESN’T SOUND RIGHT FOR THIS GUY}
 Dialogue: 0,0:19:15.05,0:19:15.74,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:19:17.52,0:19:19.70,Dialogue,,0,0,0,,After being turned down at all my auditions,
-Dialogue: 0,0:19:19.70,0:19:23.09,Dialogue,,0,0,0,,I started thinking that becoming a musician might be impossible for me.
+Dialogue: 0,0:19:19.70,0:19:23.09,Dialogue,,0,0,0,,I started thinking that becoming a\Nmusician might be impossible for me.
 Dialogue: 0,0:19:23.71,0:19:27.01,Dialogue,,0,0,0,,I decided to give up singing for good.
 Dialogue: 0,0:19:27.58,0:19:28.34,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:19:35.09,0:19:37.98,Dialogue,,0,0,0,,But, I {\i1}do{\i0} want to keep on singing.
-Dialogue: 0,0:19:38.58,0:19:42.07,Dialogue,,0,0,0,,That’s why I got a part time job, so I could afford to r my guita{\fsp-1}r{\fsp}.
+Dialogue: 0,0:19:38.58,0:19:42.07,Dialogue,,0,0,0,,That’s why I got a part time job, so I could afford to reclaim my guita{\fsp-1}r{\fsp}.
 Dialogue: 0,0:19:44.27,0:19:45.16,Dialogue,,0,0,0,,His guita{\fsp-1}r{\fsp}...{lul}
 Dialogue: 0,0:19:54.78,0:19:56.32,Dialogue,,0,0,0,,Because I made a promise.
 Dialogue: 0,0:19:56.32,0:19:59.14,Dialogue,,0,0,0,,A promise that I would sing for you again.
-Dialogue: 0,0:20:22.30,0:20:28.22,notes,,0,0,0,,Flowing easily along,
-Dialogue: 0,0:20:28.36,0:20:31.22,notes,,0,0,0,,the whisper of the wind.
-Dialogue: 0,0:20:31.30,0:20:35.08,notes,,0,0,0,,Something like that.
-Dialogue: 0,0:20:35.74,0:20:41.66,notes,,0,0,0,,While sparkling in the green,
-Dialogue: 0,0:20:41.88,0:20:44.76,notes,,0,0,0,,let’s invite the spring.
-Dialogue: 0,0:20:45.18,0:20:47.98,notes,,0,0,0,,Something like that.
-Dialogue: 0,0:20:48.96,0:20:54.84,notes,,0,0,0,,Glittering, sparkling,
-Dialogue: 0,0:20:55.28,0:20:57.94,notes,,0,0,0,,showing in the rays of sunlight.
-Dialogue: 0,0:20:57.94,0:21:01.76,notes,,0,0,0,,Something like that.
-Dialogue: 0,0:21:01.76,0:21:08.12,notes,,0,0,0,,A rustling heart is
-Dialogue: 0,0:21:08.40,0:21:14.72,notes,,0,0,0,,a memory of summer.
+Dialogue: 0,0:20:22.30,0:20:28.22,INSERT SONGS 5000,,0,0,0,,Flowing easily along,
+Dialogue: 0,0:20:28.36,0:20:31.22,INSERT SONGS 5000,,0,0,0,,the whisper of the wind.
+Dialogue: 0,0:20:31.30,0:20:35.08,INSERT SONGS 5000,,0,0,0,,Something like that.
+Dialogue: 0,0:20:35.74,0:20:41.66,INSERT SONGS 5000,,0,0,0,,While sparkling in the green,
+Dialogue: 0,0:20:41.88,0:20:44.76,INSERT SONGS 5000,,0,0,0,,let’s invite the spring.
+Dialogue: 0,0:20:45.18,0:20:47.98,INSERT SONGS 5000,,0,0,0,,Something like that.
+Dialogue: 0,0:20:48.96,0:20:54.84,INSERT SONGS 5000,,0,0,0,,Glittering, sparkling,
+Dialogue: 0,0:20:55.28,0:20:57.94,INSERT SONGS 5000,,0,0,0,,showing in the rays of sunlight.
+Dialogue: 0,0:20:57.94,0:21:01.76,INSERT SONGS 5000,,0,0,0,,Something like that.
+Dialogue: 0,0:21:01.76,0:21:08.12,INSERT SONGS 5000,,0,0,0,,A rustling heart is
+Dialogue: 0,0:21:08.40,0:21:14.72,INSERT SONGS 5000,,0,0,0,,a memory of summer.
 Dialogue: 0,0:20:26.53,0:20:28.05,Dialogue-italic,,0,0,0,,I sing.
 Dialogue: 0,0:20:28.05,0:20:32.13,Dialogue-italic,,0,0,0,,That’s what I can do. The only thing I can do.
 Dialogue: 0,0:20:33.65,0:20:35.05,Dialogue-italic,,0,0,0,,Music is mysterious.
