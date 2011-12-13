@@ -11,7 +11,7 @@ Video Zoom: 8
 PlayResX: 640
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_09_[271080C2].avi
 Video Aspect Ratio: 0
-Video Position: 33517
+Video Position: 11348
 WrapStyle: 0
 ScaledBorderAndShadow: no
 Last Style Storage: Binbou Shimai Monogatari
@@ -20,7 +20,6 @@ Audio File: ?video
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-
 Style: Dialogue,Trebuchet MS,30,&H00ECECEC,&H00000000,&H00512528,&H64494949,-1,0,0,0,80,100,0.5,0,1,2,1.2,2,30,30,20,1
 Style: Dialogue-italic,Trebuchet MS,30,&H00ECECEC,&H00000000,&H00512528,&H64494949,-1,-1,0,0,80,100,0.5,0,1,2,1.2,2,30,30,20,1
 Style: notes,Trebuchet MS,25,&H644A2D28,&H000000FF,&H64AEAEAE,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,8,10,10,10,1
@@ -36,6 +35,7 @@ Style: ED - Kanji-furigana,小塚ゴシック Pro M,15,&H00090F77,&H00DEDEDE,&H0
 Style: ED - Romaji-furigana,Candela Bold,15,&H00090F77,&H00DEDEDE,&H004A5011,&H00604916,-1,0,0,0,82.3,100,0,0,1,1,0.25,8,30,30,15,0
 Style: ED - Romaji - vsfilter,Candela Bold,30,&H00DEDEDE,&H00E7B3AD,&H009B413D,&H00604916,-1,0,0,0,82.3,100,0,0,1,2,2,8,30,30,15,0
 Style: ED - Kanji - vsfilter,小塚ゴシック Pro M,30,&H00E7B3AD,&H00DEDEDE,&H009B413D,&H00604916,0,0,0,0,82.3,100,0,0,1,2,2,8,30,30,30,0
+
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:56.42,0:05:00.62,Dialogue,,0,0,90,,A Day of Emotions, Uneasiness, and Cell Phones.
@@ -87,61 +87,63 @@ Dialogue: 0,0:03:01.54,0:03:04.52,Dialogue,,0,0,90,,Thus, we were abandoned.
 Dialogue: 0,0:03:05.63,0:03:09.58,Dialogue,,0,0,90,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
 Dialogue: 0,0:03:09.94,0:03:11.91,Dialogue,,0,0,90,,This is our home.
 Dialogue: 0,0:03:12.39,0:03:14.62,Dialogue,,0,0,90,,But, when spring comes...
-Dialogue: 0,0:05:01.54,0:05:05.49,Dialogue,,0,0,90,,Eh? Asu, what are these?
-Dialogue: 0,0:05:05.57,0:05:07.86,Dialogue,,0,0,90,,The shopping district was having a raffle...
-Dialogue: 0,0:05:08.01,0:05:10.38,Dialogue,,0,0,90,,These are real, right? Onee-chan.
+Dialogue: 0,0:05:01.54,0:05:05.49,Dialogue,,0,0,90,,Asu, w-why do we have these?
+Dialogue: 0,0:05:05.57,0:05:07.86,Dialogue,,0,0,90,,There was a raffle in the shopping district today.
+Dialogue: 0,0:05:08.01,0:05:10.38,Dialogue,,0,0,90,,These are the real things, right, Onee-chan?
 Dialogue: 0,0:05:12.04,0:05:13.20,Dialogue,,0,0,90,,Onee-chan?
 Dialogue: 0,0:05:13.28,0:05:15.34,Dialogue,,0,0,90,,Cell... Phones?
-Dialogue: 0,0:05:15.69,0:05:17.94,Dialogue,,0,0,90,,When you say "cell" you mean "mobile" right?
-Dialogue: 0,0:05:19.05,0:05:23.44,Dialogue,,0,0,90,,I've always thought that these things can only be had in some far off world...
-Dialogue: 0,0:05:23.44,0:05:25.44,Dialogue,,0,0,90,,No... you're exaggerating.
-Dialogue: 0,0:05:25.44,0:05:26.66,Dialogue,,0,0,90,,Then it's a dream?
-Dialogue: 0,0:05:26.66,0:05:28.80,Dialogue,,0,0,90,,I don't think so...
-Dialogue: 0,0:05:28.92,0:05:32.45,Dialogue,,0,0,90,,In any case, how do we use this?
-Dialogue: 0,0:05:32.45,0:05:35.64,Dialogue,,0,0,90,,Let me see... first, you turn it on.
+Dialogue: 0,0:05:15.69,0:05:17.94,Dialogue,,0,0,90,,A cell phone means a phone you can carry with you, right?
+Dialogue: 0,0:05:19.05,0:05:23.44,Dialogue,,0,0,90,,I've always thought that these were mystical devices that only existed in fantasies and stories!{I'd always thought they were things found only in stories of distant, faraway worlds, completely separate from our own...}
+Dialogue: 0,0:05:23.44,0:05:25.44,Dialogue,,0,0,90,,No, you're exaggerating too much...
+Dialogue: 0,0:05:25.44,0:05:26.96,Dialogue,,0,0,90,,Hey, is this a dream?!
+Dialogue: 0,0:05:26.66,0:05:28.80,Dialogue,,0,0,90,,I-I don't think so.
+Dialogue: 0,0:05:28.92,0:05:32.45,Dialogue,,0,0,90,,Well then, I wonder how you're supposed to use them.
+Dialogue: 0,0:05:32.45,0:05:35.64,Dialogue,,0,0,90,,Let's see. To turn it on, you're supposed to press...
 Dialogue: 0,0:05:35.64,0:05:36.88,Dialogue,,0,0,90,,Is it here?
 Dialogue: 0,0:05:36.88,0:05:37.74,Dialogue,,0,0,90,,Where, where?
-Dialogue: 0,0:05:37.74,0:05:38.94,Dialogue,,0,0,90,,And then...
-Dialogue: 0,0:05:39.61,0:05:45.41,Dialogue,,0,0,90,,Then you choose the payment method. This card has 3000 yen and works for three months.
-Dialogue: 0,0:05:45.41,0:05:46.75,Dialogue,,0,0,90,,3000 yen?
-Dialogue: 0,0:05:46.75,0:05:48.75,Dialogue,,0,0,90,,Look, that's what it says.
-Dialogue: 0,0:05:48.75,0:05:50.89,Dialogue,,0,0,90,,Insert the number, eh?
-Dialogue: 0,0:05:50.89,0:05:51.86,Dialogue,,0,0,90,,And then...
-Dialogue: 0,0:05:54.08,0:05:55.62,Dialogue,,0,0,90,,We can use it now, just like that?
+Dialogue: 0,0:05:37.74,0:05:38.94,Dialogue,,0,0,90,,After that,
+Dialogue: 0,0:05:39.61,0:05:45.41,Dialogue,,0,0,90,,the prepaid plan lets us use 3000 yen worth of minutes over the course of three months.{Then you choose the payment method. This card has 3000 yen and works for three months.}
+Dialogue: 0,0:05:45.41,0:05:46.75,Dialogue,,0,0,90,,3000 yen worth?{ARGH ARGH ARGH}
+Dialogue: 0,0:05:46.75,0:05:48.75,Dialogue,,0,0,90,,Hey, look, this part says,
+Dialogue: 0,0:05:48.75,0:05:50.89,Dialogue,,0,0,90,,"Enter the number", and...
+Dialogue: 0,0:05:50.89,0:05:51.86,Dialogue,,0,0,90,,And after that...
+Dialogue: 0,0:05:54.08,0:05:55.62,Dialogue,,0,0,90,,I wonder if they're ready to use now.
 Dialogue: 0,0:05:55.95,0:05:57.84,Dialogue,,0,0,90,,Onee-chan, try calling me.
-Dialogue: 0,0:05:57.84,0:05:59.37,Dialogue,,0,0,90,,O-okay.
-Dialogue: 0,0:06:03.68,0:06:04.81,Dialogue,,0,0,90,,It's ringing!
-Dialogue: 0,0:06:05.55,0:06:06.85,Dialogue,,0,0,90,,Hello.
-Dialogue: 0,0:06:07.06,0:06:08.45,Dialogue,,0,0,90,,Yes, yes.
-Dialogue: 0,0:06:12.60,0:06:14.22,Dialogue,,0,0,90,,Can you hear me now?
+Dialogue: 0,0:05:57.84,0:05:59.37,Dialogue,,0,0,90,,O-Okay.
+Dialogue: 0,0:06:03.68,0:06:04.81,Dialogue,,0,0,90,,It's ringing!{why do they have dead zombie eyes in this scene}
+Dialogue: 0,0:06:05.55,0:06:06.85,Dialogue,,0,0,90,,Hello!
+Dialogue: 0,0:06:07.06,0:06:08.45,Dialogue,,0,0,90,,Hello.
+Dialogue: 0,0:06:12.60,0:06:14.22,Dialogue,,0,0,90,,Is that how it's supposed to go?
 Dialogue: 0,0:06:17.85,0:06:19.16,Dialogue,,0,0,90,,Did you hang up?
-Dialogue: 0,0:06:19.16,0:06:20.92,Dialogue,,0,0,90,,That was dangerous.
-Dialogue: 0,0:06:20.92,0:06:21.72,Dialogue,,0,0,90,,Why?
-Dialogue: 0,0:06:21.72,0:06:24.18,Dialogue,,0,0,90,,Calling like that uses up money.
-Dialogue: 0,0:06:24.39,0:06:27.83,Dialogue,,0,0,90,,3000 yen, eh? We'll have to use it only for important matters.
-Dialogue: 0,0:06:28.08,0:06:30.29,Dialogue,,0,0,90,,Oh yeah, that's right.
-Dialogue: 0,0:06:40.51,0:06:42.24,Dialogue,,0,0,90,,Are you okay, Onee-chan?
-Dialogue: 0,0:06:43.60,0:06:46.04,Dialogue,,0,0,90,,I did it again... Yes, I'm fine.
-Dialogue: 0,0:06:46.23,0:06:48.41,Dialogue,,0,0,90,,And today, I have this.
-Dialogue: 0,0:06:55.07,0:06:58.05,Dialogue,,0,0,90,,If something happens, make sure you call Onee-chan as fast as you can.
-Dialogue: 0,0:06:58.05,0:06:59.43,Dialogue,,0,0,90,,You too, Onee-chan.
-Dialogue: 0,0:06:59.67,0:07:01.51,Dialogue,,0,0,90,,I'll go on ahead now.
-Dialogue: 0,0:07:02.50,0:07:04.10,Dialogue,,0,0,90,,Today I'm drowsy again.
-Dialogue: 0,0:07:08.21,0:07:09.83,Dialogue,,0,0,90,,I forgot it again today...
-Dialogue: 0,0:07:09.83,0:07:12.29,Dialogue,,0,0,90,,to tell Asu that her tofu miso soup was very good.
-Dialogue: 0,0:07:16.05,0:07:20.29,Dialogue,,0,0,90,,Oh yeah, I have to turn off the cell phone when in school.
-Dialogue: 0,0:07:21.93,0:07:22.58,Dialogue,,0,0,90,,Eh?
-Dialogue: 0,0:07:23.21,0:07:24.82,Dialogue,,0,0,90,,What are you doing?
-Dialogue: 0,0:07:25.18,0:07:26.82,Dialogue,,0,0,90,,Ginko-chan, good morning.
+Dialogue: 0,0:06:19.16,0:06:20.92,Dialogue,,0,0,90,,That was pretty risky!{vocabulary, y u fail me}
+Dialogue: 0,0:06:20.92,0:06:21.72,Dialogue,,0,0,90,,What was?
+Dialogue: 0,0:06:21.72,0:06:24.18,Dialogue,,0,0,90,,We have a fixed amount of minutes to use on these!
+Dialogue: 0,0:06:24.39,0:06:27.83,Dialogue,,0,0,90,,3000 yen worth. We should only use them for important stuff.
+Dialogue: 0,0:06:28.08,0:06:30.29,Dialogue,,0,0,90,,Oh yeah, that's right, isn't it.
+Dialogue: 0,0:06:40.51,0:06:42.24,Dialogue,,0,0,90,,Onee-chan, are you okay?
+Dialogue: 0,0:06:43.60,0:06:46.04,Dialogue,,0,0,90,,Looks like I did it again, huh? Yes, I'm fine!
+Dialogue: 0,0:06:46.23,0:06:48.41,Dialogue,,0,0,90,,Plus, starting from today, we have these, right?
+Dialogue: 0,0:06:55.07,0:06:58.05,Dialogue,,0,0,90,,If anything happens, call me right away, okay?
+Dialogue: 0,0:06:58.05,0:06:59.43,Dialogue,,0,0,90,,The same goes for you, Onee-chan.
+Dialogue: 0,0:06:59.67,0:07:01.51,Dialogue,,0,0,90,,Well then, I'm off!
+Dialogue: 0,0:07:02.50,0:07:04.10,Dialogue-italic,,0,0,90,,I'm really tired today, too.
+Dialogue: 0,0:07:08.21,0:07:09.83,Dialogue,,0,0,90,,I forgot to thank her again,
+Dialogue: 0,0:07:09.83,0:07:12.29,Dialogue,,0,0,90,,even though the tofu-miso soup was so wonderful.
+Dialogue: 0,0:07:16.05,0:07:20.29,Dialogue,,0,0,90,,Oh, that's right. I need to turn my phone of while I'm in class.{perhaps "during the school day"}
+Comment: 0,0:07:21.93,0:07:22.58,Dialogue,,0,0,90,,Eh?
+Dialogue: 0,0:07:23.21,0:07:24.82,Dialogue,,0,0,90,,Hey, what are you doing?
+Dialogue: 0,0:07:25.18,0:07:26.82,Dialogue,,0,0,90,,Ginko-chan, good morning.{sigh. Name then greeting still sounds weird to me}
 Dialogue: 0,0:07:26.82,0:07:27.74,Dialogue,,0,0,90,,Good morning.
-Dialogue: 0,0:07:27.74,0:07:29.67,Dialogue,,0,0,90,,Eh? You bought a cell phone?
-Dialogue: 0,0:07:29.67,0:07:33.94,Dialogue,,0,0,90,,This? No... It's a prize from the shopping district.
-Dialogue: 0,0:07:35.45,0:07:36.44,Dialogue,,0,0,90,,Prize...
-Dialogue: 0,0:07:37.86,0:07:42.27,Dialogue,,0,0,90,,Onee-sama has a much better cell phone than that.
-Dialogue: 0,0:07:42.27,0:07:48.89,Dialogue,,0,0,90,,Once I'm in middle school, I'll buy one that's as great as Onee-sama's.
-Dialogue: 0,0:07:50.59,0:07:53.30,Dialogue,,0,0,90,,You should listen when others are talking. What are you doing anyway?
-Dialogue: 0,0:07:53.30,0:07:56.97,Dialogue,,0,0,90,,I forgot how to turn this off... what should I do?
-Dialogue: 0,0:07:57.08,0:08:01.89,Dialogue,,0,0,90,,You don't even know about that? Just press here.
+Dialogue: 0,0:07:27.74,0:07:29.67,Dialogue,,0,0,90,,What? You bought a cell phone?!
+Dialogue: 0,0:07:29.67,0:07:33.94,Dialogue,,0,0,90,,This? I won it in a raffle in the shopping district.
+Dialogue: 0,0:07:35.45,0:07:36.44,Dialogue,,0,0,90,,A raffle...
+Dialogue: 0,0:07:37.86,0:07:42.27,Dialogue,,0,0,90,,Well, my sister has a phone too, and it's much fancier and nicer than this one, I'll have you know!
+Dialogue: 0,0:07:42.27,0:07:44.19,Dialogue,,0,0,90,,And when I become a middle schooler,
+Dialogue: 0,0:07:44.19,0:07:48.46,Dialogue,,0,0,90,,Onee-sama will buy me one that is just as fancy as hers!
+Dialogue: 0,0:07:50.59,0:07:53.30,Dialogue,,0,0,90,,Hey, you should listen when someone's talking to you! What are you doing?
+Dialogue: 0,0:07:53.30,0:07:56.97,Dialogue,,0,0,90,,I forgot how you're supposed to turn it off. What did the manual say again...
+Dialogue: 0,0:07:57.08,0:07:58.58,Dialogue,,0,0,90,,You don't know how to do that?
+Dialogue: 0,0:07:58.83,0:08:01.56,Dialogue,,0,0,0,,You hold this button down for a few seconds.
 Dialogue: 0,0:08:01.97,0:08:04.41,Dialogue,,0,0,90,,Ginko-chan, you're so great! Thank you.
 Dialogue: 0,0:08:04.51,0:08:07.89,Dialogue,,0,0,90,,I see Onee-sama do that a lot, so of course I know.
 Dialogue: 0,0:08:07.92,0:08:10.79,Dialogue,,0,0,90,,If you have anything else that you don't understand, just ask me.
