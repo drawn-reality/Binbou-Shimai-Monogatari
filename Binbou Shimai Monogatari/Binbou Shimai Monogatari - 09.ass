@@ -11,7 +11,7 @@ Video Zoom: 8
 PlayResX: 640
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_09_[271080C2].avi
 Video Aspect Ratio: 0
-Video Position: 11348
+Video Position: 16069
 WrapStyle: 0
 ScaledBorderAndShadow: no
 Last Style Storage: Binbou Shimai Monogatari
@@ -39,6 +39,8 @@ Style: ED - Kanji - vsfilter,小塚ゴシック Pro M,30,&H00E7B3AD,&H00DEDEDE,&
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:56.42,0:05:00.62,Dialogue,,0,0,90,,A Day of Emotions, Uneasiness, and Cell Phones.
+Dialogue: 0,0:11:10.20,0:11:18.27,generic sign style,,0,0,0,,Our only goal is to make it to the store-closing sale.{this is probably wrong, terrible and terribly wrong}{(Our only goal is the before closing sale.)}
+Dialogue: 0,0:11:18.27,0:11:26.80,generic sign style,,0,0,0,,On payday, we can have a luxurious dinner with three side dishes.
 Dialogue: 0,0:00:11.74,0:00:15.57,Dialogue,,0,0,90,,We have a winner! Congratulations!
 Dialogue: 0,0:00:18.58,0:00:19.23,Dialogue,,0,0,90,,I-I got it...
 Dialogue: 0,0:00:20.42,0:00:22.30,Dialogue,,0,0,90,,That's right, the third place prize!{or just third prize, idk how this stuff is done}
@@ -144,54 +146,53 @@ Dialogue: 0,0:07:50.59,0:07:53.30,Dialogue,,0,0,90,,Hey, you should listen when 
 Dialogue: 0,0:07:53.30,0:07:56.97,Dialogue,,0,0,90,,I forgot how you're supposed to turn it off. What did the manual say again...
 Dialogue: 0,0:07:57.08,0:07:58.58,Dialogue,,0,0,90,,You don't know how to do that?
 Dialogue: 0,0:07:58.83,0:08:01.56,Dialogue,,0,0,0,,You hold this button down for a few seconds.
-Dialogue: 0,0:08:01.97,0:08:04.41,Dialogue,,0,0,90,,Ginko-chan, you're so great! Thank you.
-Dialogue: 0,0:08:04.51,0:08:07.89,Dialogue,,0,0,90,,I see Onee-sama do that a lot, so of course I know.
-Dialogue: 0,0:08:07.92,0:08:10.79,Dialogue,,0,0,90,,If you have anything else that you don't understand, just ask me.
-Dialogue: 0,0:08:10.79,0:08:13.25,Dialogue,,0,0,90,,All right, thank you. Well then.
-Dialogue: 0,0:08:15.45,0:08:17.39,Dialogue,,0,0,90,,That's nice... a cell pohne.
-Dialogue: 0,0:08:24.72,0:08:26.84,Dialogue,,0,0,90,,Asu hasn't called yet, eh?
-Dialogue: 0,0:08:28.54,0:08:30.70,Dialogue,,0,0,90,,I wonder if I should call her...
+Dialogue: 0,0:08:01.97,0:08:04.41,Dialogue,,0,0,90,,Ginko-chan, you're amazing! Thanks!{is it just me or does asu's voice sound... um... huskier than usual in this episode? Maybe she should lay off the testosterone pills}
+Dialogue: 0,0:08:04.51,0:08:07.89,Dialogue,,0,0,90,,I'm always watching my sister, so I know all about this kind of thing!
+Dialogue: 0,0:08:07.92,0:08:10.79,Dialogue,,0,0,90,,If you have anything else that you don't understand, just ask me for help.
+Dialogue: 0,0:08:10.79,0:08:13.25,Dialogue,,0,0,90,,Okay, thanks! See you later.
+Dialogue: 0,0:08:15.45,0:08:17.39,Dialogue,,0,0,90,,How lucky... a cell phone.
+Dialogue: 0,0:08:24.72,0:08:26.84,Dialogue,,0,0,90,,Asu didn't call today, eh?
+Dialogue: 0,0:08:28.54,0:08:30.70,Dialogue,,0,0,90,,I wonder if I should call her.
 Dialogue: 0,0:08:33.85,0:08:36.16,Dialogue,,0,0,90,,Onee-chan hasn't called yet, eh?
 Dialogue: 0,0:08:36.56,0:08:38.32,Dialogue,,0,0,90,,Maybe I should call her.
-Dialogue: 0,0:08:39.52,0:08:41.33,Dialogue,,0,0,90,,No, no. It's too wasteful.
-Dialogue: 0,0:08:48.34,0:08:52.52,Dialogue,,0,0,90,,Wait a minute, maybe something really big happened.
-Dialogue: 0,0:08:52.52,0:08:55.04,Dialogue,,0,0,90,,When that happens, I'll need to use the cell phone.
-Dialogue: 0,0:08:55.42,0:09:00.77,Dialogue,,0,0,90,,If I just call her like that, I'll probably run out of minutes when I really need it.
-Dialogue: 0,0:09:07.26,0:09:09.99,Dialogue,,0,0,90,,Why don't you call? If you want to, just call her.
-Dialogue: 0,0:09:09.99,0:09:11.86,Dialogue,,0,0,90,,Yeah, you're right...
-Dialogue: 0,0:09:18.10,0:09:20.45,Dialogue,,0,0,90,,So that's the mentality of a poor person, eh?
-Dialogue: 0,0:09:23.26,0:09:25.17,Dialogue,,0,0,90,,It's been a week already.
+Dialogue: 0,0:08:39.52,0:08:41.33,Dialogue,,0,0,90,,No, no, that'd be wasteful!
+Dialogue: 0,0:08:48.34,0:08:55.04,Dialogue-italic,,0,0,90,,Wait a minute, maybe a time will come when we'll really need to use these.
+Dialogue: 0,0:08:55.42,0:09:00.77,Dialogue-italic,,0,0,90,,If I call now when there's nothing big to talk about and those minutes get used up...
+Dialogue: 0,0:09:07.26,0:09:09.99,Dialogue,,0,0,90,,How come you won't use it? You should just call her if you want.
+Dialogue: 0,0:09:09.99,0:09:11.86,Dialogue,,0,0,90,,Yeah, I guess you're right.
+Dialogue: 0,0:09:18.10,0:09:20.45,Dialogue-italic,,0,0,90,,Maybe this is what they call being destined to poverty...{So that's the mentality of a poor person, eh?}{tbph I don't like either of these. Though I have a feeling she's using some kind of idiom here, I don't know what it is, so I can't look it up.}{binbou shou tei yuno... probably typed that out horribly wrong}
+Dialogue: 0,0:09:23.26,0:09:25.17,Dialogue,,0,0,90,,We've already had them for a week, huh?
 Dialogue: 0,0:09:25.20,0:09:25.68,Dialogue,,0,0,90,,Yeah.
-Dialogue: 0,0:09:26.27,0:09:28.39,Dialogue,,0,0,90,,And we didn't even use it once.
+Dialogue: 0,0:09:26.27,0:09:28.39,Dialogue,,0,0,90,,And we haven't even used them once.{well, TECHNICALLY, it should be "we never used them after that one time" but EH}
 Dialogue: 0,0:09:28.98,0:09:29.56,Dialogue,,0,0,90,,Yeah.
-Dialogue: 0,0:09:30.32,0:09:33.26,Dialogue,,0,0,90,,If the three months pass just like that...
-Dialogue: 0,0:09:33.26,0:09:35.80,Dialogue,,0,0,90,,That means we've wasted even more money.
-Dialogue: 0,0:09:38.19,0:09:41.34,Dialogue,,0,0,90,,Okay. Let's use it more freely afterwards.
-Dialogue: 0,0:09:41.87,0:09:43.53,Dialogue,,0,0,90,,Y... Yeah.
-Dialogue: 0,0:09:43.53,0:09:47.75,Dialogue,,0,0,90,,But, don't waste it too much. When we need it...
-Dialogue: 0,0:09:47.75,0:09:52.75,Dialogue,,0,0,90,,Onee-chan, if you think like that, you won't call.
-Dialogue: 0,0:09:53.04,0:09:54.28,Dialogue,,0,0,90,,That's right...
-Dialogue: 0,0:09:57.62,0:09:59.05,Dialogue,,0,0,90,,Ah, the night papers...
-Dialogue: 0,0:09:59.66,0:10:02.03,Dialogue,,0,0,90,,I have to concentrate. Wake up.
-Dialogue: 0,0:10:05.03,0:10:06.57,Dialogue,,0,0,90,,Turn on, OK.
-Dialogue: 0,0:10:07.05,0:10:08.41,Dialogue,,0,0,90,,Yamada-san.
+Dialogue: 0,0:09:30.32,0:09:33.26,Dialogue,,0,0,90,,If we let the three months just pass by like this...
+Dialogue: 0,0:09:33.26,0:09:35.80,Dialogue,,0,0,90,,That'd just be an even bigger waste, right?
+Dialogue: 0,0:09:38.19,0:09:41.34,Dialogue,,0,0,90,,Okay! From now on, let's use them more freely!{BUT KYOU THIS SPELLS CERTAIN DOOM FOR YOUUUUUUUUUU}
+Dialogue: 0,0:09:41.87,0:09:43.53,Dialogue,,0,0,90,,S-Sure.
+Dialogue: 0,0:09:43.53,0:09:47.75,Dialogue,,0,0,90,,We shouldn't be {flagrantly}wasteful with them, of course. Just in case something happens.{y u do dis 2 meh, brane}
+Dialogue: 0,0:09:47.75,0:09:52.75,Dialogue,,0,0,90,,Onee-chan, if you put it that way, you know we'll just spend another week without using them at all.
+Dialogue: 0,0:09:53.04,0:09:54.28,Dialogue,,0,0,90,,I guess you're right.
+Dialogue: 0,0:09:57.62,0:09:59.05,Dialogue,,0,0,90,,The evening papers...
+Dialogue: 0,0:09:59.66,0:10:02.03,Dialogue,,0,0,90,,I have to wake up, get out there and try my best!
+Dialogue: 0,0:10:05.03,0:10:06.57,Dialogue,,0,0,90,,Power on!
+Dialogue: 0,0:10:07.05,0:10:08.41,Dialogue,,0,0,90,,Yamada-san!{blargh, right. Leaving in honorifics.}
 Dialogue: 0,0:10:08.41,0:10:08.92,Dialogue,,0,0,90,,Yes?
-Dialogue: 0,0:10:09.04,0:10:10.64,Dialogue,,0,0,90,,Can you help me for a sec?
-Dialogue: 0,0:10:10.66,0:10:11.75,Dialogue,,0,0,90,,Okay.
-Dialogue: 0,0:10:29.18,0:10:33.21,Dialogue,,0,0,90,,Onee-chan didn't pick up. School should have let out already.
-Dialogue: 0,0:10:34.24,0:10:35.71,Dialogue,,0,0,90,,I wonder if something happened...
+Dialogue: 0,0:10:09.04,0:10:10.64,Dialogue,,0,0,90,,Can you give me a hand, please?{lol idiom}
+Dialogue: 0,0:10:10.66,0:10:11.75,Dialogue,,0,0,90,,Sure!
+Dialogue: 0,0:10:29.18,0:10:33.21,Dialogue-italic,,0,0,90,,Onee-chan isn't answering, even though school should be over by now.
+Dialogue: 0,0:10:34.24,0:10:35.71,Dialogue-italic,,0,0,90,,I wonder if something could have happened.
 Dialogue: 0,0:10:37.37,0:10:38.84,Dialogue,,0,0,90,,Ah, Ginko-chan.
-Dialogue: 0,0:10:38.97,0:10:41.24,Dialogue,,0,0,90,,So you finally decided to call.
-Dialogue: 0,0:10:41.24,0:10:45.35,Dialogue,,0,0,90,,Yeah, because Onee-chan said to use it more freely.
-Dialogue: 0,0:10:45.56,0:10:50.20,Dialogue,,0,0,90,,I wanted to ask her whether she wanted curry or stewed meat for dinner.
-Dialogue: 0,0:10:50.31,0:10:52.68,Dialogue,,0,0,90,,Calling for such a matter is so boring.
-Dialogue: 0,0:10:54.09,0:10:57.97,Dialogue,,0,0,90,,Oh yeah, Ginko-chan. if you want, you should give me a call.
-Dialogue: 0,0:10:58.16,0:11:02.82,Dialogue,,0,0,90,,Your number... Well, I guess I will when I feel like it.
-Dialogue: 0,0:11:04.57,0:11:07.63,Dialogue,,0,0,90,,Anyway, what happened to Onee-chan?
-Dialogue: 0,0:11:08.18,0:11:10.20,Dialogue,,0,0,90,,She must be really tired. I'm so worried.
-Dialogue: 0,0:11:10.20,0:11:18.27,Dialogue,,0,0,90,,(Our only goal is the before closing sale.)
-Dialogue: 0,0:11:18.27,0:11:26.80,Dialogue,,0,0,90,,(On paydays we can have a luxurious dinner with three side dishes.)
+Dialogue: 0,0:10:38.97,0:10:41.24,Dialogue,,0,0,90,,So you finally worked up the nerve to use it, eh?{I like the scaredy-cat implication, but the phrasing leaves a lot to be desired}
+Dialogue: 0,0:10:41.24,0:10:45.35,Dialogue,,0,0,90,,Yeah, Onee-chan and I decided that we should use them a little more freely.
+Dialogue: 0,0:10:45.56,0:10:50.20,Dialogue,,0,0,90,,I wanted to ask her whether she would prefer curry or meat and potatoes for dinner tonight, but...
+Dialogue: 0,0:10:50.31,0:10:52.68,Dialogue,,40,40,90,,Even though you use the same ingredients in both dishes.{hmmmmmmmmmmmmmmmmmmmmm}
+Dialogue: 0,0:10:54.09,0:10:57.97,Dialogue,,0,0,90,,Oh yeah, Ginko-chan, if you want to call us, go right ahead, okay?
+Dialogue: 0,0:10:58.16,0:11:00.06,Dialogue,,0,0,90,,Your phone numbers...
+Dialogue: 0,0:11:01.27,0:11:02.82,Dialogue,,0,0,90,,Well, I guess I will if I feel like it.
+Dialogue: 0,0:11:04.57,0:11:07.63,Dialogue-italic,,0,0,90,,Anyway, what could have happened to Onee-chan?
+Dialogue: 0,0:11:08.18,0:11:10.20,Dialogue-italic,,0,0,90,,She's been really tired, so I'm pretty worried.
 Dialogue: 0,0:11:33.30,0:11:34.72,Dialogue,,0,0,90,,You can't reach her?
+Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,
 Dialogue: 0,0:11:34.72,0:11:36.72,Dialogue,,0,0,90,,Yeah, it's strange.
 Dialogue: 0,0:11:36.72,0:11:37.56,Dialogue,,0,0,90,,Connection problems?
 Dialogue: 0,0:11:37.73,0:11:39.18,Dialogue,,0,0,90,,I'm not sure...
