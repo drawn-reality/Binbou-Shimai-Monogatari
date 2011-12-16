@@ -10,12 +10,13 @@ Video Zoom: 8
 PlayResX: 712
 Video File: BMS_09_Raw_v8_[E6768D28].mkv
 Video Aspect Ratio: 0
-Video Position: 30534
+Video Position: 8873
 WrapStyle: 0
-ScaledBorderAndShadow: no
+ScaledBorderAndShadow: yes
 Last Style Storage: Binbou Shimai Monogatari
 Automation Scripts: ~..\..\Aegisub-Motion\Aegisub-Motion.lua
 Keyframes File: ..\..\..\binbou\9 scdata.txt
+Title: Binbou Shimai Monogatari - 09
 Audio URI: C:\@projects\git\Subtitles\Binbou Shimai Monogatari\BMS_09_Raw_v8_[E6768D28].wav
 
 [V4+ Styles]
@@ -143,7 +144,7 @@ Dialogue: 0,0:05:56.10,0:05:57.73,Dialogue,,0,0,0,,Hello!
 Dialogue: 0,0:05:57.73,0:05:59.26,Dialogue,,0,0,0,,Hello.
 Dialogue: 0,0:06:03.19,0:06:04.88,Dialogue,,0,0,0,,Is that how it’s supposed to go?
 Dialogue: 0,0:06:08.64,0:06:10.02,Dialogue,,0,0,0,,Did you hang up?
-Dialogue: 0,0:06:10.02,0:06:11.65,Dialogue,,0,0,0,,That was pretty risky!{vocabulary, y u fail me}
+Dialogue: 0,0:06:10.02,0:06:11.65,Dialogue,,0,0,0,,That was a close call!{Hale, you should be very proud of this pun!}
 Dialogue: 0,0:06:11.65,0:06:12.45,Dialogue,,0,0,0,,What was?
 Dialogue: 0,0:06:12.45,0:06:14.66,Dialogue,,0,0,0,,We have a limited number of minutes to use on these!
 Dialogue: 0,0:06:15.18,0:06:18.35,Dialogue,,0,0,0,,3000 yen worth. We should only use them for important stuff.{FUCK YOU, SCENE CHANGE}
