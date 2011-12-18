@@ -8,16 +8,10 @@ PlayDepth: 0
 Timer: 100.0000
 Video Zoom: 8
 PlayResX: 712
-Video File: BMS_09_Raw_v8_[E6768D28].mkv
-Video Aspect Ratio: 0
-Video Position: 8873
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Last Style Storage: Binbou Shimai Monogatari
-Automation Scripts: ~..\..\Aegisub-Motion\Aegisub-Motion.lua
-Keyframes File: ..\..\..\binbou\9 scdata.txt
 Title: Binbou Shimai Monogatari - 09
-Audio URI: C:\@projects\git\Subtitles\Binbou Shimai Monogatari\BMS_09_Raw_v8_[E6768D28].wav
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +39,7 @@ Dialogue: 3,0:04:47.22,0:04:51.47,generic sign style,,0,0,0,,{\fad(238,0)\fnnopa
 Dialogue: 0,0:04:47.22,0:04:51.47,generic sign style,,0,0,0,,{\fad(238,0)\alpha&H80&\fnnopasd\b1\c&H000000&\bord1\shad0\pos(361,467)\blur0.7\fsp3\shad0\fs40}U{\fs25}neasiness{\fs40},{\fs16} {\fs25}and{\fs16} {\fs40}C{\fs25}ell{\fs16} {\fs40}P{\fs25}hones
 Dialogue: 1,0:04:47.22,0:04:51.47,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&HFFFFFF&\bord1.5\shad0\blur1.5\3c&HFFFFFF&\fsp3\fs40\pos(357,462)}U{\fs25}neasiness{\fs40},{\fs16} {\fs25}and{\fs16} {\fs40}C{\fs25}ell{\fs16} {\fs40}P{\fs25}hones
 Dialogue: 2,0:04:47.22,0:04:51.47,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H5AD3FE&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs40}U{\fs25}neasiness{\fs40},{\fs16} {\fs25}and{\fs16} {\fs40\c&HF4DA93&}C{\fs25}ell{\fs16} {\fs40}P{\fs25}hones
-Dialogue: 3,0:04:47.22,0:04:51.47,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H80DB96&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs40\clip(m 167 414 l 561 414 558 443 503 453 482 448 452 449 452 444 439 445 425 450 403 450 386 449 385 445 356 450 356 444 340 445 330 453 312 451 312 451 297 458 300 448 290 452 273 451 252 450 223 444 167 451)}U{\fs25}neasiness{\fs40\c&HF19AFE&},{\fs16} {\fs25}and{\fs16} {\fs40\c&HFEAAE5&}C{\fs25}ell{\fs16} {\fs40}P{\fs25}hones
+Dialogue: 3,0:04:47.22,0:04:51.47,generic sign style,,0,0,0,,{\fad(238,0)\fnnopasd\b1\c&H80DB96&\bord1.2\shad0\3c&H5F6C6E&\pos(356,462)\fsp3\fs40\clip(m 166 414 l 560 414 548 442 502 454 486 445 473 453 442 450 441 442 438 445 418 451 401 448 386 449 386 438 356 450 356 444 339 445 330 453 312 451 312 451 297 458 300 448 290 452 273 451 250 450 222 444 166 451)}U{\fs25}neasiness{\fs40\c&HF19AFE&},{\fs16} {\fs25}and{\fs16} {\fs40\c&HFEAAE5&}C{\fs25}ell{\fs16} {\fs40}P{\fs25}hones
 Dialogue: 0,0:11:00.97,0:11:08.98,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\b1\frz8\pos(140.807,64.798)}Our only goal is to make it to\Nthe store-closing-sale on time.{this is probably wrong, terrible and terribly wrong}{(Our only goal is the before closing sale.)}
 Dialogue: 0,0:11:00.97,0:11:08.98,generic sign style,,0,0,0,,{\fax-0.25\frz43.6\pos(602.424,317.709)\c&H232323&}Half Price!
 Dialogue: 0,0:11:00.97,0:11:08.98,generic sign style,,0,0,0,,{\frz40.5\fax-0.25\pos(600.185,70.911)\c&H232323&}50% Off
@@ -53,9 +47,9 @@ Dialogue: 0,0:11:08.98,0:11:17.48,generic sign style,,0,0,0,,{\c&H343434&\fnmega
 Dialogue: 0,0:12:54.83,0:12:57.92,Dialogue,,0,0,0,,{\c&H18161E&\3c&H979EAA&\shad0\fs12\frz346.5\pos(337.454,248.658)}Missed Call
 Dialogue: 0,0:12:59.88,0:13:02.74,Dialogue,,0,0,0,,{\c&H2C2228&\3c&H8FA0A7&\shad0\fs14\frz350\fax0.07\pos(358.315,227.135)}Missed Call
 Comment: 0,0:13:33.83,0:13:35.37,Dialogue,,0,0,0,,{\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
-Dialogue: 0,0:13:33.83,0:13:33.83,Dialogue,,0,0,0,,{\pos(370.41,264.25)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5}Missed Call
-Dialogue: 0,0:13:33.83,0:13:33.83,Dialogue,,0,0,0,,{\pos(370.41,269.98)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
-Dialogue: 0,0:13:33.83,0:13:33.83,Dialogue,,0,0,0,,{\pos(370.4,275.66)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
+Dialogue: 0,0:13:33.83,0:13:33.87,Dialogue,,0,0,0,,{\pos(370.41,264.25)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5}Missed Call
+Dialogue: 0,0:13:33.87,0:13:34.00,Dialogue,,0,0,0,,{\pos(370.41,269.98)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
+Dialogue: 0,0:13:34.00,0:13:34.12,Dialogue,,0,0,0,,{\pos(370.4,275.66)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
 Dialogue: 0,0:13:34.12,0:13:34.16,Dialogue,,0,0,0,,{\pos(370.4,282.63)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
 Dialogue: 0,0:13:34.16,0:13:34.25,Dialogue,,0,0,0,,{\pos(370.4,282.62)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
 Dialogue: 0,0:13:34.25,0:13:34.37,Dialogue,,0,0,0,,{\pos(370.41,273.73)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
@@ -65,25 +59,27 @@ Dialogue: 0,0:13:34.62,0:13:34.75,Dialogue,,0,0,0,,{\pos(370.4,275.67)\c&H38241C
 Dialogue: 0,0:13:34.75,0:13:34.87,Dialogue,,0,0,0,,{\pos(370.4,282.64)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
 Dialogue: 0,0:13:34.87,0:13:35.00,Dialogue,,0,0,0,,{\pos(370.4,273.74)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
 Dialogue: 0,0:13:35.00,0:13:35.12,Dialogue,,0,0,0,,{\pos(370.4,264.24)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
-Dialogue: 0,0:13:35.37,0:13:35.37,Dialogue,,0,0,0,,{\pos(370.39,269.97)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
-Dialogue: 0,0:13:35.37,0:13:35.37,Dialogue,,0,0,0,,{\pos(370.38,275.68)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
-Dialogue: 0,0:00:12.52,0:00:16.76,Dialogue,,0,0,0,,We have a winner! Congratulations!
+Dialogue: 0,0:13:35.12,0:13:35.25,Dialogue,,0,0,0,,{\pos(370.39,269.97)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
+Dialogue: 0,0:13:35.25,0:13:35.37,Dialogue,,0,0,0,,{\pos(370.38,275.68)\c&H38241C&\3c&HDDEFF9&\bord2.7\fax-0.07\shad0\fs46\frz15.5\pos(370.41,264.247)}Missed Call
+Dialogue: 0,0:00:12.52,0:00:14.32,Dialogue,,0,0,0,,We have a winner!
+Dialogue: 0,0:00:14.74,0:00:16.76,Dialogue,,0,0,0,,Congratulations!
 Dialogue: 0,0:00:18.44,0:00:20.31,Dialogue,,0,0,0,,I-I got it...
 Dialogue: 0,0:00:20.31,0:00:22.63,Dialogue,,0,0,0,,That’s right, the third prize!{or just third prize, idk how this stuff is done}
 Dialogue: 0,0:00:22.63,0:00:26.74,Dialogue,,0,0,0,,Let’s see, third prize is... Which one was it?
 Dialogue: 0,0:00:26.74,0:00:28.59,Dialogue,,0,0,0,,Ah, here it is!
 Dialogue: 0,0:00:28.59,0:00:30.10,Dialogue,,0,0,0,,Tada!
-Dialogue: 0,0:00:30.10,0:00:32.84,Dialogue,,0,0,0,,This is the best of its kind! I’ll even make it a set!{These are the best of their kind, and they come as a set}
-Dialogue: 0,0:00:32.84,0:00:34.72,Dialogue,,0,0,0,,Isn’t that great!?
+Dialogue: 0,0:00:30.10,0:00:32.72,Dialogue,,0,0,0,,These are the best of their kind, and they come as a set!{These are the best of their kind, and they come as a set}
+Dialogue: 0,0:00:32.72,0:00:34.72,Dialogue,,0,0,0,,Isn’t that great!?
 Dialogue: 0,0:00:35.03,0:00:37.40,Dialogue-italic,,0,0,0,,Afterwards, I came to think,
-Dialogue: 0,0:00:37.40,0:00:43.26,Dialogue-italic,,0,0,0,,“These are definitely gifts for Asu and me from mother in heaven”.
+Dialogue: 0,0:00:37.40,0:00:43.26,Dialogue-italic,,0,0,0,,“These are definitely gifts for Asu and me from mother in heaven{\fsp-3}”{\fsp}.
 Dialogue: 0,0:00:47.88,0:00:49.32,Dialogue,,0,0,0,,I’m home.
 Dialogue: 0,0:00:49.62,0:00:53.07,Dialogue,,0,0,0,,Welcome home, Onee-chan. Thanks for all your hard work.
 Dialogue: 0,0:00:53.07,0:00:55.04,Dialogue,,0,0,0,,Breakfast is ready!
 Dialogue: 0,0:00:55.04,0:00:56.20,Dialogue,,0,0,0,,Thanks...
 Dialogue: 0,0:00:59.48,0:01:01.78,Dialogue,,0,0,0,,So tired...
 Dialogue: 0,0:01:07.16,0:01:08.44,Dialogue,,0,0,0,,Sorr{\fsp-1}y{\fsp}.
-Dialogue: 0,0:01:08.86,0:01:11.67,Dialogue,,0,0,0,,That’s fine. Are you oka{\fsp-1}y{\fsp}, Onee-chan?
+Dialogue: 0,0:01:08.86,0:01:11.44,Dialogue,,0,0,0,,That’s fine. Are you oka{\fsp-1}y{\fsp}, Onee-chan?
+Dialogue: 0,0:01:11.44,0:01:12.18,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:01:13.98,0:01:16.57,Dialogue,,0,0,0,,I’m just spacing out a little.
 Dialogue: 0,0:01:16.96,0:01:18.30,Dialogue,,0,0,0,,This won’t do.
 Dialogue: 0,0:01:19.48,0:01:22.06,Dialogue,,0,0,0,,I’m going to go wash my face. I’ll be right back.
@@ -92,18 +88,18 @@ Dialogue: 0,0:01:34.81,0:01:37.86,Dialogue,,0,0,0,,I guess it’s bad manners to
 Dialogue: 0,0:01:37.86,0:01:39.30,Dialogue,,0,0,0,,No, that’s not what I meant...
 Dialogue: 0,0:01:39.30,0:01:41.40,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, I’m fine, I’m fine.{everything’s fine}
 Dialogue: 0,0:01:41.40,0:01:43.08,Dialogue,,0,0,0,,Well, I’ll see you late{\fsp-1}r{\fsp}. I’m off.
-Dialogue: 0,0:01:43.66,0:01:46.36,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, be careful and don’t forget to check before crossing the street, okay?
-Dialogue: 0,0:01:47.12,0:01:49.08,Dialogue,,0,0,0,,Yeah, I’ll be fine!
+Dialogue: 0,0:01:43.66,0:01:47.04,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, be careful and don’t forget to check before crossing the street, okay?{was just too short snapped to keyframe}
+Dialogue: 0,0:01:47.04,0:01:49.08,Dialogue,,0,0,0,,Yeah, I’ll be fine!
 Dialogue: 0,0:01:50.48,0:01:53.38,Dialogue,,0,0,0,,I guess I’m making Asu worry about me again.
 Dialogue: 0,0:01:53.38,0:01:55.32,Dialogue,,0,0,0,,I have to try harde{\fsp-1}r{\fsp}.
-Dialogue: 0,0:01:55.94,0:02:00.56,Dialogue-italic,,0,0,0,,Ever since the paper boy from the next district quit,
-Dialogue: 0,0:02:01.20,0:02:06.02,Dialogue-italic,,0,0,0,,I’ve been extra busy filling in for him until they find a replacement.{attaching gender pronouns unnecessarily.}
-Dialogue: 0,0:02:07.05,0:02:08.17,Dialogue,,0,0,0,,Oh, he{\fsp-1}y{\fsp}, Asu!
+Dialogue: 0,0:01:55.94,0:02:00.55,Dialogue-italic,,0,0,0,,Ever since the paper boy from the next district quit,
+Dialogue: 0,0:02:01.28,0:02:06.02,Dialogue-italic,,0,0,0,,I’ve been extra busy filling in for him until they find a replacement.{attaching gender pronouns unnecessarily.}
+Dialogue: 0,0:02:07.05,0:02:08.14,Dialogue,,0,0,0,,Oh, he{\fsp-1}y{\fsp}, Asu!
 Dialogue: 0,0:02:11.42,0:02:13.94,Dialogue-italic,,0,0,0,,I forgot to tell her again.
-Dialogue: 0,0:02:13.94,0:02:17.47,Dialogue,,0,0,0,,The pickled cucumbers she made for breakfast were great.{...um...yeah...}
+Dialogue: 0,0:02:13.94,0:02:17.47,Dialogue,,0,0,0,,The pickled cucumbers she made for breakfast were really tasty.
 Dialogue: 0,0:02:23.16,0:02:25.95,Dialogue,,0,0,0,,The third prize!
 Dialogue: 0,0:02:25.95,0:02:27.54,Dialogue,,0,0,0,,Congratulations, Asu-chan!
-Dialogue: 0,0:02:27.54,0:02:31.36,Dialogue,,0,0,0,,This is the third prize! I’ll even make it a pair for you!
+Dialogue: 0,0:02:27.54,0:02:31.36,Dialogue,,0,0,0,,This is the third prize! It comes as a set!{tapdancing jesus christ, now is not the time to be second-guessing translations}
 Dialogue: 0,0:02:31.86,0:02:33.78,Dialogue,,0,0,0,,Premium, prepaid cell phones!
 Dialogue: 0,0:02:33.78,0:02:35.30,Dialogue,,0,0,0,,The SIM cards are included.
 Dialogue: 0,0:02:35.30,0:02:38.10,Dialogue,,0,0,0,,Now, let’s get that bagged up for you.{why does this guy look so creepy}
@@ -115,7 +111,8 @@ Dialogue: 0,0:03:01.40,0:03:04.60,Dialogue,,0,0,0,,Thus, we were abandoned.
 Dialogue: 0,0:03:05.76,0:03:09.77,Dialogue,,0,0,0,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
 Dialogue: 0,0:03:09.77,0:03:12.22,Dialogue,,0,0,0,,This is our home.
 Dialogue: 0,0:03:12.22,0:03:14.70,Dialogue,,0,0,0,,But, when spring comes...
-Dialogue: 0,0:04:52.13,0:04:56.38,Dialogue,,0,0,0,,Asu, w-why do we have these?
+Dialogue: 0,0:04:52.91,0:04:53.85,Dialogue,,0,0,0,,Asu!
+Dialogue: 0,0:04:53.85,0:04:56.02,Dialogue,,0,0,0,,W-Why do we have these?
 Dialogue: 0,0:04:56.38,0:04:58.62,Dialogue,,0,0,0,,There was a raffle in the shopping district toda{\fsp-1}y{\fsp}.
 Dialogue: 0,0:04:58.62,0:05:01.04,Dialogue,,0,0,0,,These are real, right, Onee-chan?
 Dialogue: 0,0:05:02.70,0:05:03.65,Dialogue,,0,0,0,,Onee-chan?
@@ -130,8 +127,8 @@ Dialogue: 0,0:05:21.11,0:05:23.32,Dialogue,,0,0,0,,I wonder how you’re suppose
 Dialogue: 0,0:05:23.32,0:05:26.58,Dialogue,,0,0,0,,Let’s see. To turn it on, you’re supposed to press...
 Dialogue: 0,0:05:26.58,0:05:27.61,Dialogue,,0,0,0,,Is it here?
 Dialogue: 0,0:05:27.61,0:05:28.30,Dialogue,,0,0,0,,Where, where?
-Dialogue: 0,0:05:28.30,0:05:29.76,Dialogue,,0,0,0,,After that,
-Dialogue: 0,0:05:30.20,0:05:36.14,Dialogue,,0,0,0,,the prepaid plan gives us 3000 yen worth of minutes to use in three months.{Then you choose the payment method. This card has 3000 yen and works for three months.}
+Dialogue: 0,0:05:28.30,0:05:29.68,Dialogue,,0,0,0,,After that,
+Dialogue: 0,0:05:29.68,0:05:36.14,Dialogue,,0,0,0,,um, the prepaid plan gives us 3000 yen worth of minutes to use in three months.{Then you choose the payment method. This card has 3000 yen and works for three months.}
 Dialogue: 0,0:05:36.14,0:05:37.48,Dialogue,,0,0,0,,3000 yen worth?{ARGH ARGH ARGH}
 Dialogue: 0,0:05:37.48,0:05:39.48,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, look at the next part.
 Dialogue: 0,0:05:39.48,0:05:41.54,Dialogue,,0,0,0,,“Enter the number, and...”
@@ -148,13 +145,14 @@ Dialogue: 0,0:06:10.02,0:06:11.65,Dialogue,,0,0,0,,That was a close call!{Hale, 
 Dialogue: 0,0:06:11.65,0:06:12.45,Dialogue,,0,0,0,,What was?
 Dialogue: 0,0:06:12.45,0:06:14.66,Dialogue,,0,0,0,,We have a limited number of minutes to use on these!
 Dialogue: 0,0:06:15.18,0:06:18.35,Dialogue,,0,0,0,,3000 yen worth. We should only use them for important stuff.{FUCK YOU, SCENE CHANGE}
-Dialogue: 0,0:06:18.73,0:06:21.16,Dialogue,,0,0,0,,Oh, I suppose you're right.{9 YEAR OLD ENGLISH RIGHT HERE}
+Dialogue: 0,0:06:18.73,0:06:21.16,Dialogue,,0,0,0,,Oh, I suppose you’re right.{9 YEAR OLD ENGLISH RIGHT HERE}
 Dialogue: 0,0:06:30.99,0:06:33.23,Dialogue,,0,0,0,,Onee-chan, are you okay?
-Dialogue: 0,0:06:34.19,0:06:36.47,Dialogue,,0,0,0,,Looks like I did it again, huh? Yes, I’m fine!
+Dialogue: 0,0:06:34.19,0:06:36.47,Dialogue,,0,0,0,,Looks like I was doing it again, huh? Yes, I’m fine!
 Dialogue: 0,0:06:36.47,0:06:39.24,Dialogue,,0,0,0,,Plus, starting from toda{\fsp-1}y{\fsp}, we have these, right?
-Dialogue: 0,0:06:45.59,0:06:48.78,Dialogue,,0,0,0,,If anything happens, call me right awa{\fsp-1}y{\fsp}, okay?
-Dialogue: 0,0:06:48.78,0:06:50.24,Dialogue,,0,0,0,,The same goes for you, Onee-chan.
-Dialogue: 0,0:06:50.24,0:06:52.06,Dialogue,,0,0,0,,Well then, I’m off!
+Dialogue: 0,0:06:39.24,0:06:40.58,Dialogue,,0,0,0,,Tada!
+Dialogue: 0,0:06:45.59,0:06:48.66,Dialogue,,0,0,0,,If anything happens, call me right awa{\fsp-1}y{\fsp}, okay?
+Dialogue: 0,0:06:48.66,0:06:49.80,Dialogue,,0,0,0,,You too, Onee-chan.
+Dialogue: 0,0:06:50.38,0:06:52.06,Dialogue,,0,0,0,,Well then, I’m off!
 Dialogue: 0,0:06:53.09,0:06:54.86,Dialogue-italic,,0,0,0,,I’m really tired again toda{\fsp-1}y{\fsp}.
 Dialogue: 0,0:06:58.80,0:07:00.46,Dialogue,,0,0,0,,I forgot to thank her again,
 Dialogue: 0,0:07:00.46,0:07:02.94,Dialogue,,0,0,0,,even though the tofu-miso soup was so wonderful.
@@ -185,20 +183,20 @@ Dialogue: 0,0:08:27.15,0:08:29.31,Dialogue,,0,0,0,,Maybe I should call he{\fsp-1
 Dialogue: 0,0:08:30.11,0:08:31.99,Dialogue,,0,0,0,,No, no, that’d be wasteful!
 Dialogue: 0,0:08:38.93,0:08:45.99,Dialogue-italic,,0,0,0,,Wait a minute, maybe a time will come when we’ll really need to use these.
 Dialogue: 0,0:08:45.99,0:08:51.63,Dialogue-italic,,0,0,0,,If I call now when there’s nothing big to talk about and those minutes get used up...
-Dialogue: 0,0:08:57.98,0:09:00.40,Dialogue,,0,0,0,,How come you won’t use it? You should just call her if you want.
-Dialogue: 0,0:09:00.78,0:09:02.88,Dialogue,,0,0,0,,Yeah, I guess you’re right.
-Dialogue: 0,0:09:08.69,0:09:11.69,Dialogue-italic,,0,0,0,,Maybe this is what they call being destined to povert{\fsp-1}y{\fsp}...{So that’s the mentality of a poor person, eh?}{tbph I don’t like either of these. Though I have a feeling she’s using some kind of idiom here, I don’t know what it is, so I can’t look it up.}{binbou shou tei yuno... probably typed that out horribly wrong}
+Dialogue: 0,0:08:57.98,0:09:00.66,Dialogue,,0,0,0,,How come you won’t use it? You should just call her if you want.
+Dialogue: 0,0:09:00.66,0:09:02.88,Dialogue,,0,0,0,,Yeah, I guess you’re right.
+Dialogue: 0,0:09:08.69,0:09:11.69,Dialogue-italic,,0,0,0,,Maybe this is what they mean by “a poor person’s mentality{\fsp-3}”{\fsp}.{貧乏性 【びんぼうしょう】 (n) destined to poverty; parsimonious spirit; tendency to be frugal; poor person’s mentality (e.g. inability to relax)}
 Dialogue: 0,0:09:13.69,0:09:15.92,Dialogue,,0,0,0,,We’ve already had them for a week, huh?
 Dialogue: 0,0:09:15.92,0:09:16.84,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:09:16.84,0:09:19.53,Dialogue,,0,0,0,,And we haven’t even used them once.{well, TECHNICALLY, it should be "we never used them after that one time" but EH}
-Dialogue: 0,0:09:19.53,0:09:20.55,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:09:20.91,0:09:23.90,Dialogue,,0,0,0,,If we let the three months just pass by like this...
+Dialogue: 0,0:09:16.84,0:09:19.53,Dialogue,,0,0,0,,But we haven’t even used them yet.{well, TECHNICALLY, it should be "we never used them after that one time" but EH}
+Dialogue: 0,0:09:19.53,0:09:20.42,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:09:20.98,0:09:23.90,Dialogue,,0,0,0,,If we let the three months just pass by like this...
 Dialogue: 0,0:09:23.90,0:09:26.68,Dialogue,,0,0,0,,That’d just be an even bigger waste, right?
 Dialogue: 0,0:09:28.84,0:09:31.80,Dialogue,,0,0,0,,Okay! From now on, let’s use them more freely!{BUT KYOU THIS SPELLS CERTAIN DOOM FOR YOUUUUUUUUUU}
 Dialogue: 0,0:09:32.46,0:09:34.01,Dialogue,,0,0,0,,S-Sure.
 Dialogue: 0,0:09:34.26,0:09:38.48,Dialogue,,0,0,0,,We shouldn’t be {flagrantly}wasteful with them, of course—just in case something happens.{y u do dis 2 meh, brane}
 Dialogue: 0,0:09:38.48,0:09:43.62,Dialogue,,0,0,0,,Onee-chan, if you put it that wa{\fsp-1}y{\fsp}, we’ll just spend another week without using them at all.
-Dialogue: 0,0:09:43.62,0:09:45.27,Dialogue,,0,0,0,,I guess you’re right.
+Dialogue: 0,0:09:43.62,0:09:46.02,Dialogue,,0,0,0,,{\t(897,2382,\c&H000000&\3c&H000000&\4c&H000000&\4a&HFF&)}I guess you’re right.
 Dialogue: 0,0:09:48.06,0:09:49.88,Dialogue,,0,0,0,,The evening papers...
 Dialogue: 0,0:09:50.25,0:09:52.78,Dialogue,,0,0,0,,I have to wake up, get out there, and try my best!
 Dialogue: 0,0:09:55.49,0:09:57.34,Dialogue,,0,0,0,,Power on!
@@ -206,18 +204,18 @@ Dialogue: 0,0:09:57.76,0:09:59.14,Dialogue-italic,,0,0,0,,Yamada-san!{blargh, ri
 Dialogue: 0,0:09:59.14,0:09:59.91,Dialogue,,0,0,0,,Yes?
 Dialogue: 0,0:09:59.91,0:10:01.48,Dialogue,,0,0,0,,Can you give me a hand, please?{lol idiom}
 Dialogue: 0,0:10:01.48,0:10:02.58,Dialogue,,0,0,0,,Sure!
-Dialogue: 0,0:10:19.77,0:10:24.20,Dialogue-italic,,0,0,0,,Onee-chan isn’t answering, even though school should be over by now.
-Dialogue: 0,0:10:24.92,0:10:26.98,Dialogue-italic,,0,0,0,,I wonder if something could have happened.
+Dialogue: 0,0:10:19.77,0:10:24.20,Dialogue-italic,,40,40,0,,Onee-chan isn’t answering, even though school’s already over.
+Dialogue: 0,0:10:24.92,0:10:26.54,Dialogue-italic,,0,0,0,,I wonder if something could have happened.
 Dialogue: 0,0:10:27.96,0:10:29.80,Dialogue,,0,0,0,,Ah, Ginko-chan.
 Dialogue: 0,0:10:29.80,0:10:31.81,Dialogue,,0,0,0,,So you finally worked up the nerve to use it, eh?{I like the scaredy-cat implication, but the phrasing leaves a lot to be desired}
 Dialogue: 0,0:10:31.81,0:10:36.34,Dialogue,,0,0,0,,Yeah, Onee-chan and I decided that we should use them a little more freel{\fsp-1}y{\fsp}.
 Dialogue: 0,0:10:36.34,0:10:40.95,Dialogue,,0,0,0,,I wanted to ask her whether she would prefer curry or meat and potato stew for dinner tonight, but...{肉ジャガ 【にくジャガ】 (n) meat and potato stew}
-Dialogue: 0,0:10:40.95,0:10:43.67,Dialogue,,40,40,0,,Even though you use the same ingredients in both dishes.{hmmmmmmmmmmmmmmmmmmmmm}
+Dialogue: 0,0:10:40.95,0:10:43.67,Dialogue,,40,40,0,,But both dishes have the same ingredients.{hmmmmmmmmmmmmmmmmmmmmm}
 Dialogue: 0,0:10:44.76,0:10:48.79,Dialogue,,0,0,0,,Oh yeah, Ginko-chan, if you want to call us, go right ahead, okay?
-Dialogue: 0,0:10:49.18,0:10:51.16,Dialogue,,0,0,0,,Your phone numbers...
-Dialogue: 0,0:10:51.98,0:10:53.25,Dialogue,,0,0,0,,Well, I guess I will if I feel like it.
-Dialogue: 0,0:10:55.16,0:10:58.38,Dialogue-italic,,0,0,0,,Anywa{\fsp-1}y{\fsp}, what could have happened to Onee-chan?
-Dialogue: 0,0:10:58.77,0:11:00.97,Dialogue-italic,,0,0,0,,She’s been really tired, so I’m pretty worried.
+Dialogue: 0,0:10:49.34,0:10:51.16,Dialogue,,0,0,0,,Your phone numbers...
+Dialogue: 0,0:10:51.98,0:10:53.25,Dialogue,,0,0,0,,Sure, if I feel like it.
+Dialogue: 0,0:10:55.16,0:10:58.68,Dialogue-italic,,0,0,0,,Anywa{\fsp-1}y{\fsp}, what could have happened to Onee-chan?
+Dialogue: 0,0:10:58.68,0:11:00.97,Dialogue-italic,,0,0,0,,She’s been really tired, so I’m pretty worried.
 Dialogue: 0,0:11:23.90,0:11:25.48,Dialogue,,0,0,0,,You can’t reach her?
 Dialogue: 0,0:11:25.48,0:11:27.45,Dialogue,,0,0,0,,Yeah, that’s strange, isn’t it...
 Comment: 0,0:11:25.45,0:11:27.45,Dialogue,,0,0,0,,
@@ -234,12 +232,13 @@ Dialogue: 0,0:11:56.14,0:11:58.52,Dialogue,,0,0,0,,Onee-sama, it’s Ginko.
 Dialogue: 0,0:11:58.52,0:12:01.59,Dialogue,,0,0,0,,Yes, sorry to be calling you so suddenl{\fsp-1}y{\fsp}.
 Dialogue: 0,0:12:01.59,0:12:03.06,Dialogue,,0,0,0,,Is everything okay with you at the moment?
 Dialogue: 0,0:12:03.06,0:12:06.25,Dialogue,,0,0,0,,Yes, yes. Oh, is that so, Onee-sama.
-Dialogue: 0,0:12:07.64,0:12:09.36,Dialogue-italic,,0,0,0,,{\an8}That’s amazing.
+Dialogue: 0,0:12:07.64,0:12:09.14,Dialogue-italic,,0,0,0,,That’s amazing.
 Dialogue: 0,0:12:06.25,0:12:09.76,Dialogue,,0,0,0,,I heard it was won from a shopping district raffle, yes.
 Dialogue: 0,0:12:10.14,0:12:11.96,Dialogue,,0,0,0,,I think it was the third prize.
 Dialogue: 0,0:12:12.48,0:12:13.14,Dialogue,,0,0,0,,Yes.{Jesus fuck she shouts these with an unnatural vigor}
-Dialogue: 0,0:12:12.48,0:12:16.66,Dialogue,,0,0,0,,{\an8}If only I could be that carefree on the phone, too.
+Dialogue: 0,0:12:12.48,0:12:16.66,Dialogue-italic,,0,0,0,,If only I could be that carefree on the phone, too.
 Dialogue: 0,0:12:14.50,0:12:15.19,Dialogue,,0,0,0,,Uh-huh, uh-huh.
+Dialogue: 0,0:12:16.96,0:12:17.54,Dialogue,,0,0,0,,Yes!
 Dialogue: 0,0:12:18.20,0:12:20.38,Dialogue,,0,0,0,,Yes, thank you very much.
 Dialogue: 0,0:12:20.38,0:12:20.80,Dialogue,,0,0,0,,Yes.
 Dialogue: 0,0:12:20.80,0:12:23.88,Dialogue-italic,,0,0,0,,This isn’t the time for a long conversation!
@@ -253,12 +252,12 @@ Dialogue: 0,0:12:39.09,0:12:42.78,Dialogue-italic,,0,0,0,,Oh yeah... Onee-chan h
 Dialogue: 0,0:12:42.78,0:12:44.82,Dialogue-italic,,0,0,0,,she probably wouldn’t be up for a long conversation anywa{\fsp-1}y{\fsp}.
 Dialogue: 0,0:12:47.37,0:12:48.88,Dialogue,,0,0,0,,Ah, yes.
 Dialogue: 0,0:12:50.55,0:12:54.41,Dialogue-italic,,0,0,0,,Ginko-chan, it’s good that you can have a full conversation like this.
-Dialogue: 0,0:12:55.61,0:12:56.93,Dialogue,,0,0,0,,Yamada-san, thank you.
-Dialogue: 0,0:12:56.93,0:12:57.92,Dialogue,,0,0,0,,Sure!
-Dialogue: 0,0:12:58.22,0:13:00.28,Dialogue,,0,0,0,,Hm, what’s this?
-Dialogue: 0,0:13:00.28,0:13:02.72,Dialogue,,0,0,0,,Ah, I missed a call.
-Dialogue: 0,0:13:03.07,0:13:04.36,Dialogue,,0,0,0,,It’s from Asu!
-Dialogue: 0,0:13:09.87,0:13:11.58,Dialogue,,0,0,0,,It’s busy?
+Dialogue: 0,0:12:55.61,0:12:56.93,Dialogue-italic,,0,0,0,,Yamada-san, thank you.
+Dialogue: 0,0:12:56.93,0:12:57.92,Dialogue-italic,,0,0,0,,Sure!
+Dialogue: 0,0:12:58.34,0:12:59.88,Dialogue,,0,0,0,,Hm, what’s this?
+Dialogue: 0,0:13:00.40,0:13:02.72,Dialogue,,0,0,0,,Ah, I missed a call.
+Dialogue: 0,0:13:02.74,0:13:04.36,Dialogue,,0,0,0,,It’s from Asu!
+Dialogue: 0,0:13:09.87,0:13:11.58,Dialogue,,0,0,0,,What? It’s busy?
 Dialogue: 0,0:13:12.08,0:13:15.08,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}. That’s the tissue paper from the shopping district?{alternate translation: kleenex}
 Dialogue: 0,0:13:15.08,0:13:16.21,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
 Dialogue: 0,0:13:16.21,0:13:17.71,Dialogue,,0,0,0,,Uh, yes.
@@ -279,53 +278,53 @@ Dialogue: 0,0:14:02.63,0:14:04.15,Dialogue,,0,0,0,,Looks like the battery died.
 Dialogue: 0,0:14:07.17,0:14:08.35,Dialogue,,0,0,0,,Um...
 Dialogue: 0,0:14:08.84,0:14:13.36,Dialogue,,0,0,0,,If you don’t properly charge it, the battery will die really fast, you know.
 Dialogue: 0,0:14:16.27,0:14:21.99,Dialogue-italic,,0,0,0,,The number you have dialed is either not currently turned on or is not within range of—
-Dialogue: 0,0:14:23.12,0:14:26.53,Dialogue-italic,,0,0,0,,It’s not connecting. What could be wrong?
+Dialogue: 0,0:14:22.80,0:14:26.53,Dialogue-italic,,0,0,0,,It’s not connecting. What could be wrong?
 Dialogue: 0,0:14:26.53,0:14:28.36,Dialogue-italic,,0,0,0,,Maybe something happened.
 Dialogue: 0,0:14:29.67,0:14:31.98,Dialogue-italic,,0,0,0,,The number you have dialed is ei—
-Dialogue: 0,0:14:34.09,0:14:35.42,Dialogue-italic,,0,0,0,,Ah, Onee-chan—{THE SOUND OF RAPE}
+Dialogue: 0,0:14:34.09,0:14:34.98,Dialogue-italic,,0,0,0,,Ah, Onee-chan—{THE SOUND OF RAPE}
 Dialogue: 0,0:14:37.95,0:14:39.56,Dialogue-italic,,0,0,0,,Something must have happened.
 Dialogue: 0,0:14:43.69,0:14:46.57,Dialogue-italic,,0,0,0,,At this time, she’s always in the shopping district.
 Dialogue: 0,0:14:47.35,0:14:49.86,Dialogue,,0,0,0,,Excuse me! I’ll be right back!
-Dialogue: 0,0:14:53.87,0:14:56.87,Dialogue-italic,,0,0,0,,I wonder what it was Onee-chan wanted to talk about.{So. This show, instead of creating actual drama that might serve as a means for character development and plot progression, creates horribly forced, contrived drama in order to create "a moment of relief", in which the characters realize everything was okay. Well, at least it’s consistent.}
-Dialogue: 0,0:14:58.96,0:15:02.06,Dialogue-italic,,0,0,0,,She looked pretty drowsy when she left this morning.{because groggy makes me think of hangovers. Kyou may be many things, but episodes 1-8 have lead me to believe that a drunkard is not one of them.}
-Dialogue: 0,0:15:02.43,0:15:05.17,Dialogue-italic,,0,0,0,,Maybe she started feeling sick?
+Dialogue: 0,0:14:53.87,0:14:56.87,Dialogue-italic,,0,0,0,,I wonder what Onee-chan wanted to talk about.{So. This show, instead of creating actual drama that might serve as a means for character development and plot progression, creates horribly forced, contrived drama in order to create "a moment of relief", in which the characters realize everything was okay. Well, at least it’s consistent.}
+Dialogue: 0,0:14:58.96,0:15:02.30,Dialogue-italic,,0,0,0,,She looked pretty drowsy when she left this morning.{because groggy makes me think of hangovers. Kyou may be many things, but episodes 1-8 have lead me to believe that a drunkard is not one of them.}
+Dialogue: 0,0:15:02.30,0:15:05.17,Dialogue-italic,,0,0,0,,Maybe she started feeling sick?
 Dialogue: 0,0:15:09.37,0:15:11.34,Dialogue,,0,0,0,,Sa{\fsp-1}y{\fsp}, if you want to recharge the batter{\fsp-1}y{\fsp}, my house has—
-Dialogue: 0,0:15:11.72,0:15:13.89,Dialogue,,0,0,0,,Huh? Where did she go?
+Dialogue: 0,0:15:11.34,0:15:13.89,Dialogue,,0,0,0,,Huh? Where did she go?
 Dialogue: 0,0:15:14.44,0:15:18.27,Dialogue,,0,0,0,,By this time, she should be at the newspaper office.{newspaper outpost}{HA HA HA, WHAT ANOTHER SILLY MISUNDERSTANDING WHERE THEY BOTH GO TO WHERE THEY EXPECT THE OTHER TO BE BUT THEY AREN’T THERE BECAUSE THEY’VE GONE TO FIND EACH OTHER. THIS IS WHAT I CALL QUALITY SCRIPTWRITING.}
-Dialogue: 0,0:15:18.82,0:15:23.17,Dialogue,,0,0,0,,Oh, Kyou-chan? Now that you mention it, she doesn’t seem to be here now, does she?{POST MASTER GENERAL KAICHO SAMA}
+Dialogue: 0,0:15:18.88,0:15:23.17,Dialogue,,0,0,0,,Oh, Kyou-chan? Now that you mention it, she doesn’t seem to be here, does she?{POST MASTER GENERAL KAICHO SAMA}
 Dialogue: 0,0:15:23.17,0:15:26.24,Dialogue,,0,0,0,,She’s not here? Do you mean she never came?
 Dialogue: 0,0:15:26.24,0:15:28.13,Dialogue,,0,0,0,,He{\fsp-1}y{\fsp}, boss! What should we do with this?
 Dialogue: 0,0:15:28.13,0:15:29.45,Dialogue,,0,0,0,,Ah, I’ll be right there.
 Dialogue: 0,0:15:29.45,0:15:30.24,Dialogue,,0,0,0,,Um...
 Dialogue: 0,0:15:30.93,0:15:34.66,Dialogue,,0,0,0,,Onee-chan... If she did really get sick, she could be anywhere.
 Dialogue: 0,0:15:35.82,0:15:39.00,Dialogue,,0,0,0,,You know, now that I think about it, Kyou-chan was here just a while a—
-Dialogue: 0,0:15:39.24,0:15:41.71,Dialogue,,0,0,0,,And now she’s gone.
-Dialogue: 0,0:15:41.95,0:15:45.04,Dialogue,,0,0,0,,Asu-chan? No, I haven’t seen her yet toda{\fsp-1}y{\fsp}.
+Dialogue: 0,0:15:39.00,0:15:41.71,Dialogue,,0,0,0,,And now she’s gone.
+Dialogue: 0,0:15:41.71,0:15:45.04,Dialogue,,0,0,0,,Oh, Asu-chan? No, I haven’t seen her yet toda{\fsp-1}y{\fsp}.
 Dialogue: 0,0:15:45.04,0:15:46.21,Dialogue,,0,0,0,,Is that so?{Alternate translation: I doubt what you are saying because I don’t want it to be true because of the implications it has that the worst I feared has happened so I will desperately ask for assurance just in case you forgot that you saw her even though that is very unlikely seeing how you don’t seem to be suffering from senile dementia... HEY I JUST THOUGHT OF AN EPISODE WHERE A GUY WITH SENILE DEMENTIA FORGETS ABOUT ONE OF THEM AND THEN LIKE THEY LOSE EACH OTHER AND GET ALL DESPERATE AND THEN EVENTUALLY FIND EACH OTHER AND IT WAS ALL JUST A SILLY MISUNDERSTANDING. WE CAN GET THIS SHOW UP FOR A SECOND SEASON, I BET! I’LL EVEN SCRIPTWRITE FOR IT AND EVERYTHING!}
 Dialogue: 0,0:15:46.21,0:15:48.92,Dialogue,,0,0,0,,Now that you mention it, she’s usually here by now, isn’t she?
 Dialogue: 0,0:15:48.92,0:15:51.09,Dialogue,,0,0,0,,Here you go! Thank you!
 Dialogue: 0,0:15:52.31,0:15:53.14,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:15:53.57,0:15:58.16,Dialogue-italic,,0,0,0,,That is strange. Asu wouldn’t purposefully hang up on me like that.
-Dialogue: 0,0:15:58.68,0:15:59.88,Dialogue-italic,,0,0,0,,Don’t tell me...
-Dialogue: 0,0:15:59.88,0:16:01.19,Dialogue-italic,,0,0,0,,She got kidnapped?!{Yes, because broke 9 year olds are prime suspects for kidnapping... now that I think about it, I guess asia does have a fairly large child prostitution thing going on.}
-Dialogue: 0,0:16:08.81,0:16:11.03,Dialogue-italic,,0,0,0,,Onee-chan, where could you be?
+Dialogue: 0,0:15:53.68,0:15:58.16,Dialogue-italic,,0,0,0,,This is strange. Asu wouldn’t purposefully hang up on me like that.
+Dialogue: 0,0:15:58.68,0:15:59.88,Dialogue-italic,,0,0,0,,No way!
+Dialogue: 0,0:15:59.88,0:16:01.19,Dialogue-italic,,0,0,0,,Was she kidnapped?!{Yes, because broke 9 year olds are prime suspects for kidnapping... now that I think about it, I guess asia does have a fairly large child prostitution thing going on.}{誘拐【ゆうかい】(n,vs) abduction; kidnapping; kidnaping;}
+Dialogue: 0,0:16:09.08,0:16:11.03,Dialogue-italic,,0,0,0,,Onee-chan, where could you be?
 Dialogue: 0,0:16:11.41,0:16:15.49,Dialogue,,0,0,0,,Maybe she wasn’t feeling well so she went back home.{THE DARK BACKGROUND AND MUSIC ARE ADDING TO THE TENSION}
-Dialogue: 0,0:16:15.49,0:16:17.84,Dialogue,,0,0,0,,—not within range of reception or—
+Dialogue: 0,0:16:15.49,0:16:17.84,Dialogue-italic,,0,0,0,,—not within range of reception or—
 Dialogue: 0,0:16:18.91,0:16:19.95,Dialogue-italic,,0,0,0,,Asu!
-Dialogue: 0,0:16:24.54,0:16:26.00,Dialogue-italic,,0,0,0,,Onee-chan!
-Dialogue: 0,0:16:33.55,0:16:35.35,Dialogue,,0,0,0,,The number you have—{OMG PANICK TAIMU}
-Dialogue: 0,0:16:35.35,0:16:36.55,Dialogue,,0,0,0,,Come on!
-Dialogue: 0,0:16:40.44,0:16:43.61,Dialogue,,0,0,0,,Onee-chan, Onee-chan, where are you?!
-Dialogue: 0,0:16:45.27,0:16:47.11,Dialogue,,0,0,0,,Onee-chan!
-Dialogue: 0,0:16:47.44,0:16:49.07,Dialogue,,0,0,0,,Onee-chan!
-Dialogue: 0,0:16:49.76,0:16:51.41,Dialogue,,0,0,0,,Onee-chan!
-Dialogue: 0,0:16:51.41,0:16:53.24,Dialogue,,0,0,0,,Onee-chan!{Do we really need to translate this?}
+Dialogue: 0,0:16:24.54,0:16:26.00,Dialogue,,0,0,0,,Onee-chan!
+Dialogue: 0,0:16:33.55,0:16:35.35,Dialogue-italic,,0,0,0,,The number you have—{OMG PANICK TAIMU}
+Dialogue: 0,0:16:35.35,0:16:36.55,Dialogue,,0,0,0,,Come on!{this is some like dramatic 80s music}
+Dialogue: 0,0:16:40.44,0:16:43.61,Dialogue-italic,,0,0,0,,Onee-chan, Onee-chan, where are you?!
+Dialogue: 0,0:16:45.27,0:16:47.11,Dialogue-italic,,0,0,0,,Onee-chan!
+Dialogue: 0,0:16:47.44,0:16:49.07,Dialogue-italic,,0,0,0,,Onee-chan!
+Dialogue: 0,0:16:49.76,0:16:51.41,Dialogue-italic,,0,0,0,,Onee-chan!
+Dialogue: 0,0:16:51.41,0:16:53.24,Dialogue-italic,,0,0,0,,Onee-chan!{Do we really need to translate this?}
 Dialogue: 0,0:16:54.45,0:16:58.66,Dialogue,,0,0,0,,Come on! Now that we have cell phones, how come they won’t work at a time like this?!{If you didn’t seriously see this coming from, like, before you even started watching this series, there is no hope for you.}
-Dialogue: 0,0:16:59.41,0:17:01.37,Dialogue,,0,0,0,,ONEE-CHAN!!
+Dialogue: 0,0:16:59.41,0:17:01.37,Dialogue,,0,0,0,,Onee-chan!!!{the benefits of living in a small town}
 Dialogue: 0,0:17:02.95,0:17:03.83,Dialogue,,0,0,0,,Asu!{Jesus fucking Christ this is like the goddamn first episode all over again}
-Dialogue: 0,0:17:05.26,0:17:06.64,Dialogue,,0,0,0,,Asu!!!{MOAR EXCLAMATION POINTS FOR MORE DORAMA}
-Dialogue: 0,0:17:21.12,0:17:22.25,Dialogue,,0,0,0,,Onee-chan!
-Dialogue: 0,0:17:21.53,0:17:22.76,Dialogue,,0,0,0,,Asu!
+Dialogue: 0,0:17:05.26,0:17:06.64,Dialogue,,0,0,0,,Asu!!{MOAR EXCLAMATION POINTS FOR MORE DORAMA}
+Dialogue: 0,0:17:21.12,0:17:21.76,Dialogue,,0,0,0,,Onee-chan!
+Dialogue: 0,0:17:21.76,0:17:22.68,Dialogue,,0,0,0,,Asu!
 Dialogue: 0,0:17:25.01,0:17:26.51,Dialogue,,0,0,0,,Onee-chan!
 Dialogue: 0,0:17:26.51,0:17:27.87,Dialogue,,0,0,0,,Asu!
 Dialogue: 0,0:17:27.87,0:17:31.59,Dialogue,,0,0,0,,Thank goodness! You didn’t collapse after all.
@@ -336,30 +335,30 @@ Dialogue: 0,0:17:44.80,0:17:46.23,Dialogue,,0,0,0,,Onee-chan.
 Dialogue: 0,0:17:57.19,0:18:01.47,Dialogue,,0,0,0,,Really? The reason I couldn’t connect was because the battery died?
 Dialogue: 0,0:18:01.47,0:18:04.44,Dialogue,,0,0,0,,Yeah, there was a lot that happened.
 Dialogue: 0,0:18:04.44,0:18:08.99,Dialogue,,0,0,0,,Same here. It was just because of bad timing that I wasn’t there to answer your call.
-Dialogue: 0,0:18:08.99,0:18:12.98,Dialogue,,0,0,0,,So, in the end, it was all mere happenstance, but it sure wore us out.{oh fuck 9 year olds don’t talk like this OH WELL}
+Dialogue: 0,0:18:08.99,0:18:12.98,Dialogue,,40,40,0,,In the end, it was all by chance, but it sure wore us out.{oh fuck 9 year olds don’t talk like this OH WELL}
 Dialogue: 0,0:18:12.98,0:18:14.74,Dialogue,,0,0,0,,For sure.
 Dialogue: 0,0:18:14.74,0:18:19.51,Dialogue,,0,0,0,,Oh, on that topic, what was it that you called about the first time?
 Dialogue: 0,0:18:19.51,0:18:26.82,Dialogue,,0,0,0,,I just wanted to ask if you would prefer curry or meat and potato stew for dinner tonight.
 Dialogue: 0,0:18:29.79,0:18:31.64,Dialogue,,0,0,0,,Is that really all?
 Dialogue: 0,0:18:34.53,0:18:35.93,Dialogue,,0,0,0,,Sorr{\fsp-1}y{\fsp}.
-Dialogue: 0,0:18:35.93,0:18:37.47,Dialogue,,0,0,0,,Meat and potato stew sounds great.
+Dialogue: 0,0:18:35.93,0:18:37.32,Dialogue,,0,0,0,,Meat and potato stew sounds great.
 Dialogue: 0,0:18:38.01,0:18:38.96,Dialogue,,0,0,0,,Oka{\fsp-1}y{\fsp}.
 Dialogue: 0,0:18:40.48,0:18:42.26,Dialogue,,0,0,0,,Who could that be?
 Dialogue: 0,0:18:42.26,0:18:43.36,Dialogue,,0,0,0,,Hello.
-Dialogue: 0,0:18:44.43,0:18:46.84,Dialogue,,0,0,0,,Oh, she’s right here.
+Dialogue: 0,0:18:44.43,0:18:46.16,Dialogue,,0,0,0,,Oh, she’s right here.
 Dialogue: 0,0:18:47.47,0:18:48.41,Dialogue,,0,0,0,,Ginko-chan?
-Dialogue: 0,0:18:48.90,0:18:51.34,Dialogue-italic,,0,0,0,,It seems that you managed to find your siste{\fsp-1}r{\fsp}, right?
+Dialogue: 0,0:18:48.98,0:18:51.34,Dialogue-italic,,0,0,0,,It seems that you managed to find your siste{\fsp-1}r{\fsp}, right?
 Dialogue: 0,0:18:51.34,0:18:52.44,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:18:52.44,0:18:54.58,Dialogue-italic,,0,0,0,,That’s great. I was worried.
 Dialogue: 0,0:18:55.31,0:18:57.64,Dialogue-italic,,0,0,0,,Um, well...
-Dialogue: 0,0:18:57.64,0:19:00.57,Dialogue-italic,,0,0,0,,I’m sorry for using up your phone!
+Dialogue: 0,0:18:57.64,0:19:00.57,Dialogue-italic,,0,0,0,,I’m sorry for using up your phone’s battery!
 Dialogue: 0,0:19:01.75,0:19:04.74,Dialogue-italic,,0,0,0,,I hope I didn’t end up causing too much trouble.
-Dialogue: 0,0:19:06.86,0:19:07.42,Dialogue,,0,0,0,,No, you didn’t.
-Dialogue: 0,0:19:07.42,0:19:11.98,Dialogue-italic,,0,0,0,,Anywa{\fsp-1}y{\fsp}, I’m also going to get my own cell phone!{remember, kids, these girls are in the 4th grade. THE WHORES GONNA BE SEXTING NAKED PICTURES OF THEMSELVES TO THEIR CLASSMATES JUST FOR ATTENTION. AREN’T YOU JEALOUS}
+Dialogue: 0,0:19:05.22,0:19:07.26,Dialogue,,0,0,0,,No, you didn’t.
+Dialogue: 0,0:19:07.26,0:19:11.98,Dialogue-italic,,0,0,0,,Anywa{\fsp-1}y{\fsp}, I’m also going to get my own cell phone!{remember, kids, these girls are in the 4th grade. THE WHORES GONNA BE SEXTING NAKED PICTURES OF THEMSELVES TO THEIR CLASSMATES JUST FOR ATTENTION. AREN’T YOU JEALOUS}
 Dialogue: 0,0:19:11.98,0:19:14.66,Dialogue,,0,0,0,,I see. That’s great.
 Dialogue: 0,0:19:14.66,0:19:16.29,Dialogue,,0,0,0,,Well then, see you tomorrow.
 Dialogue: 0,0:19:16.29,0:19:17.38,Dialogue-italic,,0,0,0,,See you.
-Dialogue: 0,0:19:18.29,0:19:20.49,Dialogue,,0,0,0,,Ginko-chan said she's getting a cell phone too.
+Dialogue: 0,0:19:18.29,0:19:20.49,Dialogue,,0,0,0,,Ginko-chan said she’s getting a cell phone too.
 Dialogue: 0,0:19:20.49,0:19:21.68,Dialogue,,0,0,0,,That’s good.
 Dialogue: 0,0:19:21.68,0:19:22.38,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:19:24.90,0:19:27.56,Dialogue,,0,0,0,,O-Onee-chan... the evening newspaper route!
@@ -370,27 +369,27 @@ Dialogue: 0,0:19:44.15,0:19:46.43,Dialogue,,0,0,0,,Onee-chan, are you all right?
 Dialogue: 0,0:19:46.43,0:19:48.44,Dialogue,,0,0,0,,I’m fine, I’m fine.
 Dialogue: 0,0:19:53.22,0:19:57.46,Dialogue,,0,0,0,,Oh, I forgot to tell Asu how good the fried eggs were this morning.
 Dialogue: 0,0:20:02.96,0:20:04.67,Dialogue,,0,0,0,,Hello. Onee-chan?
-Dialogue: 0,0:20:04.67,0:20:07.10,Dialogue,,0,0,0,,Ah, Asu, Um...
-Dialogue: 0,0:20:07.10,0:20:09.14,Dialogue,,0,0,0,,What is it? Is something the matter?
+Dialogue: 0,0:20:04.67,0:20:06.98,Dialogue,,0,0,0,,Ah, Asu, you know...
+Dialogue: 0,0:20:06.98,0:20:09.14,Dialogue,,0,0,0,,What is it? Is something the matter?
 Dialogue: 0,0:20:09.14,0:20:10.64,Dialogue-italic,,0,0,0,,Are you feeling—
 Dialogue: 0,0:20:10.64,0:20:13.89,Dialogue-italic,,0,0,0,,The fried eggs you made for breakfast were excellent!
 Comment: 0,0:20:15.37,0:20:15.69,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:20:16.53,0:20:17.55,Dialogue,,0,0,0,,That’s it.
 Dialogue: 0,0:20:17.55,0:20:20.11,Dialogue,,0,0,0,,That’s all I wanted to tell you, Asu.
-Dialogue: 0,0:20:20.75,0:20:24.08,Dialogue,,0,0,0,,Thanks. Not just for this morning’s breakfast but for every single one, Asu.
+Dialogue: 0,0:20:20.78,0:20:24.08,Dialogue,,0,0,0,,Thanks. Not just for this morning’s breakfast but for every single one, Asu.
 Dialogue: 0,0:20:24.87,0:20:28.41,Dialogue,,0,0,0,,Don’t push yourself too much, Onee-chan.
 Dialogue: 0,0:20:29.99,0:20:32.44,Dialogue-italic,,0,0,0,,It didn’t happen immediatel{\fsp-1}y{\fsp},
 Dialogue: 0,0:20:32.44,0:20:38.75,Dialogue-italic,,0,0,0,,but I eventually decided that these phones were a present from our mom in heaven.
-Dialogue: 0,0:20:39.85,0:20:44.01,Dialogue-italic,,0,0,0,,I got the feeling that I was being told, “It’s okay to relax a bit”,
-Dialogue: 0,0:20:44.64,0:20:47.41,Dialogue-italic,,0,0,0,,from both mom and Asu.
+Dialogue: 0,0:20:39.85,0:20:44.01,Dialogue-italic,,0,0,0,,I got the feeling that I was being told, “It’s okay to relax a bit{{\fsp-3}”{\fsp},
+Dialogue: 0,0:20:44.64,0:20:48.68,Dialogue-italic,,0,0,0,,{\t(2064,4024,\c&H000000&\3c&H000000&\4c&H000000&\4a&HFF&)}from both mom and Asu.
 Dialogue: 0,0:20:51.02,0:20:52.64,Dialogue,,0,0,0,,Alright! Giving it another shot?
 Dialogue: 0,0:20:52.64,0:20:56.72,Dialogue,,0,0,0,,Hah, you two. This has to be the 50th time in a row that you’ve tried.
-Dialogue: 0,0:20:56.72,0:20:59.48,Dialogue,,0,0,0,,You're obviously after something.\NWhat is it you want so badly?
+Dialogue: 0,0:20:56.72,0:20:59.48,Dialogue,,0,0,0,,You’re obviously after something.\NWhat is it you want so badly?
 Dialogue: 0,0:20:59.96,0:21:01.70,Dialogue,,0,0,0,,The third prize: the cell phones.
 Dialogue: 0,0:21:02.53,0:21:05.94,Dialogue,,0,0,0,,Onee-sama, we’re already out of raffle tickets.
 Dialogue: 0,0:21:05.94,0:21:09.09,Dialogue,,0,0,0,,If that’s the case, go buy some things to earn more.
 Dialogue: 0,0:21:09.09,0:21:09.94,Dialogue,,0,0,0,,Yes.
-Dialogue: 0,0:21:11.09,0:21:13.50,Dialogue,,0,0,0,,M{\fsp-1}r{\fsp}. Attendant, I will be playing again.
+Dialogue: 0,0:21:11.09,0:21:13.50,Dialogue,,0,0,0,,M{\fsp-1}r{\fsp}. Attendant, prepare for our return.
 Dialogue: 0,0:21:14.85,0:21:19.10,Dialogue,,0,0,0,,Onee-sama, thank you for allowing me to have a cell phone.
 Dialogue: 0,0:21:19.10,0:21:20.27,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:21:20.67,0:21:23.80,Dialogue,,0,0,0,,Just buying it the normal way would definitely be cheape{\fsp-1}r{\fsp}.
