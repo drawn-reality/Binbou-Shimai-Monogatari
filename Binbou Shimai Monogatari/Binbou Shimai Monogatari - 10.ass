@@ -9,7 +9,7 @@ PlayResX: 640
 PlayResY: 360
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_10_[6A4EF093].avi
 Video Aspect Ratio: 0
-Video Position: 30970
+Video Position: 7560
 Last Style Storage: Binbou Shimai Monogatari
 Audio URI: C:\@projects\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_10_[6A4EF093].avi
 ScaledBorderAndShadow: yes
@@ -32,57 +32,56 @@ Style: ED - Kanji-furigana,小塚ゴシック Pro M,15,&H00090F77,&H00DEDEDE,&H0
 Style: ED - Romaji-furigana,Candela Bold,15,&H00090F77,&H00DEDEDE,&H004A5011,&H00604916,-1,0,0,0,82.3,100,0,0,1,1,0.25,8,30,30,15,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.42,0:00:09.32,Dialogue,Mother,0,0,90,,Kyo-chan is an older sister now.
+Dialogue: 0,0:03:39.64,0:03:43.80,generic sign style,Title,0,0,90,,A Day of Colds, Promises and Mother
+Dialogue: 0,0:00:06.42,0:00:09.32,Dialogue,Mother,0,0,90,,Kyou-chan, you're already a big sister, aren't you?
 Dialogue: 0,0:00:10.53,0:00:11.10,Dialogue,,0,0,90,,Yes!
-Dialogue: 0,0:00:13.43,0:00:16.58,Dialogue,,0,0,90,,I'm your older sister now. Do you know that?
-Dialogue: 0,0:00:17.19,0:00:19.00,Dialogue,,0,0,90,,She definitely hears you.
-Dialogue: 0,0:00:21.83,0:00:27.57,Dialogue,,0,0,90,,At that time... the warm and loving Papa who still stood beside Mama...
-Dialogue: 0,0:00:28.74,0:00:30.00,Dialogue,,0,0,90,,Hey, Kyo-chan.
-Dialogue: 0,0:00:31.28,0:00:32.08,Dialogue,,0,0,90,,What?
-Dialogue: 0,0:00:32.63,0:00:34.08,Dialogue,,0,0,90,,I have something to ask of you.
-Dialogue: 0,0:00:34.96,0:00:38.40,Dialogue,,0,0,90,,At that time, I made a promise with Mother.
+Dialogue: 0,0:00:13.43,0:00:16.58,Dialogue,,0,0,90,,I'm your big sister! Do you understand me?{I wonder if she understands...}
+Dialogue: 0,0:00:17.19,0:00:19.00,Dialogue,,0,0,90,,She can definitely hear you.
+Dialogue: 0,0:00:21.83,0:00:27.57,Dialogue-italic,,0,0,90,,Back then, mom was still alive, and dad was kind. Back then.
+Dialogue: 0,0:00:28.74,0:00:30.00,Dialogue,,0,0,90,,Say, Kyou-chan...
+Dialogue: 0,0:00:31.28,0:00:32.08,Dialogue,,0,0,90,,What is it?
+Dialogue: 0,0:00:32.63,0:00:34.08,Dialogue,,0,0,90,,I have a favor to ask of you.{long}
+Dialogue: 0,0:00:34.96,0:00:38.40,Dialogue-italic,,0,0,90,,Back then, I made a promise to mom.
 Dialogue: 0,0:00:39.20,0:00:41.32,Dialogue,,0,0,90,,A very important promise.
 Dialogue: 0,0:00:41.64,0:00:44.03,Dialogue,,0,0,90,,Onee-chan! Onee-chan!
-Dialogue: 0,0:00:44.81,0:00:46.11,Dialogue,,0,0,90,,Are you all right?
-Dialogue: 0,0:00:48.67,0:00:51.00,Dialogue,,0,0,90,,Ha, I'm fine...
-Dialogue: 0,0:00:52.03,0:00:54.09,Dialogue,,0,0,90,,I don't know if the fever is gone yet...
+Dialogue: 0,0:00:44.81,0:00:46.11,Dialogue,,0,0,90,,Are you okay?
+Dialogue: 0,0:00:48.67,0:00:51.00,Dialogue,,0,0,90,,Oh, I'm fine.
+Dialogue: 0,0:00:52.03,0:00:54.09,Dialogue,,0,0,90,,I wonder if your fever is gone yet.
 Dialogue: 0,0:00:56.76,0:00:58.16,Dialogue,,0,0,90,,I'm fine!
-Dialogue: 0,0:00:58.60,0:01:01.67,Dialogue,,0,0,90,,The temperature's about the same as Asu, so I'm fine now.
-Dialogue: 0,0:01:02.93,0:01:04.38,Dialogue,,0,0,90,,I'm going on my newspaper run.
-Dialogue: 0,0:01:04.38,0:01:05.76,Dialogue,,0,0,90,,O-Onee-chan...
-Dialogue: 0,0:01:06.33,0:01:07.82,Dialogue,,0,0,90,,Leave it to me.
-Dialogue: 0,0:01:08.85,0:01:11.20,Dialogue,,0,0,90,,Onee-chan... there's no door there.
-Dialogue: 0,0:01:11.39,0:01:12.06,Dialogue,,0,0,90,,Eh?
+Dialogue: 0,0:00:58.60,0:01:01.67,Dialogue,,0,0,90,,My temperature is the same as yours, so that means it's gone!{FORESHADOWING}
+Dialogue: 0,0:01:02.93,0:01:04.38,Dialogue,,0,0,90,,I'm going to go deliver the newspapers.
+Dialogue: 0,0:01:04.38,0:01:05.76,Dialogue,,0,0,90,,O-Onee-chan!
+Dialogue: 0,0:01:06.33,0:01:07.82,Dialogue,,0,0,90,,Leave it to me!
+Dialogue: 0,0:01:08.85,0:01:11.20,Dialogue,,0,0,90,,Onee-chan, don't go out there.{you can't}
+Comment: 0,0:01:11.39,0:01:12.06,Dialogue,,0,0,90,,Eh?
 Dialogue: 0,0:01:12.19,0:01:13.24,Dialogue,,0,0,90,,You can't.
-Dialogue: 0,0:01:13.85,0:01:18.32,Dialogue,,0,0,90,,Because you went on your newspaper run during rainy days, your cold got worse.
-Dialogue: 0,0:01:18.53,0:01:22.15,Dialogue,,0,0,90,,It's okay. In order to get well, I have to be energetic...
-Dialogue: 0,0:01:22.59,0:01:25.50,Dialogue,,0,0,90,,Onee-chan, you have to lie down first before you sleep!
+Dialogue: 0,0:01:13.85,0:01:18.32,Dialogue,,0,0,90,,Because you went on your newspaper run during rainy days, your cold got even worse.
+Dialogue: 0,0:01:18.53,0:01:22.15,Dialogue,,0,0,90,,Don't worry! It's all about mind over matter!{病は気から 【やまいはきから】 (exp) sickness and health start with the mind}
+Dialogue: 0,0:01:22.59,0:01:25.50,Dialogue,,0,0,90,,Onee-chan, you should really stay in bed!{blarg}
 Dialogue: 0,0:01:36.28,0:01:39.97,Dialogue,Preopening,0,0,90,,Mother went to heaven the year she gave birth to Asu.
-Dialogue: 0,0:01:40.54,0:01:43.86,Dialogue,,0,0,90,,Father left a huge debt after gambling and is now missing,
-Dialogue: 0,0:01:44.40,0:01:47.43,Dialogue,,0,0,90,,leaving only the two of us.
-Dialogue: 0,0:01:48.79,0:01:50.24,Dialogue,,0,0,90,,The place we live in is
-Dialogue: 0,0:01:50.24,0:01:52.59,Dialogue,,0,0,90,,a beaten up 40 year old apartment with one room and no bath.
+Dialogue: 0,0:01:40.54,0:01:43.86,Dialogue,,0,0,90,,Our father disappeared after accumulating gambling debts.
+Dialogue: 0,0:01:44.40,0:01:47.43,Dialogue,,0,0,90,,Thus, we were abandoned.
+Dialogue: 0,0:01:48.79,0:01:52.59,Dialogue,,0,0,90,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
 Dialogue: 0,0:01:52.91,0:01:54.88,Dialogue,,0,0,90,,This is our home.
 Dialogue: 0,0:01:55.26,0:01:57.66,Dialogue,,0,0,90,,But, when spring comes...
-Dialogue: 0,0:03:39.64,0:03:43.80,Dialogue,Title,0,0,90,,A Day of Colds, Promises and Mother
-Dialogue: 0,0:04:00.73,0:04:03.65,Dialogue,,0,0,90,,Onee-chan, the congee's done.
-Dialogue: 0,0:04:04.28,0:04:04.93,Dialogue,,0,0,90,,Okay.
-Dialogue: 0,0:04:05.33,0:04:06.96,Dialogue,,0,0,90,,Thank you, Asu.
-Dialogue: 0,0:04:10.95,0:04:13.12,Dialogue,,0,0,90,,It's still hot, so be careful.
+Dialogue: 0,0:04:00.73,0:04:03.65,Dialogue,,0,0,90,,Onee-chan, the rice porridge is done!{粥 【かゆ】 (n) thin rice porridge; watery cooked rice; rice gruel;}
+Comment: 0,0:04:04.28,0:04:04.93,Dialogue,,0,0,90,,Okay.
+Dialogue: 0,0:04:05.33,0:04:06.96,Dialogue,,0,0,90,,Thanks, Asu.
+Dialogue: 0,0:04:10.95,0:04:13.12,Dialogue,,0,0,90,,It's still hot, so be careful, okay?
 Dialogue: 0,0:04:16.41,0:04:17.55,Dialogue,,0,0,90,,Delicious!
-Dialogue: 0,0:04:19.33,0:04:21.12,Dialogue,,0,0,90,,It's really good.
-Dialogue: 0,0:04:22.04,0:04:24.27,Dialogue,,0,0,90,,Your appetite's still fine. It looks like you're okay.
-Dialogue: 0,0:04:33.61,0:04:35.50,Dialogue,,0,0,90,,You're not eating, Asu?
-Dialogue: 0,0:04:35.50,0:04:36.89,Dialogue,,0,0,90,,Y-Yes...
-Dialogue: 0,0:04:37.75,0:04:39.41,Dialogue,,0,0,90,,I don't feel like eating right now...
+Dialogue: 0,0:04:19.33,0:04:21.12,Dialogue,,0,0,90,,It really is delicious.
+Dialogue: 0,0:04:22.04,0:04:24.27,Dialogue,,0,0,90,,You've still got an appetite so I'm sure you'll be fine.
+Dialogue: 0,0:04:33.61,0:04:35.50,Dialogue,,0,0,90,,Asu, aren't you going to eat?{direct address before or after OH THE HUMANITY}
+Dialogue: 0,0:04:35.50,0:04:36.89,Dialogue,,0,0,90,,Y-Yeah...
+Dialogue: 0,0:04:37.75,0:04:39.41,Dialogue,,0,0,90,,I'm not hungry yet.{I don't feel like eating now...}{OMG MOAR FORESHADOWING}
 Dialogue: 0,0:04:40.27,0:04:41.09,Dialogue,,0,0,90,,I see.
-Dialogue: 0,0:04:43.34,0:04:46.61,Dialogue,,0,0,90,,After you sweat, your body has to be scrubbed clean so I can change your clothes.
-Dialogue: 0,0:04:46.61,0:04:47.28,Dialogue,,0,0,90,,It's hot.
-Dialogue: 0,0:04:55.73,0:04:58.35,Dialogue,,0,0,90,,How does it feel? Need more ice?
-Dialogue: 0,0:04:58.35,0:05:00.26,Dialogue,,0,0,90,,It's fine now, Asu.
-Dialogue: 0,0:05:01.56,0:05:05.47,Dialogue,,0,0,90,,Just rest up while I take your temperature periodically and you'll be fine.
-Dialogue: 0,0:05:09.02,0:05:11.90,Dialogue,,0,0,90,,Perhaps a cold once in a while is pretty nice.
-Dialogue: 0,0:05:15.30,0:05:18.22,Dialogue,,0,0,90,,No way. I have to get well soon.
+Dialogue: 0,0:04:43.34,0:04:46.61,Dialogue,,0,0,90,,You've been sweating, so I'll have to wash you down and dry you off.
+Dialogue: 0,0:04:46.61,0:04:47.28,Dialogue,,0,0,90,,It's hot.{THIS SCENE IS HOT UNF}
+Dialogue: 0,0:04:55.73,0:04:58.35,Dialogue,,0,0,90,,Is that okay? Do you need more ice?
+Dialogue: 0,0:04:58.35,0:05:00.26,Dialogue,,0,0,90,,No, it's fine, Asu.
+Dialogue: 0,0:05:01.56,0:05:05.47,Dialogue,,0,0,90,,As long as you get lots of rest, I'm sure you'll get better in no time.{I know that I'll feel a whole lot better if we can just curbe that temperature of yours a little.}{Just rest up while I take your temperature periodically and you'll be fine.}
+Dialogue: 0,0:05:09.02,0:05:11.90,Dialogue-italic,,0,0,90,,It's kind of nice to catch a cold every now and then.
+Dialogue: 0,0:05:15.30,0:05:18.22,Dialogue-italic,,0,0,90,,No, no! I have to hurry up and get better!
 Dialogue: 0,0:05:18.49,0:05:22.14,Dialogue,,0,0,90,,I can't have Asu worry about me.
 Dialogue: 0,0:05:30.10,0:05:32.58,Dialogue,,0,0,90,,Yes. I have completely recovered.
 Dialogue: 0,0:05:32.58,0:05:35.42,Dialogue,,0,0,90,,Well, you had me worried there. That's great.
@@ -108,7 +107,7 @@ Dialogue: 0,0:06:50.20,0:06:52.25,Dialogue,,0,0,90,,How come I didn't notice at 
 Dialogue: 0,0:06:53.35,0:06:55.51,Dialogue,,0,0,90,,Asu was sick already.
 Dialogue: 0,0:06:56.22,0:06:59.06,Dialogue,,0,0,90,,Yet... she still took care of me.
 Dialogue: 0,0:07:06.14,0:07:07.73,Dialogue,,0,0,90,,Mommy...
-Dialogue: 0,0:07:08.05,0:07:12.08,Dialogue,,0,0,90,,Kyo-chan, Mama is all right. It's only an ordinary cold.
+Dialogue: 0,0:07:08.05,0:07:12.08,Dialogue,,0,0,90,,Kyou-chan, Mama is all right. It's only an ordinary cold.
 Dialogue: 0,0:07:12.62,0:07:13.28,Dialogue,,0,0,90,,Ah...
 Dialogue: 0,0:07:15.10,0:07:18.99,Dialogue,,0,0,90,,That was the only thing Mother said when she got on the ambulance.
 Dialogue: 0,0:07:18.99,0:07:21.38,Dialogue,,0,0,90,,After she got sick, she never came back from the hospital.
@@ -121,7 +120,7 @@ Dialogue: 0,0:08:00.11,0:08:02.35,Dialogue,,0,0,90,,Sorry... Asu... I'm really s
 Dialogue: 0,0:08:03.53,0:08:07.16,Dialogue,,0,0,90,,I wanted to become stronger... stronger than before.
 Dialogue: 0,0:08:08.00,0:08:11.40,Dialogue,,0,0,90,,I wanted to become someone who Asu won't worry about.
 Dialogue: 0,0:08:12.01,0:08:13.27,Dialogue,,0,0,90,,Mother...
-Dialogue: 0,0:08:15.50,0:08:16.95,Dialogue,,0,0,90,,Hey, Kyo-chan.
+Dialogue: 0,0:08:15.50,0:08:16.95,Dialogue,,0,0,90,,Hey, Kyou-chan.
 Dialogue: 0,0:08:17.16,0:08:18.08,Dialogue,,0,0,90,,What?
 Dialogue: 0,0:08:18.59,0:08:20.52,Dialogue,,0,0,90,,I have something to ask of you.
 Dialogue: 0,0:08:25.52,0:08:28.41,Dialogue,,0,0,90,,Please protect this child.
@@ -178,7 +177,7 @@ Dialogue: 0,0:12:22.69,0:12:25.52,Dialogue,,0,0,90,,Okay. Leave it up to me. You
 Dialogue: 0,0:12:25.52,0:12:27.48,Dialogue,,0,0,90,,Eh? Okay...
 Dialogue: 0,0:12:34.60,0:12:36.34,Dialogue,,0,0,90,,Onee-chan, take care.
 Dialogue: 0,0:12:39.11,0:12:39.97,Dialogue,,0,0,90,,I'm off.
-Dialogue: 0,0:12:48.29,0:12:51.56,Dialogue,,0,0,90,,Kyo-chan, please protect this child.
+Dialogue: 0,0:12:48.29,0:12:51.56,Dialogue,,0,0,90,,Kyou-chan, please protect this child.
 Dialogue: 0,0:12:52.55,0:12:54.40,Dialogue,,0,0,90,,Okay. I'll protect her.
 Dialogue: 0,0:12:54.40,0:12:56.26,Dialogue,,0,0,90,,I will definitely protect her.
 Dialogue: 0,0:13:08.53,0:13:12.69,Dialogue,,0,0,90,,I wanted Asu-chan to regain her energy, so I brought my guitar.
@@ -206,7 +205,7 @@ Dialogue: 0,0:15:34.92,0:15:35.87,Dialogue,,0,0,90,,Mother...
 Dialogue: 0,0:15:37.38,0:15:39.54,Dialogue,,0,0,90,,I really can't do anything...
 Dialogue: 0,0:15:39.96,0:15:42.06,Dialogue,,0,0,90,,I already promised, and yet...
 Dialogue: 0,0:15:42.97,0:15:44.10,Dialogue,,0,0,90,,Thank you.
-Dialogue: 0,0:15:44.77,0:15:49.35,Dialogue,,0,0,90,,Seeing Kyo-chan's dandelions lets me forget about my sickness.
+Dialogue: 0,0:15:44.77,0:15:49.35,Dialogue,,0,0,90,,Seeing Kyou-chan's dandelions lets me forget about my sickness.
 Dialogue: 0,0:15:53.87,0:15:54.75,Dialogue,,0,0,90,,Mother...
 Dialogue: 0,0:15:55.86,0:15:59.68,Dialogue,,0,0,90,,Mother's smile...she seems so happy...
 Dialogue: 0,0:16:00.84,0:16:02.27,Dialogue,,0,0,90,,Mama.
@@ -214,7 +213,7 @@ Dialogue: 0,0:16:02.43,0:16:06.72,Dialogue,,0,0,90,,Hey, why does Mama always sm
 Dialogue: 0,0:16:06.91,0:16:10.54,Dialogue,,0,0,90,,That's because the dandelions look so happy.
 Dialogue: 0,0:16:10.54,0:16:11.72,Dialogue,,0,0,90,,They look happy?
 Dialogue: 0,0:16:11.72,0:16:12.18,Dialogue,,0,0,90,,Yes.
-Dialogue: 0,0:16:12.53,0:16:15.54,Dialogue,,0,0,90,,Because the dandelions are like Kyo-chan.
+Dialogue: 0,0:16:12.53,0:16:15.54,Dialogue,,0,0,90,,Because the dandelions are like Kyou-chan.
 Dialogue: 0,0:16:15.81,0:16:16.94,Dialogue,,0,0,90,,Like me?
 Dialogue: 0,0:16:17.15,0:16:17.95,Dialogue,,0,0,90,,Yes.
 Dialogue: 0,0:16:18.41,0:16:22.97,Dialogue,,0,0,90,,The dandelions... look a lot like the smiling Kyo.
