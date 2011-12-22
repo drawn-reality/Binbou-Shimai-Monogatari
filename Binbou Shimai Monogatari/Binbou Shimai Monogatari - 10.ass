@@ -9,7 +9,7 @@ PlayResX: 640
 PlayResY: 360
 Video File: ..\..\..\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_10_[6A4EF093].avi
 Video Aspect Ratio: 0
-Video Position: 24262
+Video Position: 30970
 Last Style Storage: Binbou Shimai Monogatari
 Audio URI: C:\@projects\binbou\[melody] Binbou Shimai Monogatari\[Melody]_Binbou_Shimai_Monogatari_10_[6A4EF093].avi
 ScaledBorderAndShadow: yes
@@ -232,64 +232,65 @@ Dialogue: 0,0:16:51.91,0:16:53.42,Dialogue,,0,0,90,,Even so, I...
 Dialogue: 0,0:17:02.56,0:17:07.81,Dialogue,,0,0,90,,Even so, I never smiled for Asu.
 Dialogue: 0,0:17:08.92,0:17:09.72,Dialogue,,0,0,90,,For Asu.
 Dialogue: 0,0:17:11.50,0:17:12.53,Dialogue-italic,,0,0,90,,Onee-chan.
-Dialogue: 0,0:17:13.35,0:17:16.29,Dialogue-italic,,0,0,90,,Onee-chan is someone irreplaceable.
+Dialogue: 0,0:17:13.35,0:17:16.29,Dialogue-italic,,0,0,90,,Onee-chan, don’t try to take anybody else’s place.{lifted right out of episode 4, 17:54}
 Dialogue: 0,0:17:16.58,0:17:17.21,Dialogue,,0,0,90,,Asu.{I'm like 90% sure they just forgot to animate her mouth. I think that explains why it magically disappeared.}
-Dialogue: 0,0:17:20.22,0:17:24.33,Dialogue-italic,,0,0,90,,Onee-chan is Onee-chan. Please keep it that way.
-Dialogue: 0,0:17:25.34,0:17:29.00,Dialogue-italic,,0,0,90,,Okay. I understand. Onee-chan is right here.
-Dialogue: 0,0:17:29.81,0:17:31.64,Dialogue-italic,,0,0,90,,I won't go anywhere.
-Dialogue: 0,0:17:33.80,0:17:37.23,Dialogue-italic,,0,0,90,,Just what was I doing... I...
-Dialogue: 0,0:17:46.72,0:17:48.65,Dialogue,,0,0,90,,Asu!!!
-Dialogue: 0,0:17:49.43,0:17:50.81,Dialogue,,0,0,90,,I completely forgot.
-Dialogue: 0,0:17:51.91,0:17:55.94,Dialogue,,0,0,90,,The thing that only I can do for Asu, the most important thing.
-Dialogue: 0,0:17:56.55,0:17:57.66,Dialogue,,0,0,90,,I forgot it.
-Dialogue: 0,0:18:04.84,0:18:07.13,Dialogue,,0,0,90,,Onee-chan... she's fine, right...?
-Dialogue: 0,0:18:08.22,0:18:10.87,Dialogue,,0,0,90,,She's not tired out because of me, right?
-Dialogue: 0,0:18:11.29,0:18:16.62,Dialogue,,0,0,90,,Living in the hospital requires a lot of money... I hope she doesn't stress out...
-Dialogue: 0,0:18:26.01,0:18:26.72,Dialogue,,0,0,90,,Ah...
-Dialogue: 0,0:18:33.30,0:18:34.45,Dialogue,,0,0,90,,Onee-chan!
-Dialogue: 0,0:18:39.20,0:18:42.65,Dialogue,,0,0,90,,{\an8}(Asu, good night. Please get well soon!!)
-Dialogue: 0,0:18:42.98,0:18:44.87,Dialogue,,0,0,90,,O-Onee-chan...
-Dialogue: 0,0:18:50.73,0:18:51.74,Dialogue,,0,0,90,,Thank you...
-Dialogue: 0,0:18:52.83,0:18:53.98,Dialogue,,0,0,90,,Onee-chan...
-Dialogue: 0,0:18:54.76,0:18:55.87,Dialogue,,0,0,90,,Thank you.
-Dialogue: 0,0:19:01.61,0:19:06.27,Dialogue,,0,0,90,,Onee-chan's smile is just like a dandelion.
-Dialogue: 0,0:19:09.84,0:19:12.34,Dialogue,,0,0,90,,Congratulations on your discharge, Asu-chan.
+Dialogue: 0,0:17:20.22,0:17:24.33,Dialogue-italic,,0,0,90,,You’re my older sister. Stay that way.
+Dialogue: 0,0:17:25.34,0:17:29.00,Dialogue-italic,,0,0,90,,Okay, I will. I'll be right here for you.
+Dialogue: 0,0:17:29.81,0:17:31.64,Dialogue-italic,,0,0,90,,I'm not going anywhere.
+Dialogue: 0,0:17:33.80,0:17:37.23,Dialogue-italic,,0,0,90,,I... What the heck was I doing? I...
+Dialogue: 0,0:17:46.72,0:17:48.65,Dialogue,,0,0,90,,Asu!!
+Dialogue: 0,0:17:49.43,0:17:50.81,Dialogue,,0,0,90,,I'd forgotten!
+Dialogue: 0,0:17:51.91,0:17:55.94,Dialogue,,0,0,90,,The thing that only I can do for Asu. The most important thing.
+Dialogue: 0,0:17:56.55,0:17:57.66,Dialogue,,0,0,90,,I'd forgotten!
+Dialogue: 0,0:18:04.84,0:18:07.13,Dialogue,,0,0,90,,I wonder if Onee-chan is okay.
+Dialogue: 0,0:18:08.22,0:18:10.87,Dialogue,,0,0,90,,I hope she hasn't tired herself out worrying about me.
+Dialogue: 0,0:18:11.29,0:18:16.62,Dialogue,,0,0,90,,We'll have to handle the hospital fees, too. Maybe I'm just being an annoyance to her.{for fuck's sake could these people be any more self-deprecating}
+Comment: 0,0:18:26.01,0:18:26.72,Dialogue,,0,0,90,,Ah...
+Dialogue: 0,0:18:33.30,0:18:34.45,Dialogue,,0,0,90,,O-Onee-chan!
+Dialogue: 0,0:18:39.20,0:18:42.65,generic sign style,,0,0,90,,Good night, Asu! Get well soon!{jesus fuck she's probably paying more for the batteries them niggerlights is using than the hospital bill will cost.}
+Dialogue: 0,0:18:42.98,0:18:44.87,Dialogue,,0,0,90,,O-Onee-chanQ
+Dialogue: 0,0:18:50.73,0:18:51.74,Dialogue,,0,0,90,,Thank you.
+Dialogue: 0,0:18:52.83,0:18:53.98,Dialogue-italic,,0,0,90,,Onee-chan!
+Dialogue: 0,0:18:54.76,0:18:55.87,Dialogue-italic,,0,0,90,,Thank you!
+Dialogue: 0,0:19:01.61,0:19:03.09,Dialogue,,0,0,90,,Onee-chan's smiling face...
+Dialogue: 0,0:19:03.91,0:19:06.27,Dialogue,,0,0,90,,It looks just like a dandelion!{okay, I lost it. I just... ahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaahahahahahahahahahahahahahahahah}
+Dialogue: 0,0:19:09.84,0:19:12.34,Dialogue,,0,0,90,,Congratulations on being discharged, Asu-chan.
 Dialogue: 0,0:19:12.42,0:19:13.87,Dialogue,,0,0,90,,Thank you very much.
-Dialogue: 0,0:19:14.00,0:19:15.59,Dialogue,,0,0,90,,Make sure you take care of yourself afterwards.
+Dialogue: 0,0:19:14.00,0:19:15.59,Dialogue,,0,0,90,,Make sure to take it easy for a while, okay?
 Dialogue: 0,0:19:15.76,0:19:16.22,Dialogue,,0,0,90,,Okay.
-Dialogue: 0,0:19:16.39,0:19:17.78,Dialogue,,0,0,90,,Thank you for the past few days.
-Dialogue: 0,0:19:21.66,0:19:25.14,Dialogue,,0,0,90,,Hey, Onee-chan. I want to go somewhere.
-Dialogue: 0,0:19:33.42,0:19:35.98,Dialogue,,0,0,90,,When you have a cold, don't force yourself.
-Dialogue: 0,0:19:36.11,0:19:36.70,Dialogue,,0,0,90,,Yes.
-Dialogue: 0,0:19:37.05,0:19:40.26,Dialogue,,0,0,90,,But in the beginning Onee-chan's cold was much more serious.
-Dialogue: 0,0:19:40.90,0:19:44.66,Dialogue,,0,0,90,,I was so worried that I forgot to take care of myself.
-Dialogue: 0,0:19:45.37,0:19:46.29,Dialogue,,0,0,90,,Asu...
+Dialogue: 0,0:19:16.39,0:19:17.78,Dialogue,,0,0,90,,Thank you for all you've done.{WHY DO YOU NEED TO THANK THEM, YOU'RE FUCKING PAYING THEM FOR IT :V}
+Dialogue: 0,0:19:21.66,0:19:25.14,Dialogue,,0,0,90,,Hey, Onee-chan, there's a place I'd like to go.
+Dialogue: 0,0:19:33.42,0:19:35.98,Dialogue,,0,0,90,,Hey, don't push yourself too much, okay?{tough it out like that anymore}
+Dialogue: 0,0:19:36.11,0:19:36.70,Dialogue,,0,0,90,,Okay.
+Dialogue: 0,0:19:37.05,0:19:40.26,Dialogue,,0,0,90,,But, at first, your cold was far worse than mine.
+Dialogue: 0,0:19:40.90,0:19:44.66,Dialogue,,0,0,90,,I was so worried about you that I forgot to take care of myself.
+Dialogue: 0,0:19:45.37,0:19:46.29,Dialogue,,0,0,90,,Asu.
 Dialogue: 0,0:19:48.39,0:19:49.76,Dialogue,,0,0,90,,Ah, here it is.
 Dialogue: 0,0:19:49.76,0:19:50.54,Dialogue,,0,0,90,,Here?
 Dialogue: 0,0:19:52.64,0:19:53.62,Dialogue,,0,0,90,,This place is...
-Dialogue: 0,0:19:54.17,0:19:57.82,Dialogue,,0,0,90,,Right here, I... Mother asked me to do something.
-Dialogue: 0,0:19:57.82,0:19:58.35,Dialogue,,0,0,90,,Eh?
-Dialogue: 0,0:19:59.94,0:20:03.01,Dialogue,,0,0,90,,A long time ago, I heard it here.
-Dialogue: 0,0:20:03.64,0:20:07.15,Dialogue,,0,0,90,,I'm your older sister now. Do you know that?
+Dialogue: 0,0:19:54.17,0:19:57.82,Dialogue,,0,0,90,,Right here, Mom asked me to do something.
+Comment: 0,0:19:57.82,0:19:58.35,Dialogue,,0,0,90,,Eh?
+Dialogue: 0,0:19:59.94,0:20:03.01,Dialogue,,0,0,90,,It was a long time ago, but this is where I heard it.{um wait...}
+Dialogue: 0,0:20:03.64,0:20:07.15,Dialogue,,0,0,90,derp,I'm your big sister! Do you understand me?{JESUS CHRIST HOW MANY TIMES WILL THEY REPEAT THIS}
 Dialogue: 0,0:20:08.87,0:20:09.99,Dialogue,,0,0,90,,Onee-chan's voice.
-Dialogue: 0,0:20:10.63,0:20:12.92,Dialogue,,0,0,90,,Along with... Mother's voice.
-Dialogue: 0,0:20:14.83,0:20:17.50,Dialogue,,0,0,90,,I ask you, please...
-Dialogue: 0,0:20:18.72,0:20:19.88,Dialogue,,0,0,90,,Protect...
-Dialogue: 0,0:20:20.48,0:20:24.23,Dialogue,,0,0,90,,Please protect... Onee-chan.
-Dialogue: 0,0:20:26.89,0:20:29.18,Dialogue,,0,0,90,,But, Asu, you and Mother...
-Dialogue: 0,0:20:29.18,0:20:31.72,Dialogue,,0,0,90,,Yes. I don't remember her at all.
-Dialogue: 0,0:20:31.82,0:20:34.34,Dialogue,,0,0,90,,But I think I've heard this many times.
-Dialogue: 0,0:20:34.74,0:20:37.34,Dialogue,,0,0,90,,That's why I've promised.
-Dialogue: 0,0:20:38.12,0:20:39.86,Dialogue,,0,0,90,,Yes. I will.
-Dialogue: 0,0:20:40.14,0:20:42.26,Dialogue,,0,0,90,,I will protect Onee-chan.
-Dialogue: 0,0:20:51.29,0:20:53.54,Dialogue,,0,0,90,,Mother, it's all right now.
-Dialogue: 0,0:20:54.10,0:20:57.42,Dialogue,,0,0,90,,We can keep this promise.
-Dialogue: 0,0:21:00.61,0:21:04.33,Dialogue,,0,0,90,,A beaten up 40 year old apartment with one room and no bath.
+Dialogue: 0,0:20:10.63,0:20:12.92,Dialogue,,0,0,90,,Along with Mom's voice.{these are fragments. DO I LOOK LIKE I GIVE A FUCK}
+Dialogue: 0,0:20:14.83,0:20:17.50,Dialogue,,0,0,90,derp,I ask you, please...
+Dialogue: 0,0:20:18.72,0:20:19.88,Dialogue,,0,0,90,derp,Protect... Your big sister.{idk this is probably supposed to be broken english anyway but fuck that shitniggersidon'tgiveafucksofuckthatshityoufuckingfaggots}
+Dialogue: 0,0:20:20.48,0:20:22.13,Dialogue,,0,0,90,,Your big sister...
+Dialogue: 0,0:20:22.51,0:20:23.91,Dialogue,,0,0,0,,Please protect her, she said.
+Dialogue: 0,0:20:26.89,0:20:29.18,Dialogue,,0,0,90,,But, Asu, Mom...
+Dialogue: 0,0:20:29.18,0:20:34.34,Dialogue,,0,0,90,,No, I don't remember this{her} at all, but I get the feeling that that was what I heard.
+Dialogue: 0,0:20:34.74,0:20:37.34,Dialogue,,0,0,90,,That's why I've promised!
+Dialogue: 0,0:20:38.12,0:20:39.86,Dialogue,,0,0,90,,Yes! I'll protect her!
+Dialogue: 0,0:20:40.14,0:20:42.26,Dialogue,,0,0,90,,I will protect Onee-chan!
+Dialogue: 0,0:20:51.29,0:20:53.54,Dialogue-italic,,0,0,90,,Mother, it's all right.
+Dialogue: 0,0:20:54.10,0:20:57.42,Dialogue-italic,,0,0,90,,We're keeping our promises.
+Dialogue: 0,0:21:00.61,0:21:04.33,Dialogue,,0,0,90,,This is a 40-year-old, one-room, dilapidated apartment with no bath.
 Dialogue: 0,0:21:04.92,0:21:07.37,Dialogue,,0,0,90,,This is our home.
 Dialogue: 0,0:21:08.15,0:21:10.55,Dialogue,,0,0,90,,But, when spring comes...
-Dialogue: 0,0:21:14.49,0:21:16.17,Dialogue,,0,0,90,,Onee-chan, look!
-Dialogue: 0,0:21:16.17,0:21:18.33,Dialogue,,0,0,90,,Wow, they've bloomed!
-Dialogue: 0,0:21:23.65,0:21:26.72,Dialogue,,0,0,90,,We're really fortunate right now.
-Dialogue: 0,0:21:29.66,0:21:31.42,Dialogue,,0,0,90,,Onee-chan, oh no!
-Dialogue: 0,0:21:31.67,0:21:33.98,Dialogue,,0,0,90,,The whole room is covered with cherry blossoms!
+Dialogue: 0,0:21:14.49,0:21:16.17,Dialogue,,0,0,90,,Wow! Onee-chan, look, look!
+Dialogue: 0,0:21:16.17,0:21:18.33,Dialogue,,0,0,90,,Wow, they're in full bloom!
+Dialogue: 0,0:21:23.65,0:21:26.72,Dialogue-italic,,0,0,90,,We're very happy together!
+Dialogue: 0,0:21:29.66,0:21:31.42,Dialogue,,0,0,90,,Onee-chan, this is bad! Really bad!
+Dialogue: 0,0:21:31.67,0:21:33.98,Dialogue,,0,0,90,,The sakura-viewing has come inside!{has come to us}
 Dialogue: 0,0:21:32.98,0:21:34.98,Dialogue,,0,0,90,,
