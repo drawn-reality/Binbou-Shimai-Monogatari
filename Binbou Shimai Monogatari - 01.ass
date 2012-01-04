@@ -4,21 +4,12 @@
 ScriptType: v4.00+
 Collisions: Normal
 PlayResY: 476
-PlayDepth: 0
-Timer: 100.0000
-Kerning: yes
-Video Zoom: 6
-Video Zoom Percent: 1.000000
 PlayResX: 712
+Kerning: yes
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-Last Style Storage: Binbou Shimai Monogatari
 Title: Binbou Shimai Monogatari - 01
-Audio URI: C:\@projects\git\Binbou Shimai Monogatari\[drawn-reality] Binbou Shimai Monogatari - 01 [BB00A824].mkv
-Video File: [drawn-reality] Binbou Shimai Monogatari - 01 [BB00A824].mkv
-Video Aspect Ratio: 0
-Video Position: 33228
-Original Script: drawn-reality LLC INC. LTD.
+Script Updated By: drawn-reality LLC INC. LTD.
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -326,9 +317,10 @@ Dialogue: 0,0:22:58.56,0:22:59.69,Dialogue,,0,0,0,,The dark lord of riches!
 Dialogue: 0,0:23:00.09,0:23:02.02,Dialogue,,0,0,0,,Eh? The landlord hasn’t come yet, has he?
 Dialogue: 0,0:23:02.02,0:23:03.32,Dialogue,,0,0,0,,I wonder what happened.
 Dialogue: 0,0:23:03.75,0:23:05.60,Dialogue,,0,0,0,,Poor Sisters’ Story:{melody uses translated: Poor Sisters’ Story}{WHY WOULD YOU TRNASLATE THE TITLE OF A SHOW!?!?111 NOBODY DOES TAHT... this could be a prime opportunity for a TRANSLATOR’S NOTE!!!1}
-Dialogue: 0,0:23:05.60,0:23:08.53,Dialogue,,0,0,0,,A Day of the Landlord, Watermelons, and a Visit.{orig: A Day with the Owner, his Sickness, and the Watermelon}
+Dialogue: 0,0:23:05.60,0:23:08.53,Dialogue,,0,0,0,,A Day of the Landlord, Watermelons, and a Hospital Visit.{orig: A Day with the Owner, his Sickness, and the Watermelon}
 Dialogue: 0,0:23:08.53,0:23:10.02,Dialogue,,0,0,0,,Please watch it!{melo: Hope you watch again.}
-Dialogue: 0,0:22:56.02,0:22:57.48,generic sign style,,0,0,0,,{\b1\fs25\c&H9A566C&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
+Dialogue: 0,0:22:56.02,0:22:56.06,generic sign style,,0,0,0,,{\b1\fs25\c&H9A566C&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
+Dialogue: 0,0:22:56.06,0:22:57.48,generic sign style,,0,0,0,,{\b1\fs25\c&H9A566C&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:17.99,0:02:18.03,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(241.0,320.87)\alpha&HFF&\t(22,439,\alpha&H00)\fscx82.3\fscy100.0}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:17.99,0:02:18.03,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(241.0,320.87)\alpha&HFF&\t(22,439,\alpha&H00)\fscx82.3\fscy100.0}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:18.03,0:02:18.07,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(243.7,320.29)\fscx81.94\fscy99.56\alpha&HFF&\t(-18,399,\alpha&H00)}Binbou   Shimai Monogatari
