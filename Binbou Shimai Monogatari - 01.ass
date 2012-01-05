@@ -51,8 +51,8 @@ Dialogue: 0,0:06:19.48,0:06:21.98,generic sign style,,0,0,0,,{\fs25\fnmegaderp\f
 Comment: 0,0:07:05.86,0:07:06.86,generic sign style,,0,0,0,,
 Comment: 0,0:07:14.99,0:07:18.70,generic sign style,,0,0,0,,Yamada
 Comment: 0,0:09:23.95,0:09:25.66,generic sign style,,0,0,0,,
-Dialogue: 0,0:10:01.95,0:10:10.00,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\frz8.5\pos(129.03,68.544)}The Yamada family{\fsp-5}'{\fsp}s slightly\Nluxurious dandelion coffee
-Dialogue: 0,0:10:10.00,0:10:18.47,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\frz8.5\pos(110.617,78.494)}A bargain sale,\Nsuch a glorious sight
+Dialogue: 0,0:10:01.95,0:10:10.00,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\frz8.5\pos(129.03,68.544)}The Yamada family{\fsp-5}'{\fsp}s slightly\Nluxurious dandelion coffee.
+Dialogue: 0,0:10:10.00,0:10:18.47,generic sign style,,0,0,0,,{\c&H343434&\fnmegaderp\fs20\blur0.2\frz8.5\pos(110.617,78.494)}A bargain sale,\Nsuch a glorious sight.
 Dialogue: 0,0:10:10.00,0:10:18.47,generic sign style,,0,0,0,,{\c&H7A7A7A&\fs20\blur0.2\frz8.5\frz-12\fax-0.2\b1\bord1.5\3c&H0B0B0B&\pos(346.677,300.747)}Bargain Sale
 Comment: 0,0:11:36.96,0:11:39.97,generic sign style,,0,0,0,,
 Comment: 0,0:13:47.51,0:13:54.35,generic sign style,,0,0,0,,
@@ -258,7 +258,7 @@ Dialogue: 0,0:16:57.31,0:16:59.95,Dialogue,,0,0,0,,Huh? Kyou-chan?
 Dialogue: 0,0:17:01.57,0:17:05.06,Dialogue-italic,,0,0,0,,Asu wanted to enjoy the festival with me,
 Dialogue: 0,0:17:05.41,0:17:09.21,Dialogue-italic,,0,0,0,,but I didn’t understand her feelings.
 Dialogue: 0,0:17:09.60,0:17:10.92,Dialogue-italic,,0,0,0,,Her feelings.{orig: I threw her feelings away... <- way too long for the spoken line. I concur.}
-Dialogue: 0,0:17:13.20,0:17:16.64,Dialogue-italic,,0,0,0,,I promised Mother that I’d take good care of Asu.
+Dialogue: 0,0:17:13.20,0:17:16.64,Dialogue-italic,,0,0,0,,I promised Mom that I’d take good care of Asu.
 Dialogue: 0,0:17:17.39,0:17:18.62,Dialogue-italic,,0,0,0,,I promised he{\fsp-1}r{\fsp}.
 Dialogue: 0,0:17:23.77,0:17:25.06,Dialogue,,0,0,0,,Excuse me.
 Dialogue: 0,0:17:25.98,0:17:27.22,Dialogue,,0,0,0,,Please let me through.
@@ -319,8 +319,8 @@ Dialogue: 0,0:23:02.02,0:23:03.32,Dialogue,,0,0,0,,I wonder what happened.
 Dialogue: 0,0:23:03.75,0:23:05.60,Dialogue,,0,0,0,,Poor Sisters’ Story:{melody uses translated: Poor Sisters’ Story}{WHY WOULD YOU TRNASLATE THE TITLE OF A SHOW!?!?111 NOBODY DOES TAHT... this could be a prime opportunity for a TRANSLATOR’S NOTE!!!1}
 Dialogue: 0,0:23:05.60,0:23:08.53,Dialogue,,0,0,0,,A Day of the Landlord, Watermelons, and a Hospital Visit.{orig: A Day with the Owner, his Sickness, and the Watermelon}
 Dialogue: 0,0:23:08.53,0:23:10.02,Dialogue,,0,0,0,,Please watch it!{melo: Hope you watch again.}
-Dialogue: 0,0:22:56.02,0:22:56.06,generic sign style,,0,0,0,,{\b1\fs25\c&H9A566C&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
-Dialogue: 0,0:22:56.06,0:22:57.48,generic sign style,,0,0,0,,{\b1\fs25\c&H9A566C&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
+Dialogue: 0,0:22:56.02,0:22:56.06,generic sign style,,0,0,0,,{\b1\fs25\c&H9A566C&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,304)}Binbou   Shimai Monogatari
+Dialogue: 0,0:22:56.06,0:22:57.48,generic sign style,,0,0,0,,{\b1\fs25\c&H9A566C&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,304)}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:17.99,0:02:18.03,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(241.0,320.87)\alpha&HFF&\t(22,439,\alpha&H00)\fscx82.3\fscy100.0}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:17.99,0:02:18.03,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(241.0,320.87)\alpha&HFF&\t(22,439,\alpha&H00)\fscx82.3\fscy100.0}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:18.03,0:02:18.07,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(243.7,320.29)\fscx81.94\fscy99.56\alpha&HFF&\t(-18,399,\alpha&H00)}Binbou   Shimai Monogatari
