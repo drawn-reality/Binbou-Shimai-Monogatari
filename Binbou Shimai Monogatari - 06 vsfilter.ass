@@ -376,17 +376,17 @@ Dialogue: 0,0:23:05.04,0:23:07.65,Dialogue,,0,0,0,,“A day of Jealous{\fsp-1}y{
 Dialogue: 0,0:23:07.65,0:23:09.16,Dialogue,,0,0,0,,Please watch it!
 Dialogue: 0,0:22:56.02,0:22:56.06,generic sign style,,0,0,0,,{\b1\fs25\c&H8E5368&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
 Dialogue: 0,0:22:56.06,0:22:57.48,generic sign style,,0,0,0,,{\b1\fs25\c&H8E5368&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
-Dialogue: 0,0:01:09.04,0:01:13.87,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even though we can’t return to our memories,
-Dialogue: 0,0:01:13.87,0:01:18.33,OP - EngLyrics,,0,0,0,,{\fade(250,500)}let’s seize today and search for tomorrow.
-Dialogue: 0,0:01:28.32,0:01:37.36,OP - EngLyrics,,0,0,0,,{\fade(250,500)}I may be by myself, but I’m not alone.
-Dialogue: 0,0:01:37.36,0:01:46.74,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even if it’s only the two of us, we’re not alone.
-Dialogue: 0,0:01:46.76,0:01:56.15,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even when I’m on the verge of tears,
-Dialogue: 0,0:01:56.15,0:02:05.34,OP - EngLyrics,,0,0,0,,{\fade(250,500)}can I still smile and take a deep breath?
-Dialogue: 0,0:02:05.34,0:02:10.26,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even though we can’t return to our memories,
-Dialogue: 0,0:02:10.26,0:02:15.01,OP - EngLyrics,,0,0,0,,{\fade(250,500)}let’s seize today and search for tomorrow.
-Dialogue: 0,0:02:15.01,0:02:19.64,OP - EngLyrics,,0,0,0,,{\fade(250,500)}That unreachable jewel
-Dialogue: 0,0:02:19.64,0:02:24.50,OP - EngLyrics,,0,0,0,,{\fade(250,500)}is there within your heart.
-Dialogue: 0,0:02:24.50,0:02:29.16,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Face the oncoming wind and take a deep breath.
+Dialogue: 0,0:01:09.04,0:01:13.87,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even though we can’t return to our memories,
+Dialogue: 0,0:01:13.87,0:01:18.33,OP - EngLyrics,,0,0,0,,{\fad(250,500)}let’s seize today and search for tomorrow.
+Dialogue: 0,0:01:28.32,0:01:37.36,OP - EngLyrics,,0,0,0,,{\fad(250,500)}I may be by myself, but I’m not alone.
+Dialogue: 0,0:01:37.36,0:01:46.74,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even if it’s only the two of us, we’re not alone.
+Dialogue: 0,0:01:46.76,0:01:56.15,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even when I’m on the verge of tears,
+Dialogue: 0,0:01:56.15,0:02:05.34,OP - EngLyrics,,0,0,0,,{\fad(250,500)}can I still smile and take a deep breath?
+Dialogue: 0,0:02:05.34,0:02:10.26,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even though we can’t return to our memories,
+Dialogue: 0,0:02:10.26,0:02:15.01,OP - EngLyrics,,0,0,0,,{\fad(250,500)}let’s seize today and search for tomorrow.
+Dialogue: 0,0:02:15.01,0:02:19.64,OP - EngLyrics,,0,0,0,,{\fad(250,500)}That unreachable jewel
+Dialogue: 0,0:02:19.64,0:02:24.50,OP - EngLyrics,,0,0,0,,{\fad(250,500)}is there within your heart.
+Dialogue: 0,0:02:24.50,0:02:29.16,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Face the oncoming wind and take a deep breath.
 Dialogue: 0,0:01:09.04,0:01:13.87,OP - Romaji,,0,0,0,,{\fad(200,200)}{\k38}{\k28}O{\k31}mo{\k24}i{\k36}de {\k50}ni {\k37}mo{\k25}do{\k31}re {\k29}na{\k54}i {\k36}ka{\k56}ra
 Dialogue: 0,0:01:13.87,0:01:18.33,OP - Romaji,,0,0,0,,{\fad(200,200)}{\k16}{\k37}Kyo{\k22}u {\k39}wo {\k25}i{\k40}ki {\k13}{\k39}asu {\k25}wo {\k32}tsu{\k29}ka{\k111}mou
 Dialogue: 0,0:01:28.32,0:01:37.36,OP - Romaji,,0,0,0,,{\fad(200,200)}{\k20}{\k24}Hi{\k34}to{\k31}ri{\k119}bo{\k58}cchi {\k116}mo {\k29}hi{\k33}to{\k57}ri{\k34}ki{\k49}ri {\k38}ja{\k231}nai
@@ -409,20 +409,20 @@ Dialogue: 0,0:02:10.26,0:02:15.01,OP - Kanji,,0,0,0,,{\fad(200,200)}{\k23}{\k37}
 Dialogue: 0,0:02:15.01,0:02:19.64,OP - Kanji,,0,0,0,,{\fad(200,200)}{\k27}{\k30}か{\k28}け{\k30}が{\k32}え{\k34}の{\k19}{\k35}な{\k55}い{\k116}君{\k56}の
 Dialogue: 0,0:02:19.64,0:02:24.50,OP - Kanji,,0,0,0,,{\fad(200,200)}{\k25}{\k57}宝{\k76}石{\k50}は{\k64}心{\k28}に{\k29}あ{\k145}る
 Dialogue: 0,0:02:24.50,0:02:29.16,OP - Kanji,,0,0,0,,{\fad(200,200)}{\k16}{\k20}向{\k19}か{\k22}い{\k67}風{\k33}に{\k77}深{\k31}呼{\k178}吸
-Dialogue: 0,0:21:45.74,0:21:50.41,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Even when everyday talk
-Dialogue: 0,0:21:50.16,0:21:55.00,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}gets interrupted,
-Dialogue: 0,0:21:54.75,0:21:59.46,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}all I need is you by my side,
-Dialogue: 0,0:21:59.21,0:22:02.80,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}so I feel safe and sound.
-Dialogue: 0,0:22:03.92,0:22:08.55,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}That kind face of yours
-Dialogue: 0,0:22:08.30,0:22:12.64,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}is just like a gentle wind.
-Dialogue: 0,0:22:12.39,0:22:16.89,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}We tightly hold each other’s hands,
-Dialogue: 0,0:22:16.64,0:22:21.86,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}and run up that hilly path together.
-Dialogue: 0,0:22:21.61,0:22:25.86,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Tomorrow will definitely be another happy day.
-Dialogue: 0,0:22:25.61,0:22:30.83,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Let us walk shoulder to shoulder.
-Dialogue: 0,0:22:30.57,0:22:34.91,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}I tightly hold on to that flowing wind,
-Dialogue: 0,0:22:34.66,0:22:39.63,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}in order to spread my arms out and give it to you.
-Dialogue: 0,0:22:39.38,0:22:43.80,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}We tightly hold each other’s hands tomorrow and the day after that.
-Dialogue: 0,0:22:43.55,0:22:50.89,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Shoulder to shoulder, let us walk ahead together.
+Dialogue: 0,0:21:45.74,0:21:50.41,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Even when everyday talk
+Dialogue: 0,0:21:50.16,0:21:55.00,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}gets interrupted,
+Dialogue: 0,0:21:54.75,0:21:59.46,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}all I need is you by my side,
+Dialogue: 0,0:21:59.21,0:22:02.80,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}so I feel safe and sound.
+Dialogue: 0,0:22:03.92,0:22:08.55,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}That kind face of yours
+Dialogue: 0,0:22:08.30,0:22:12.64,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}is just like a gentle wind.
+Dialogue: 0,0:22:12.39,0:22:16.89,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}We tightly hold each other’s hands,
+Dialogue: 0,0:22:16.64,0:22:21.86,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}and run up that hilly path together.
+Dialogue: 0,0:22:21.61,0:22:25.86,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Tomorrow will definitely be another happy day.
+Dialogue: 0,0:22:25.61,0:22:30.83,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Let us walk shoulder to shoulder.
+Dialogue: 0,0:22:30.57,0:22:34.91,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}I tightly hold on to that flowing wind,
+Dialogue: 0,0:22:34.66,0:22:39.63,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}in order to spread my arms out and give it to you.
+Dialogue: 0,0:22:39.38,0:22:43.80,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}We tightly hold each other’s hands tomorrow and the day after that.
+Dialogue: 0,0:22:43.55,0:22:50.89,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Shoulder to shoulder, let us walk ahead together.
 Dialogue: 0,0:21:45.95,0:21:50.37,ED - Romaji - vsfilter,,0,0,0,,{\fad(200,200)}{\k32}{\k30}Ta{\k26}a{\k16}i {\k36}na{\k33}i {\k20}o{\k37}sha{\k79}be{\k27}ri {\k75}ga{\k33}
 Dialogue: 0,0:21:50.37,0:21:54.96,ED - Romaji - vsfilter,,0,0,0,,{\fad(200,200)}{\k37}{\k27}Fu{\k29}i {\k16}ni {\k39}to{\k30}gi{\k28}re {\k28}ta {\k86}to{\k19}ki {\k100}mo{\k18}
 Dialogue: 0,0:21:54.96,0:21:59.42,ED - Romaji - vsfilter,,0,0,0,,{\fad(200,200)}{\k23}{\k29}Ko{\k23}u{\k23}shi{\k33}te {\k36}so{\k29}ba {\k29}ni {\k55}i{\k38}ru {\k29}da{\k19}ke{\k33}de{\k45}

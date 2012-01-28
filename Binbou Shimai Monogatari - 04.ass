@@ -680,17 +680,17 @@ Dialogue: 0,0:02:55.11,0:02:55.15,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185
 Dialogue: 0,0:02:55.15,0:02:55.19,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(295.4,317.36)\fscx75.5\fscy91.74\t(-1392,109,\alpha&HFF&\c&H59A4B4&\3c&H69C4D4&)}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:55.19,0:02:55.23,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(295.5,317.36)\fscx75.5\fscy91.73\t(-1432,69,\alpha&HFF&\c&H59A4B4&\3c&H69C4D4&)}Binbou   Shimai Monogatari
 Dialogue: 0,0:02:55.23,0:02:55.28,generic sign style,,0,0,0,,{\b1\fs33\c&HAC7185&\fsp9\bord1.7\blur1\3c&HFFFFFF&\pos(295.5,317.36)\fscx75.48\fscy91.72\t(-1472,29,\alpha&HFF&\c&H59A4B4&\3c&H69C4D4&)}Binbou   Shimai Monogatari
-Dialogue: 0,0:02:35.00,0:02:39.83,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even though we can’t return to our memories,
-Dialogue: 0,0:02:39.83,0:02:44.29,OP - EngLyrics,,0,0,0,,{\fade(250,500)}let’s seize today and search for tomorrow.
-Dialogue: 0,0:02:54.28,0:03:03.32,OP - EngLyrics,,0,0,0,,{\fade(250,500)}I may be by myself, but I’m not alone.
-Dialogue: 0,0:03:03.32,0:03:12.70,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even if it’s only the two of us, we’re not alone.
-Dialogue: 0,0:03:12.72,0:03:22.11,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even when I’m on the verge of tears,
-Dialogue: 0,0:03:22.11,0:03:31.30,OP - EngLyrics,,0,0,0,,{\fade(250,500)}can I still smile and take a deep breath?
-Dialogue: 0,0:03:31.30,0:03:36.22,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Even though we can’t return to our memories,
-Dialogue: 0,0:03:36.22,0:03:40.97,OP - EngLyrics,,0,0,0,,{\fade(250,500)}let’s seize today and search for tomorrow.
-Dialogue: 0,0:03:40.97,0:03:45.60,OP - EngLyrics,,0,0,0,,{\fade(250,500)}That unreachable jewel
-Dialogue: 0,0:03:45.60,0:03:50.46,OP - EngLyrics,,0,0,0,,{\fade(250,500)}is there within your heart.
-Dialogue: 0,0:03:50.46,0:03:55.12,OP - EngLyrics,,0,0,0,,{\fade(250,500)}Face the oncoming wind and take a deep breath.
+Dialogue: 0,0:02:35.00,0:02:39.83,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even though we can’t return to our memories,
+Dialogue: 0,0:02:39.83,0:02:44.29,OP - EngLyrics,,0,0,0,,{\fad(250,500)}let’s seize today and search for tomorrow.
+Dialogue: 0,0:02:54.28,0:03:03.32,OP - EngLyrics,,0,0,0,,{\fad(250,500)}I may be by myself, but I’m not alone.
+Dialogue: 0,0:03:03.32,0:03:12.70,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even if it’s only the two of us, we’re not alone.
+Dialogue: 0,0:03:12.72,0:03:22.11,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even when I’m on the verge of tears,
+Dialogue: 0,0:03:22.11,0:03:31.30,OP - EngLyrics,,0,0,0,,{\fad(250,500)}can I still smile and take a deep breath?
+Dialogue: 0,0:03:31.30,0:03:36.22,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Even though we can’t return to our memories,
+Dialogue: 0,0:03:36.22,0:03:40.97,OP - EngLyrics,,0,0,0,,{\fad(250,500)}let’s seize today and search for tomorrow.
+Dialogue: 0,0:03:40.97,0:03:45.60,OP - EngLyrics,,0,0,0,,{\fad(250,500)}That unreachable jewel
+Dialogue: 0,0:03:45.60,0:03:50.46,OP - EngLyrics,,0,0,0,,{\fad(250,500)}is there within your heart.
+Dialogue: 0,0:03:50.46,0:03:55.12,OP - EngLyrics,,0,0,0,,{\fad(250,500)}Face the oncoming wind and take a deep breath.
 Dialogue: 0,0:02:34.50,0:02:35.50,OP - Romaji,,0,0,0,,{\pos(249.852,30)\an5\alpha&HFF&\t(-38,200,\alpha&H00&)\t(161,500,\alpha&H4B&\c&H5F56A1&\blur2)}
 Dialogue: 0,0:02:35.00,0:02:39.83,OP - Romaji,,0,0,0,,{\pos(249.852,30)\an5\alpha&HFF&\k0\k0\blur2\t(500,501,\alpha&H4B&)\t(0,1,\alpha&H00&\blur0)\t(0,0,\blur2)\t(-1,0,\alpha&H4B&)\t(4329,4330,\alpha&HFF&)}
 Dialogue: 0,0:02:39.33,0:02:39.83,OP - Romaji,,0,0,0,,{\pos(249.852,30)\an5\alpha&H00&\t(-4330,-4329,\alpha&H00&\blur0)\t(-4330,-4330,\blur2)\t(-4331,-4330,\alpha&H4B&)\t(-19,250,\alpha&HFF&)}
@@ -1591,20 +1591,20 @@ Dialogue: 0,0:03:54.62,0:03:55.12,OP - Kanji,,0,0,0,,{\pos(400.526,55)\an5\alpha
 Dialogue: 0,0:03:49.96,0:03:50.96,OP - Kanji,,0,0,0,,{\pos(418.336,55)\an5\alpha&HFF&\t(444,1200,\alpha&H00&)\t(644,1000,\alpha&H4B&\c&HB4768D&\blur2)}吸
 Dialogue: 0,0:03:50.46,0:03:55.12,OP - Kanji,,0,0,0,,{\pos(418.336,55)\an5\alpha&HFF&\k285\k178\blur2\t(500,501,\alpha&H4B&)\t(2850,2851,\alpha&H00&\blur0)\t(2850,4630,\blur2)\t(4629,4630,\alpha&H4B&)\t(4159,4160,\alpha&HFF&)}吸
 Dialogue: 0,0:03:54.62,0:03:55.12,OP - Kanji,,0,0,0,,{\pos(418.336,55)\an5\alpha&H00&\t(-1310,-1309,\alpha&H00&\blur0)\t(-1310,470,\blur2)\t(469,470,\alpha&H4B&)\t(222,500,\alpha&HFF&)}吸
-Dialogue: 0,0:21:45.74,0:21:50.43,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Even when everyday talk
-Dialogue: 0,0:21:50.18,0:21:55.01,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}gets interrupted,
-Dialogue: 0,0:21:54.76,0:21:59.46,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}all I need is you by my side,
-Dialogue: 0,0:21:59.21,0:22:02.82,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}so I feel safe and sound.
-Dialogue: 0,0:22:03.94,0:22:08.56,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}That kind face of yours
-Dialogue: 0,0:22:08.31,0:22:12.65,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}is just like a gentle wind.
-Dialogue: 0,0:22:12.40,0:22:16.89,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}We tightly hold each other’s hands,
-Dialogue: 0,0:22:16.64,0:22:21.85,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}and run up that hilly path together.
-Dialogue: 0,0:22:21.60,0:22:25.88,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Tomorrow will definitely be another happy day.
-Dialogue: 0,0:22:25.63,0:22:30.84,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Let us walk shoulder to shoulder.
-Dialogue: 0,0:22:30.59,0:22:34.93,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}I tightly hold on to that flowing wind,
-Dialogue: 0,0:22:34.68,0:22:39.64,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}in order to spread my arms out and give it to you.
-Dialogue: 0,0:22:39.39,0:22:43.82,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}We tightly hold each other’s hands tomorrow and the day after that.
-Dialogue: 0,0:22:43.57,0:22:50.87,ED - EngLyrics,,0,0,0,,{\fade(250,500)\pos(356,458)}Shoulder to shoulder, let us walk ahead together.
+Dialogue: 0,0:21:45.74,0:21:50.43,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Even when everyday talk
+Dialogue: 0,0:21:50.18,0:21:55.01,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}gets interrupted,
+Dialogue: 0,0:21:54.76,0:21:59.46,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}all I need is you by my side,
+Dialogue: 0,0:21:59.21,0:22:02.82,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}so I feel safe and sound.
+Dialogue: 0,0:22:03.94,0:22:08.56,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}That kind face of yours
+Dialogue: 0,0:22:08.31,0:22:12.65,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}is just like a gentle wind.
+Dialogue: 0,0:22:12.40,0:22:16.89,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}We tightly hold each other’s hands,
+Dialogue: 0,0:22:16.64,0:22:21.85,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}and run up that hilly path together.
+Dialogue: 0,0:22:21.60,0:22:25.88,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Tomorrow will definitely be another happy day.
+Dialogue: 0,0:22:25.63,0:22:30.84,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Let us walk shoulder to shoulder.
+Dialogue: 0,0:22:30.59,0:22:34.93,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}I tightly hold on to that flowing wind,
+Dialogue: 0,0:22:34.68,0:22:39.64,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}in order to spread my arms out and give it to you.
+Dialogue: 0,0:22:39.39,0:22:43.82,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}We tightly hold each other’s hands tomorrow and the day after that.
+Dialogue: 0,0:22:43.57,0:22:50.87,ED - EngLyrics,,0,0,0,,{\fad(250,500)\pos(356,458)}Shoulder to shoulder, let us walk ahead together.
 Dialogue: 0,0:21:45.49,0:21:45.99,ED - Romaji,,0,0,0,,{\pos(274.89591886759,30)\an5\fscx0\fscy0\c&HDEDEDE&\t(-20.833333333333,250,\fscx82.3\fscy100)}
 Dialogue: 0,0:21:45.99,0:21:50.41,ED - Romaji,,0,0,0,,{\pos(274.89591886759,30)\an5\k0\k0\c&HDEDEDE&\t(-1000,0,\3c&H9B413D&)\t(0,1,\3c&H000000&)\t(-1,0,\3c&H9B413D&)\t(0,1000,\3c&H4A5011&)\t(3939,3940,\alpha&HFF&)}
 Dialogue: 0,0:21:49.91,0:21:50.41,ED - Romaji,,0,0,0,,{\pos(274.89591886759,30)\c&HDEDEDE&\3c&H9B413D&\an5\fscx82.3\fscy100\t(-20.833333333333,250,\fscx0\fscy0)\t(-4940,-3940,\3c&H9B413D&)\t(-3940,-3939,\3c&H000000&)\t(-3941,-3940,\3c&H9B413D&)\t(-3940,-2940,\3c&H4A5011&)}
