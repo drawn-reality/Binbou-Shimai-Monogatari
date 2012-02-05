@@ -5,7 +5,6 @@ ScriptType: v4.00+
 Collisions: Normal
 PlayResY: 476
 PlayResX: 712
-Kerning: yes
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Title: Binbou Shimai Monogatari - 09
@@ -391,7 +390,7 @@ Dialogue: 0,0:21:20.67,0:21:23.80,Dialogue-italic,,0,0,0,,Just buying it the nor
 Dialogue: 0,0:22:57.42,0:23:00.18,Dialogue,,0,0,0,,Asu, do you remember anything about mom?
 Dialogue: 0,0:23:00.18,0:23:03.23,Dialogue,,0,0,0,,I remember we made a promise.
 Dialogue: 0,0:23:04.00,0:23:05.86,Dialogue,,0,0,0,,Poor Sisters’ Story:
-Dialogue: 0,0:23:05.86,0:23:08.45,Dialogue,,0,0,0,,A Day of Colds, Promises, and Mother
+Dialogue: 0,0:23:05.86,0:23:08.45,Dialogue,,0,0,0,,“A Day of Colds, Promises, and Mother”.
 Dialogue: 0,0:23:08.44,0:23:10.28,Dialogue,,0,0,0,,Please watch it!
 Dialogue: 0,0:22:55.97,0:22:56.02,generic sign style,,0,0,0,,{\b1\fs25\c&H8E5368&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
 Dialogue: 0,0:22:56.02,0:22:57.42,generic sign style,,0,0,0,,{\b1\fs25\c&H8E5368&\fsp7\bord1.3\blur1\3c&HFFFFFF&\pos(280,308)}Binbou   Shimai Monogatari
@@ -2167,4 +2166,3 @@ Dialogue: 0,0:22:50.34,0:22:50.89,ED - Kanji,,0,0,0,,{\pos(436.19749516129,70)\c
 Dialogue: 0,0:22:43.30,0:22:43.80,ED - Kanji,,0,0,0,,{\pos(454.05916769862,70)\an5\fscx0\fscy0\c&HDEDEDE&\t(211.53846153846,480.76923076923,\fscx82.3\fscy100)}う
 Dialogue: 0,0:22:43.80,0:22:50.89,ED - Kanji,,0,0,0,,{\pos(454.05916769862,70)\an5\k507\k179\c&HDEDEDE&\t(4070,5070,\3c&H9B413D&)\t(5070,5071,\3c&H000000&)\t(6859,6860,\3c&H9B413D&)\t(6860,7860,\3c&H4A5011&)\t(6549,6550,\alpha&HFF&)}う
 Dialogue: 0,0:22:50.34,0:22:50.89,ED - Kanji,,0,0,0,,{\pos(454.05916769862,70)\c&HDEDEDE&\3c&H9B413D&\an5\fscx82.3\fscy100\t(211.53846153846,480.76923076923,\fscx0\fscy0)\t(-2480,-1480,\3c&H9B413D&)\t(-1480,-1479,\3c&H000000&)\t(309,310,\3c&H9B413D&)\t(310,1310,\3c&H4A5011&)}う
-Dialogue: 0,0:23:10.28,0:23:12.28,Dialogue,,0,0,0,,

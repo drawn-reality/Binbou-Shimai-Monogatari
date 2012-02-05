@@ -5,7 +5,6 @@ ScriptType: v4.00+
 Collisions: Normal
 PlayResY: 476
 PlayResX: 712
-Kerning: yes
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Title: Binbou Shimai Monogatari - 02
@@ -431,4 +430,3 @@ Dialogue: 0,0:22:30.78,0:22:34.87,ED - Kanji - vsfilter,,0,0,0,,{\fad(200,200)}{
 Dialogue: 0,0:22:34.87,0:22:39.58,ED - Kanji - vsfilter,,0,0,0,,{\fad(200,200)}{\k44}{\k52}両{\k29}手{\k30}ひ{\k40}ろ{\k42}げ{\k79}届{\k60}け{\k53}た{\k35}い
 Dialogue: 0,0:22:39.58,0:22:43.75,ED - Kanji - vsfilter,,0,0,0,,{\fad(200,200)}{\k22}{\k29}ぎゅ{\k27}っと{\k23}ぎゅ{\k21}っと{\k67}明{\k31}日{\k22}も{\k33}明{\k51}後{\k18}日{\k35}も{\k39}
 Dialogue: 0,0:22:43.75,0:22:50.80,ED - Kanji - vsfilter,,0,0,0,,{\fad(200,200)}{\k53}{\k57}並{\k28}ん{\k30}で{\k42}ゆ{\k69}こう{\k48}一{\k32}緒{\k31}に{\k54}行{\k63}こ{\k179}う{\k18}
-Dialogue: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,
